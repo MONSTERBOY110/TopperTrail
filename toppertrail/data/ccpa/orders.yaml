@@ -1,0 +1,686 @@
+orders:
+- id: VAJIRAM_RAVI_CSE2023
+  institute: Vajiram and Ravi IAS Study Centre LLP
+  domain: vajiramandravi.com
+  exam: UPSC CSE
+  exam_year: 2023
+  order_date: '2026-05-29'
+  penalty_inr: 700000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/29052026_Vajiram%20%26%20Ravi.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2266932
+  claims:
+  - text: 8 Rank Holders in the Top 10 are from Vajiram & Ravi
+    expected:
+    - TT-11
+  - text: 37 Rank Holders in the Top 50 are from Vajiram & Ravi.
+    expected:
+    - TT-11
+  - text: 'Fact: Every year, more than 30% of the officers selected through UPSC Civil Services Examination are students of
+      Vajiram & Ravi.'
+    expected:
+    - TT-11
+- id: VISION_IAS_CSE2022_2023
+  institute: Vision IAS (AjayVision Education Pvt Ltd)
+  domain: visionias.in
+  exam: UPSC CSE
+  exam_year:
+  - 2022
+  - 2023
+  order_date: '2025-12-18'
+  penalty_inr: 1100000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1766050300-Vision_IAS_Final_Order__3_.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2208482
+  claims:
+  - text: 7 in Top 10 & 79 in Top 100 SELECTIONS IN CSE 2023
+    expected:
+    - TT-11
+  - text: 39 in Top 50 SELECTIONS IN CSE 2022
+    expected:
+    - TT-11
+- id: VISION_IAS_CSE2020
+  institute: Vision IAS
+  domain: visionias.in
+  exam: UPSC CSE
+  exam_year: 2020
+  order_date: '2025-01-22'
+  penalty_inr: 300000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1737612044-Vision%20IAS%20Final%20Order%20Dated%2022.01.2025.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2096067
+  claims:
+  - text: 10 in Top 10 selections in CSE 2020 from various programs of Vision IAS
+    expected:
+    - TT-11
+- id: STUDYIQ_CSE2023
+  institute: StudyIQ IAS (StudyIQ Education Pvt Ltd)
+  domain: studyiq.com
+  exam: UPSC CSE
+  exam_year: 2023
+  order_date: '2024-12-23'
+  penalty_inr: 700000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1735191718-CCPA%20Order%20dated%2023.12.2024-%20StudyIQ%20IAS%20Educational%20Pvt%20Ltd.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2088047
+  claims:
+  - text: 120+ selections in UPSC CSE 2023
+    expected:
+    - TT-11
+  - text: Success Pakka Offer
+    expected:
+    - TT-10
+- id: EDGE_IAS_CSE2023
+  institute: Edge IAS
+  domain: null
+  exam: UPSC CSE
+  exam_year: 2023
+  order_date: '2024-12-24'
+  penalty_inr: 100000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1735191748-CCPA%20Final%20Order%20dated%2024.12.2024-%20Edge%20IAS.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2088047
+  claims: []
+- id: VAJIRAO_REDDY_CSE2022
+  institute: Vajirao & Reddy Institute (distinct from Vajiram & Ravi)
+  domain: vajiraoinstitute.com
+  exam: UPSC CSE
+  exam_year: 2022
+  order_date: '2024-11-22'
+  penalty_inr: 700000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1735192535-CCPA%20Order%20dated%2022.11.2024-%20Vajirao%20%20Reddy%20Institute.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2088047
+  claims:
+  - text: 617 selections out of 933 in UPSC CSE 2022
+    expected:
+    - TT-11
+  - text: 7 in Top 10 AIR
+    expected:
+    - TT-11
+  - text: 16 in Top 20 AIR
+    expected:
+    - TT-11
+  - text: 39 in Top 50 AIR
+    expected:
+    - TT-11
+  - text: 72 in TOP 100 AIR
+    expected:
+    - TT-11
+  - text: We are ranked at 1st position among the list of top UPSC Coaching Institutes in India.
+    expected:
+    - TT-09
+- id: VAJIRAO_REDDY_CSE2023
+  institute: Vajirao & Reddy Institute
+  domain: vajiraoinstitute.com
+  exam: UPSC CSE
+  exam_year: 2023
+  order_date: '2026-02-20'
+  penalty_inr: 1500000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1771648162-Vajirao_Reddy_Institute_UPSC_CSE_2023.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231796
+  claims:
+  - text: Over 645 Selections Out of 1016 Vacancies in UPSC CSE 2023 From Vajirao & Reddy Institute
+    expected:
+    - TT-11
+  - text: 6 in Top 10 AIR
+    expected:
+    - TT-11
+  - text: 35 in Top 50 AIR
+    expected:
+    - TT-11
+  - text: 64 in TOP 100 AIR
+    expected:
+    - TT-11
+- id: DRISHTI_CSE2021
+  institute: Drishti IAS
+  domain: drishtiias.com
+  exam: UPSC CSE
+  exam_year: 2021
+  order_date: '2024-09-30'
+  penalty_inr: 300000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1735192713-DRISHTI%20IAS%20%282021%20RESULTS%29%20Order.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2174344
+  claims:
+  - text: 150+ selection in UPSC CSE 2021
+    expected:
+    - TT-11
+- id: DRISHTI_CSE2022
+  institute: Drishti IAS (VDK Eduventures Pvt Ltd)
+  domain: drishtiias.com
+  exam: UPSC CSE
+  exam_year: 2022
+  order_date: '2025-09-30'
+  penalty_inr: 500000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1759234073-Drishti_IAS_Final_Order.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2174344
+  claims:
+  - text: 216+ selections in UPSC CSE 2022
+    expected:
+    - TT-11
+- id: SHANKAR_CSE2022
+  institute: Shankar IAS Academy
+  domain: shankariasacademy.com
+  exam: UPSC CSE
+  exam_year: 2022
+  order_date: '2024-08-14'
+  penalty_inr: 500000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1735192448-CCPA%20Order%20dated%2014.08.2024-%20Shankar%20IAS%20Academy.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2050561
+  claims:
+  - text: 336 selections out of 933 at All India Level
+    expected:
+    - TT-11
+  - text: 40 candidates in Top 100
+    expected:
+    - TT-11
+  - text: 42 candidates have cleared from Tamil Nadu, of which 37 studied at Shankar IAS Academy
+    expected:
+    - TT-11
+  - text: Best IAS Academy in India
+    expected:
+    - TT-09
+- id: SRIRAMS_CSE2022
+  institute: Sriram's IAS
+  domain: sriramsias.com
+  exam: UPSC CSE
+  exam_year: 2022
+  order_date: '2024-08-01'
+  penalty_inr: 300000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1735192330-CCPA%20Final%20Order%20dated%2001.08.2024%20against%20Srirams%20IAS.pdf&unique_id=
+  pib: https://x.com/PIB_India/status/1825060382148628739
+  claims:
+  - text: 200 plus selections in UPSC Civil Service Exam 2022
+    expected:
+    - TT-11
+  - text: We are India's No. 1 Prestigious UPSC/IAS Coaching Institute
+    expected:
+    - TT-09
+- id: PLUTUS_YOJANA_CSE2021
+  institute: Argasia Education Pvt Ltd (Yojana IAS & Plutus IAS)
+  domain: plutusias.com
+  exam: UPSC CSE
+  exam_year: 2021
+  order_date: '2024-07-05'
+  penalty_inr: 300000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1729856303-Final%20Order%2005.07.2024.pdf&unique_id=
+  pib: null
+  claims:
+  - text: Top Rankers in CSE 2021 (Ranks 18, 43, 44, 80, 225, 295, 388, 476, 550)
+    expected: []
+  - text: Best IAS Coaching In Delhi, Hyderabad, Noida, Patna, and Lucknow.
+    expected:
+    - TT-09
+- id: MALUKA_CSE2022
+  institute: Maluka IAS (Malukas Coaching OPC Pvt Ltd)
+  domain: malukaias.com
+  exam: UPSC CSE
+  exam_year: 2022
+  order_date: '2024-05-28'
+  penalty_inr: 300000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1735192180-Order%20of%20Maluka%20IAS%20%28Malukas%20Coaching%20OPC%20Pvt.%20Ltd.%29%2028.05.2024.pdf&unique_id=
+  pib: null
+  claims:
+  - text: 120+ selections in UPSC CSE 2022
+    expected:
+    - TT-11
+  - text: Guaranteed Prelims & Mains
+    expected:
+    - TT-10
+- id: SHUBHRA_RANJAN_CSE2023
+  institute: Shubhra Ranjan IAS (Shubhra Viraj Edutech Pvt Ltd)
+  domain: shubhraranjan.com
+  exam: UPSC CSE
+  exam_year: 2023
+  order_date: '2024-12-19'
+  penalty_inr: 200000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1735191627-CCPA%20Order%20dated%2019.12.2024-%20Shubhra%20Ranjan%20IAS%20%28Ms%20Shubhra%20Viraj%20Edutech%20Pvt.%20Ltd.%29%20%281%29.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2086948
+  claims:
+  - text: 13 students in Top 100
+    expected:
+    - TT-11
+  - text: 28 students in Top 200
+    expected:
+    - TT-11
+  - text: 39 students in Top 300
+    expected:
+    - TT-11
+- id: ALS_CSE2021_2022
+  institute: Alternative Learning Systems (ALS IAS)
+  domain: alsedunation.com
+  exam: UPSC CSE
+  exam_year:
+  - 2021
+  - 2022
+  order_date: '2024-10-17'
+  penalty_inr: 1000000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1729856504-Final%20Order%2017.10.24%20ALS%20IAS.pdf&unique_id=
+  pib: null
+  claims:
+  - text: Total Selection 156
+    expected:
+    - TT-11
+  - text: 4 in top 10
+    expected:
+    - TT-11
+  - text: 10 in top 150
+    expected:
+    - TT-11
+  - text: India's largest coaching network
+    expected:
+    - TT-09
+  - text: IAS Rank 1- All India First Rank four times in IAS exam
+    expected:
+    - TT-11
+  - text: 3291+ successful candidate in past 21 years
+    expected:
+    - TT-11
+  - text: Delivering 20% selection consistently every year
+    expected:
+    - TT-11
+  - text: 126 selections in 2022 Civil Services Results
+    expected:
+    - TT-11
+- id: KSG_CSE2022
+  institute: Khan Study Group (KSG)
+  domain: ksgindia.com
+  exam: UPSC CSE
+  exam_year: 2022
+  order_date: '2023-11-02'
+  penalty_inr: 500000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1703862626-CCPA%20Order%20Khan%20Study%20Group%2002.11.2023%20%282%29.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1975863
+  claims:
+  - text: 682 out of 933 selected students are from KSG.
+    expected:
+    - TT-11
+  - text: All TOP 5 Successful Candidates of UPSC Civil Services Exam 2022 are from KSG.
+    expected:
+    - TT-11
+  - text: Ishita Kishore AIR 1 UPSC 2022 is from KSG
+    expected: []
+  - text: Best IAS Coaching Institute for General Studies and CSAT in India.
+    expected:
+    - TT-09
+- id: CHAHAL_CSE2022
+  institute: Chahal Academy
+  domain: chahalacademy.com
+  exam: UPSC CSE
+  exam_year: 2022
+  order_date: '2023-10-18'
+  penalty_inr: 100000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1703862678-CCPA%20Order%20Chahal%20Academy%2018.10.2023%20%282%29.pdf&unique_id=
+  pib: null
+  claims:
+  - text: our successful candidates in UPSC 2022-23, 300 plus Selection
+    expected:
+    - TT-11
+  - text: 4 out of top 5 AIR rank holders in the UPSC exam 2022-23 belong to their academy.
+    expected:
+    - TT-11
+- id: UNACADEMY_CSE2021
+  institute: Unacademy (Sorting Hat Technologies Pvt Ltd)
+  domain: unacademy.com
+  exam: UPSC CSE
+  exam_year: 2021
+  order_date: '2023-10-23'
+  penalty_inr: 100000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1735193088-Unacademy%20Final%20Order%2023.10.2023.pdf&unique_id=
+  pib: null
+  claims:
+  - text: 26% of all UPSC rankers are Unacademy learners
+    expected:
+    - TT-11
+  - text: 3 achievers in Top 5
+    expected:
+    - TT-11
+  - text: 35 achievers in Top 100
+    expected:
+    - TT-11
+  - text: 178+ achievers out of 685
+    expected:
+    - TT-11
+- id: APTI_PLUS_CSE2022
+  institute: APTI PLUS Academy
+  domain: aptiplus.in
+  exam: UPSC CSE
+  exam_year: 2022
+  order_date: '2023-11-22'
+  penalty_inr: 100000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1703862496-CCPA%20Order%20Apti%20Plus%20Academy%2022.11.2023%20%282%29.pdf&unique_id=
+  pib: null
+  claims:
+  - text: Honoring our best! Our legacy of success continues with toppers in UPSC IAS 2022- 150 plus students from our academy
+      have cleared UPSC 2022 exam.
+    expected:
+    - TT-11
+- id: ANALOG_CSE2022
+  institute: Analog IAS Academy
+  domain: null
+  exam: UPSC CSE
+  exam_year: 2022
+  order_date: '2023-11-10'
+  penalty_inr: 100000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1703862556-CCPA%20Order%20Analog%20IAS%20Academy%2010.11.2023%20%282%29.pdf&unique_id=
+  pib: null
+  claims:
+  - text: Proud to be the stepping stone to India's Best Officers - 64 selections from their academy in UPSC 2022 exam.
+    expected:
+    - TT-11
+  - text: 9 in TOP 100 AIR, 26 in TOP 200 AIR and 45 in TOP 300 in UPSC exam 2022 belong to their academy.
+    expected:
+    - TT-11
+- id: BYJUS_IAS
+  institute: Think & Learn Pvt Ltd (Byju's IAS)
+  domain: null
+  exam: UPSC CSE
+  exam_year: 2013-2020
+  order_date: '2023-11-23'
+  penalty_inr: 1000000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1703859811-CCPA%20Order%20Byjus%20IAS%20Think%20and%20%20Learn%20Pvt%20Ltd%2023.11.2023.pdf&unique_id=
+  pib: null
+  claims:
+  - text: 62 out of 1228 vacancies in 2013
+    expected:
+    - TT-11
+  - text: 82 out of 1364 vacancies in 2014
+    expected:
+    - TT-11
+  - text: 165 out of 1164 vacancies in 2015
+    expected:
+    - TT-11
+  - text: 215 out of 1205 vacancies in 2016
+    expected:
+    - TT-11
+  - text: 236 out of 1058 vacancies in 2017
+    expected:
+    - TT-11
+  - text: 183 out of 812 vacancies in 2018
+    expected:
+    - TT-11
+  - text: 179 out of 829 vacancies in 2019
+    expected:
+    - TT-11
+  - text: 295 out of 761 vacancies in 2020
+    expected:
+    - TT-11
+- id: RAUS_CSE2021
+  institute: Rau's IAS Study Circle
+  domain: rauias.com
+  exam: UPSC CSE
+  exam_year: 2021
+  order_date: '2023-06-06'
+  penalty_inr: 100000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1703858495-RAU%20IAS%20Order%2006.06.2023.pdf&unique_id=
+  pib: null
+  claims:
+  - text: Best IAS Coaching for UPSC Civil Services Preparation
+    expected:
+    - TT-09
+  - text: Hundreds of Rau's IAS Study Circle students aced UPSC exams this year as well.
+    expected:
+    - TT-11
+- id: IQRA_IAS
+  institute: IQRA IAS Institute
+  domain: iqraias.com
+  exam: UPSC CSE
+  exam_year: null
+  order_date: '2023-08-17'
+  penalty_inr: 100000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1703860284-CCPA%20Order%20IQRA%20IAS%20Institute%2017.08.2023.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1953173
+  claims:
+  - text: The testimonials of top-rank holders of UPSC of the years 2015-2017
+    expected: []
+  - text: Within a year we became the top UPSC coaching class in Pune
+    expected:
+    - TT-09
+- id: DIKSHANT_CSE2021
+  institute: Dikshant IAS
+  domain: null
+  exam: UPSC CSE
+  exam_year: 2021
+  order_date: '2025-10-30'
+  penalty_inr: 800000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1761828699-CCPA_Final_Order_dated_30_10_2025__Dikshant_IAS.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2185094
+  claims:
+  - text: 200+ result in UPSC CSE 2021
+    expected:
+    - TT-11
+- id: ABHIMANU_IAS
+  institute: Abhimanu IAS
+  domain: abhimanuias.com
+  exam: UPSC CSE / HCS
+  exam_year: null
+  order_date: '2025-04-30'
+  penalty_inr: 800000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1756115891-124741.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2185094
+  claims:
+  - text: 2200+SELECTIONS SINCE INCEPTION
+    expected:
+    - TT-11
+  - text: 10+ SELECTIONS IN IAS TOP 10
+    expected:
+    - TT-11
+  - text: 1st RANK IN HCS/PCS/HAS
+    expected:
+    - TT-11
+- id: NEXT_IAS_CSE2021
+  institute: Next IAS (Made Easy Learnings Pvt Ltd)
+  domain: nextias.com
+  exam: UPSC CSE
+  exam_year: 2021
+  order_date: '2026-09-07'
+  penalty_inr: 0
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/016f8da16d201b3542b47bb31feee627dd49ecea544c60f25c90f23882cb9219.pdf&unique_id=
+  pib: null
+  claims:
+  - text: 4 in Top 10
+    expected:
+    - TT-11
+  - text: 9 in Top 20
+    expected:
+    - TT-11
+  - text: 45 in Top 100
+    expected:
+    - TT-11
+  - text: Total 290 selections out of 685
+    expected:
+    - TT-11
+  - text: 42% of Total Selection
+    expected:
+    - TT-11
+- id: MOTION_JEE_NEET_2025
+  institute: Motion Education Pvt Ltd
+  domain: motion.ac.in
+  exam: JEE Main/Advanced + NEET UG
+  exam_year: 2025
+  order_date: '2026-04-08'
+  penalty_inr: 1000000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1777741053-Motion_Final_Order.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2261329
+  claims:
+  - text: NEET Result 2025 Motion % of Qualified students 6972/7645 = 91.2 %
+    expected:
+    - TT-11
+  - text: NEET Result 2025- 19 in Top 500 All India Rank (General & OBC) & 7 of our students have secured All India Rank under
+      100
+    expected:
+    - TT-11
+  - text: JEE Advance Result 2025 Motion's % of qualified students in JEE advanced 3231/6332 = 51.02%
+    expected:
+    - TT-11
+  - text: JEE (Mains) 65.8% 6930/10532
+    expected:
+    - TT-11
+  - text: मोशन है तो सिलेक्शन है
+    expected:
+    - TT-10
+- id: CLC_SIKAR_NEET2024
+  institute: Career Line Coaching (CLC), Sikar
+  domain: clcsikar.com
+  exam: NEET UG / IIT
+  exam_year: 2024
+  order_date: '2026-04-09'
+  penalty_inr: 500000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1777806808-Final_Order_Career_Line_Coaching__CLC__Sikar.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2261329
+  claims:
+  - text: 1650+ CLCians in MBBS, IIT & Others
+    expected:
+    - TT-11
+  - text: 2 CLCians in NEET AIR-100
+    expected:
+    - TT-11
+  - text: 3 CLCians at AIIMS Delhi
+    expected:
+    - TT-11
+  - text: 6 CLCians scored 710+ marks (out of 720)
+    expected:
+    - TT-11
+  - text: 7 Times result growth in AIR-1000
+    expected:
+    - TT-11
+  - text: सीकर में Best CLC AIR-1000 में गत वर्ष सर्वाधिक 7 गुना वृद्धि
+    expected:
+    - TT-09
+    - TT-11
+- id: NARAYANA_JEEADV2024
+  institute: Narayana Educational Institutions
+  domain: narayanagroup.com
+  exam: JEE Advanced
+  exam_year: 2024
+  order_date: '2026-06-11'
+  penalty_inr: 800000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/CCPA%20Final%20Order%20Narayana.pdf&unique_id=
+  pib: null
+  claims:
+  - text: AIR 1 and AIR 11 attributed to same student Matcha Balaaditya (AIR 1 = OBC category rank)
+    expected: []
+    note: research description of the claim, not verbatim ad text
+- id: IITPK_2023
+  institute: IITian's Prashikshan Kendra Pvt Ltd
+  domain: iitpk.com
+  exam: IIT-JEE/NEET/MHT-CET
+  exam_year: 2023
+  order_date: '2025-02-10'
+  penalty_inr: 300000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1739343333-IIT%20prashikshan%20Kendra%20Final%20Order%2010-02-2025.pdf&unique_id=
+  pib: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2103128
+  claims:
+  - text: 1384 IIT-Ranks in past 21 years by IITPK
+    expected:
+    - TT-11
+  - text: IITPK students crack all 2023 exams
+    expected: []
+  - text: Success Ratio at 61%
+    expected:
+    - TT-11
+  - text: IIT Topper / NEET Topper with bold 1 and 2 symbols
+    expected: []
+    note: research description of the claim, not verbatim ad text
+- id: SEEKERS_JEE2021
+  institute: Seekers Education
+  domain: null
+  exam: JEE
+  exam_year: 2021
+  order_date: '2023-06-07'
+  penalty_inr: 50000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1703864821-CCPA%20Order%20to%20Seekers%20Education%2007.06.2023.pdf&unique_id=
+  pib: null
+  claims:
+  - text: We are the Best
+    expected:
+    - TT-09
+  - text: 99.99% in JEE 2021
+    expected:
+    - TT-11
+- id: ANUJ_JINDAL_RBI
+  institute: Anuj Jindal (AJC Edutech Pvt Ltd)
+  domain: null
+  exam: RBI Grade B
+  exam_year: null
+  order_date: '2024-09-30'
+  penalty_inr: 300000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1739182076-CCPA%20Order%20dated%2030.09.2024-%20Anuj%20Jindal.%20%281%29.pdf&unique_id=
+  pib: null
+  claims: []
+- id: EDUTAP_RBI2023
+  institute: EduTap Learning Solutions
+  domain: null
+  exam: RBI Grade B
+  exam_year: 2023
+  order_date: '2024-06-12'
+  penalty_inr: 300000
+  order_pdf: https://ccpa.doca.gov.in/checkuploaddocs.php?updocs=./uploads/1735191839-CCPA%20Order%20dated%2012.06.24-%20EduTap%20Learning%20Solutions.pdf&unique_id=
+  pib: null
+  claims:
+  - text: 144 selections in RBI Grade B exam 2023
+    expected:
+    - TT-11
+course_labels:
+- label: GS FOUNDATION BATCH CLASSROOM STUDENT
+  types:
+  - foundation_classroom
+- label: Mock Interview / Free of cost
+  types:
+  - interview_only
+  paid_free: true
+- label: Interview Guidance Programme
+  types:
+  - interview_only
+- label: IGP (DAF Analysis)
+  types:
+  - interview_only
+- label: IGP [WhatsApp Group]
+  types:
+  - interview_only
+- label: Last Mile
+  types:
+  - interview_only
+- label: free 5-day Interview Training Program
+  types:
+  - interview_only
+  paid_free: true
+  duration: true
+- label: Mock Interview Programme / 1 Day / 0
+  types:
+  - interview_only
+  duration: true
+- label: GS Mains Test Series 2020
+  types:
+  - test_series
+- label: Abhyaas 2020
+  types:
+  - test_series
+- label: Ethics & Essay Crash
+  types:
+  - essay_ethics
+- label: PSIR optional
+  types:
+  - optional
+- label: Mains Mentorship
+  types:
+  - mentorship
+- label: GS Prelims cum Mains
+  types:
+  - foundation_classroom
+- label: General Studies PCM 10-Month Course
+  types:
+  - foundation_classroom
+  duration: true
+- label: I-Eklavya (Online)
+  types:
+  - online_distance
+- label: DLP
+  types:
+  - online_distance
+- label: Target Course
+  types:
+  - foundation_classroom
+- label: fresher
+  types: []
+  vague: true
+- label: With XII
+  types: []
+  vague: true
+- label: repeaters
+  types: []
+  vague: true

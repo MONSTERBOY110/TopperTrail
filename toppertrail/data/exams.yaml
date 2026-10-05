@@ -1,0 +1,69 @@
+upsc-cse-2025:
+  label: UPSC CSE 2025
+  exam: UPSC Civil Services Examination
+  year: 2025
+  tag: upsc
+  rank_label: AIR
+  result_date: 2026-03-06
+  results_file: results/upsc-cse-2025.csv
+  sources:
+    - https://www.upsc.gov.in/sites/default/files/CSE_2025_FR_Eng_06032026.pdf
+  context_terms: [upsc, cse, civil services, ias]
+  default_top: 20
+  ads_end_date: 2026-10-05
+  ads_creatives_cap: 25
+  google_query: '"{name}" UPSC CSE {year} AIR {rank}'
+  google_hi_top: 10
+  images_query: '{name} AIR {rank} UPSC {year}'
+  youtube_query: '{name} UPSC {year} topper interview'
+  ai_mode_query: 'Which coaching institute did {name}, UPSC CSE {year} AIR {rank}, study at?'
+  video_details_top: 10
+  video_details_per_topper: 2
+  transcripts: true
+  transcript_params: {language_code: hi}
+jee-adv-2026:
+  label: JEE Advanced 2026
+  exam: JEE Advanced
+  year: 2026
+  tag: jee
+  rank_label: CRL
+  result_date: 2026-06-01
+  results_file: results/jee-adv-2026.csv
+  sources:
+    - https://jeeadv.ac.in/documents/Result2026PressRelease.pdf
+  context_terms: [jee, iit]
+  default_top: 5
+  ads_end_date: 2026-10-05
+  ads_creatives_cap: 25
+  google_query: '"{name}" JEE Advanced {year} AIR {rank}'
+  google_hi_top: 0
+  images_query: '{name} JEE Advanced {year} AIR {rank}'
+  youtube_query: '{name} JEE Advanced {year} topper'
+  ai_mode_query: 'Which coaching institute did {name}, JEE Advanced {year} AIR {rank}, study at?'
+  video_details_top: 0
+  video_details_per_topper: 0
+  transcripts: false
+  transcript_params: {}
+neet-ug-2026:
+  label: NEET UG 2026
+  exam: NEET UG (re-exam of 21 June 2026)
+  year: 2026
+  tag: neet
+  rank_label: AIR
+  result_date: 2026-07-16
+  results_file: results/neet-ug-2026.csv
+  sources:
+    - https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260716477215762.pdf
+  context_terms: [neet]
+  default_top: 5
+  ads_end_date: 2026-10-05
+  ads_creatives_cap: 25
+  google_query: '"{name}" NEET UG {year} AIR {rank}'
+  google_hi_top: 0
+  images_query: '{name} NEET {year} AIR {rank}'
+  youtube_query: '{name} NEET {year} topper'
+  ai_mode_query: 'Which coaching institute did {name}, NEET UG {year} AIR {rank}, study at?'
+  video_details_top: 0
+  video_details_per_topper: 0
+  transcripts: false
+  transcript_params: {}

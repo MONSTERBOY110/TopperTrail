@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}TopperTrail{% endblock %}</title>
+  <meta name="description" content="One rank. Many claims. Follow the trail. An evidence ledger of coaching institutes' topper claims in India.">
+  <link rel="icon" href="{{ link('static/favicon.svg') }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ link('static/fonts/fonts.css') }}">
+  <link rel="stylesheet" href="{{ link('static/style.css') }}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="shell">
+    <div class="shell-inner">
+      <a class="brand" href="{{ link('') }}">TopperTrail</a>
+      <nav class="tabs" aria-label="Exams">
+        {% for tab_id, tab_label in tabs %}
+        <a href="{{ link('exam/' ~ tab_id) }}"{% if led is defined and led.exam == tab_id %} aria-current="page"{% endif %}>{{ tab_label }}</a>
+        {% endfor %}
+      </nav>
+      <a class="shell-link{% if page_id == 'methodology' %} is-current{% endif %}" href="{{ link('methodology') }}">Methodology</a>
+    </div>
+  </header>
+  {% if led is defined and led.preview %}
+  <p class="preview" role="note">{{ led.preview }}</p>
+  {% endif %}
+  <main id="main" tabindex="-1">{% block main %}{% endblock %}</main>
+  <footer class="site">
+    <p class="notice">{{ NOTICE }}</p>
+    <p class="sources">Official results from UPSC, IIT Roorkee and NTA. Rules from the CCPA Guidelines for Prevention of Misleading Advertisement in Coaching Sector, 2024 and CCPA orders. Search data collected with SerpApi. <a href="{{ link('methodology') }}#corrections">Request a correction</a></p>
+  </footer>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

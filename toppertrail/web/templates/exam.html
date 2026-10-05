@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% from "_chips.html" import chip, fill_legend %}
+{% block title %}{{ led.label }} claims board, TopperTrail{% endblock %}
+{% block main %}
+<section class="finding" aria-labelledby="exam-title">
+  {% if h.claims %}
+  <h1 id="exam-title" class="finding-sentence">
+    {% if h.max_claimants > 1 %}In {{ led.label }}, <b class="fig">{{ h.max_claimants }}</b> institutes claim {{ rank_label }} {{ h.max_rank }}.
+    {% else %}In {{ led.label }}, no rank is claimed by more than one institute in the collected sources.{% endif %}
+    <b class="fig">{{ h.stated_claims }}</b> of {{ h.claims }} claims name a course next to the claim; <b class="fig">{{ h.interview_only_claims }}</b> of those name only an interview programme.
+  </h1>
+  <p class="finding-sub">
+    On average {{ h.avg_claimants }} institutes claim each of the top {{ h.toppers }} ranks, across {{ h.institutes }} institutes. Whether the course was paid or free is stated in {{ h.paid_free_stated_pct }}% of claims.
+    {% if ai.toppers_total %}Google AI Mode names a coaching institute for {{ ai.toppers_named }} of {{ ai.toppers_total }} toppers.{% endif %}
+  </p>
+  {% else %}
+  <h1 id="exam-title" class="finding-sentence">{{ led.label }}: no claims are recorded yet.</h1>
+  <p class="finding-sub">Run <code>toppertrail collect {{ led.exam }}</code> and then <code>toppertrail analyze {{ led.exam }}</code>.</p>
+  {% endif %}
+</section>
+
+{% if tally %}
+<section class="tally" aria-labelledby="tally-title">
+  <h2 id="tally-title">Claims by institute</h2>
+  {% set total = tally | sum(attribute='claims') %}
+  <p class="sr">The same numbers are in the institutes table below.</p>
+  <div class="tally-strip">
+    {% for t in tally %}
+    <a class="seg slot-{{ t.slot or 'other' }}" style="flex-grow: {{ t.claims }}" aria-hidden="true" tabindex="-1" href="{{ link('exam/' ~ led.exam ~ '/institute/' ~ t.institute_id) }}"
+       title="{{ t.name }}: {{ t.claims }} claims. Course named in {{ t.stated }}, interview programme only in {{ t.interview }}, no course in {{ t.none }}.">
+      {% if t.stated %}<span class="part is-stated" style="flex-grow: {{ t.stated }}"></span>{% endif %}
+      {% if t.interview %}<span class="part is-interview" style="flex-grow: {{ t.interview }}"></span>{% endif %}
+      {% if t.none %}<span class="part is-none" style="flex-grow: {{ t.none }}"></span>{% endif %}
+    </a>
+    {% endfor %}
+  </div>
+  <ul class="tally-legend">
+    {% for t in tally if t.slot %}
+    <li><span class="key slot-{{ t.slot }}" aria-hidden="true"></span>{{ t.name }} <span class="n">{{ t.claims }}</span></li>
+    {% endfor %}
+    {% set others = tally | rejectattr('slot') | list %}
+    {% if others %}<li><span class="key slot-other" aria-hidden="true"></span>{{ others | length }} other institutes <span class="n">{{ others | sum(attribute='claims') }}</span></li>{% endif %}
+  </ul>
+  {{ fill_legend() }}
+</section>
+{% endif %}
+
+<section class="board" aria-labelledby="board-title">
+  <div class="board-head">
+    <h2 id="board-title">Who claims each rank</h2>
+    <p class="guide"><span data-guide>{{ rank_label }} 1 to {{ rank_label }} {{ led.toppers | length }}</span>{% if as_of %}<span class="as-of">, observed {{ as_of }}</span>{% endif %}</p>
+  </div>
+  <div class="board-cols" aria-hidden="true">
+    <span>Rank</span><span>Topper, as in the official result</span><span>Institutes</span><span>Claimants</span>
+  </div>
+  <ol class="ranks">
+    {% for t in led.toppers %}
+    {% set n = claimants[t.rank] %}
+    <li class="rank-row{% if not n %} is-empty{% endif %}" data-rank="{{ t.rank }}">
+      <span class="rank-fig">{{ t.rank }}</span>
+      <a class="rank-name" href="{{ link('exam/' ~ led.exam ~ '/topper/' ~ t.rank) }}">{{ t.display }}</a>
+      <span class="rank-count">{{ n }}<span class="sr"> institutes</span></span>
+      <span class="rank-chips">
+        {% for c in chips[t.rank] %}{{ chip(c, led.exam) }}{% else %}<span class="none">No claims in the collected sources</span>{% endfor %}
+      </span>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+
+<section class="institutes" aria-labelledby="inst-title">
+  <h2 id="inst-title">Institutes</h2>
+  <p class="scroll-cue">Scroll the table sideways for all eight columns.</p>
+  <div class="table-wrap">
+  <table class="data">
+    <thead><tr>
+      <th scope="col">Institute</th><th scope="col" class="num">Toppers</th><th scope="col" class="num">Claims</th>
+      <th scope="col" class="num">Course named</th><th scope="col" class="num">Interview only</th>
+      <th scope="col" class="num">Wording signals</th><th scope="col" class="num">Google ads</th><th scope="col" class="num">CCPA orders</th>
+    </tr></thead>
+    <tbody>
+    {% for r in rows %}
+    <tr>
+      <th scope="row"><span class="key slot-{{ slots.get(r.institute_id) or 'other' }}" aria-hidden="true"></span><a href="{{ link('exam/' ~ led.exam ~ '/institute/' ~ r.institute_id) }}">{{ r.name }}</a></th>
+      <td class="num">{{ r.toppers }}</td><td class="num">{{ r.claims }}</td><td class="num">{{ r.course_stated_pct }}%</td>
+      <td class="num">{{ r.interview_only }}</td><td class="num">{{ r.signals }}</td><td class="num">{{ r.ads }}</td><td class="num">{{ r.ccpa_orders }}</td>
+    </tr>
+    {% else %}
+    <tr><td colspan="8">No institute claims recorded.</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <p class="meta">Counts are lower bounds: only the {{ registry_size }} registered institutes are counted, and only on sources they control. Pages that list toppers as news, without claiming them, are not counted. Manifest root <code class="hash">{{ led.manifest_root }}</code>.</p>
+</section>
+{% endblock %}
+{% block scripts %}
+<script>
+(function () {
+  var guide = document.querySelector("[data-guide]");
+  var rows = Array.prototype.slice.call(document.querySelectorAll(".rank-row"));
+  if (!guide || !rows.length || !("IntersectionObserver" in window)) return;
+  var seen = new Set();
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) { e.isIntersecting ? seen.add(e.target) : seen.delete(e.target); });
+    var ranks = rows.filter(function (r) { return seen.has(r); }).map(function (r) { return +r.dataset.rank; });
+    var label = "{{ rank_label }} ";
+    if (ranks.length) guide.textContent = label + Math.min.apply(null, ranks) + " to " + label + Math.max.apply(null, ranks);
+  }, { rootMargin: "-96px 0px 0px 0px" });
+  rows.forEach(function (r) { io.observe(r); });
+})();
+</script>
+{% endblock %}

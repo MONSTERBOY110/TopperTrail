@@ -1,0 +1,381 @@
+# UPSC
+- id: vision-ias
+  name: Vision IAS
+  legal_name: AjayVision Education Pvt Ltd
+  exams: [upsc]
+  domains: [visionias.in]
+  channels: [UCw4wosjC-DKq95xI5klz92w, UCRr_ix2-7Z6EjfVopOAc4aA]
+  handles: [VisionIASdelhi, VisionIASHindi]
+  aliases: [vision ias, visionias, विजन आईएएस, विज़न आईएएस, विजन आईएस]
+  ads: [{domain: visionias.in, exams: [upsc]}]
+  ccpa_orders: [VISION_IAS_CSE2022_2023, VISION_IAS_CSE2020]
+- id: vajiram-ravi
+  name: Vajiram & Ravi
+  legal_name: Vajiram and Ravi IAS Study Centre LLP
+  exams: [upsc]
+  domains: [vajiramandravi.com, vajiramias.com]
+  channels: [UCzelA5kqD9v6k6drK44l4_g, UCe6aCM8xudXv3rlBc5C75Wg]
+  handles: [VajiramandRaviOfficial, VajiramAndRaviHindi]
+  aliases: [vajiram, vajiram & ravi, vajiram and ravi, वाजीराम, वाजिराम, वाजराम]
+  ads: [{domain: vajiramandravi.com, exams: [upsc]}]
+  ccpa_orders: [VAJIRAM_RAVI_CSE2023]
+- id: vajirao-reddy
+  name: Vajirao & Reddy Institute
+  exams: [upsc]
+  domains: [vajiraoinstitute.com]
+  channels: [UCQgWK91IvWlYdNeTTw3LZVw]
+  handles: [Vajiraoreddyinstitute]
+  aliases: [vajirao, vajirao & reddy, vajirao and reddy, वाजीराव, वाजिराव]
+  ads: [{domain: vajiraoinstitute.com, exams: [upsc]}]
+  ccpa_orders: [VAJIRAO_REDDY_CSE2022, VAJIRAO_REDDY_CSE2023]
+- id: drishti-ias
+  name: Drishti IAS
+  legal_name: VDK Eduventures
+  exams: [upsc]
+  domains: [drishtiias.com]
+  channels: [UCzLqOSZPtUKrmSEnlH4LAvw, UCafpueX9hFLls24ed6UddEQ]
+  handles: [DrishtiIASvideos, DrishtiIASEnglish]
+  aliases: [drishti ias, drishtiias, दृष्टि आईएएस, दृष्टि आईएस]
+  ads: [{domain: drishtiias.com, exams: [upsc]}]
+  ccpa_orders: [DRISHTI_CSE2021, DRISHTI_CSE2022]
+- id: studyiq
+  name: StudyIQ IAS
+  exams: [upsc]
+  domains: [studyiq.com]
+  channels: [UCrC8mOqJQpoB7NuIMKIS6rQ, UCKSGmEx5nKZCgjRny-9LaWQ, UCtKv7_z4rh37OCSEfkZuGow]
+  handles: [StudyIQEducationLtd, studyiqiasHindi, upscprepbystudyiq]
+  aliases: [studyiq, study iq, स्टडी आईक्यू, स्टडीआईक्यू]
+  ads: [{domain: studyiq.com, exams: [upsc]}]
+  ccpa_orders: [STUDYIQ_CSE2023]
+- id: next-ias
+  name: NEXT IAS
+  legal_name: Made Easy Learnings
+  exams: [upsc]
+  domains: [nextias.com]
+  channels: [UCgKgAaGbKS-XWUJGWqP5W0A, UCAW-rpG882FJA-1EvWueTCg]
+  handles: [nextias, NEXTIASHindi]
+  aliases: [next ias, nextias, नेक्स्ट आईएएस, नेक्स्ट आईएस]
+  ads: [{domain: nextias.com, exams: [upsc]}]
+  ccpa_orders: [NEXT_IAS_CSE2021]
+- id: forum-ias
+  name: ForumIAS
+  exams: [upsc]
+  domains: [forumias.com]
+  channels: [UCzuYmh_kQUpJpguQCwLKoPg, UCrUVBvitIKjZ3EUZ89hwFzg]
+  handles: [ForumIASOfficial, ForumiasHindi]
+  aliases: [forumias, forum ias, फोरम आईएएस]
+  ads: [{domain: forumias.com, exams: [upsc]}]
+- id: shankar-ias
+  name: Shankar IAS Academy
+  exams: [upsc]
+  domains: [shankariasacademy.com]
+  channels: [UCj0t9VmB-FNrXuVJJCW7etw]
+  handles: [ShankarIASAcademyVideos]
+  aliases: [shankar ias, शंकर आईएएस]
+  ads: [{domain: shankariasacademy.com, exams: [upsc]}]
+  ccpa_orders: [SHANKAR_CSE2022]
+- id: raus-ias
+  name: Rau's IAS Study Circle
+  exams: [upsc]
+  domains: [rauias.com]
+  channels: [UCWdeyiTcwjboM3qLcBPJThQ]
+  handles: [rausias1953]
+  aliases: [rau's ias, raus ias, rau ias, राउज आईएएस]
+  ads: [{domain: rauias.com, exams: [upsc]}]
+  ccpa_orders: [RAUS_CSE2021]
+- id: srirams-ias
+  name: Sriram's IAS
+  exams: [upsc]
+  domains: [sriramsias.com]
+  channels: [UCbiWt_Ckrd4dqESbsXGBX6Q]
+  handles: [sriramsiasofficial]
+  aliases: [sriram's ias, srirams ias, sriram ias, श्रीराम आईएएस, श्रीराम्स आईएएस]
+  ads: [{domain: sriramsias.com, exams: [upsc]}]
+  ccpa_orders: [SRIRAMS_CSE2022]
+- id: chahal-academy
+  name: Chahal Academy
+  exams: [upsc]
+  domains: [chahalacademy.com]
+  channels: [UCi73-p09as4fkn4HK_Xrywg]
+  handles: [chahalacademy]
+  aliases: [chahal academy, चहल एकेडमी, चहल अकादमी]
+  ads: [{domain: chahalacademy.com, exams: [upsc]}]
+  ccpa_orders: [CHAHAL_CSE2022]
+- id: physics-wallah
+  name: Physics Wallah (PW, PW OnlyIAS)
+  legal_name: Physicswallah Ltd
+  exams: [upsc, jee, neet]
+  domains: [pw.live, pwonlyias.com, physicswallah.live]
+  channels: [UCiGyWN6DEbnj2alu7iapuKQ, UCh4f3NyOzqGwZfwTSX78QfQ, UC9fQuR3XRALjaIZtKGSNJcQ,
+             UCqOy6oOu6RPJNHYQ8f_Ybvg, UC17PM-3GiJIeIUogU2Y1t1Q, UCVJU_IChPMOe8RWkdVQjtfQ,
+             UCD16eo98AXl-9T61Xd711kQ, UCGw8iWmsw1cPlfcrww-3C0g, UCctEsQirgs3hCmq5S7A7ToA,
+             UCWEmndu9aCunQAVCjxsP7jg, UChbgwNStwEW8CdeuRl-JaXQ, UC2ynjdzhmROVYmDaF1KrvEA,
+             UC8rsRDBBE1aUEzVETfHtCvQ]
+  handles: [PhysicsWallah, OnlyIasnothingelse, PWOnlyIASUPSCEnglish, PWOnlyIASUPSC,
+            OnlyIASPrarambh, PW-JEEWallah, PW-NEETWallah, PWNEET-Official, Class11th-JEE,
+            class11th-neet, class12th-jee, class12th-neet, PW.Yoddha123]
+  aliases: [physics wallah, physicswallah, pw onlyias, pw only ias, onlyias, पीडब्ल्यू, फिजिक्स वाला, फिजिक्सवाला]
+  ads: [{domain: pwonlyias.com, exams: [upsc]}, {domain: pw.live, exams: [jee, neet]}]
+- id: unacademy
+  name: Unacademy
+  legal_name: Sorting Hat Technologies
+  exams: [upsc, jee, neet]
+  domains: [unacademy.com]
+  channels: [UCABe2FgVNv2hgBeMu2mySVg, UCPhY4iS6NNoQwlRLcUYu_tw, UC7Q0EfPzTwtanMVSWuK_QXA,
+             UCV1lbzgZNcYFAT3VHKOb7Cg, UCVOyyXupdtEblFbno_4ibLQ, UCZNNx4KYmCkwxCLdsHyWqQA,
+             UCdQwYksctqqiRwqp3PiJMWA, UCwJjrP7jG-PVJqToYUSfb2w]
+  handles: [unacademyupscprep, UnacademyUPSCHindi, UnacademyIASEnglish, UnacademyUPSC101,
+            upscunstoppables, Unacademy_JEE, UnacademyNEET, jeemastersbyunacademy]
+  aliases: [unacademy, अनएकेडमी, अनअकैडमी, अनअकडमी, अनएकडमी]
+  ads: [{domain: unacademy.com, exams: [upsc]}]
+  ccpa_orders: [UNACADEMY_CSE2021]
+- id: ksg
+  name: Khan Study Group (KSG)
+  exams: [upsc]
+  domains: [ksgindia.com]
+  channels: [UC6sOW5RX9miothdP0MteJvQ]
+  handles: [ksg_ias]
+  aliases: [ksg, khan study group, केएसजी]
+  ads: [{domain: ksgindia.com, exams: [upsc]}]
+  ccpa_orders: [KSG_CSE2022]
+- id: khan-global-studies
+  name: Khan Global Studies
+  exams: [upsc]
+  domains: [khanglobalstudies.com]
+  channels: [UC7krt1E6XvrywJBu0ZOyq3Q, UC8yuaNBUMgttmcteh6W84OA]
+  handles: [khanglobalstudies, KGS-IASHindi]
+  aliases: [khan global studies, kgs ias, खान ग्लोबल स्टडीज]
+- id: dhyeya-ias
+  name: Dhyeya IAS
+  exams: [upsc]
+  domains: [dhyeyaias.com]
+  channels: [UCMXdi-xFPcZV2tDXlHuZHgw]
+  handles: [DhyeyaTV]
+  aliases: [dhyeya ias, ध्येय आईएएस]
+  ads: [{domain: dhyeyaias.com, exams: [upsc]}]
+- id: dikshant-ias
+  name: Dikshant IAS
+  exams: [upsc]
+  domains: [dikshantias.com]
+  channels: [UCL2kVTYj7_cPGlsoTV_mmLQ]
+  handles: [DikshantIAS]
+  aliases: [dikshant ias, दीक्षांत आईएएस]
+  ccpa_orders: [DIKSHANT_CSE2021]
+- id: sanskriti-ias
+  name: Sanskriti IAS
+  exams: [upsc]
+  domains: [sanskritiias.com]
+  channels: [UC58IAk1i-6d5XgHZG4NnffA]
+  handles: [SANSKRITIIAS]
+  aliases: [sanskriti ias, संस्कृति आईएएस]
+- id: edukemy
+  name: Edukemy
+  exams: [upsc]
+  domains: [edukemy.com]
+  channels: [UCwhJ_VtIAeeiCC50yKMMcnA]
+  handles: [EdukemyforIAS]
+  aliases: [edukemy]
+- id: shubhra-ranjan
+  name: Shubhra Ranjan IAS
+  exams: [upsc]
+  domains: [shubhraranjan.com]
+  channels: [UCn7lUEF9AzgF_BJaRMsHRjQ]
+  handles: [shubhraranjan]
+  aliases: [shubhra ranjan, शुभ्रा रंजन]
+  ccpa_orders: [SHUBHRA_RANJAN_CSE2023]
+- id: plutus-ias
+  name: Plutus IAS
+  exams: [upsc]
+  domains: [plutusias.com]
+  channels: [UCpYZAdWAvgtQKHqQjzqdYqw]
+  handles: [plutusias]
+  aliases: [plutus ias]
+  ccpa_orders: [PLUTUS_YOJANA_CSE2021]
+- id: abhimanu-ias
+  name: Abhimanu IAS
+  exams: [upsc]
+  domains: [abhimanu.com, abhimanuias.com]
+  channels: [UCAmsQW4PJXzbcqiUCvHgKJQ]
+  handles: [abhimanuiasofficial]
+  aliases: [abhimanu ias, abhimanu's ias]
+  ccpa_orders: [ABHIMANU_IAS]
+- id: insights-ias
+  name: Insights IAS
+  exams: [upsc]
+  domains: [insightsonindia.com, insightsias.com]
+  channels: [UCpoccbCX9GEIwaiIe4HLjwA]
+  handles: [Insights_IAS]
+  aliases: [insights ias, insightsias]
+- id: iasbaba
+  name: IASbaba
+  exams: [upsc]
+  domains: [iasbaba.com]
+  channels: [UChvbVdio9Wgj7Z3nQz1Q0ZQ]
+  handles: [IASbaba_Official]
+  aliases: [iasbaba, ias baba]
+- id: lukmaan-ias
+  name: Lukmaan IAS
+  exams: [upsc]
+  domains: [lukmaanias.com]
+  channels: [UCDiKI-0k4CY7IZOrGbDY69g]
+  handles: [LukmanIAS]
+  aliases: [lukmaan ias, लुकमान आईएएस]
+- id: legacy-ias
+  name: Legacy IAS Academy
+  exams: [upsc]
+  domains: [legacyias.com]
+  channels: []
+  handles: []
+  aliases: [legacy ias]
+- id: clearias
+  name: ClearIAS
+  exams: [upsc]
+  domains: [clearias.com]
+  channels: []
+  handles: []
+  aliases: [clearias]
+- id: gs-score
+  name: GS SCORE
+  exams: [upsc]
+  domains: [iasscore.in]
+  channels: [UCf31eCPlIbv-2dOTakELxOg]
+  handles: [gsscoreofficial]
+  aliases: [gs score, iasscore]
+- id: sleepy-classes
+  name: Sleepy Classes
+  exams: [upsc]
+  domains: [sleepyclasses.com]
+  channels: [UCgRf62bnK3uX4N-YEhG4Jog]
+  handles: [SleepyClassesIAS]
+  aliases: [sleepy classes]
+- id: byjus-ias
+  name: BYJU'S IAS
+  legal_name: Think & Learn Pvt Ltd
+  exams: [upsc]
+  domains: [byjus.com]
+  channels: [UC1pfsmDBnMQB8sOuQvmTvRQ]
+  handles: [BYJUSIAS]
+  aliases: [byju's ias, byjus ias]
+  ccpa_orders: [BYJUS_IAS]
+- id: als-ias
+  name: ALS IAS
+  legal_name: Alternative Learning Systems
+  exams: [upsc]
+  domains: [alsedunation.com]
+  channels: [UC4Cvh6Rf3i5fb9xCV962dIA]
+  handles: [ALSIASOfficial]
+  aliases: [als ias]
+  ccpa_orders: [ALS_CSE2021_2022]
+# JEE and NEET
+- id: allen
+  name: ALLEN Career Institute
+  exams: [jee, neet]
+  domains: [allen.in, allen.ac.in]
+  channels: [UCgUeJ2Gv7rJtMBkQF2Ppn4A, UCkUI45drrKTWLxy3q3voJRw, UCySvBtI4jMLXp0BT9osvASw,
+             UCcPauQfd9drEEC8_PoZ6Wpw]
+  handles: [ALLENCareerInstituteofficial, ALLENJEE, ALLENNEET, ALLENOnlineOfficial]
+  aliases: [allen career institute, allen kota, allen online, एलन कोटा, एलन करियर]
+  ads: [{domain: allen.in, exams: [jee, neet]}]
+- id: aakash
+  name: Aakash Educational Services
+  exams: [jee, neet]
+  domains: [aakash.ac.in]
+  channels: [UCDA-O-rNN0IKFaQUgWcb67A, UCAPDuc6Kfpe1mKjMX367qmA, UCfRxSp1qtic_q06e9HwhxJw]
+  handles: [AakashEducation, Aakash_NEET, JEEatAakash]
+  aliases: [aakash institute, aakash educational, aakash byju's, आकाश इंस्टीट्यूट]
+  ads: [{domain: aakash.ac.in, exams: [jee, neet]}]
+- id: motion
+  name: Motion Education
+  exams: [jee, neet]
+  domains: [motion.ac.in]
+  channels: [UCVUjsfIErUfWI57ep1L7B6Q, UC8UzfGlCDh-Q8WDJfrJ6XoA, UC2MLg_YHD4i6sJE0J07NgDw]
+  handles: [MotionNVSir, MotionNEET, MotionEducation]
+  aliases: [motion education, motion kota, मोशन]
+  ads: [{domain: motion.ac.in, exams: [jee, neet]}]
+  ccpa_orders: [MOTION_JEE_NEET_2025]
+- id: resonance
+  name: Resonance Eduventures
+  exams: [jee, neet]
+  domains: [resonance.ac.in]
+  channels: [UC_bdItm01JN2xXRz5hXJwTQ]
+  handles: [ResonanceEdu]
+  aliases: [resonance eduventures, resonance kota, रेजोनेंस]
+- id: fiitjee
+  name: FIITJEE
+  exams: [jee]
+  domains: [fiitjee.com]
+  channels: [UCx9JBiEB9oOsfTEtakjzn8w]
+  handles: [fiitjee]
+  aliases: [fiitjee, फिटजी]
+- id: narayana
+  name: Narayana Educational Institutions
+  exams: [jee, neet]
+  domains: [narayanagroup.com]
+  channels: [UCQBYyVyxKzWHDVGIKxfC0vA, UCIcITe_6aIe98_jjkjyaf8Q, UCyfQ0mYvoP-2JiGuoNHhQuQ]
+  handles: [thenarayanagroup, narayanajee, Narayananeet]
+  aliases: [narayana group, narayana educational, narayana jee, नारायणा]
+  ccpa_orders: [NARAYANA_JEEADV2024]
+- id: sri-chaitanya
+  name: Sri Chaitanya Educational Institutions
+  exams: [jee, neet]
+  domains: [srichaitanya.net]
+  channels: [UCG31O2eprG8EAJkv9kMWVDg, UC6DoFLtBiqMV9DZKAIGM0EA]
+  handles: [SriChaitanyaEdu, InfinityLearnEdu]
+  aliases: [sri chaitanya, infinity learn, श्री चैतन्य]
+- id: vibrant
+  name: Vibrant Academy
+  exams: [jee, neet]
+  domains: [vibrantacademy.com]
+  channels: [UCiGpAU6F3DeBmLbs6J8pvjg]
+  handles: [vibrantacademyofficial]
+  aliases: [vibrant academy]
+- id: clc-sikar
+  name: Career Line Coaching, Sikar
+  exams: [jee, neet]
+  domains: [clcsikar.com]
+  channels: [UCDOAygE2Smt9jWB7xpQo6iQ]
+  handles: [clcsikar]
+  aliases: [clc sikar, career line coaching]
+  ccpa_orders: [CLC_SIKAR_NEET2024]
+- id: vmc
+  name: Vidyamandir Classes
+  exams: [jee]
+  domains: [vidyamandir.com]
+  channels: [UConPUBSiB7UkdMH2nkYzxAA]
+  handles: [VMCJEE]
+  aliases: [vidyamandir classes]
+- id: vedantu
+  name: Vedantu
+  exams: [jee, neet]
+  domains: [vedantu.com]
+  channels: [UClaQJq84XMtMkL44zDmL-Tg, UCqaq3Cwa7m_EsqlvfZh6uyw]
+  handles: [JEEVedantu, vedantuneet]
+  aliases: [vedantu]
+- id: esaral
+  name: eSaral
+  exams: [jee, neet]
+  domains: [esaral.com]
+  channels: [UCddnJhXMUxzHoH8AZkZSd8w, UCD7O0ABXcFzKPTAuUTNCE3A]
+  handles: [eSaral, NEETeSaral]
+  aliases: [esaral]
+- id: career-point
+  name: Career Point Kota
+  exams: [jee, neet]
+  domains: [careerpoint.ac.in]
+  channels: [UCLNYhA7rnXfdaFh-W6hJTSg]
+  handles: [cpkota]
+  aliases: [career point kota]
+- id: matrix-sikar
+  name: Matrix Academy Sikar
+  exams: [jee, neet]
+  domains: []
+  channels: [UC3lu2YmeqASw775BVBg5Ejw]
+  handles: [matrixacademysikar]
+  aliases: [matrix sikar]
+- id: goal-institute
+  name: Goal Institute
+  exams: [neet]
+  domains: []
+  channels: [UCrmzFVr1z6l6bzqQKhTOQIA]
+  handles: [GOALINSTITUTEOFFICIAL]
+  aliases: [goal institute]

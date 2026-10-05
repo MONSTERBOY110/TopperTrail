@@ -1,0 +1,228 @@
+course_types:
+  interview_only:
+    - interview guidance programme
+    - interview guidance program
+    - interview guidance
+    - interview training program
+    - interview program
+    - igp
+    - mock interview programme
+    - mock interviews
+    - mock interview
+    - personality test
+    - personality development programme
+    - daf analysis
+    - last mile
+    - इंटरव्यू गाइडेंस प्रोग्राम
+    - इंटरव्यू गाइडेंस
+    - मॉक इंटरव्यू
+    - साक्षात्कार मार्गदर्शन
+  foundation_classroom:
+    - gs foundation
+    - foundation course
+    - foundation batch
+    - foundation
+    - classroom programme
+    - classroom program
+    - classroom course
+    - classroom student
+    - full time classroom
+    - full-time classroom
+    - prelims cum mains
+    - pcm
+    - mains advance course
+    - gs mac
+    - residential programme
+    - two year integrated
+    - integrated classroom
+    - nurture
+    - enthuse
+    - leader course
+    - dropper batch
+    - target course
+    - one year classroom
+    - फाउंडेशन कोर्स
+    - फाउंडेशन
+    - क्लासरूम प्रोग्राम
+    - क्लासरूम
+  test_series:
+    - all india test series
+    - prelims test series
+    - mains test series
+    - test series
+    - abhyaas
+    - aiats
+    - mock test
+    - open test
+    - टेस्ट सीरीज
+    - अभ्यास टेस्ट
+  optional:
+    - optional course
+    - optional foundation
+    - optional classes
+    - optional batch
+    - psir
+  crash_course:
+    - crash course
+    - क्रैश कोर्स
+  mentorship:
+    - mentorship
+    - mentoring
+    - मेंटरशिप
+  current_affairs:
+    - ca-va
+    - current affairs
+    - करेंट अफेयर्स
+  essay_ethics:
+    - ethics enhancer
+    - answer writing
+    - essay
+    - ethics
+  online_distance:
+    - online course
+    - online learner
+    - online program
+    - distance learning
+    - postal course
+    - plus subscription
+    - i-eklavya
+    - dlp
+    - ऑनलाइन कोर्स
+    - डिस्टेंस लर्निंग
+generic_coaching:
+  - coaching
+  - कोचिंग
+vague_labels:
+  - our student
+  - our students
+  - from various courses
+  - various courses
+  - various programs
+  - various programmes
+  - associated with
+  - student of
+  - fresher
+  - with xii
+  - repeater
+  - repeaters
+  - हमारे छात्र
+  - हमारा छात्र
+paid_free:
+  - free of cost
+  - free
+  - paid
+  - fee
+  - fees
+  - scholarship
+  - "₹"
+  - rs.
+  - inr
+  - निःशुल्क
+  - नि:शुल्क
+  - मुफ्त
+  - फ्री
+  - शुल्क
+  - फीस
+duration_patterns:
+  - '(?<![\d.])\d{1,2}\s*[- ]?\s*(?:day|days|week|weeks|month|months|year|years|yr|yrs)\b'
+  - '\b(?:one|two|three|six|ten)[- ](?:day|week|month|year)s?\b'
+  - '\d{1,2}\s*(?:दिन|सप्ताह|माह|महीने|महीना|वर्ष|साल)'
+superlatives:
+  - best ias coaching
+  - best ias academy
+  - best upsc coaching
+  - best ias
+  - best coaching
+  - best institute
+  - no. 1
+  - no.1
+  - number 1
+  - number one
+  - "#1"
+  - india's top
+  - india's best
+  - india's premier
+  - top upsc coaching
+  - ranked at 1st position
+  - we are the best
+  - सर्वश्रेष्ठ
+  - नंबर 1
+  - नंबर वन
+  - बेस्ट
+guarantees:
+  - guaranteed selection
+  - guaranteed
+  - guarantee
+  - 100% selection
+  - 100 % selection
+  - assured selection
+  - selection assured
+  - sure shot selection
+  - success pakka
+  - pakka
+  - पक्का
+  - गारंटी
+  - है तो सिलेक्शन है
+aggregate_patterns:
+  - '(?<![\d.])(?!(?:19|20)\d\d\b)\d{1,4}\s*(?:\+|plus)?\s*(?:rank holders?|rankers?|selections?|students?|candidates?|achievers)?\s*(?:in|out of|of)\s*(?:the\s*)?top\s*[- ]?\d{1,4}\b'
+  - '\ball\s*top\s*\d{1,3}\b'
+  - '\btop\s*\d{1,3}\s*out of\s*(?:top\s*)?\d{1,3}\b'
+  - '(?<![\d.])(?!(?:19|20)\d\d\b)(?:\d{2,5}\s*(?:\+|plus)?|\d\s*(?:\+|plus))\s*(?:selections?|selected|results?|achievers)\b'
+  - '\btotal\s*selections?\s*[:\-]?\s*\d{1,5}\b'
+  - '(?<![\d.])(?!(?:19|20)\d\d\b)\d{1,5}\s*out of\s*\d{2,5}\s*(?:selected|selections?|vacancies|candidates|seats|posts)\b'
+  - '(?<![\d.])\d{1,3}(?:\.\d+)?\s*%\s*of\s*(?:all\s*)?(?:\w+\s*){0,2}?(?:selections?|rankers|officers|selected|toppers)\b'
+association_cues:
+  - our student
+  - our students
+  - our topper
+  - our toppers
+  - our achiever
+  - our ranker
+  - congratulation
+  - congratulations
+  - congrats
+  - proud
+  - student of
+  - students of
+  - associated with
+  - from our
+  - joined
+  - enrolled
+  - alumni
+  - alumnus
+  - success story
+  - topper's talk
+  - toppers talk
+  - selections from
+  - हमारे छात्र
+  - हमारा छात्र
+  - बधाई
+first_person:
+  - i
+  - i've
+  - i'm
+  - my
+  - me
+  - myself
+  - मैंने
+  - मैं
+  - मेरा
+  - मेरी
+  - मेरे
+  - मुझे
+negations:
+  - didn't
+  - did not
+  - never
+  - not join
+  - not joined
+  - haven't
+  - have not
+  - no coaching
+  - without coaching
+  - self study
+  - self-study
+  - नहीं
+  - नही
+  - बिना कोचिंग
+  - सेल्फ स्टडी

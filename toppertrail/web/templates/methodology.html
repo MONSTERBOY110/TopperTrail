@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Methodology, TopperTrail{% endblock %}
+{% block main %}
+<article class="reading">
+  <h1>How a claim is recorded and checked</h1>
+  <p class="lede">Every flag below is a fixed rule with a named basis. No AI model decides anything; the same evidence always produces the same ledger.</p>
+
+  <h2>What counts as a claim</h2>
+  <ul>
+    <li>Only sources an institute controls: its registered website, its YouTube channels, and its own Google ads shown in India.</li>
+    <li>A page counts when it ties the topper to the institute: words such as "our student", "congratulations", "alumni" or "associated with", a named course, or the institute's own name beside the topper. Pages that only list the official toppers as news are recorded as named without claiming.</li>
+    <li>Videos on the institute's own channel, its posters and its ads always count, because publishing them is the association.</li>
+    <li>The exam and year must appear near the name, so a topper of one exam is never matched to a namesake from another.</li>
+  </ul>
+
+  <h2>The rules</h2>
+  <div class="table-wrap">
+  <table class="data">
+    <thead><tr><th scope="col">Rule</th><th scope="col">What it records</th><th scope="col">Basis</th></tr></thead>
+    <tbody>
+    {% for id, pair in RULES.items() %}<tr><td>{{ id }}</td><td>{{ pair[0] }}</td><td>{{ pair[1] }}</td></tr>{% endfor %}
+    </tbody>
+  </table>
+  </div>
+
+  <h2>The topper's own words</h2>
+  <p>For each topper, TopperTrail picks one independent interview (a media channel, not an institute) and reads its captions. A line counts as the topper's own statement only when it is in the first person, so a sponsor message read at the start of a video is never attributed to the topper. When the captions seem to contradict a claim, the page shows the line and its timestamp as words to check rather than a verdict.</p>
+
+  <h2>The text these rules rest on</h2>
+  <div class="source-text">{{ guidelines | mdlite }}</div>
+
+  <h2 id="corrections">Request a correction</h2>
+  <p>If an institute discloses a course next to a claim and the ledger missed it, open an issue on the project repository with the page link. The page is collected again and the change is published with its date.</p>
+</article>
+{% endblock %}

@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% from "_chips.html" import chip, fill_legend %}
+{% block title %}{{ v.topper.display }}, rank {{ v.topper.rank }}, {{ led.label }}, TopperTrail{% endblock %}
+{% block main %}
+<p class="crumb"><a href="{{ link('exam/' ~ led.exam) }}">{{ led.label }} board</a></p>
+{% set claims = v.claims %}
+{% set insts = claims | map(attribute='institute_id') | unique | list %}
+<section class="topper-head" aria-labelledby="topper-name">
+  <p class="rank-big"><span class="rank-label">{{ rank_label }}</span>{{ v.topper.rank }}</p>
+  <div>
+    <h1 id="topper-name">{{ v.topper.display }}</h1>
+    <p class="official">Official result, {{ led.label }}. Printed as {{ v.topper.name }}.</p>
+    {% if claims %}
+    {% set named = claims | selectattr('course_types') | list %}
+    <p class="finding-sub">Claimed by <b>{{ insts | length }}</b> institutes in <b>{{ claims | length }}</b> claims. A course is named next to {{ named | length }} of them.</p>
+    {% else %}
+    <p class="finding-sub">No institute claims this rank in the collected sources.</p>
+    {% endif %}
+  </div>
+</section>
+
+{% if chips %}
+<section class="claimants" aria-label="Institutes claiming this rank">
+  <div class="chip-row">{% for c in chips %}{{ chip(c, led.exam) }}{% endfor %}</div>
+  {{ fill_legend() }}
+</section>
+{% endif %}
+
+{% if claims %}
+<section class="claims" aria-labelledby="claims-title">
+  <h2 id="claims-title">What each institute says</h2>
+  {% for iid in chips | map(attribute='institute_id') %}
+  {% set group = claims | selectattr('institute_id', 'equalto', iid) | list %}
+  {% set slot = slots.get(iid) %}
+  <article class="claim-group" aria-labelledby="g-{{ iid }}">
+    <h3 id="g-{{ iid }}"><span class="key slot-{{ slot or 'other' }}" aria-hidden="true"></span><a href="{{ link('exam/' ~ led.exam ~ '/institute/' ~ iid) }}">{{ registry.get(iid).name }}</a> <span class="count">{{ group | length }} {{ 'claim' if group | length == 1 else 'claims' }}</span></h3>
+    {% for c in group %}
+    <div class="claim">
+      <p class="claim-source"><span class="src">{{ SOURCE_LABELS[c.source_type] }}</span> observed {{ c.observed_at or 'on collection' }}</p>
+      <blockquote class="claim-text">{{ excerpt(c.window, v.topper.name, c.course_terms) }}</blockquote>
+      {% if c.window | length > 360 %}
+      <details class="more"><summary>Show the full text</summary><blockquote class="claim-text">{{ full_text(c.window, v.topper.name, c.course_terms) }}</blockquote></details>
+      {% endif %}
+      {% set gaps = c.flags | selectattr('rule_id', 'in', GAP_RULES) | list %}
+      {% if gaps %}
+      <ul class="gaps" aria-label="Disclosure gaps">
+        {% for f in gaps %}<li title="{{ f.detail }}">{{ RULES[f.rule_id][0] }}</li>{% endfor %}
+      </ul>
+      {% endif %}
+      <ul class="flags">
+        {% for f in c.flags if f.rule_id not in GAP_RULES and f.rule_id != 'TT-12' %}
+        <li class="flag {{ f.rule_id | lower }}{% if f.rule_id == 'TT-08' %} is-alert{% endif %}"><b>{{ RULES[f.rule_id][0] }}</b> <span>{{ f.detail }}</span></li>
+        {% endfor %}
+        {% for f in c.flags if f.rule_id == 'TT-12' and f.code != 'no_interview' %}
+        <li class="flag own {{ f.code }}{% if f.code == 'denied' %} is-alert{% endif %}"><b>{{ OWN_WORDS[f.code] }}</b> <span>{{ f.detail }}</span></li>
+        {% endfor %}
+      </ul>
+      <p class="claim-links">
+        <a href="{{ c.url }}" rel="noopener noreferrer nofollow">Open the source</a>
+        {% if c.search_id %}<span>SerpApi search <code class="hash">{{ c.search_id }}</code></span>{% endif %}
+        {% if not static_mode %}{% for e in c.evidence %}<a href="{{ link('evidence/' ~ e) }}">Saved evidence {{ loop.index }}</a>{% endfor %}{% endif %}
+      </p>
+    </div>
+    {% endfor %}
+  </article>
+  {% endfor %}
+</section>
+{% endif %}
+
+<section class="own-words" aria-labelledby="own-title">
+  <h2 id="own-title">In the topper's own words</h2>
+  {% if v.interview %}
+  <p>From an independent interview: <a href="https://www.youtube.com/watch?v={{ v.interview.video_id }}" rel="noopener noreferrer nofollow">{{ v.interview.title }}</a>, {{ v.interview.channel }}. Lines come from YouTube's automatic captions, so check them against the video.</p>
+  {% if v.selfreports %}
+  <ol class="quotes">
+    {% for s in v.selfreports %}
+    <li lang="{{ v.interview.language or 'hi' }}">
+      <a class="stamp" href="https://www.youtube.com/watch?v={{ s.video_id }}&amp;t={{ s.start_ms // 1000 }}s" rel="noopener noreferrer nofollow">{{ s.start_ms | clock }}</a>
+      <q>{{ s.statement }}</q>
+      <span class="said">{% if s.institute_id %}{{ registry.get(s.institute_id).name }}{% else %}No institute named{% endif %}{% if s.polarity == 'deny' %}, said as a negative{% endif %}</span>
+    </li>
+    {% endfor %}
+  </ol>
+  {% else %}
+  <p class="none">The interview does not mention a coaching institute or course in its captions.</p>
+  {% endif %}
+  {% else %}
+  <p class="none">No independent interview with a transcript was found for this topper.</p>
+  {% endif %}
+</section>
+
+<section class="ai" aria-labelledby="ai-title">
+  <h2 id="ai-title">What Google AI Mode says</h2>
+  {% if v.ai and v.ai.excerpt %}
+  <blockquote class="ai-text">{{ v.ai.excerpt }}</blockquote>
+  <p class="meta">Institutes it names: {% for iid in v.ai.institutes %}{{ registry.get(iid).name }}{% if not loop.last %}, {% endif %}{% else %}none{% endfor %}. SerpApi search <code class="hash">{{ v.ai.search_id }}</code>.</p>
+  {% else %}
+  <p class="none">Not collected for this topper.</p>
+  {% endif %}
+</section>
+{% endblock %}

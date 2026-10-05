@@ -1,0 +1,13 @@
+# Media and interview channels that are not coaching institutes. Handles other than
+# Delhi Knowledge Track are matched by channel name until verified.
+- {name: Delhi Knowledge Track, channel_id: UCuHW2abZ-K0SKGhXfkyOY6w, handle: DelhiKnowledgeTrack}
+- {name: The Lallantop}
+- {name: Josh Talks}
+- {name: Aaj Tak}
+- {name: NDTV}
+- {name: Dainik Bhaskar}
+- {name: News18 India}
+- {name: ABP NEWS}
+- {name: Indian Masterminds}
+- {name: ThePrint}
+- {name: The Better India}

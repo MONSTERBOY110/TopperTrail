@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}Saved evidence {{ sha[:12] }}, TopperTrail{% endblock %}
+{% block main %}
+<article class="reading wide">
+  <h1>Saved evidence</h1>
+  <p class="hash-line"><code class="hash">{{ sha }}</code></p>
+  <p class="{{ 'ok' if intact else 'is-alert-text' }}">{{ 'The file matches its SHA-256 name, so it has not changed since collection.' if intact else 'The file no longer matches its SHA-256 name; it changed after collection.' }}</p>
+  <pre class="json">{{ body }}</pre>
+</article>
+{% endblock %}

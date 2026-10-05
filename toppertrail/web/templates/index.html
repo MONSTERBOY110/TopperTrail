@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="intro" aria-labelledby="intro-title">
+  <h1 id="intro-title">One rank. Many claims. Follow the trail.</h1>
+  <p class="lede">After every UPSC, JEE and NEET result, coaching institutes put the same toppers on their pages, posters, videos and ads. TopperTrail collects those claims from the institutes' own channels, sets each one against the official result and the topper's own words, and shows what the institute disclosed next to it.</p>
+</section>
+<section aria-labelledby="exams-title">
+  <h2 id="exams-title">Exams</h2>
+  {% if exams %}
+  <ul class="exam-list">
+    {% for exam_id, led, h in exams %}
+    <li>
+      <a class="exam-link" href="{{ link('exam/' ~ exam_id) }}">{{ led.label }}</a>
+      <p>{% if h.claims %}{{ h.claims }} claims by {{ h.institutes }} institutes about the top {{ h.toppers }} ranks; a course is named next to {{ h.course_stated_pct }}% of them.{% else %}No claims recorded yet.{% endif %}</p>
+      {% if led.preview %}<p class="tag-preview">Preview data</p>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="none">No ledgers yet. Run <code>toppertrail collect upsc-cse-2025</code>, then <code>toppertrail analyze upsc-cse-2025</code>. To replay the recorded run without an API key, set <code>TOPPERTRAIL_REPLAY=1</code> first.</p>
+  {% endif %}
+</section>
+{% endblock %}

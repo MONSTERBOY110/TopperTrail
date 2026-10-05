@@ -1,0 +1,17 @@
+{# Claimant chips: hue is the institute, the swatch fill is the disclosure. #}
+{% macro chip(c, exam_id) -%}
+<a class="chip slot-{{ c.slot or 'other' }} is-{{ c.state }}{% if c.alert %} has-alert{% endif %}" href="{{ link('exam/' ~ exam_id ~ '/institute/' ~ c.institute_id) }}">
+  <span class="swatch" aria-hidden="true"></span>
+  <span class="chip-name">{{ c.name }}</span>
+  <span class="sr">{% if c.state == 'stated' %}, course named{% elif c.state == 'interview' %}, interview programme only{% else %}, no course named{% endif %}{% if c.alert %}, words to check{% endif %}</span>
+</a>
+{%- endmacro %}
+
+{% macro fill_legend() -%}
+<ul class="fill-legend" aria-label="What the swatch fill means">
+  <li><span class="swatch demo is-stated" aria-hidden="true"></span>Course named next to the claim</li>
+  <li><span class="swatch demo is-interview" aria-hidden="true"></span>Only an interview programme named</li>
+  <li><span class="swatch demo is-none" aria-hidden="true"></span>No course named</li>
+  <li><span class="alert-mark" aria-hidden="true"></span>Rank or the topper's own words to check</li>
+</ul>
+{%- endmacro %}

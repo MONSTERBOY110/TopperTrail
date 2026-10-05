@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block title %}{{ v.institute.name }}, {{ led.label }}, TopperTrail{% endblock %}
+{% block main %}
+<p class="crumb"><a href="{{ link('exam/' ~ led.exam) }}">{{ led.label }} board</a></p>
+{% set claims = v.claims %}
+{% set ranks = claims | map(attribute='rank') | unique | sort | list %}
+{% set named = claims | selectattr('course_types') | list %}
+<section class="inst-head" aria-labelledby="inst-name">
+  <h1 id="inst-name"><span class="key big slot-{{ slot or 'other' }}" aria-hidden="true"></span>{{ v.institute.name }}</h1>
+  {% if v.institute.legal_name %}<p class="official">{{ v.institute.legal_name }}</p>{% endif %}
+  <p class="finding-sentence small">
+    Named in <b class="fig">{{ claims | length }}</b> claims about <b class="fig">{{ ranks | length }}</b> of the top {{ led.toppers | length }} ranks.
+    A course is named next to <b class="fig">{{ named | length }}</b> of them.
+  </p>
+  {% if ranks %}
+  <p class="rank-list">Ranks claimed:
+    {% for r in ranks %}<a href="{{ link('exam/' ~ led.exam ~ '/topper/' ~ r) }}">{{ rank_label }} {{ r }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+  </p>
+  {% endif %}
+</section>
+
+<section aria-labelledby="sig-title">
+  <h2 id="sig-title">Wording found in its own material</h2>
+  {% if v.signals %}
+  <ul class="flags wide">
+    {% for f in v.signals %}<li class="flag {{ f.rule_id | lower }}"><b>{{ RULES[f.rule_id][0] }}</b> <span>{{ f.detail }}</span></li>{% endfor %}
+  </ul>
+  {% else %}
+  <p class="none">No superlative, guarantee or count wording found in the collected pages.</p>
+  {% endif %}
+</section>
+
+<section aria-labelledby="claims-title">
+  <h2 id="claims-title">Claims</h2>
+  <div class="table-wrap">
+  <table class="data">
+    <thead><tr><th scope="col" class="num">Rank</th><th scope="col">Source</th><th scope="col">Course named</th><th scope="col">Observed</th></tr></thead>
+    <tbody>
+    {% for c in claims | sort(attribute='rank') %}
+    <tr>
+      <td class="num"><a href="{{ link('exam/' ~ led.exam ~ '/topper/' ~ c.rank) }}">{{ c.rank }}</a></td>
+      <td><a href="{{ c.url }}" rel="noopener noreferrer nofollow">{{ SOURCE_LABELS[c.source_type] }}</a></td>
+      <td>{{ c.course_terms | join(', ') if c.course_terms else 'None named' }}</td>
+      <td>{{ c.observed_at }}</td>
+    </tr>
+    {% else %}
+    <tr><td colspan="4">No claims by this institute in this ledger.</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+</section>
+
+<section aria-labelledby="ccpa-title">
+  <h2 id="ccpa-title">CCPA orders on record</h2>
+  {% if v.orders %}
+  <ul class="orders">
+    {% for o in v.orders %}
+    <li><span class="date">{{ o.order_date }}</span> {{ o.exam }} {{ o.exam_year if o.exam_year else '' }}, penalty {{ o.penalty_inr | inr }}. <a href="{{ o.pib or o.order_pdf }}" rel="noopener noreferrer nofollow">Read the order</a></li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="none">No CCPA coaching order for this institute in the register checked on 5 Oct 2026.</p>
+  {% endif %}
+</section>
+{% endblock %}
