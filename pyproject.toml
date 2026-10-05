@@ -1,0 +1,43 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "toppertrail"
+version = "0.1.0"
+description = "Evidence ledger of coaching institutes' topper claims, built on SerpApi"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = [
+  "serpapi>=1.1,<2",
+  "httpx>=0.27",
+  "typer>=0.12",
+  "fastapi>=0.115",
+  "uvicorn>=0.30",
+  "jinja2>=3.1",
+  "pyyaml>=6.0",
+  "selectolax>=1.0",
+  "rapidfuzz>=3.9",
+  "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+ocr = ["rapidocr-onnxruntime>=1.3"]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[project.scripts]
+toppertrail = "toppertrail.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["toppertrail"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

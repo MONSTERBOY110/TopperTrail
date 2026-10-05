@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.toppertrail/
+.superpowers/
+.env
+site/
+dist/
+build/
+*.egg-info/
+.toppertrail-preview/
+.impeccable
+.github
