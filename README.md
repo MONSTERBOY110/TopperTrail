@@ -6,7 +6,7 @@ After every UPSC, JEE and NEET result, coaching institutes put the same toppers 
 
 CCPA finds this one institute at a time, months later. The evidence is public on result day. TopperTrail assembles it: for every official topper it collects each institute's claims from the institute's own channels, checks what the institute disclosed next to the claim against the CCPA's 2024 coaching guidelines, compares it with the topper's own words in an independent interview, and records what Google AI Mode says.
 
-Built for the SerpApi India Hackathon 2026 (Knowledge & Public Interest).
+Built for the SerpApi India Hackathon 2026 (Knowledge & Public Interest). **Demo video (2:53):** https://youtu.be/XMOh3FFxQos
 
 ## What the recorded run found (UPSC CSE 2025, top 20)
 

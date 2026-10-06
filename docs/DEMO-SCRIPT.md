@@ -1,4 +1,4 @@
-# Demo video (2:52, recorded 5 October 2026)
+# Demo video (2:53, recorded 5 October 2026): https://youtu.be/XMOh3FFxQos
 
 Everything on screen is the project running locally: a real PowerShell session and the real dashboard, filmed frame by frame. The terminal part is judge mode, run in a fresh copy of the repository with no `.env` and no API key, so the recording spent no credits. The short live clip is the actual recorded run, sped up. Narration is Microsoft Edge neural text to speech; every number it says is printed by `toppertrail analyze` on the recorded run.
 

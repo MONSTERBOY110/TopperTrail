@@ -8,7 +8,7 @@ Paste into https://serpapi.github.io/serpapi-india-hackathon-2026/submit.html (s
 
 **Public GitHub repository:** https://github.com/MONSTERBOY110/TopperTrail
 
-**Demo video:** (unlisted YouTube link, under 3 minutes)
+**Demo video:** https://youtu.be/XMOh3FFxQos
 
 **Project description:**
 After every UPSC, JEE and NEET result, coaching institutes put the same toppers on their pages, posters, YouTube channels and ads. Parents and aspirants pay Rs 1 to 3 lakh on the strength of those claims, and the CCPA has fined institutes more than Rs 1.46 crore, mostly because the "topper" had only taken a free interview programme and the advertisement did not say so. TopperTrail collects every public claim about each official topper from the institutes' own channels, checks each one with fixed rules taken from the CCPA's 2024 coaching guidelines and orders, compares it with the topper's own words in an independent interview, and records what Google AI Mode says. The result is a ledger per exam: who claims each rank, what course they name next to the claim, and the evidence for every line. It helps aspirants and parents before they pay, and gives journalists and consumer bodies citable evidence. In the recorded run for UPSC CSE 2025, 7 institutes claim AIR 1, every top-20 rank is claimed by at least 3 institutes, and whether the course was paid or free is stated next to 1% of claims. No AI model decides anything; the rules are validated against 33 CCPA orders, and the recorded run replays with no API key.
