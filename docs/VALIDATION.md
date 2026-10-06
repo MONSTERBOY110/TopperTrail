@@ -44,3 +44,20 @@ The lexicon was changed after the first scoring, to fix problems found by runnin
 | TT-11 | 57 | 0 | 19 | 1.0 | 0.75 |
 
 Course labels classified exactly: 21 of 21. Scores are unchanged by the fixes.
+
+## Hand check of the recorded run (2026-10-05, before publishing)
+
+Every AIR 1 claim in the recorded UPSC run was read by hand against its source before the numbers were published. That found extraction defects the research pages had not shown; each was fixed test-first and the ledger rebuilt from the same recorded evidence (no new searches, so the replay manifest is unchanged):
+
+- Image text from a poster listing several toppers lost its layout, so a neighbour's rank was attributed to AIR 1 and raised a rank check. In image text a rank that differs from the official one is now read only when it is the only rank printed and only one topper is named. All 7 rank checks this produced disappeared; none remain in UPSC.
+- "Personality Test", the official name of the UPSC interview stage, counted as an interview course in news text. Only "Personality Test Programme" (or Program, Guidance) counts now.
+- Bare "foundation" ("a strong academic foundation") counted as a course. Only named foundation courses count now.
+- "Success story" in a news biography's headline counted as an association word. Only "our success story" counts now.
+- A banner's alt text ("Essay and Ethics Test Series") next to a news paragraph was read as a course disclosure. Image alt text no longer joins the window around a name.
+- A blog thumbnail on an institute's site counted as a poster claim because the image carries the institute's watermark. Posters now need the same association words as pages; the watermark name does not count.
+- OCR often runs words together ("INTERVIEWGUIDANCEPROGRAMME", "ANUJAGNIHOTRI"). In image text only, full names and multi-word course names (10 letters or more) now also match with spaces removed. A name must start and end a word (a change of case or between letters and digits also ends a word), so "AKASHKUMAR" never matches inside "PRAKASHKUMAR"; a course name must start a word unless it sits inside a run of 15 or more letters, where the real word starts are unknown ("GENERALSTUDIESCLASSROOMPROGRAM"), so "LATEST SERIES" is not read as a test series. This restored the course on Vajiram & Ravi's AIR 1 poster and found the 3 Vision IAS Google ads naming AIR 5.
+- One poster published on several pages counted once per page. One image is now one claim.
+
+A fresh code review of these fixes then found four more, also fixed test-first: an exam year printed before "Rank" ("UPSC CSE 2025 Rank 1") could be read as a rank of 2025; "Mock Personality Test" had stopped counting as an interview course; excerpts now cut at any whitespace, not only spaces, so OCR lines keep the topper's name; and a page that yields a claim is no longer also listed as "named without claiming the topper". None of these changed a published number.
+
+The CCPA suite scores above are unchanged by these fixes (same precision, recall and 21 of 21 course labels).

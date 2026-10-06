@@ -51,3 +51,56 @@ def test_analyze_builds_ledger_and_is_deterministic(tmp_path):
     tt12 = {f["institute_id"]: f["code"] for f in ledger["flags"] if f["rule_id"] == "TT-12"}
     assert tt12 == {"next-ias": "mentioned", "vajiram-ravi": "not_mentioned"}
     assert ledger_hash(ledger) == ledger_hash(analyze(*args))
+
+
+def test_image_result_with_fetched_page_gives_a_page_claim_not_an_empty_poster(tmp_path):
+    store = EvidenceStore(tmp_path)
+    run = Run(EXAM.id)
+    doc = {"engine": "google_images", "params": {"engine": "google_images"}, "purpose": "images",
+           "rank": 1, "institute_id": None,
+           "response": {"images_results": [{"link": "https://vajiramandravi.com/a",
+                                             "original": "https://x/p.jpg", "title": "Anuj"}]}}
+    run.add(ArtifactRef("serp", "images:1", store.put(doc), {}))
+    page = {"url": "https://vajiramandravi.com/a", "status": 200, "fetched_at": "2026-10-06",
+            "html_sha256": "h", "blocks": [[0, "Anuj Agnihotri AIR 1 UPSC CSE 2025 (IGP)"]],
+            "error": None}
+    run.add(ArtifactRef("page", page["url"], store.put(page), {}))
+    ledger = analyze(EXAM, load_roster(EXAM, 1), load_registry(), Lexicon.load(), run, store)
+    assert [c["source_type"] for c in ledger["claims"]] == ["web_page"]
+
+
+def test_same_poster_on_several_pages_is_one_claim(tmp_path):
+    store = EvidenceStore(tmp_path)
+    run = Run(EXAM.id)
+    links = ["https://vajiramandravi.com/b", "https://vajiramandravi.com/a"]
+    doc = {"engine": "google_images", "params": {"engine": "google_images"}, "purpose": "images",
+           "rank": 1, "institute_id": None,
+           "response": {"images_results": [{"link": u, "original": "https://x/p.jpg",
+                                             "title": "UPSC CSE 2025"} for u in links]}}
+    run.add(ArtifactRef("serp", "images:1", store.put(doc), {}))
+    img = {"url": "https://x/p.jpg", "text": "Congratulations Anuj Agnihotri AIR 1 UPSC CSE 2025",
+           "error": None}
+    run.add(ArtifactRef("image", img["url"], store.put(img), {}))
+    ledger = analyze(EXAM, load_roster(EXAM, 1), load_registry(), Lexicon.load(), run, store)
+    posters = [c for c in ledger["claims"] if c["source_type"] == "poster"]
+    assert [c["url"] for c in posters] == ["https://vajiramandravi.com/a"]
+
+
+def test_a_page_with_a_claim_is_not_also_listed_as_unclaimed(tmp_path):
+    store = EvidenceStore(tmp_path)
+    run = Run(EXAM.id)
+    url = "https://vajiramandravi.com/a"
+    doc = {"engine": "google_images", "params": {"engine": "google_images"}, "purpose": "images",
+           "rank": 1, "institute_id": None,
+           "response": {"images_results": [{"link": url, "original": "https://x/p.jpg",
+                                             "title": "UPSC CSE 2025"}]}}
+    run.add(ArtifactRef("serp", "images:1", store.put(doc), {}))
+    page = {"url": url, "status": 200, "fetched_at": "2026-10-06", "html_sha256": "h",
+            "blocks": [[0, "Anuj Agnihotri AIR 1 UPSC CSE 2025 strategy"]], "error": None}
+    run.add(ArtifactRef("page", url, store.put(page), {}))
+    img = {"url": "https://x/p.jpg", "text": "Congratulations Anuj Agnihotri AIR 1 UPSC CSE 2025",
+           "error": None}
+    run.add(ArtifactRef("image", img["url"], store.put(img), {}))
+    ledger = analyze(EXAM, load_roster(EXAM, 1), load_registry(), Lexicon.load(), run, store)
+    assert [c["source_type"] for c in ledger["claims"]] == ["poster"]
+    assert ledger["unresolved"] == []

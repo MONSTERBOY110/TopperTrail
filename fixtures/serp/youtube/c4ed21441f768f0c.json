@@ -1,0 +1,71 @@
+{
+ "engine": "youtube",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube",
+  "gl": "in",
+  "hl": "en",
+  "search_query": "Anuj Agnihotri UPSC 2025 topper interview"
+ },
+ "purpose": "youtube",
+ "rank": 1,
+ "response": {
+  "search_metadata": {
+   "created_at": "2026-10-05 15:35:18 UTC",
+   "id": "6ac3c3b605bb5961bddbb48e",
+   "processed_at": "2026-10-05 15:35:18 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube",
+   "gl": "in",
+   "hl": "en",
+   "search_query": "Anuj Agnihotri UPSC 2025 topper interview"
+  },
+  "video_results": [
+   {
+    "channel": {
+     "name": "NEXT IAS and NEXT IAS HINDI",
+     "thumbnail": "https://yt3.ggpht.com/ZdEQqBZ5-FyBpWsDGNK2rHC_ljUjGVeJOuaL4ZiYjTmLxPB_91ybBOlYDg2knTBJ5Wbt6c6_n50=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "description": "We extend our heartiest congratulations to Mr. Anuj Agnihotri, who secured AIR – 1 in UPSC CSE 2025. We are honored to have ...",
+    "length": "27:39",
+    "link": "https://www.youtube.com/watch?v=8X-e5cJ_L3M",
+    "position_on_page": 2,
+    "published_date": "6mo ago",
+    "title": "Anuj Agnihotri AIR 1 | CSE Topper’s Mock Interview | UPSC Result 2025 | NEXT IAS",
+    "views": 912056
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@VajiramandRaviOfficial",
+     "name": "Vajiram and Ravi Official",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mFMxi-lhQ_fQfTK88GtKw29eRJNipyJayxpIDkYZisdoY=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "Strategy That Every Aspirant Must Watch What separates an AIR 1 from thousands of equally hardworking aspirants? It's not just ...",
+    "length": "23:30",
+    "link": "https://www.youtube.com/watch?v=jt7VPv1sj2Q",
+    "position_on_page": 3,
+    "published_date": "6mo ago",
+    "title": "UPSC CSE 2025 AIR 1 Anuj Agnihotri | Strategy | Vajiram and Ravi | UPSC Journey | Podcast",
+    "views": 298060
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@DelhiKnowledgeTrack",
+     "name": "Delhi Knowledge Track",
+     "thumbnail": "https://yt3.ggpht.com/DAPFVEgxWAR25penrH4_WAxnxu2G-aI53hXAri7YoR8uDDZc-FCkAWgz7EPXz6EtuCsMccmDOA=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "Anuj Agnihotri. MBBS. AIIMS Jodhpur. Small town boy from Rawabhata. Missed the final list by 5 brutal marks. Crumbled in the ...",
+    "length": "1:31:06",
+    "link": "https://www.youtube.com/watch?v=KIr6dWSqspI",
+    "position_on_page": 4,
+    "published_date": "6mo ago",
+    "title": "Rank 1 UPSC CSE 2025 | Here’s The 90+ Minutes of Golden Rule for UPSC By AIR 1 Dr. Anuj Agnihotri",
+    "views": 156012
+   }
+  ]
+ }
+}

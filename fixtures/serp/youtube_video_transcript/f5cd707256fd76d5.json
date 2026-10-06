@@ -1,0 +1,4078 @@
+{
+ "engine": "youtube_video_transcript",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube_video_transcript",
+  "language_code": "hi",
+  "v": "JNwB9klTU40"
+ },
+ "purpose": "transcript",
+ "rank": 20,
+ "response": {
+  "available_transcripts": [
+   {
+    "language_code": "hi",
+    "selected": true,
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=JNwB9klTU40",
+    "type": "asr"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 16:16:42 UTC",
+   "id": "6ac3cd6a368070c20232aafa",
+   "processed_at": "2026-10-05 16:16:42 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "language_code": "hi",
+   "v": "JNwB9klTU40"
+  },
+  "transcript": [
+   {
+    "end_ms": 3600,
+    "snippet": "इन द लेटेस्ट यूपीएससी रिजल्ट 2025, टॉप",
+    "start_ms": 80,
+    "start_time_label": "0:00",
+    "start_time_text": "0:00"
+   },
+   {
+    "end_ms": 6319,
+    "snippet": "10 आउट ऑफ टॉप 10 आर फ्रॉम वेरियस कोर्सेज",
+    "start_ms": 3600,
+    "start_time_label": "0:03",
+    "start_time_text": "0:03"
+   },
+   {
+    "end_ms": 9200,
+    "snippet": "ऑफ वाजराम एंड रवि विद ऑल इंडिया रैंक वन",
+    "start_ms": 6319,
+    "start_time_label": "0:06",
+    "start_time_text": "0:06"
+   },
+   {
+    "end_ms": 11920,
+    "snippet": "अनुज अग्निहोत्री एंड मेनी मोर। फॉर ओवर अ",
+    "start_ms": 9200,
+    "start_time_label": "0:09",
+    "start_time_text": "0:09"
+   },
+   {
+    "end_ms": 15200,
+    "snippet": "डेकेड, द ऑल इंडिया रैंक वन हैज़ इमर्ज्ड",
+    "start_ms": 11920,
+    "start_time_label": "0:11",
+    "start_time_text": "0:11"
+   },
+   {
+    "end_ms": 18480,
+    "snippet": "फ्रॉम दिस वेरी इकोसिस्टम। अ जर्नी पावर्ड",
+    "start_ms": 15200,
+    "start_time_label": "0:15",
+    "start_time_text": "0:15"
+   },
+   {
+    "end_ms": 21600,
+    "snippet": "बाय 50 प्लस इयर्स ऑफ़ लेगसी जॉइन द जीएस",
+    "start_ms": 18480,
+    "start_time_label": "0:18",
+    "start_time_text": "0:18"
+   },
+   {
+    "end_ms": 24235,
+    "snippet": "फाउंडेशन प्रोग्राम इंक्वायर्ड नाउ।",
+    "start_ms": 21600,
+    "start_time_label": "0:21",
+    "start_time_text": "0:21"
+   },
+   {
+    "end_ms": 25760,
+    "snippet": "[संगीत]",
+    "start_ms": 24235,
+    "start_time_label": "0:24",
+    "start_time_text": "0:24"
+   },
+   {
+    "end_ms": 28480,
+    "snippet": "मेरा नाम रवि राज है। मैं बिहार के नवादा",
+    "start_ms": 25760,
+    "start_time_label": "0:25",
+    "start_time_text": "0:25"
+   },
+   {
+    "end_ms": 31439,
+    "snippet": "जिले से हूं। मैंने ग्रेजुएशन एसआरएस",
+    "start_ms": 28480,
+    "start_time_label": "0:28",
+    "start_time_text": "0:28"
+   },
+   {
+    "end_ms": 35760,
+    "snippet": "कॉलेज नवादा मगध यूनिवर्सिटी से 2020 में",
+    "start_ms": 31439,
+    "start_time_label": "0:31",
+    "start_time_text": "0:31"
+   },
+   {
+    "end_ms": 37920,
+    "snippet": "हिस्ट्री जग्राफी और पॉलिटिकल साइंस में",
+    "start_ms": 35760,
+    "start_time_label": "0:35",
+    "start_time_text": "0:35"
+   },
+   {
+    "end_ms": 40480,
+    "snippet": "किया था। उसके बाद से मैंने सिविल सर्विज",
+    "start_ms": 37920,
+    "start_time_label": "0:37",
+    "start_time_text": "0:37"
+   },
+   {
+    "end_ms": 42320,
+    "snippet": "की तैयारी की। जहां चौथे अटेम्प्ट में",
+    "start_ms": 40480,
+    "start_time_label": "0:40",
+    "start_time_text": "0:40"
+   },
+   {
+    "end_ms": 46800,
+    "snippet": "मेरा मुझे रैंक 182 मेरा रैंक आया और फिर",
+    "start_ms": 42320,
+    "start_time_label": "0:42",
+    "start_time_text": "0:42"
+   },
+   {
+    "end_ms": 49120,
+    "snippet": "पांचवें अटेम्प्ट में अभी ऑल इंडिया रैंक",
+    "start_ms": 46800,
+    "start_time_label": "0:46",
+    "start_time_text": "0:46"
+   },
+   {
+    "end_ms": 52079,
+    "snippet": "20 आया। उससे पहले 69 बीपीएससी में भी",
+    "start_ms": 49120,
+    "start_time_label": "0:49",
+    "start_time_text": "0:49"
+   },
+   {
+    "end_ms": 53920,
+    "snippet": "मेरा सिलेक्शन हो चुका था। बतौर रेवेन्यू",
+    "start_ms": 52079,
+    "start_time_label": "0:52",
+    "start_time_text": "0:52"
+   },
+   {
+    "end_ms": 56160,
+    "snippet": "ऑफिसर। एक बात जो मैं पहले ही क्लियर करना",
+    "start_ms": 53920,
+    "start_time_label": "0:53",
+    "start_time_text": "0:53"
+   },
+   {
+    "end_ms": 59359,
+    "snippet": "चाहूंगा कि तैयारी के दौरान",
+    "start_ms": 56160,
+    "start_time_label": "0:56",
+    "start_time_text": "0:56"
+   },
+   {
+    "end_ms": 61840,
+    "snippet": "अधिकांश एस्पिरेंट अलग-अलग कोचिंगों का",
+    "start_ms": 59359,
+    "start_time_label": "0:59",
+    "start_time_text": "0:59"
+   },
+   {
+    "end_ms": 64239,
+    "snippet": "हेल्प लेते हैं। अलग-अलग",
+    "start_ms": 61840,
+    "start_time_label": "1:01",
+    "start_time_text": "1:01"
+   },
+   {
+    "end_ms": 66320,
+    "snippet": "सोर्सेज का हेल्प लेते हैं। तो मैंने भी",
+    "start_ms": 64239,
+    "start_time_label": "1:04",
+    "start_time_text": "1:04"
+   },
+   {
+    "end_ms": 69439,
+    "snippet": "ली थी। अ मैंने अगर मैं कोचिंग",
+    "start_ms": 66320,
+    "start_time_label": "1:06",
+    "start_time_text": "1:06"
+   },
+   {
+    "end_ms": 71920,
+    "snippet": "इंस्टट्यूट्स का नाम के साथ बताना चाहूं",
+    "start_ms": 69439,
+    "start_time_label": "1:09",
+    "start_time_text": "1:09"
+   },
+   {
+    "end_ms": 74000,
+    "snippet": "तो ऑप्शनल मेरा हिस्ट्री रहा है जिसे",
+    "start_ms": 71920,
+    "start_time_label": "1:11",
+    "start_time_text": "1:11"
+   },
+   {
+    "end_ms": 77280,
+    "snippet": "मैंने मणिकांत सर से कंप्लीट किया था 202",
+    "start_ms": 74000,
+    "start_time_label": "1:14",
+    "start_time_text": "1:14"
+   },
+   {
+    "end_ms": 82240,
+    "snippet": "के आसपास। अ जीएस में",
+    "start_ms": 77280,
+    "start_time_label": "1:17",
+    "start_time_text": "1:17"
+   },
+   {
+    "end_ms": 85520,
+    "snippet": "मैंने कई कोचिंगों की का हेल्प लिया। जैसे",
+    "start_ms": 82240,
+    "start_time_label": "1:22",
+    "start_time_text": "1:22"
+   },
+   {
+    "end_ms": 88320,
+    "snippet": "अनअकडमी के मधुकर कोटवे सर थे। उन्होंने",
+    "start_ms": 85520,
+    "start_time_label": "1:25",
+    "start_time_text": "1:25"
+   },
+   {
+    "end_ms": 92240,
+    "snippet": "मुझे उनसे मैंने अह ज्योग्राफी",
+    "start_ms": 88320,
+    "start_time_label": "1:28",
+    "start_time_text": "1:28"
+   },
+   {
+    "end_ms": 95600,
+    "snippet": "अह एनवायरमेंट सीसट के क्लासेस और वह भी",
+    "start_ms": 92240,
+    "start_time_label": "1:32",
+    "start_time_text": "1:32"
+   },
+   {
+    "end_ms": 97600,
+    "snippet": "YouTube पे जो पढ़े हुए थे मैंने उसके किए।",
+    "start_ms": 95600,
+    "start_time_label": "1:35",
+    "start_time_text": "1:35"
+   },
+   {
+    "end_ms": 99759,
+    "snippet": "ऑलदो उसके बाद उन्होंने मुझे प्रीलिम्स",
+    "start_ms": 97600,
+    "start_time_label": "1:37",
+    "start_time_text": "1:37"
+   },
+   {
+    "end_ms": 102159,
+    "snippet": "क्लियर होने पे सब्सक्रिप्शन प्रोवाइड",
+    "start_ms": 99759,
+    "start_time_label": "1:39",
+    "start_time_text": "1:39"
+   },
+   {
+    "end_ms": 105439,
+    "snippet": "किया था Unacademy का। तो ये उधर का रहा।",
+    "start_ms": 102159,
+    "start_time_label": "1:42",
+    "start_time_text": "1:42"
+   },
+   {
+    "end_ms": 108479,
+    "snippet": "अ अनदर कोचिंग की अगर मैं बात करूं तो",
+    "start_ms": 105439,
+    "start_time_label": "1:45",
+    "start_time_text": "1:45"
+   },
+   {
+    "end_ms": 110240,
+    "snippet": "एएफईआईएस",
+    "start_ms": 108479,
+    "start_time_label": "1:48",
+    "start_time_text": "1:48"
+   },
+   {
+    "end_ms": 112479,
+    "snippet": "एक ऑनलाइन प्लेटफार्म है। यहां से मैंने",
+    "start_ms": 110240,
+    "start_time_label": "1:50",
+    "start_time_text": "1:50"
+   },
+   {
+    "end_ms": 114960,
+    "snippet": "जीएस में काफी हेल्प ली है। करंट अफेयर",
+    "start_ms": 112479,
+    "start_time_label": "1:52",
+    "start_time_text": "1:52"
+   },
+   {
+    "end_ms": 116640,
+    "snippet": "में भी हेल्प ली।",
+    "start_ms": 114960,
+    "start_time_label": "1:54",
+    "start_time_text": "1:54"
+   },
+   {
+    "end_ms": 119360,
+    "snippet": "दृष्टि आईएस की अगर मैं बात करूं तो उनके",
+    "start_ms": 116640,
+    "start_time_label": "1:56",
+    "start_time_text": "1:56"
+   },
+   {
+    "end_ms": 121600,
+    "snippet": "द्वारा मुझे जो हेल्प किया गया कि उनके",
+    "start_ms": 119360,
+    "start_time_label": "1:59",
+    "start_time_text": "1:59"
+   },
+   {
+    "end_ms": 123920,
+    "snippet": "मैंने बुक्स काफी एक्सटेंसिवली यूज किए",
+    "start_ms": 121600,
+    "start_time_label": "2:01",
+    "start_time_text": "2:01"
+   },
+   {
+    "end_ms": 126320,
+    "snippet": "हैं अलग-अलग सब्जेक्ट्स के। इनफैक्ट उनका",
+    "start_ms": 123920,
+    "start_time_label": "2:03",
+    "start_time_text": "2:03"
+   },
+   {
+    "end_ms": 128239,
+    "snippet": "एक डीएलपी आता है डिस्टेंस लर्निंग",
+    "start_ms": 126320,
+    "start_time_label": "2:06",
+    "start_time_text": "2:06"
+   },
+   {
+    "end_ms": 131920,
+    "snippet": "प्रोग्राम। तो उसके उसको मैंने परचेज किया",
+    "start_ms": 128239,
+    "start_time_label": "2:08",
+    "start_time_text": "2:08"
+   },
+   {
+    "end_ms": 134480,
+    "snippet": "था और वैसे उस पे बहुत सारे बुक्स थे पर",
+    "start_ms": 131920,
+    "start_time_label": "2:11",
+    "start_time_text": "2:11"
+   },
+   {
+    "end_ms": 137120,
+    "snippet": "मैंने लिमिटेड बुक्स को ही यूज़ किया था",
+    "start_ms": 134480,
+    "start_time_label": "2:14",
+    "start_time_text": "2:14"
+   },
+   {
+    "end_ms": 139680,
+    "snippet": "बहुत लिमिटेड बुक्स को। साथ ही जो",
+    "start_ms": 137120,
+    "start_time_label": "2:17",
+    "start_time_text": "2:17"
+   },
+   {
+    "end_ms": 141520,
+    "snippet": "प्रीलिम्स क्लियर होने के बाद वो फ्री",
+    "start_ms": 139680,
+    "start_time_label": "2:19",
+    "start_time_text": "2:19"
+   },
+   {
+    "end_ms": 144400,
+    "snippet": "मेंटरशिप देते हैं अस्मिता के तहत। तो",
+    "start_ms": 141520,
+    "start_time_label": "2:21",
+    "start_time_text": "2:21"
+   },
+   {
+    "end_ms": 147840,
+    "snippet": "मैंने उसको अवेल किया था आंसर राइटिंग के",
+    "start_ms": 144400,
+    "start_time_label": "2:24",
+    "start_time_text": "2:24"
+   },
+   {
+    "end_ms": 150000,
+    "snippet": "पॉइंट ऑफ व्यू से। इसके अतिरिक्त एक",
+    "start_ms": 147840,
+    "start_time_label": "2:27",
+    "start_time_text": "2:27"
+   },
+   {
+    "end_ms": 152560,
+    "snippet": "रियासत सर है। उन्होंने मुझे पर्सनल आंसर",
+    "start_ms": 150000,
+    "start_time_label": "2:30",
+    "start_time_text": "2:30"
+   },
+   {
+    "end_ms": 154400,
+    "snippet": "राइटिंग स्पेशली एथिक्स में उन्होंने",
+    "start_ms": 152560,
+    "start_time_label": "2:32",
+    "start_time_text": "2:32"
+   },
+   {
+    "end_ms": 156959,
+    "snippet": "हेल्प करी थी। मैं उनको एक दो क्वेश्चन",
+    "start_ms": 154400,
+    "start_time_label": "2:34",
+    "start_time_text": "2:34"
+   },
+   {
+    "end_ms": 159360,
+    "snippet": "लिख के भेजा करता था हर दूसरे तीसरे दिन।",
+    "start_ms": 156959,
+    "start_time_label": "2:36",
+    "start_time_text": "2:36"
+   },
+   {
+    "end_ms": 162400,
+    "snippet": "वो उस पे मुझे प्रॉपर फीडबैक देते थे। तो",
+    "start_ms": 159360,
+    "start_time_label": "2:39",
+    "start_time_text": "2:39"
+   },
+   {
+    "end_ms": 165200,
+    "snippet": "ये मैं बताना चाहता था कि बहुत बार बहुत",
+    "start_ms": 162400,
+    "start_time_label": "2:42",
+    "start_time_text": "2:42"
+   },
+   {
+    "end_ms": 167120,
+    "snippet": "सारे कोचिंग इंस्टट्यूट मुझे अपना",
+    "start_ms": 165200,
+    "start_time_label": "2:45",
+    "start_time_text": "2:45"
+   },
+   {
+    "end_ms": 170959,
+    "snippet": "स्टूडेंट होने का दावा कर रहे हैं। बट द",
+    "start_ms": 167120,
+    "start_time_label": "2:47",
+    "start_time_text": "2:47"
+   },
+   {
+    "end_ms": 173360,
+    "snippet": "फैक्ट इज दैट कि मैंने इन्हीं कोचिंगों से",
+    "start_ms": 170959,
+    "start_time_label": "2:50",
+    "start_time_text": "2:50"
+   },
+   {
+    "end_ms": 176239,
+    "snippet": "हेल्प ली है। और जैसा कि ज्यादातर कोचिंग",
+    "start_ms": 173360,
+    "start_time_label": "2:53",
+    "start_time_text": "2:53"
+   },
+   {
+    "end_ms": 178080,
+    "snippet": "वाले अब ज्यादातर एस्पिरेंट्स अलग-अलग",
+    "start_ms": 176239,
+    "start_time_label": "2:56",
+    "start_time_text": "2:56"
+   },
+   {
+    "end_ms": 179599,
+    "snippet": "कोचिंगों से हेल्प लेते हैं। मैंने भी",
+    "start_ms": 178080,
+    "start_time_label": "2:58",
+    "start_time_text": "2:58"
+   },
+   {
+    "end_ms": 183920,
+    "snippet": "लिया है। बट मोर और लेस यही मेरे कोचिंग्स",
+    "start_ms": 179599,
+    "start_time_label": "2:59",
+    "start_time_text": "2:59"
+   },
+   {
+    "end_ms": 186239,
+    "snippet": "रहे हैं जिनसे मैंने मदद ली है। मैंने",
+    "start_ms": 183920,
+    "start_time_label": "3:03",
+    "start_time_text": "3:03"
+   },
+   {
+    "end_ms": 188560,
+    "snippet": "2021 से तैयारी शुरू की। जहां पहला",
+    "start_ms": 186239,
+    "start_time_label": "3:06",
+    "start_time_text": "3:06"
+   },
+   {
+    "end_ms": 190560,
+    "snippet": "अटेम्प्ट मैं 2021 में दिया उसमें मेरा",
+    "start_ms": 188560,
+    "start_time_label": "3:08",
+    "start_time_text": "3:08"
+   },
+   {
+    "end_ms": 193040,
+    "snippet": "प्रीलिम्स हो गया बट मेंस रह गया। इन",
+    "start_ms": 190560,
+    "start_time_label": "3:10",
+    "start_time_text": "3:10"
+   },
+   {
+    "end_ms": 195120,
+    "snippet": "फ़ैक्ट मैंने तैयारी उस समय मेरी तैयारी",
+    "start_ms": 193040,
+    "start_time_label": "3:13",
+    "start_time_text": "3:13"
+   },
+   {
+    "end_ms": 198640,
+    "snippet": "पूरी हुई नहीं थी तो मेंस हो नहीं सका।",
+    "start_ms": 195120,
+    "start_time_label": "3:15",
+    "start_time_text": "3:15"
+   },
+   {
+    "end_ms": 202000,
+    "snippet": "सेकंड अटेम्प्ट में मैंने दिया 2022 में",
+    "start_ms": 198640,
+    "start_time_label": "3:18",
+    "start_time_text": "3:18"
+   },
+   {
+    "end_ms": 203680,
+    "snippet": "जिसमें मेरा प्रीलिम्स भी नहीं हो सका।",
+    "start_ms": 202000,
+    "start_time_label": "3:22",
+    "start_time_text": "3:22"
+   },
+   {
+    "end_ms": 205519,
+    "snippet": "इनफैक्ट सीसैट में मेरे मार्क्स थोड़े कम",
+    "start_ms": 203680,
+    "start_time_label": "3:23",
+    "start_time_text": "3:23"
+   },
+   {
+    "end_ms": 208800,
+    "snippet": "रह गए और वो क्लियर नहीं हो सका।",
+    "start_ms": 205519,
+    "start_time_label": "3:25",
+    "start_time_text": "3:25"
+   },
+   {
+    "end_ms": 211200,
+    "snippet": "थर्ड अटेम्प्ट मैंने फिर से दिया 2023 में",
+    "start_ms": 208800,
+    "start_time_label": "3:28",
+    "start_time_text": "3:28"
+   },
+   {
+    "end_ms": 215280,
+    "snippet": "जहां अगेन सीसैट में लगभग दो नंबर एक नंबर",
+    "start_ms": 211200,
+    "start_time_label": "3:31",
+    "start_time_text": "3:31"
+   },
+   {
+    "end_ms": 217920,
+    "snippet": "या दो नंबर कम होने के कारण मेरा",
+    "start_ms": 215280,
+    "start_time_label": "3:35",
+    "start_time_text": "3:35"
+   },
+   {
+    "end_ms": 220319,
+    "snippet": "प्रीलिम्स क्लियर नहीं हो सका बट थर्ड",
+    "start_ms": 217920,
+    "start_time_label": "3:37",
+    "start_time_text": "3:37"
+   },
+   {
+    "end_ms": 222720,
+    "snippet": "फोर्थ अटेम्प्ट मैंने 204 में दिया जिसमें",
+    "start_ms": 220319,
+    "start_time_label": "3:40",
+    "start_time_text": "3:40"
+   },
+   {
+    "end_ms": 226480,
+    "snippet": "मुझे ऑल इंडिया रैंक 182 मिला और आई गॉट",
+    "start_ms": 222720,
+    "start_time_label": "3:42",
+    "start_time_text": "3:42"
+   },
+   {
+    "end_ms": 229599,
+    "snippet": "आईआरएस आईटी फिफ्थ अटेम्प्ट मैंने अगेन",
+    "start_ms": 226480,
+    "start_time_label": "3:46",
+    "start_time_text": "3:46"
+   },
+   {
+    "end_ms": 233200,
+    "snippet": "दिया 2025 में और इसमें अगेन ऑल इंडिया",
+    "start_ms": 229599,
+    "start_time_label": "3:49",
+    "start_time_text": "3:49"
+   },
+   {
+    "end_ms": 235920,
+    "snippet": "रैंक 20 मुझे मिला। अगर अपने विजुअल",
+    "start_ms": 233200,
+    "start_time_label": "3:53",
+    "start_time_text": "3:53"
+   },
+   {
+    "end_ms": 239360,
+    "snippet": "इंपेयरमेंट की बात करूं तो यह रेटिनाइटिस",
+    "start_ms": 235920,
+    "start_time_label": "3:55",
+    "start_time_text": "3:55"
+   },
+   {
+    "end_ms": 243439,
+    "snippet": "पिगमेंटोज़ है जिसमें जो रेटिना के सेल्स",
+    "start_ms": 239360,
+    "start_time_label": "3:59",
+    "start_time_text": "3:59"
+   },
+   {
+    "end_ms": 245599,
+    "snippet": "हैं या फोटो रिसेप्टर्स हैं वो धीरे-धीरे",
+    "start_ms": 243439,
+    "start_time_label": "4:03",
+    "start_time_text": "4:03"
+   },
+   {
+    "end_ms": 248480,
+    "snippet": "डैमेज होते जाते हैं। तो बचपन में ये",
+    "start_ms": 245599,
+    "start_time_label": "4:05",
+    "start_time_text": "4:05"
+   },
+   {
+    "end_ms": 250159,
+    "snippet": "डायग्नोस तो हो चुका था पर प्रॉब्लम्स",
+    "start_ms": 248480,
+    "start_time_label": "4:08",
+    "start_time_text": "4:08"
+   },
+   {
+    "end_ms": 252720,
+    "snippet": "इतने नहीं थे। ये धीरे-धीरे क्लास एथ",
+    "start_ms": 250159,
+    "start_time_label": "4:10",
+    "start_time_text": "4:10"
+   },
+   {
+    "end_ms": 255840,
+    "snippet": "नाइंथ 10थ तक जाकर के ज्यादा गंभीर होती",
+    "start_ms": 252720,
+    "start_time_label": "4:12",
+    "start_time_text": "4:12"
+   },
+   {
+    "end_ms": 259359,
+    "snippet": "गई समस्या और लास्ट के चारप सालों में ये",
+    "start_ms": 255840,
+    "start_time_label": "4:15",
+    "start_time_text": "4:15"
+   },
+   {
+    "end_ms": 262160,
+    "snippet": "मेरे मोबिलिटी मेरे डेली एक्टिविटीज को",
+    "start_ms": 259359,
+    "start_time_label": "4:19",
+    "start_time_text": "4:19"
+   },
+   {
+    "end_ms": 264400,
+    "snippet": "बहुत ज्यादा बुरी तरह से इंपैक्ट करने",
+    "start_ms": 262160,
+    "start_time_label": "4:22",
+    "start_time_text": "4:22"
+   },
+   {
+    "end_ms": 267360,
+    "snippet": "लगा। इस पूरी जर्नी में मेरे पेरेंट्स का",
+    "start_ms": 264400,
+    "start_time_label": "4:24",
+    "start_time_text": "4:24"
+   },
+   {
+    "end_ms": 270080,
+    "snippet": "विशेष करके मेरी मां का बहुत बड़ा रोल रहा",
+    "start_ms": 267360,
+    "start_time_label": "4:27",
+    "start_time_text": "4:27"
+   },
+   {
+    "end_ms": 272479,
+    "snippet": "है। इनफैक्ट क्योंकि मैं बहुत छोटे से",
+    "start_ms": 270080,
+    "start_time_label": "4:30",
+    "start_time_text": "4:30"
+   },
+   {
+    "end_ms": 274960,
+    "snippet": "बैकग्राउंड से आता हूं तो मुझे शुरू में",
+    "start_ms": 272479,
+    "start_time_label": "4:32",
+    "start_time_text": "4:32"
+   },
+   {
+    "end_ms": 277759,
+    "snippet": "बहुत ज्यादा सॉफ्टवेयर की या डिजिटल टूल्स",
+    "start_ms": 274960,
+    "start_time_label": "4:34",
+    "start_time_text": "4:34"
+   },
+   {
+    "end_ms": 280000,
+    "snippet": "की जानकारी नहीं थी। तो ऐसे में मेरी",
+    "start_ms": 277759,
+    "start_time_label": "4:37",
+    "start_time_text": "4:37"
+   },
+   {
+    "end_ms": 282400,
+    "snippet": "मम्मी मेरे बुक बुक्स को पढ़ा करती थी।",
+    "start_ms": 280000,
+    "start_time_label": "4:40",
+    "start_time_text": "4:40"
+   },
+   {
+    "end_ms": 284800,
+    "snippet": "मैं सुनता था, समझता था और याद चीजों को",
+    "start_ms": 282400,
+    "start_time_label": "4:42",
+    "start_time_text": "4:42"
+   },
+   {
+    "end_ms": 287120,
+    "snippet": "करता था। अगेन मुझे कुछ लिखवाना होता था",
+    "start_ms": 284800,
+    "start_time_label": "4:44",
+    "start_time_text": "4:44"
+   },
+   {
+    "end_ms": 289120,
+    "snippet": "या नोट्स बनाना होता था। तो मैं मम्मी को",
+    "start_ms": 287120,
+    "start_time_label": "4:47",
+    "start_time_text": "4:47"
+   },
+   {
+    "end_ms": 291759,
+    "snippet": "बोलता था और मम्मी लिखा करती थी। तो दिस",
+    "start_ms": 289120,
+    "start_time_label": "4:49",
+    "start_time_text": "4:49"
+   },
+   {
+    "end_ms": 295040,
+    "snippet": "इज़ हाउ आई प्रिपयर्ड। और इनफैक्ट अब मैं",
+    "start_ms": 291759,
+    "start_time_label": "4:51",
+    "start_time_text": "4:51"
+   },
+   {
+    "end_ms": 297040,
+    "snippet": "अपनी मां की आवाज का या उनकी राइटिंग का",
+    "start_ms": 295040,
+    "start_time_label": "4:55",
+    "start_time_text": "4:55"
+   },
+   {
+    "end_ms": 299520,
+    "snippet": "इतना यूज़्ड हो चुका हूं कि अभी सॉफ्टवेयर",
+    "start_ms": 297040,
+    "start_time_label": "4:57",
+    "start_time_text": "4:57"
+   },
+   {
+    "end_ms": 302240,
+    "snippet": "और डिफरेंट उसकी जानकारी होने के बावजूद",
+    "start_ms": 299520,
+    "start_time_label": "4:59",
+    "start_time_text": "4:59"
+   },
+   {
+    "end_ms": 304639,
+    "snippet": "कई बार मैं अपनी मां को चीजें भेज दिया",
+    "start_ms": 302240,
+    "start_time_label": "5:02",
+    "start_time_text": "5:02"
+   },
+   {
+    "end_ms": 306880,
+    "snippet": "करता हूं कि वो मुझे पढ़ के सुनाए। बट",
+    "start_ms": 304639,
+    "start_time_label": "5:04",
+    "start_time_text": "5:04"
+   },
+   {
+    "end_ms": 310720,
+    "snippet": "अगेन आई थिंक कि अगर आप मेरे पूरी जर्नी",
+    "start_ms": 306880,
+    "start_time_label": "5:06",
+    "start_time_text": "5:06"
+   },
+   {
+    "end_ms": 312720,
+    "snippet": "की बात करें पेरेंट्स की तो निश्चित रूप",
+    "start_ms": 310720,
+    "start_time_label": "5:10",
+    "start_time_text": "5:10"
+   },
+   {
+    "end_ms": 314400,
+    "snippet": "से पेरेंट्स का बहुत बड़ा रोल रहा है।",
+    "start_ms": 312720,
+    "start_time_label": "5:12",
+    "start_time_text": "5:12"
+   },
+   {
+    "end_ms": 317199,
+    "snippet": "मेरी मां का इस और मेरे पापा का पापा का",
+    "start_ms": 314400,
+    "start_time_label": "5:14",
+    "start_time_text": "5:14"
+   },
+   {
+    "end_ms": 319600,
+    "snippet": "इन द सेंस कि उन्होंने बहुत हमेशा मोटिवेट",
+    "start_ms": 317199,
+    "start_time_label": "5:17",
+    "start_time_text": "5:17"
+   },
+   {
+    "end_ms": 324080,
+    "snippet": "रखा। अ लिमिटेड रिसोर्सेज के बावजूद मुझे",
+    "start_ms": 319600,
+    "start_time_label": "5:19",
+    "start_time_text": "5:19"
+   },
+   {
+    "end_ms": 327120,
+    "snippet": "मेरी हर जरूरतों को उन्होंने पूरा किया और",
+    "start_ms": 324080,
+    "start_time_label": "5:24",
+    "start_time_text": "5:24"
+   },
+   {
+    "end_ms": 329360,
+    "snippet": "ही इज़ इनफैक्ट द सोर्स ऑफ़ माय एनर्जी।",
+    "start_ms": 327120,
+    "start_time_label": "5:27",
+    "start_time_text": "5:27"
+   },
+   {
+    "end_ms": 331600,
+    "snippet": "देखिए प्रीलिम्स की जो स्ट्रेटजी की यदि",
+    "start_ms": 329360,
+    "start_time_label": "5:29",
+    "start_time_text": "5:29"
+   },
+   {
+    "end_ms": 334160,
+    "snippet": "बात करूं तो मैंने चीजों को बहुत क्लियर",
+    "start_ms": 331600,
+    "start_time_label": "5:31",
+    "start_time_text": "5:31"
+   },
+   {
+    "end_ms": 338479,
+    "snippet": "और बहुत सिंपल रखा था। क्योंकि बहुत हमें",
+    "start_ms": 334160,
+    "start_time_label": "5:34",
+    "start_time_text": "5:34"
+   },
+   {
+    "end_ms": 342080,
+    "snippet": "सिर्फ 50% या 48 49%",
+    "start_ms": 338479,
+    "start_time_label": "5:38",
+    "start_time_text": "5:38"
+   },
+   {
+    "end_ms": 344880,
+    "snippet": "इवन उससे भी कम स्कोर करना होता है कट ऑफ",
+    "start_ms": 342080,
+    "start_time_label": "5:42",
+    "start_time_text": "5:42"
+   },
+   {
+    "end_ms": 347600,
+    "snippet": "क्लियर करने के लिए जीएस पेपर वन में और",
+    "start_ms": 344880,
+    "start_time_label": "5:44",
+    "start_time_text": "5:44"
+   },
+   {
+    "end_ms": 350639,
+    "snippet": "जैसा हम जानते हैं कि हिस्ट्री ज्योग्राफी",
+    "start_ms": 347600,
+    "start_time_label": "5:47",
+    "start_time_text": "5:47"
+   },
+   {
+    "end_ms": 354160,
+    "snippet": "पॉलिटिकल साइंस या पॉलिटी और इकोनमी",
+    "start_ms": 350639,
+    "start_time_label": "5:50",
+    "start_time_text": "5:50"
+   },
+   {
+    "end_ms": 356880,
+    "snippet": "ये बहुत बड़ा वेटेज रखता है प्रीलिम्स में",
+    "start_ms": 354160,
+    "start_time_label": "5:54",
+    "start_time_text": "5:54"
+   },
+   {
+    "end_ms": 359600,
+    "snippet": "इससे ही लगभग 60 65 क्वेश्चन आ जाते हैं।",
+    "start_ms": 356880,
+    "start_time_label": "5:56",
+    "start_time_text": "5:56"
+   },
+   {
+    "end_ms": 362479,
+    "snippet": "तो मेरा यह था कि मैं इन चारों टॉपिक्स पे",
+    "start_ms": 359600,
+    "start_time_label": "5:59",
+    "start_time_text": "5:59"
+   },
+   {
+    "end_ms": 365360,
+    "snippet": "चारों सब्जेक्ट्स पे बहुत ज्यादा अच्छी",
+    "start_ms": 362479,
+    "start_time_label": "6:02",
+    "start_time_text": "6:02"
+   },
+   {
+    "end_ms": 367280,
+    "snippet": "अंडरस्टैंडिंग रखूंगा। वो मेरे बहुत",
+    "start_ms": 365360,
+    "start_time_label": "6:05",
+    "start_time_text": "6:05"
+   },
+   {
+    "end_ms": 369919,
+    "snippet": "स्ट्रांग होने चाहिए ताकि अगर 60 क्वेश्चन",
+    "start_ms": 367280,
+    "start_time_label": "6:07",
+    "start_time_text": "6:07"
+   },
+   {
+    "end_ms": 372479,
+    "snippet": "पूछे जाए तो एटलीस्ट मैं 40-45 तो सॉल्व",
+    "start_ms": 369919,
+    "start_time_label": "6:09",
+    "start_time_text": "6:09"
+   },
+   {
+    "end_ms": 375440,
+    "snippet": "ठीक से करके आऊं। तो इन चारों पे मैंने",
+    "start_ms": 372479,
+    "start_time_label": "6:12",
+    "start_time_text": "6:12"
+   },
+   {
+    "end_ms": 378080,
+    "snippet": "बहुत काम किया। एट द सेम टाइम बाकी के जो",
+    "start_ms": 375440,
+    "start_time_label": "6:15",
+    "start_time_text": "6:15"
+   },
+   {
+    "end_ms": 380240,
+    "snippet": "40 क्वेश्चन रह जाते हैं या 35 क्वेश्चन",
+    "start_ms": 378080,
+    "start_time_label": "6:18",
+    "start_time_text": "6:18"
+   },
+   {
+    "end_ms": 382240,
+    "snippet": "उससे आप अगर ठीक से प्रिपेयर कर रहे हो,",
+    "start_ms": 380240,
+    "start_time_label": "6:20",
+    "start_time_text": "6:20"
+   },
+   {
+    "end_ms": 385120,
+    "snippet": "अवेयर हो तो आप 510 क्वेश्चन आराम से",
+    "start_ms": 382240,
+    "start_time_label": "6:22",
+    "start_time_text": "6:22"
+   },
+   {
+    "end_ms": 388560,
+    "snippet": "क्लियर कर सकते हो। तो यू विल अह क्लियर",
+    "start_ms": 385120,
+    "start_time_label": "6:25",
+    "start_time_text": "6:25"
+   },
+   {
+    "end_ms": 392240,
+    "snippet": "दिस प्रीलिम्स। सो मैंने बस चीजों को इसी",
+    "start_ms": 388560,
+    "start_time_label": "6:28",
+    "start_time_text": "6:28"
+   },
+   {
+    "end_ms": 394240,
+    "snippet": "तरीके से रखा कि मैंने अपने फंडामेंटल को",
+    "start_ms": 392240,
+    "start_time_label": "6:32",
+    "start_time_text": "6:32"
+   },
+   {
+    "end_ms": 396639,
+    "snippet": "स्ट्रांग किया और मैं चीजों से अवेयर रहने",
+    "start_ms": 394240,
+    "start_time_label": "6:34",
+    "start_time_text": "6:34"
+   },
+   {
+    "end_ms": 399120,
+    "snippet": "की कोशिश करता था। बिकॉज़ फॉर मी प्रीलिम्स",
+    "start_ms": 396639,
+    "start_time_label": "6:36",
+    "start_time_text": "6:36"
+   },
+   {
+    "end_ms": 402560,
+    "snippet": "में टॉप करना बिल्कुल भी मतलब की बात नहीं",
+    "start_ms": 399120,
+    "start_time_label": "6:39",
+    "start_time_text": "6:39"
+   },
+   {
+    "end_ms": 404240,
+    "snippet": "थी। तो मैंने प्रीलिम्स को इसी तरह से",
+    "start_ms": 402560,
+    "start_time_label": "6:42",
+    "start_time_text": "6:42"
+   },
+   {
+    "end_ms": 407680,
+    "snippet": "देखा। जहां तक CSAT की बात है तो सीसैट को",
+    "start_ms": 404240,
+    "start_time_label": "6:44",
+    "start_time_text": "6:44"
+   },
+   {
+    "end_ms": 410319,
+    "snippet": "मैंने तो अह मैथ्स और रीजनिंग के बेस पे",
+    "start_ms": 407680,
+    "start_time_label": "6:47",
+    "start_time_text": "6:47"
+   },
+   {
+    "end_ms": 413360,
+    "snippet": "ही क्लियर किया हर बार। बट आई वुड रेकमेंड",
+    "start_ms": 410319,
+    "start_time_label": "6:50",
+    "start_time_text": "6:50"
+   },
+   {
+    "end_ms": 415440,
+    "snippet": "कि आप",
+    "start_ms": 413360,
+    "start_time_label": "6:53",
+    "start_time_text": "6:53"
+   },
+   {
+    "end_ms": 418639,
+    "snippet": "सिर्फ मैथ्स और रीजनिंग के के बल पे ना",
+    "start_ms": 415440,
+    "start_time_label": "6:55",
+    "start_time_text": "6:55"
+   },
+   {
+    "end_ms": 420560,
+    "snippet": "एग्जाम हॉल में जाएं बल्कि उसमें",
+    "start_ms": 418639,
+    "start_time_label": "6:58",
+    "start_time_text": "6:58"
+   },
+   {
+    "end_ms": 423440,
+    "snippet": "कॉम्प्रिहेंशन को भी इंक्लूड करें क्योंकि",
+    "start_ms": 420560,
+    "start_time_label": "7:00",
+    "start_time_text": "7:00"
+   },
+   {
+    "end_ms": 428479,
+    "snippet": "अब क्वेश्चन पेपर काफी ज्यादा अ डायनेमिक",
+    "start_ms": 423440,
+    "start_time_label": "7:03",
+    "start_time_text": "7:03"
+   },
+   {
+    "end_ms": 431440,
+    "snippet": "होता जा रहा है। उसके लेवल काफी बढ़ते जा",
+    "start_ms": 428479,
+    "start_time_label": "7:08",
+    "start_time_text": "7:08"
+   },
+   {
+    "end_ms": 433680,
+    "snippet": "रहे हैं। तो बेटर यह रहेगा कि हम",
+    "start_ms": 431440,
+    "start_time_label": "7:11",
+    "start_time_text": "7:11"
+   },
+   {
+    "end_ms": 436560,
+    "snippet": "कॉम्प्रिहेंशन, मैथ्स और रिजनिंग तीनों के",
+    "start_ms": 433680,
+    "start_time_label": "7:13",
+    "start_time_text": "7:13"
+   },
+   {
+    "end_ms": 439360,
+    "snippet": "साथ जाएं। तो प्रीलिम्स की कुल स्ट्रेटजी",
+    "start_ms": 436560,
+    "start_time_label": "7:16",
+    "start_time_text": "7:16"
+   },
+   {
+    "end_ms": 442720,
+    "snippet": "मिलाकर ये कुल मिलाकर स्ट्रेटजी यही है कि",
+    "start_ms": 439360,
+    "start_time_label": "7:19",
+    "start_time_text": "7:19"
+   },
+   {
+    "end_ms": 446160,
+    "snippet": "हिस्ट्री, ज्योग्राफी, पॉलिटिकल साइंस, इन",
+    "start_ms": 442720,
+    "start_time_label": "7:22",
+    "start_time_text": "7:22"
+   },
+   {
+    "end_ms": 449919,
+    "snippet": "इकॉनमी हो सकता है तो एनवायरमेंट एंड",
+    "start_ms": 446160,
+    "start_time_label": "7:26",
+    "start_time_text": "7:26"
+   },
+   {
+    "end_ms": 452639,
+    "snippet": "ऑब्वियसली करंट अफेयर इन सब पे हमारी बहुत",
+    "start_ms": 449919,
+    "start_time_label": "7:29",
+    "start_time_text": "7:29"
+   },
+   {
+    "end_ms": 454639,
+    "snippet": "अच्छी समझ, बहुत अच्छी पकड़ होनी चाहिए।",
+    "start_ms": 452639,
+    "start_time_label": "7:32",
+    "start_time_text": "7:32"
+   },
+   {
+    "end_ms": 458400,
+    "snippet": "जीएस पेपर वन के लिए पेपर टू के लिए हमें",
+    "start_ms": 454639,
+    "start_time_label": "7:34",
+    "start_time_text": "7:34"
+   },
+   {
+    "end_ms": 462000,
+    "snippet": "अह तीनों पार्ट्स अह मैथ्स, रिजनिंग और",
+    "start_ms": 458400,
+    "start_time_label": "7:38",
+    "start_time_text": "7:38"
+   },
+   {
+    "end_ms": 465440,
+    "snippet": "कॉम्प्रिहेंशन पे ध्यान देना है। अब बहुत",
+    "start_ms": 462000,
+    "start_time_label": "7:42",
+    "start_time_text": "7:42"
+   },
+   {
+    "end_ms": 467599,
+    "snippet": "ज्यादा टेस्ट सीरीज के चक्कर में नहीं",
+    "start_ms": 465440,
+    "start_time_label": "7:45",
+    "start_time_text": "7:45"
+   },
+   {
+    "end_ms": 469520,
+    "snippet": "पड़ना है जो कोचिंग इंस्टट्यूट्स के होते",
+    "start_ms": 467599,
+    "start_time_label": "7:47",
+    "start_time_text": "7:47"
+   },
+   {
+    "end_ms": 472000,
+    "snippet": "हैं। अगर हम पिछले 10-15 साल के",
+    "start_ms": 469520,
+    "start_time_label": "7:49",
+    "start_time_text": "7:49"
+   },
+   {
+    "end_ms": 474319,
+    "snippet": "पीवाईक्यूस ही कर लें तो आई थिंक हमारा",
+    "start_ms": 472000,
+    "start_time_label": "7:52",
+    "start_time_text": "7:52"
+   },
+   {
+    "end_ms": 476879,
+    "snippet": "काम हो जाएगा। अ यदि बुक लिस्ट की बात",
+    "start_ms": 474319,
+    "start_time_label": "7:54",
+    "start_time_text": "7:54"
+   },
+   {
+    "end_ms": 479039,
+    "snippet": "करूं तो एज आई अर्लियर सेड कि मैंने",
+    "start_ms": 476879,
+    "start_time_label": "7:56",
+    "start_time_text": "7:56"
+   },
+   {
+    "end_ms": 482800,
+    "snippet": "दृष्टि के बुक डीएलपी लिख को लिया था।",
+    "start_ms": 479039,
+    "start_time_label": "7:59",
+    "start_time_text": "7:59"
+   },
+   {
+    "end_ms": 485280,
+    "snippet": "उनके बुक्स को खरीदा था। बट मैंने उसका",
+    "start_ms": 482800,
+    "start_time_label": "8:02",
+    "start_time_text": "8:02"
+   },
+   {
+    "end_ms": 487520,
+    "snippet": "बहुत लिमिटेड यूज़ किया है। जैसे मैंने",
+    "start_ms": 485280,
+    "start_time_label": "8:05",
+    "start_time_text": "8:05"
+   },
+   {
+    "end_ms": 490000,
+    "snippet": "पॉलिटिकल पॉलिटी के लिए लक्ष्मीकांत को",
+    "start_ms": 487520,
+    "start_time_label": "8:07",
+    "start_time_text": "8:07"
+   },
+   {
+    "end_ms": 493039,
+    "snippet": "पढ़ा। बट उसके साथ-साथ मैंने दृष्टि की जो",
+    "start_ms": 490000,
+    "start_time_label": "8:10",
+    "start_time_text": "8:10"
+   },
+   {
+    "end_ms": 495280,
+    "snippet": "बुक रही थी वो मुझे थोड़ा ज्यादा इजी लगा।",
+    "start_ms": 493039,
+    "start_time_label": "8:13",
+    "start_time_text": "8:13"
+   },
+   {
+    "end_ms": 498319,
+    "snippet": "तब वो चीज़ उसकी भाषा ज्यादा सरल थी। तो",
+    "start_ms": 495280,
+    "start_time_label": "8:15",
+    "start_time_text": "8:15"
+   },
+   {
+    "end_ms": 500319,
+    "snippet": "मैंने दृष्टि की बुक को ज्यादा यूज़ किया",
+    "start_ms": 498319,
+    "start_time_label": "8:18",
+    "start_time_text": "8:18"
+   },
+   {
+    "end_ms": 503599,
+    "snippet": "इन पिटी। अगेन आई थिंक एनवायरमेंट के लिए",
+    "start_ms": 500319,
+    "start_time_label": "8:20",
+    "start_time_text": "8:20"
+   },
+   {
+    "end_ms": 506160,
+    "snippet": "भी मैंने दृष्टि की बुक को यूज़ किया। अह",
+    "start_ms": 503599,
+    "start_time_label": "8:23",
+    "start_time_text": "8:23"
+   },
+   {
+    "end_ms": 508160,
+    "snippet": "ज्योग्राफी में भी दृष्टि की बुक को यूज़",
+    "start_ms": 506160,
+    "start_time_label": "8:26",
+    "start_time_text": "8:26"
+   },
+   {
+    "end_ms": 510560,
+    "snippet": "किया। बट आई थिंक कि आप अगर नाइन 10 11 12",
+    "start_ms": 508160,
+    "start_time_label": "8:28",
+    "start_time_text": "8:28"
+   },
+   {
+    "end_ms": 512719,
+    "snippet": "की एनसीआरटी को अच्छे से पढ़ लेते हो तो",
+    "start_ms": 510560,
+    "start_time_label": "8:30",
+    "start_time_text": "8:30"
+   },
+   {
+    "end_ms": 515599,
+    "snippet": "बहुत ज्यादा जरूरत होती नहीं है। हिस्ट्री",
+    "start_ms": 512719,
+    "start_time_label": "8:32",
+    "start_time_text": "8:32"
+   },
+   {
+    "end_ms": 517599,
+    "snippet": "क्योंकि मेरा ऑप्शनल था तो मणिकांत सर से",
+    "start_ms": 515599,
+    "start_time_label": "8:35",
+    "start_time_text": "8:35"
+   },
+   {
+    "end_ms": 519680,
+    "snippet": "मैंने जो भी ऑप्शनल में पढ़े थे मैं खुद",
+    "start_ms": 517599,
+    "start_time_label": "8:37",
+    "start_time_text": "8:37"
+   },
+   {
+    "end_ms": 521360,
+    "snippet": "को वहीं तक सीमित रखा। उसके अतिरिक्त",
+    "start_ms": 519680,
+    "start_time_label": "8:39",
+    "start_time_text": "8:39"
+   },
+   {
+    "end_ms": 523680,
+    "snippet": "मैंने नाइन 10 11 12 की एनसीआरटी कर रखी",
+    "start_ms": 521360,
+    "start_time_label": "8:41",
+    "start_time_text": "8:41"
+   },
+   {
+    "end_ms": 526160,
+    "snippet": "थी अच्छे से तो उसने भी मुझे हेल्प किया।",
+    "start_ms": 523680,
+    "start_time_label": "8:43",
+    "start_time_text": "8:43"
+   },
+   {
+    "end_ms": 529600,
+    "snippet": "इकोनमी की यदि बात करें तो एएफईआईएस",
+    "start_ms": 526160,
+    "start_time_label": "8:46",
+    "start_time_text": "8:46"
+   },
+   {
+    "end_ms": 531920,
+    "snippet": "पर मैंने उसमें इकॉनमी के लिए काफी",
+    "start_ms": 529600,
+    "start_time_label": "8:49",
+    "start_time_text": "8:49"
+   },
+   {
+    "end_ms": 534640,
+    "snippet": "एक्सटेंसिवली हेल्प लिया था। इनफैक्ट पूरे",
+    "start_ms": 531920,
+    "start_time_label": "8:51",
+    "start_time_text": "8:51"
+   },
+   {
+    "end_ms": 536320,
+    "snippet": "प्रिपरेशन में मैंने उसका हेल्प लिया। पर",
+    "start_ms": 534640,
+    "start_time_label": "8:54",
+    "start_time_text": "8:54"
+   },
+   {
+    "end_ms": 538880,
+    "snippet": "इकॉनमी के उसके जो रिसोर्सेज थे वह मुझे",
+    "start_ms": 536320,
+    "start_time_label": "8:56",
+    "start_time_text": "8:56"
+   },
+   {
+    "end_ms": 541120,
+    "snippet": "काफी हैंडी लगा और साथ ही में मणाल पटेल",
+    "start_ms": 538880,
+    "start_time_label": "8:58",
+    "start_time_text": "8:58"
+   },
+   {
+    "end_ms": 542959,
+    "snippet": "सर के कुछ वीडियो भी मैंने देखे तो उससे",
+    "start_ms": 541120,
+    "start_time_label": "9:01",
+    "start_time_text": "9:01"
+   },
+   {
+    "end_ms": 545519,
+    "snippet": "भी चीजें मुझे मेरे लिए काफी आसान हो गई।",
+    "start_ms": 542959,
+    "start_time_label": "9:02",
+    "start_time_text": "9:02"
+   },
+   {
+    "end_ms": 549839,
+    "snippet": "इंटरनल सिक्योरिटी डिजास्टर मैनेजमेंट",
+    "start_ms": 545519,
+    "start_time_label": "9:05",
+    "start_time_text": "9:05"
+   },
+   {
+    "end_ms": 552640,
+    "snippet": "अ इन सबके लिए मैंने अगेन एएफआईएस को बहुत",
+    "start_ms": 549839,
+    "start_time_label": "9:09",
+    "start_time_text": "9:09"
+   },
+   {
+    "end_ms": 555440,
+    "snippet": "ज्यादा यूज़ किया। आईआर के लिए एएफआईएस के",
+    "start_ms": 552640,
+    "start_time_label": "9:12",
+    "start_time_text": "9:12"
+   },
+   {
+    "end_ms": 558800,
+    "snippet": "सोर्सेज को यूज़ किया। एथिक्स में मैंने",
+    "start_ms": 555440,
+    "start_time_label": "9:15",
+    "start_time_text": "9:15"
+   },
+   {
+    "end_ms": 560880,
+    "snippet": "दृष्टि के बुक्स को पढ़े हैं। बट दृष्टि के",
+    "start_ms": 558800,
+    "start_time_label": "9:18",
+    "start_time_text": "9:18"
+   },
+   {
+    "end_ms": 564800,
+    "snippet": "बुक्स को पढ़ा। अह आई थिंक यही इंपॉर्टेंट",
+    "start_ms": 560880,
+    "start_time_label": "9:20",
+    "start_time_text": "9:20"
+   },
+   {
+    "end_ms": 567200,
+    "snippet": "और करंट अफेयर की यदि मैं बात करूं तो मैं",
+    "start_ms": 564800,
+    "start_time_label": "9:24",
+    "start_time_text": "9:24"
+   },
+   {
+    "end_ms": 570000,
+    "snippet": "एक मैगज़ीन पढ़ा करता था। दैनिक जागरण",
+    "start_ms": 567200,
+    "start_time_label": "9:27",
+    "start_time_text": "9:27"
+   },
+   {
+    "end_ms": 573440,
+    "snippet": "न्यूज़पेपर रोज पढ़ा करता था। एएफईआईएस जो",
+    "start_ms": 570000,
+    "start_time_label": "9:30",
+    "start_time_text": "9:30"
+   },
+   {
+    "end_ms": 576480,
+    "snippet": "एप्लीकेशन है उस पे न्यूज़ क्लिपिंग्स हर",
+    "start_ms": 573440,
+    "start_time_label": "9:33",
+    "start_time_text": "9:33"
+   },
+   {
+    "end_ms": 578640,
+    "snippet": "दिन आते हैं जिसमें इंपॉर्टेंट आर्टिकल्स",
+    "start_ms": 576480,
+    "start_time_label": "9:36",
+    "start_time_text": "9:36"
+   },
+   {
+    "end_ms": 580320,
+    "snippet": "या एडिटोरियल्स होते हैं उस दिन के",
+    "start_ms": 578640,
+    "start_time_label": "9:38",
+    "start_time_text": "9:38"
+   },
+   {
+    "end_ms": 582240,
+    "snippet": "अलग-अलग न्यूज़पेपर्स के जो सिविल सर्विज",
+    "start_ms": 580320,
+    "start_time_label": "9:40",
+    "start_time_text": "9:40"
+   },
+   {
+    "end_ms": 583920,
+    "snippet": "के पॉइंट ऑफ़ व्यू से इंपॉर्टेंट है तो",
+    "start_ms": 582240,
+    "start_time_label": "9:42",
+    "start_time_text": "9:42"
+   },
+   {
+    "end_ms": 586320,
+    "snippet": "उसको मैं रेफर किया करता था। साथ ही उसी",
+    "start_ms": 583920,
+    "start_time_label": "9:43",
+    "start_time_text": "9:43"
+   },
+   {
+    "end_ms": 588399,
+    "snippet": "एपीआईएस पे डेली ऑडियो लेक्चर आया करता है",
+    "start_ms": 586320,
+    "start_time_label": "9:46",
+    "start_time_text": "9:46"
+   },
+   {
+    "end_ms": 591120,
+    "snippet": "10-15 मिनट का। तो मैं उसको रोज सुना करता",
+    "start_ms": 588399,
+    "start_time_label": "9:48",
+    "start_time_text": "9:48"
+   },
+   {
+    "end_ms": 594160,
+    "snippet": "था और इससे मेरे करंट अफेयर का तक की",
+    "start_ms": 591120,
+    "start_time_label": "9:51",
+    "start_time_text": "9:51"
+   },
+   {
+    "end_ms": 595680,
+    "snippet": "तैयारी हुई और साथ ही YouTube पे बहुत",
+    "start_ms": 594160,
+    "start_time_label": "9:54",
+    "start_time_text": "9:54"
+   },
+   {
+    "end_ms": 597680,
+    "snippet": "सारे वीडियोस मिल जाते हैं। तो किसी भी आप",
+    "start_ms": 595680,
+    "start_time_label": "9:55",
+    "start_time_text": "9:55"
+   },
+   {
+    "end_ms": 600640,
+    "snippet": "एक प्लेटफार्म को सेलेक्ट कर लो और उसे",
+    "start_ms": 597680,
+    "start_time_label": "9:57",
+    "start_time_text": "9:57"
+   },
+   {
+    "end_ms": 603600,
+    "snippet": "उसको देख सकते हो। जैसे मैंने कई बार",
+    "start_ms": 600640,
+    "start_time_label": "10:00",
+    "start_time_text": "10:00"
+   },
+   {
+    "end_ms": 606399,
+    "snippet": "स्टडी आईक्यू को देखा तो कभी मधुकर सर के",
+    "start_ms": 603600,
+    "start_time_label": "10:03",
+    "start_time_text": "10:03"
+   },
+   {
+    "end_ms": 608640,
+    "snippet": "वीडियोस को देखा। तो दिस इज़ हाउ यू कैन",
+    "start_ms": 606399,
+    "start_time_label": "10:06",
+    "start_time_text": "10:06"
+   },
+   {
+    "end_ms": 611200,
+    "snippet": "चूज़। इनफैक्ट प्रीलिम्स में मैंने सीसैट",
+    "start_ms": 608640,
+    "start_time_label": "10:08",
+    "start_time_text": "10:08"
+   },
+   {
+    "end_ms": 614160,
+    "snippet": "में मेरे दो बार रह गए। तो गलती इन द सेंस",
+    "start_ms": 611200,
+    "start_time_label": "10:11",
+    "start_time_text": "10:11"
+   },
+   {
+    "end_ms": 616560,
+    "snippet": "कि मैं अपने स्क्राइब के साथ बहुत ज्यादा",
+    "start_ms": 614160,
+    "start_time_label": "10:14",
+    "start_time_text": "10:14"
+   },
+   {
+    "end_ms": 619040,
+    "snippet": "कोऑर्डिनेशन नहीं बना पाया था। तो",
+    "start_ms": 616560,
+    "start_time_label": "10:16",
+    "start_time_text": "10:16"
+   },
+   {
+    "end_ms": 621279,
+    "snippet": "कोऑर्डिनेशन ना होने के कारण सीसैट जो",
+    "start_ms": 619040,
+    "start_time_label": "10:19",
+    "start_time_text": "10:19"
+   },
+   {
+    "end_ms": 624480,
+    "snippet": "उसमें मैं बेसिकली मैथ्स और रिजनिंग पे",
+    "start_ms": 621279,
+    "start_time_label": "10:21",
+    "start_time_text": "10:21"
+   },
+   {
+    "end_ms": 626640,
+    "snippet": "डिपेंडेंट रह गया। बिकॉज़ मेरे स्क्राइब",
+    "start_ms": 624480,
+    "start_time_label": "10:24",
+    "start_time_text": "10:24"
+   },
+   {
+    "end_ms": 628800,
+    "snippet": "आमतौर पे इंग्लिश मीडियम के मुझे मिलते थे",
+    "start_ms": 626640,
+    "start_time_label": "10:26",
+    "start_time_text": "10:26"
+   },
+   {
+    "end_ms": 631360,
+    "snippet": "और कॉम्प्रिहेंशन की तैयारी मैं घर पे",
+    "start_ms": 628800,
+    "start_time_label": "10:28",
+    "start_time_text": "10:28"
+   },
+   {
+    "end_ms": 633120,
+    "snippet": "हिंदी में करता था। तो मेरे लिए वहां पे",
+    "start_ms": 631360,
+    "start_time_label": "10:31",
+    "start_time_text": "10:31"
+   },
+   {
+    "end_ms": 635120,
+    "snippet": "डिफिकल्ट होता था। तो मुझे पूरी तरह से",
+    "start_ms": 633120,
+    "start_time_label": "10:33",
+    "start_time_text": "10:33"
+   },
+   {
+    "end_ms": 637279,
+    "snippet": "मैथ्स और रीजनिंग पे स्विच करना पड़ता था।",
+    "start_ms": 635120,
+    "start_time_label": "10:35",
+    "start_time_text": "10:35"
+   },
+   {
+    "end_ms": 639360,
+    "snippet": "और मैथ्स और रीजनिंग थोड़ा सा टाइम टेकिंग",
+    "start_ms": 637279,
+    "start_time_label": "10:37",
+    "start_time_text": "10:37"
+   },
+   {
+    "end_ms": 642720,
+    "snippet": "होता है हम जैसे कैंडिडेट्स के लिए। तो दो",
+    "start_ms": 639360,
+    "start_time_label": "10:39",
+    "start_time_text": "10:39"
+   },
+   {
+    "end_ms": 645360,
+    "snippet": "बार मैं इसमें रह गया। बट अगेन फिर मैंने",
+    "start_ms": 642720,
+    "start_time_label": "10:42",
+    "start_time_text": "10:42"
+   },
+   {
+    "end_ms": 647279,
+    "snippet": "मैथ्स और रीजनिंग पे ही ज्यादा फोकस किया।",
+    "start_ms": 645360,
+    "start_time_label": "10:45",
+    "start_time_text": "10:45"
+   },
+   {
+    "end_ms": 648800,
+    "snippet": "बिकॉज़ मुझे अपने स्क्राइब से संबंधित",
+    "start_ms": 647279,
+    "start_time_label": "10:47",
+    "start_time_text": "10:47"
+   },
+   {
+    "end_ms": 651760,
+    "snippet": "लिमिटेशन पता थे। तो उसके बाद फिर मैंने",
+    "start_ms": 648800,
+    "start_time_label": "10:48",
+    "start_time_text": "10:48"
+   },
+   {
+    "end_ms": 653760,
+    "snippet": "मैथ्स रीजनिंग पे बहुत फोकस किया और आई",
+    "start_ms": 651760,
+    "start_time_label": "10:51",
+    "start_time_text": "10:51"
+   },
+   {
+    "end_ms": 656000,
+    "snippet": "थिंक उसका हेल्प मुझे मिला। अ मैंने जहां",
+    "start_ms": 653760,
+    "start_time_label": "10:53",
+    "start_time_text": "10:53"
+   },
+   {
+    "end_ms": 658480,
+    "snippet": "तक पीवाईक्यूस की बात है तो मुझे लगता है",
+    "start_ms": 656000,
+    "start_time_label": "10:56",
+    "start_time_text": "10:56"
+   },
+   {
+    "end_ms": 662480,
+    "snippet": "कि जेएस हो सीट हो या फिर मेंस हो उसमें",
+    "start_ms": 658480,
+    "start_time_label": "10:58",
+    "start_time_text": "10:58"
+   },
+   {
+    "end_ms": 664640,
+    "snippet": "हमें पीवाईक्यू पे ही ज्यादा फोकस करना",
+    "start_ms": 662480,
+    "start_time_label": "11:02",
+    "start_time_text": "11:02"
+   },
+   {
+    "end_ms": 668240,
+    "snippet": "चाहिए। अ अगर हम प्रीलिम्स की बात करें तो",
+    "start_ms": 664640,
+    "start_time_label": "11:04",
+    "start_time_text": "11:04"
+   },
+   {
+    "end_ms": 671200,
+    "snippet": "पिछले 10-12 सालों के 2012-13 के बाद के",
+    "start_ms": 668240,
+    "start_time_label": "11:08",
+    "start_time_text": "11:08"
+   },
+   {
+    "end_ms": 673760,
+    "snippet": "सारे पेपर्स को लगा लेते हैं। तो आई थिंक",
+    "start_ms": 671200,
+    "start_time_label": "11:11",
+    "start_time_text": "11:11"
+   },
+   {
+    "end_ms": 676959,
+    "snippet": "ये हमारे लिए मोर दैन सफिशिएंट होगा। अ",
+    "start_ms": 673760,
+    "start_time_label": "11:13",
+    "start_time_text": "11:13"
+   },
+   {
+    "end_ms": 679360,
+    "snippet": "अगर क्वेश्चन अटेमप्ट करने के नंबर ऑफ",
+    "start_ms": 676959,
+    "start_time_label": "11:16",
+    "start_time_text": "11:16"
+   },
+   {
+    "end_ms": 683120,
+    "snippet": "क्वेश्चंस की बात करें तो यह सबके लिए",
+    "start_ms": 679360,
+    "start_time_label": "11:19",
+    "start_time_text": "11:19"
+   },
+   {
+    "end_ms": 686000,
+    "snippet": "अपना-अपना हो सकता है। बिकॉज़ ये एक तो",
+    "start_ms": 683120,
+    "start_time_label": "11:23",
+    "start_time_text": "11:23"
+   },
+   {
+    "end_ms": 688880,
+    "snippet": "कैटेगरी वाइज़ हमारे पास कट ऑफ आता है।",
+    "start_ms": 686000,
+    "start_time_label": "11:26",
+    "start_time_text": "11:26"
+   },
+   {
+    "end_ms": 692320,
+    "snippet": "दूसरी बात यह है कि सबकी एक्यूरेसी को भी",
+    "start_ms": 688880,
+    "start_time_label": "11:28",
+    "start_time_text": "11:28"
+   },
+   {
+    "end_ms": 694880,
+    "snippet": "देखना होगा। वो सबका अलग-अलग होता है। फॉर",
+    "start_ms": 692320,
+    "start_time_label": "11:32",
+    "start_time_text": "11:32"
+   },
+   {
+    "end_ms": 697920,
+    "snippet": "एग्जांपल यदि कोई व्यक्ति बहुत अच्छे से",
+    "start_ms": 694880,
+    "start_time_label": "11:34",
+    "start_time_text": "11:34"
+   },
+   {
+    "end_ms": 700320,
+    "snippet": "पढ़ाई कर चुका है, सिंसियर तैयारी कर चुका",
+    "start_ms": 697920,
+    "start_time_label": "11:37",
+    "start_time_text": "11:37"
+   },
+   {
+    "end_ms": 703120,
+    "snippet": "है तब भी उसके 40 42 क्वेश्चंस ही होंगे",
+    "start_ms": 700320,
+    "start_time_label": "11:40",
+    "start_time_text": "11:40"
+   },
+   {
+    "end_ms": 706240,
+    "snippet": "जो उसे कंफर्म पता होता है। बाकी रिमेनिंग",
+    "start_ms": 703120,
+    "start_time_label": "11:43",
+    "start_time_text": "11:43"
+   },
+   {
+    "end_ms": 709279,
+    "snippet": "10 क्वेश्चंस तो उसे गेस वर्क के साथ ही",
+    "start_ms": 706240,
+    "start_time_label": "11:46",
+    "start_time_text": "11:46"
+   },
+   {
+    "end_ms": 711440,
+    "snippet": "क्लियर करना होता है, सॉल्व करना होता है।",
+    "start_ms": 709279,
+    "start_time_label": "11:49",
+    "start_time_text": "11:49"
+   },
+   {
+    "end_ms": 715200,
+    "snippet": "तो यदि किसी की एक्यूरेसी ऐसी है कि वो 20",
+    "start_ms": 711440,
+    "start_time_label": "11:51",
+    "start_time_text": "11:51"
+   },
+   {
+    "end_ms": 717440,
+    "snippet": "क्वेश्चन में पांच छह गलत करता है। बाकी",
+    "start_ms": 715200,
+    "start_time_label": "11:55",
+    "start_time_text": "11:55"
+   },
+   {
+    "end_ms": 721839,
+    "snippet": "15 क्वेश्चन सही कर लेता है अगर गेस करके",
+    "start_ms": 717440,
+    "start_time_label": "11:57",
+    "start_time_text": "11:57"
+   },
+   {
+    "end_ms": 725440,
+    "snippet": "तो उसको अपेक्षाकृत कम भी अटेम्प्ट करेगा",
+    "start_ms": 721839,
+    "start_time_label": "12:01",
+    "start_time_text": "12:01"
+   },
+   {
+    "end_ms": 727600,
+    "snippet": "तो काम हो जाता है। बट यदि किसी की",
+    "start_ms": 725440,
+    "start_time_label": "12:05",
+    "start_time_text": "12:05"
+   },
+   {
+    "end_ms": 729839,
+    "snippet": "एक्यूरेसी ज्यादा अच्छी नहीं है तो उसको",
+    "start_ms": 727600,
+    "start_time_label": "12:07",
+    "start_time_text": "12:07"
+   },
+   {
+    "end_ms": 732720,
+    "snippet": "अकॉर्डिंगली काम करना होगा। तो जहां तक",
+    "start_ms": 729839,
+    "start_time_label": "12:09",
+    "start_time_text": "12:09"
+   },
+   {
+    "end_ms": 735279,
+    "snippet": "मेरी बात है मैं 65 टू 70 क्वेश्चंस",
+    "start_ms": 732720,
+    "start_time_label": "12:12",
+    "start_time_text": "12:12"
+   },
+   {
+    "end_ms": 738240,
+    "snippet": "अटेम्प्ट किया करता था जिसमें मेरे आराम",
+    "start_ms": 735279,
+    "start_time_label": "12:15",
+    "start_time_text": "12:15"
+   },
+   {
+    "end_ms": 742560,
+    "snippet": "से 45 50 कभी-कभी उससे भी ज्यादा सही हो",
+    "start_ms": 738240,
+    "start_time_label": "12:18",
+    "start_time_text": "12:18"
+   },
+   {
+    "end_ms": 746160,
+    "snippet": "जाते थे। अ क्योंकि प्रीलिम्स आने वाला है",
+    "start_ms": 742560,
+    "start_time_label": "12:22",
+    "start_time_text": "12:22"
+   },
+   {
+    "end_ms": 749920,
+    "snippet": "तो मैं तो यही रेकमेंड करूंगा कि जो",
+    "start_ms": 746160,
+    "start_time_label": "12:26",
+    "start_time_text": "12:26"
+   },
+   {
+    "end_ms": 752880,
+    "snippet": "हिस्ट्री, जग्राफी, पॉलिटी और इकोनमी है",
+    "start_ms": 749920,
+    "start_time_label": "12:29",
+    "start_time_text": "12:29"
+   },
+   {
+    "end_ms": 755440,
+    "snippet": "अलोंग विद करंट अफेयर उस पे बहुत ज्यादा",
+    "start_ms": 752880,
+    "start_time_label": "12:32",
+    "start_time_text": "12:32"
+   },
+   {
+    "end_ms": 758480,
+    "snippet": "ध्यान देना है और नए टॉपिक्स को पढ़ने से",
+    "start_ms": 755440,
+    "start_time_label": "12:35",
+    "start_time_text": "12:35"
+   },
+   {
+    "end_ms": 762480,
+    "snippet": "आप बचो। अनलेस अंटिल कोई एस कोई ऐसे टॉपिक",
+    "start_ms": 758480,
+    "start_time_label": "12:38",
+    "start_time_text": "12:38"
+   },
+   {
+    "end_ms": 764720,
+    "snippet": "को आपने बिल्कुल छोड़ दिया है जो आपको",
+    "start_ms": 762480,
+    "start_time_label": "12:42",
+    "start_time_text": "12:42"
+   },
+   {
+    "end_ms": 767200,
+    "snippet": "छोड़ना नहीं चाहिए था। जैसे पॉलिटी में",
+    "start_ms": 764720,
+    "start_time_label": "12:44",
+    "start_time_text": "12:44"
+   },
+   {
+    "end_ms": 771040,
+    "snippet": "बात करें तो फंडामेंटल राइट, जुडिशियरी या",
+    "start_ms": 767200,
+    "start_time_label": "12:47",
+    "start_time_text": "12:47"
+   },
+   {
+    "end_ms": 774000,
+    "snippet": "कांसेप्ट रिलेटेड जो क्वेश्चंस हैं तो आप",
+    "start_ms": 771040,
+    "start_time_label": "12:51",
+    "start_time_text": "12:51"
+   },
+   {
+    "end_ms": 776320,
+    "snippet": "उसको पढ़ लो। अदरवाइज आपको अब रिवीजन पे",
+    "start_ms": 774000,
+    "start_time_label": "12:54",
+    "start_time_text": "12:54"
+   },
+   {
+    "end_ms": 778720,
+    "snippet": "ज्यादा फोकस करना चाहिए। जितना ज्यादा से",
+    "start_ms": 776320,
+    "start_time_label": "12:56",
+    "start_time_text": "12:56"
+   },
+   {
+    "end_ms": 781680,
+    "snippet": "ज्यादा रिवीजन कर सकते हो करो। आप मॉक",
+    "start_ms": 778720,
+    "start_time_label": "12:58",
+    "start_time_text": "12:58"
+   },
+   {
+    "end_ms": 784079,
+    "snippet": "टेस्ट लगाओ। बट मॉक टेस्ट बहुत ज्यादा",
+    "start_ms": 781680,
+    "start_time_label": "13:01",
+    "start_time_text": "13:01"
+   },
+   {
+    "end_ms": 787279,
+    "snippet": "नहीं करना है। लिमिटेड होने चाहिए। बिकॉज़",
+    "start_ms": 784079,
+    "start_time_label": "13:04",
+    "start_time_text": "13:04"
+   },
+   {
+    "end_ms": 788959,
+    "snippet": "हम लोग आमतौर पे देखते हैं कोचिंग",
+    "start_ms": 787279,
+    "start_time_label": "13:07",
+    "start_time_text": "13:07"
+   },
+   {
+    "end_ms": 790560,
+    "snippet": "इंस्टट्यूट्स के मॉक टेस्ट हम लोग काफी",
+    "start_ms": 788959,
+    "start_time_label": "13:08",
+    "start_time_text": "13:08"
+   },
+   {
+    "end_ms": 792880,
+    "snippet": "लगाते हैं। टेस्ट सीरीज़ काफी लगाते हैं और",
+    "start_ms": 790560,
+    "start_time_label": "13:10",
+    "start_time_text": "13:10"
+   },
+   {
+    "end_ms": 795680,
+    "snippet": "वो टेस्ट ऐसा होता है कई बार सबके साथ ये",
+    "start_ms": 792880,
+    "start_time_label": "13:12",
+    "start_time_text": "13:12"
+   },
+   {
+    "end_ms": 798720,
+    "snippet": "सही नहीं होगा। बट बहुत सारे कोचिंग या तो",
+    "start_ms": 795680,
+    "start_time_label": "13:15",
+    "start_time_text": "13:15"
+   },
+   {
+    "end_ms": 800720,
+    "snippet": "यूपीएससी से भी ज्यादा हाई लेवल के",
+    "start_ms": 798720,
+    "start_time_label": "13:18",
+    "start_time_text": "13:18"
+   },
+   {
+    "end_ms": 803200,
+    "snippet": "क्वेश्चन पूछते हैं या फिर यूपीएससी से भी",
+    "start_ms": 800720,
+    "start_time_label": "13:20",
+    "start_time_text": "13:20"
+   },
+   {
+    "end_ms": 805040,
+    "snippet": "यूपीएससी से काफी कम लेवल के क्वेश्चन",
+    "start_ms": 803200,
+    "start_time_label": "13:23",
+    "start_time_text": "13:23"
+   },
+   {
+    "end_ms": 807040,
+    "snippet": "पूछते हैं। और हमारे लिए दोनों ही बहुत",
+    "start_ms": 805040,
+    "start_time_label": "13:25",
+    "start_time_text": "13:25"
+   },
+   {
+    "end_ms": 809680,
+    "snippet": "सही नहीं है। तो ऐसे में बेस अच्छा अप्रोच",
+    "start_ms": 807040,
+    "start_time_label": "13:27",
+    "start_time_text": "13:27"
+   },
+   {
+    "end_ms": 811839,
+    "snippet": "ये होगा कि हम यूपीएससी के क्वेश्चंस को",
+    "start_ms": 809680,
+    "start_time_label": "13:29",
+    "start_time_text": "13:29"
+   },
+   {
+    "end_ms": 814399,
+    "snippet": "अप्रोच करें। उसको टेस्ट सीरीज के रूप में",
+    "start_ms": 811839,
+    "start_time_label": "13:31",
+    "start_time_text": "13:31"
+   },
+   {
+    "end_ms": 817920,
+    "snippet": "यूज़ करें। हां, पांच छह आप टेस्ट लगा लो",
+    "start_ms": 814399,
+    "start_time_label": "13:34",
+    "start_time_text": "13:34"
+   },
+   {
+    "end_ms": 820480,
+    "snippet": "यूपीएससी के जो कोचिंग्स हैं उनके। बट मोर",
+    "start_ms": 817920,
+    "start_time_label": "13:37",
+    "start_time_text": "13:37"
+   },
+   {
+    "end_ms": 822560,
+    "snippet": "और लेस यू शुड बी फोकस्ड ऑन यू शुड बी",
+    "start_ms": 820480,
+    "start_time_label": "13:40",
+    "start_time_text": "13:40"
+   },
+   {
+    "end_ms": 825600,
+    "snippet": "डिपेंडेंट अपॉन द क्वेश्चंस ऑफ़ प्रीवियस",
+    "start_ms": 822560,
+    "start_time_label": "13:42",
+    "start_time_text": "13:42"
+   },
+   {
+    "end_ms": 828880,
+    "snippet": "ईयर। अह ऐज़ आई अर्लियर सेड कि मैं मेरे",
+    "start_ms": 825600,
+    "start_time_label": "13:45",
+    "start_time_text": "13:45"
+   },
+   {
+    "end_ms": 830800,
+    "snippet": "सोर्सेस क्या-क्या रहे हैं? तो हिस्ट्री",
+    "start_ms": 828880,
+    "start_time_label": "13:48",
+    "start_time_text": "13:48"
+   },
+   {
+    "end_ms": 834959,
+    "snippet": "में मैंने अ मणिकांत सर के",
+    "start_ms": 830800,
+    "start_time_label": "13:50",
+    "start_time_text": "13:50"
+   },
+   {
+    "end_ms": 837920,
+    "snippet": "अह मटेरियल्स को फॉलो किया। पिटी में",
+    "start_ms": 834959,
+    "start_time_label": "13:54",
+    "start_time_text": "13:54"
+   },
+   {
+    "end_ms": 840399,
+    "snippet": "मैंने लक्ष्मीकांत और दृष्टि के मटेरियल",
+    "start_ms": 837920,
+    "start_time_label": "13:57",
+    "start_time_text": "13:57"
+   },
+   {
+    "end_ms": 843120,
+    "snippet": "को फॉलो किया। तो मेंस में भी यही मेरे",
+    "start_ms": 840399,
+    "start_time_label": "14:00",
+    "start_time_text": "14:00"
+   },
+   {
+    "end_ms": 845120,
+    "snippet": "सोर्सेस रहे। मैंने सोर्सेस को बहुत",
+    "start_ms": 843120,
+    "start_time_label": "14:03",
+    "start_time_text": "14:03"
+   },
+   {
+    "end_ms": 847519,
+    "snippet": "ज्यादा चेंज नहीं किया। इनफैक्ट मेरे",
+    "start_ms": 845120,
+    "start_time_label": "14:05",
+    "start_time_text": "14:05"
+   },
+   {
+    "end_ms": 850240,
+    "snippet": "लिमिटेड सोर्सेस रहे बट मैंने उसको",
+    "start_ms": 847519,
+    "start_time_label": "14:07",
+    "start_time_text": "14:07"
+   },
+   {
+    "end_ms": 853120,
+    "snippet": "अनलिमिटेड टाइम रिवाइज़ किया है। अगर मेंस",
+    "start_ms": 850240,
+    "start_time_label": "14:10",
+    "start_time_text": "14:10"
+   },
+   {
+    "end_ms": 855040,
+    "snippet": "के स्ट्रेटजी की बात करें तो फिर बात वही",
+    "start_ms": 853120,
+    "start_time_label": "14:13",
+    "start_time_text": "14:13"
+   },
+   {
+    "end_ms": 857279,
+    "snippet": "होती है कि यू शुड हैव लिमिटेड रिसोर्सेज",
+    "start_ms": 855040,
+    "start_time_label": "14:15",
+    "start_time_text": "14:15"
+   },
+   {
+    "end_ms": 862639,
+    "snippet": "बट अनलिमिटेड रिवीज़ंस। अ अगर ओवरऑल अप्रोच",
+    "start_ms": 857279,
+    "start_time_label": "14:17",
+    "start_time_text": "14:17"
+   },
+   {
+    "end_ms": 866000,
+    "snippet": "की बात करें तो मैंने बेसिकली बहुत ज्यादा",
+    "start_ms": 862639,
+    "start_time_label": "14:22",
+    "start_time_text": "14:22"
+   },
+   {
+    "end_ms": 868800,
+    "snippet": "राइटिंग प्रैक्टिस की कोशिश की। आई थिंक",
+    "start_ms": 866000,
+    "start_time_label": "14:26",
+    "start_time_text": "14:26"
+   },
+   {
+    "end_ms": 871120,
+    "snippet": "2024 में मैंने जो मेंस लिखा था जिसमें",
+    "start_ms": 868800,
+    "start_time_label": "14:28",
+    "start_time_text": "14:28"
+   },
+   {
+    "end_ms": 874320,
+    "snippet": "मेरे मेरा ऑल इंडिया रैंक 182 आया था",
+    "start_ms": 871120,
+    "start_time_label": "14:31",
+    "start_time_text": "14:31"
+   },
+   {
+    "end_ms": 877760,
+    "snippet": "उसमें मैंने 45 टू 50 टेस्ट लगाए थे। इस",
+    "start_ms": 874320,
+    "start_time_label": "14:34",
+    "start_time_text": "14:34"
+   },
+   {
+    "end_ms": 880240,
+    "snippet": "बार तो खैर पांचवें अटेम्प्ट मुझे कम करना",
+    "start_ms": 877760,
+    "start_time_label": "14:37",
+    "start_time_text": "14:37"
+   },
+   {
+    "end_ms": 882240,
+    "snippet": "पड़ा बिकॉज़ काफी हद तक अभ्यास पहले हो",
+    "start_ms": 880240,
+    "start_time_label": "14:40",
+    "start_time_text": "14:40"
+   },
+   {
+    "end_ms": 884880,
+    "snippet": "चुका था तो मुझे कम करना पड़ा। बट आई वुड",
+    "start_ms": 882240,
+    "start_time_label": "14:42",
+    "start_time_text": "14:42"
+   },
+   {
+    "end_ms": 886959,
+    "snippet": "से कि बहुत ज्यादा प्रैक्टिस करने की",
+    "start_ms": 884880,
+    "start_time_label": "14:44",
+    "start_time_text": "14:44"
+   },
+   {
+    "end_ms": 889199,
+    "snippet": "जरूरत होती है। सो दैट आप निश्चित समय",
+    "start_ms": 886959,
+    "start_time_label": "14:46",
+    "start_time_text": "14:46"
+   },
+   {
+    "end_ms": 891680,
+    "snippet": "सेवा के भीतर बहुत अच्छे आंसर्स लिख करके",
+    "start_ms": 889199,
+    "start_time_label": "14:49",
+    "start_time_text": "14:49"
+   },
+   {
+    "end_ms": 895199,
+    "snippet": "आ सको। एट द सेम टाइम हमें कांसेप्ट और",
+    "start_ms": 891680,
+    "start_time_label": "14:51",
+    "start_time_text": "14:51"
+   },
+   {
+    "end_ms": 897839,
+    "snippet": "फैक्ट दोनों का एक सही अंडरस्टैंडिंग होना",
+    "start_ms": 895199,
+    "start_time_label": "14:55",
+    "start_time_text": "14:55"
+   },
+   {
+    "end_ms": 899600,
+    "snippet": "चाहिए। दोनों की सही दोनों का संतुलित",
+    "start_ms": 897839,
+    "start_time_label": "14:57",
+    "start_time_text": "14:57"
+   },
+   {
+    "end_ms": 902000,
+    "snippet": "उपयोग करना चाहिए। बेसिकली। सिर्फ",
+    "start_ms": 899600,
+    "start_time_label": "14:59",
+    "start_time_text": "14:59"
+   },
+   {
+    "end_ms": 904000,
+    "snippet": "कांसेप्ट अगर यूज़ करेंगे तब भी बहुत अच्छे",
+    "start_ms": 902000,
+    "start_time_label": "15:02",
+    "start_time_text": "15:02"
+   },
+   {
+    "end_ms": 905519,
+    "snippet": "मार्क्स नहीं आएंगे। सिर्फ फैक्ट यूज़",
+    "start_ms": 904000,
+    "start_time_label": "15:04",
+    "start_time_text": "15:04"
+   },
+   {
+    "end_ms": 908160,
+    "snippet": "करेंगे तब भी नहीं आएंगे। तो मैंने मैं",
+    "start_ms": 905519,
+    "start_time_label": "15:05",
+    "start_time_text": "15:05"
+   },
+   {
+    "end_ms": 911440,
+    "snippet": "अपने हर पॉइंट के साथ एग्जांपल से उसको",
+    "start_ms": 908160,
+    "start_time_label": "15:08",
+    "start_time_text": "15:08"
+   },
+   {
+    "end_ms": 914320,
+    "snippet": "सब्सटेंशिएट करने की कोशिश करता था। और आई",
+    "start_ms": 911440,
+    "start_time_label": "15:11",
+    "start_time_text": "15:11"
+   },
+   {
+    "end_ms": 916000,
+    "snippet": "थिंक इस बार जो मुझे अच्छे मार्क्स मिले",
+    "start_ms": 914320,
+    "start_time_label": "15:14",
+    "start_time_text": "15:14"
+   },
+   {
+    "end_ms": 917839,
+    "snippet": "हैं, उसका एक बहुत बड़ा रीजन ये है",
+    "start_ms": 916000,
+    "start_time_label": "15:16",
+    "start_time_text": "15:16"
+   },
+   {
+    "end_ms": 920000,
+    "snippet": "क्योंकि अपने चौथे अटेम्प्ट में मैंने हर",
+    "start_ms": 917839,
+    "start_time_label": "15:17",
+    "start_time_text": "15:17"
+   },
+   {
+    "end_ms": 922079,
+    "snippet": "पॉइंट को एग्जांपल्स के साथ सब्सटैंशिएट",
+    "start_ms": 920000,
+    "start_time_label": "15:20",
+    "start_time_text": "15:20"
+   },
+   {
+    "end_ms": 924160,
+    "snippet": "नहीं किया था। बट पांचवें अटेम्प्ट में",
+    "start_ms": 922079,
+    "start_time_label": "15:22",
+    "start_time_text": "15:22"
+   },
+   {
+    "end_ms": 926079,
+    "snippet": "ज्यादातर पॉइंट्स के साथ मैंने एग्जांपल्स",
+    "start_ms": 924160,
+    "start_time_label": "15:24",
+    "start_time_text": "15:24"
+   },
+   {
+    "end_ms": 928240,
+    "snippet": "यूज़ किया। एंड आई थिंक उसने मेरे आंसर को",
+    "start_ms": 926079,
+    "start_time_label": "15:26",
+    "start_time_text": "15:26"
+   },
+   {
+    "end_ms": 931040,
+    "snippet": "काफी एनरेच किया। तो स्ट्रेटजी में यही है",
+    "start_ms": 928240,
+    "start_time_label": "15:28",
+    "start_time_text": "15:28"
+   },
+   {
+    "end_ms": 933600,
+    "snippet": "कि आप लिखो। आंसर राइटिंग प्रैक्टिस करो।",
+    "start_ms": 931040,
+    "start_time_label": "15:31",
+    "start_time_text": "15:31"
+   },
+   {
+    "end_ms": 936399,
+    "snippet": "एट द सेम टाइम कांसेप्ट और फैक्ट का एक",
+    "start_ms": 933600,
+    "start_time_label": "15:33",
+    "start_time_text": "15:33"
+   },
+   {
+    "end_ms": 939440,
+    "snippet": "सही फ्यूज़ रखो। सही बैलेंस में इस्तेमाल",
+    "start_ms": 936399,
+    "start_time_label": "15:36",
+    "start_time_text": "15:36"
+   },
+   {
+    "end_ms": 942320,
+    "snippet": "करो। अह पेपर वन अगर जीएस पेपर वन की बात",
+    "start_ms": 939440,
+    "start_time_label": "15:39",
+    "start_time_text": "15:39"
+   },
+   {
+    "end_ms": 945040,
+    "snippet": "करूं मेंस में तो हिस्ट्री ज्योग्राफी और",
+    "start_ms": 942320,
+    "start_time_label": "15:42",
+    "start_time_text": "15:42"
+   },
+   {
+    "end_ms": 947279,
+    "snippet": "सोशल इशूज़ से रिलेटेड क्वेश्चन होते हैं।",
+    "start_ms": 945040,
+    "start_time_label": "15:45",
+    "start_time_text": "15:45"
+   },
+   {
+    "end_ms": 950399,
+    "snippet": "तो अगेन हिस्ट्री के लिए आप के जो बेसिक",
+    "start_ms": 947279,
+    "start_time_label": "15:47",
+    "start_time_text": "15:47"
+   },
+   {
+    "end_ms": 952480,
+    "snippet": "सोर्सेस होते हैं जैसे मेरे लिए मणिक सर",
+    "start_ms": 950399,
+    "start_time_label": "15:50",
+    "start_time_text": "15:50"
+   },
+   {
+    "end_ms": 954720,
+    "snippet": "के सोर्सेस थे। जो नॉन हिस्ट्री",
+    "start_ms": 952480,
+    "start_time_label": "15:52",
+    "start_time_text": "15:52"
+   },
+   {
+    "end_ms": 956720,
+    "snippet": "बैकग्राउंड के होंगे उनके लिए विपिन",
+    "start_ms": 954720,
+    "start_time_label": "15:54",
+    "start_time_text": "15:54"
+   },
+   {
+    "end_ms": 960560,
+    "snippet": "चंद्रा, आर एस शर्मा, सतीश चंद्रा की बुक",
+    "start_ms": 956720,
+    "start_time_label": "15:56",
+    "start_time_text": "15:56"
+   },
+   {
+    "end_ms": 964079,
+    "snippet": "यूज़फुल हो सकते हैं। अ सो ज्योग्राफी के",
+    "start_ms": 960560,
+    "start_time_label": "16:00",
+    "start_time_text": "16:00"
+   },
+   {
+    "end_ms": 966880,
+    "snippet": "लिए आप 11 12 की एनसीईआरटी को देख सकते",
+    "start_ms": 964079,
+    "start_time_label": "16:04",
+    "start_time_text": "16:04"
+   },
+   {
+    "end_ms": 970480,
+    "snippet": "हैं। सोशल इशूज़ के लिए बहुत मैंने कोई बुक",
+    "start_ms": 966880,
+    "start_time_label": "16:06",
+    "start_time_text": "16:06"
+   },
+   {
+    "end_ms": 974560,
+    "snippet": "तो देखा नहीं था बट करंट अफेयर और जो",
+    "start_ms": 970480,
+    "start_time_label": "16:10",
+    "start_time_text": "16:10"
+   },
+   {
+    "end_ms": 977759,
+    "snippet": "ऑनलाइन लिमिटेड ऑनलाइन सोर्सेस अवेलेबल",
+    "start_ms": 974560,
+    "start_time_label": "16:14",
+    "start_time_text": "16:14"
+   },
+   {
+    "end_ms": 980320,
+    "snippet": "होते हैं। फॉर एग्जांपल मैंने एएईआईएस के",
+    "start_ms": 977759,
+    "start_time_label": "16:17",
+    "start_time_text": "16:17"
+   },
+   {
+    "end_ms": 983519,
+    "snippet": "जो सोर्सेज थे वो मैंने ऑनलाइन उसको थोड़ा",
+    "start_ms": 980320,
+    "start_time_label": "16:20",
+    "start_time_text": "16:20"
+   },
+   {
+    "end_ms": 985680,
+    "snippet": "यूज किया था अपने अंडरस्टैंडिंग के लिए।",
+    "start_ms": 983519,
+    "start_time_label": "16:23",
+    "start_time_text": "16:23"
+   },
+   {
+    "end_ms": 987279,
+    "snippet": "बाकी मैंने करंट अफेयर्स है उसको",
+    "start_ms": 985680,
+    "start_time_label": "16:25",
+    "start_time_text": "16:25"
+   },
+   {
+    "end_ms": 990079,
+    "snippet": "सब्सटैंशिएट किया और उसको ठीक किया। पेपर",
+    "start_ms": 987279,
+    "start_time_label": "16:27",
+    "start_time_text": "16:27"
+   },
+   {
+    "end_ms": 992240,
+    "snippet": "टू की यदि बात करें तो उसमें पॉलिटी",
+    "start_ms": 990079,
+    "start_time_label": "16:30",
+    "start_time_text": "16:30"
+   },
+   {
+    "end_ms": 995040,
+    "snippet": "कॉन्स्टिट्यूशन, इंटरनेशनल रिलेशन ऐसे",
+    "start_ms": 992240,
+    "start_time_label": "16:32",
+    "start_time_text": "16:32"
+   },
+   {
+    "end_ms": 997440,
+    "snippet": "टॉपिक्स होते हैं। सोशल जस्टिस तो वो जो",
+    "start_ms": 995040,
+    "start_time_label": "16:35",
+    "start_time_text": "16:35"
+   },
+   {
+    "end_ms": 999040,
+    "snippet": "हम तैयारी कर रहे होते हैं लक्ष्मीकांत की",
+    "start_ms": 997440,
+    "start_time_label": "16:37",
+    "start_time_text": "16:37"
+   },
+   {
+    "end_ms": 1001279,
+    "snippet": "बुक से या जिस भी बुक से आप कर रहे हो वो",
+    "start_ms": 999040,
+    "start_time_label": "16:39",
+    "start_time_text": "16:39"
+   },
+   {
+    "end_ms": 1003440,
+    "snippet": "आपके लिए काफी यूज़फुल होगा। बट एट द सेम",
+    "start_ms": 1001279,
+    "start_time_label": "16:41",
+    "start_time_text": "16:41"
+   },
+   {
+    "end_ms": 1006000,
+    "snippet": "टाइम उसमें न्यूज़पेपर एडिटोरियल आर्टिकल्स",
+    "start_ms": 1003440,
+    "start_time_label": "16:43",
+    "start_time_text": "16:43"
+   },
+   {
+    "end_ms": 1008800,
+    "snippet": "बहुत यूज़फुल है। बहुत इंपॉर्टेंट है। आपका",
+    "start_ms": 1006000,
+    "start_time_label": "16:46",
+    "start_time_text": "16:46"
+   },
+   {
+    "end_ms": 1012560,
+    "snippet": "एनालिटिकल अप्रोच उसमें होना चाहिए और आप",
+    "start_ms": 1008800,
+    "start_time_label": "16:48",
+    "start_time_text": "16:48"
+   },
+   {
+    "end_ms": 1015120,
+    "snippet": "उस पे कोशिश कर सकते हैं कि रेमेंडेशंस",
+    "start_ms": 1012560,
+    "start_time_label": "16:52",
+    "start_time_text": "16:52"
+   },
+   {
+    "end_ms": 1018079,
+    "snippet": "प्रॉब्लम्स चैलेंजेस जो भी है उसमें किसी",
+    "start_ms": 1015120,
+    "start_time_label": "16:55",
+    "start_time_text": "16:55"
+   },
+   {
+    "end_ms": 1020079,
+    "snippet": "रिपोर्ट किसी कमिटी के रिपोर्ट का",
+    "start_ms": 1018079,
+    "start_time_label": "16:58",
+    "start_time_text": "16:58"
+   },
+   {
+    "end_ms": 1023040,
+    "snippet": "इस्तेमाल करो। सेकंड एआरसी का बहुत लोग",
+    "start_ms": 1020079,
+    "start_time_label": "17:00",
+    "start_time_text": "17:00"
+   },
+   {
+    "end_ms": 1024480,
+    "snippet": "इस्तेमाल करते हैं। ऑलदो ये अब काफी",
+    "start_ms": 1023040,
+    "start_time_label": "17:03",
+    "start_time_text": "17:03"
+   },
+   {
+    "end_ms": 1026880,
+    "snippet": "पुराना हो चुका है। तो आई थिंक मैंने",
+    "start_ms": 1024480,
+    "start_time_label": "17:04",
+    "start_time_text": "17:04"
+   },
+   {
+    "end_ms": 1028880,
+    "snippet": "सिर्फ एक आध जगह सेकंड एआरसी की रिपोर्ट",
+    "start_ms": 1026880,
+    "start_time_label": "17:06",
+    "start_time_text": "17:06"
+   },
+   {
+    "end_ms": 1031360,
+    "snippet": "का इस्तेमाल किया था। तो आप अलग-अलग",
+    "start_ms": 1028880,
+    "start_time_label": "17:08",
+    "start_time_text": "17:08"
+   },
+   {
+    "end_ms": 1033199,
+    "snippet": "कमिटीज के रिपोर्ट्स का इस्तेमाल कर सकते",
+    "start_ms": 1031360,
+    "start_time_label": "17:11",
+    "start_time_text": "17:11"
+   },
+   {
+    "end_ms": 1035280,
+    "snippet": "हैं। फॉर एग्जांपल हेल्थ रिलेटेड अगर कुछ",
+    "start_ms": 1033199,
+    "start_time_label": "17:13",
+    "start_time_text": "17:13"
+   },
+   {
+    "end_ms": 1038319,
+    "snippet": "है तो आप रेकमेंडेशन में डाल सकते हैं कि",
+    "start_ms": 1035280,
+    "start_time_label": "17:15",
+    "start_time_text": "17:15"
+   },
+   {
+    "end_ms": 1041120,
+    "snippet": "जो नेशनल हेल्थ पॉलिसी है उसके बारे में",
+    "start_ms": 1038319,
+    "start_time_label": "17:18",
+    "start_time_text": "17:18"
+   },
+   {
+    "end_ms": 1043199,
+    "snippet": "यूज़ कर सकते हैं। या प्राइम मिनिस्टर ने",
+    "start_ms": 1041120,
+    "start_time_label": "17:21",
+    "start_time_text": "17:21"
+   },
+   {
+    "end_ms": 1045039,
+    "snippet": "कुछ समय पहले हेल्थ को हॉलिस्टिक",
+    "start_ms": 1043199,
+    "start_time_label": "17:23",
+    "start_time_text": "17:23"
+   },
+   {
+    "end_ms": 1047280,
+    "snippet": "डेवलपमेंट के लिए या होलिस्टिक अप्रोच के",
+    "start_ms": 1045039,
+    "start_time_label": "17:25",
+    "start_time_text": "17:25"
+   },
+   {
+    "end_ms": 1049679,
+    "snippet": "रूप में छह रेकमेंडेशन दिया था। तो उसको",
+    "start_ms": 1047280,
+    "start_time_label": "17:27",
+    "start_time_text": "17:27"
+   },
+   {
+    "end_ms": 1052240,
+    "snippet": "आप यूज़ कर सकते हो। तो इस तरह से अभी",
+    "start_ms": 1049679,
+    "start_time_label": "17:29",
+    "start_time_text": "17:29"
+   },
+   {
+    "end_ms": 1055360,
+    "snippet": "अर्बनाइजेशन को लेकर के अभी एक रिपोर्ट",
+    "start_ms": 1052240,
+    "start_time_label": "17:32",
+    "start_time_text": "17:32"
+   },
+   {
+    "end_ms": 1059520,
+    "snippet": "आया था 2000 24 के लास्ट या 25 में ही। तो",
+    "start_ms": 1055360,
+    "start_time_label": "17:35",
+    "start_time_text": "17:35"
+   },
+   {
+    "end_ms": 1062960,
+    "snippet": "आप उस कमेटी के अब रेकमेंडेशन को यूज़ कर",
+    "start_ms": 1059520,
+    "start_time_label": "17:39",
+    "start_time_text": "17:39"
+   },
+   {
+    "end_ms": 1065200,
+    "snippet": "सकते हो। तो इससे आंसर काफी इफेक्टिव होता",
+    "start_ms": 1062960,
+    "start_time_label": "17:42",
+    "start_time_text": "17:42"
+   },
+   {
+    "end_ms": 1067919,
+    "snippet": "है। आईआर के लिए तो करंट अफेयर ही",
+    "start_ms": 1065200,
+    "start_time_label": "17:45",
+    "start_time_text": "17:45"
+   },
+   {
+    "end_ms": 1069679,
+    "snippet": "इंपॉर्टेंट होता है। बट यस यू शुड हैव",
+    "start_ms": 1067919,
+    "start_time_label": "17:47",
+    "start_time_text": "17:47"
+   },
+   {
+    "end_ms": 1071919,
+    "snippet": "बेसिक अंडरस्टैंडिंग ऑफ़ द रिलेशन ऑफ़",
+    "start_ms": 1069679,
+    "start_time_label": "17:49",
+    "start_time_text": "17:49"
+   },
+   {
+    "end_ms": 1074480,
+    "snippet": "इंडिया विद डिफरेंट कंट्रीज इंपॉर्टेंट",
+    "start_ms": 1071919,
+    "start_time_label": "17:51",
+    "start_time_text": "17:51"
+   },
+   {
+    "end_ms": 1077280,
+    "snippet": "कंट्रीज एंड इंपॉर्टेंट इंटरनेशनल",
+    "start_ms": 1074480,
+    "start_time_label": "17:54",
+    "start_time_text": "17:54"
+   },
+   {
+    "end_ms": 1080400,
+    "snippet": "इंस्टीटशंस। इकॉनमी के लिए जैसा कि मैंने",
+    "start_ms": 1077280,
+    "start_time_label": "17:57",
+    "start_time_text": "17:57"
+   },
+   {
+    "end_ms": 1083679,
+    "snippet": "पहले ही बोला जीएस पेपर थ्री में कि मैंने",
+    "start_ms": 1080400,
+    "start_time_label": "18:00",
+    "start_time_text": "18:00"
+   },
+   {
+    "end_ms": 1086080,
+    "snippet": "एफआईएस के रिसोर्सेज़ को बहुत एक्सटेंसिवली",
+    "start_ms": 1083679,
+    "start_time_label": "18:03",
+    "start_time_text": "18:03"
+   },
+   {
+    "end_ms": 1088160,
+    "snippet": "यूज़ किया। बिकॉज़ हिंदी मीडियम में मुझे",
+    "start_ms": 1086080,
+    "start_time_label": "18:06",
+    "start_time_text": "18:06"
+   },
+   {
+    "end_ms": 1091039,
+    "snippet": "बहुत अच्छे बुक्स नहीं मिल पाए थे इकोनमी",
+    "start_ms": 1088160,
+    "start_time_label": "18:08",
+    "start_time_text": "18:08"
+   },
+   {
+    "end_ms": 1093039,
+    "snippet": "के लिए स्पेसिफिकली।",
+    "start_ms": 1091039,
+    "start_time_label": "18:11",
+    "start_time_text": "18:11"
+   },
+   {
+    "end_ms": 1095919,
+    "snippet": "हो सकता है कि मैंने बहुत ज्यादा ढूंढा",
+    "start_ms": 1093039,
+    "start_time_label": "18:13",
+    "start_time_text": "18:13"
+   },
+   {
+    "end_ms": 1098080,
+    "snippet": "नहीं बट जो मैंने ढूंढा उससे मुझे बहुत",
+    "start_ms": 1095919,
+    "start_time_label": "18:15",
+    "start_time_text": "18:15"
+   },
+   {
+    "end_ms": 1101200,
+    "snippet": "अच्छे बुक्स नहीं मिल पाए। तो एएफआईएस के",
+    "start_ms": 1098080,
+    "start_time_label": "18:18",
+    "start_time_text": "18:18"
+   },
+   {
+    "end_ms": 1104480,
+    "snippet": "जो बुक्स जो रिसोर्सेज थे जो सोर्सेस थे",
+    "start_ms": 1101200,
+    "start_time_label": "18:21",
+    "start_time_text": "18:21"
+   },
+   {
+    "end_ms": 1107200,
+    "snippet": "मैंने उसको एक्सटेंसिवली यूज़ किया। अ साथ",
+    "start_ms": 1104480,
+    "start_time_label": "18:24",
+    "start_time_text": "18:24"
+   },
+   {
+    "end_ms": 1111760,
+    "snippet": "ही करंट अफेयर अगेन जो आर्टिकल्स हैं वो",
+    "start_ms": 1107200,
+    "start_time_label": "18:27",
+    "start_time_text": "18:27"
+   },
+   {
+    "end_ms": 1115919,
+    "snippet": "काफी यूज़फुल होते हैं। अ एथिक्स",
+    "start_ms": 1111760,
+    "start_time_label": "18:31",
+    "start_time_text": "18:31"
+   },
+   {
+    "end_ms": 1117919,
+    "snippet": "इंटीग्रिटी ऐपटीट्यूड जीएस पेपर फोर के",
+    "start_ms": 1115919,
+    "start_time_label": "18:35",
+    "start_time_text": "18:35"
+   },
+   {
+    "end_ms": 1120240,
+    "snippet": "लिए मैंने दृष्टि के बुक्स को यूज़ किया और",
+    "start_ms": 1117919,
+    "start_time_label": "18:37",
+    "start_time_text": "18:37"
+   },
+   {
+    "end_ms": 1122559,
+    "snippet": "उसको मैंने बहुत उसमें एग्जांपल्स ढूंढे।",
+    "start_ms": 1120240,
+    "start_time_label": "18:40",
+    "start_time_text": "18:40"
+   },
+   {
+    "end_ms": 1125200,
+    "snippet": "इस एग्जांपल में के लिए आप चैट जीपीटी,",
+    "start_ms": 1122559,
+    "start_time_label": "18:42",
+    "start_time_text": "18:42"
+   },
+   {
+    "end_ms": 1128240,
+    "snippet": "जेमिनाई इन सबका सहारा ले सकते हो। जिसमें",
+    "start_ms": 1125200,
+    "start_time_label": "18:45",
+    "start_time_text": "18:45"
+   },
+   {
+    "end_ms": 1130640,
+    "snippet": "एग्जांपल्स आपके अलग-अलग होने चाहिए। कुछ",
+    "start_ms": 1128240,
+    "start_time_label": "18:48",
+    "start_time_text": "18:48"
+   },
+   {
+    "end_ms": 1132880,
+    "snippet": "रिलीजियस रिलीजन से रिलेटेड एग्जांपल हो",
+    "start_ms": 1130640,
+    "start_time_label": "18:50",
+    "start_time_text": "18:50"
+   },
+   {
+    "end_ms": 1134799,
+    "snippet": "सकते हैं। एडमिनिस्ट्रेशन से रिलेटेड",
+    "start_ms": 1132880,
+    "start_time_label": "18:52",
+    "start_time_text": "18:52"
+   },
+   {
+    "end_ms": 1136160,
+    "snippet": "एग्जांपल हो सकते हैं। पॉलिटिक्स से",
+    "start_ms": 1134799,
+    "start_time_label": "18:54",
+    "start_time_text": "18:54"
+   },
+   {
+    "end_ms": 1138480,
+    "snippet": "रिलेटेड एग्जांपल हो सकते हैं या दूसरे जो",
+    "start_ms": 1136160,
+    "start_time_label": "18:56",
+    "start_time_text": "18:56"
+   },
+   {
+    "end_ms": 1141280,
+    "snippet": "भी है क्षेत्र उनसे रिलेटेड एग्जांपल्स हो",
+    "start_ms": 1138480,
+    "start_time_label": "18:58",
+    "start_time_text": "18:58"
+   },
+   {
+    "end_ms": 1143840,
+    "snippet": "सकते हैं। तो आप इन सबका सहारा ले सकते",
+    "start_ms": 1141280,
+    "start_time_label": "19:01",
+    "start_time_text": "19:01"
+   },
+   {
+    "end_ms": 1146559,
+    "snippet": "हो। साथ में कोटेशंस कुछ याद कर लो। अह",
+    "start_ms": 1143840,
+    "start_time_label": "19:03",
+    "start_time_text": "19:03"
+   },
+   {
+    "end_ms": 1149520,
+    "snippet": "एथिक्स के लिए जरूरी होगा कि हर टर्म्स",
+    "start_ms": 1146559,
+    "start_time_label": "19:06",
+    "start_time_text": "19:06"
+   },
+   {
+    "end_ms": 1151840,
+    "snippet": "जितने टर्म्स हैं हम उनका डेफिनेशन याद",
+    "start_ms": 1149520,
+    "start_time_label": "19:09",
+    "start_time_text": "19:09"
+   },
+   {
+    "end_ms": 1154640,
+    "snippet": "रखें। उसका मतलब समझ सके। सिर्फ याद नहीं",
+    "start_ms": 1151840,
+    "start_time_label": "19:11",
+    "start_time_text": "19:11"
+   },
+   {
+    "end_ms": 1157280,
+    "snippet": "करना है बल्कि समझना भी है। एट द सेम टाइम",
+    "start_ms": 1154640,
+    "start_time_label": "19:14",
+    "start_time_text": "19:14"
+   },
+   {
+    "end_ms": 1159200,
+    "snippet": "उससे रिलेटेड पॉजिटिव और नेगेटिव दो",
+    "start_ms": 1157280,
+    "start_time_label": "19:17",
+    "start_time_text": "19:17"
+   },
+   {
+    "end_ms": 1161760,
+    "snippet": "एग्जांपल्स हमें पता पता होना चाहिए। तो",
+    "start_ms": 1159200,
+    "start_time_label": "19:19",
+    "start_time_text": "19:19"
+   },
+   {
+    "end_ms": 1163679,
+    "snippet": "आई थिंक उससे आप बहुत अच्छा स्कोर कर सकते",
+    "start_ms": 1161760,
+    "start_time_label": "19:21",
+    "start_time_text": "19:21"
+   },
+   {
+    "end_ms": 1167039,
+    "snippet": "हो। अ एसए की यदि मैं बात करूं तो वो",
+    "start_ms": 1163679,
+    "start_time_label": "19:23",
+    "start_time_text": "19:23"
+   },
+   {
+    "end_ms": 1170240,
+    "snippet": "दरअसल सारे सब्जेक्ट का एक तरह से निचोड़",
+    "start_ms": 1167039,
+    "start_time_label": "19:27",
+    "start_time_text": "19:27"
+   },
+   {
+    "end_ms": 1173200,
+    "snippet": "है। जब हम चार जीएस पेपर की अच्छी तैयारी",
+    "start_ms": 1170240,
+    "start_time_label": "19:30",
+    "start_time_text": "19:30"
+   },
+   {
+    "end_ms": 1175520,
+    "snippet": "कर लेते हैं तो ऑब्वियस सी बात है कि कहीं",
+    "start_ms": 1173200,
+    "start_time_label": "19:33",
+    "start_time_text": "19:33"
+   },
+   {
+    "end_ms": 1177679,
+    "snippet": "ना कहीं हमारे ऐसे तैयारी होते रहती है।",
+    "start_ms": 1175520,
+    "start_time_label": "19:35",
+    "start_time_text": "19:35"
+   },
+   {
+    "end_ms": 1180240,
+    "snippet": "बट उसके बावजूद आई वुड हाइली रेकमेंड अ",
+    "start_ms": 1177679,
+    "start_time_label": "19:37",
+    "start_time_text": "19:37"
+   },
+   {
+    "end_ms": 1182880,
+    "snippet": "सजेस्ट कि आप थोड़ा सा फिलॉसफी देख सकते",
+    "start_ms": 1180240,
+    "start_time_label": "19:40",
+    "start_time_text": "19:40"
+   },
+   {
+    "end_ms": 1185200,
+    "snippet": "हो तो देखो। कुछ नहीं तो जो एथिक्स में हम",
+    "start_ms": 1182880,
+    "start_time_label": "19:42",
+    "start_time_text": "19:42"
+   },
+   {
+    "end_ms": 1187360,
+    "snippet": "लोग फिलॉसफर्स के बारे में पढ़ते हैं उसकी",
+    "start_ms": 1185200,
+    "start_time_label": "19:45",
+    "start_time_text": "19:45"
+   },
+   {
+    "end_ms": 1190880,
+    "snippet": "थोड़ी सी समझ विकसित कर लो। अगर हो सकता",
+    "start_ms": 1187360,
+    "start_time_label": "19:47",
+    "start_time_text": "19:47"
+   },
+   {
+    "end_ms": 1193200,
+    "snippet": "है तो थोड़ा सा सोशियोलॉजी पढ़ लो और वो",
+    "start_ms": 1190880,
+    "start_time_label": "19:50",
+    "start_time_text": "19:50"
+   },
+   {
+    "end_ms": 1194640,
+    "snippet": "भी आप बहुत एक्स्ट्रा नहीं कर सकते तो",
+    "start_ms": 1193200,
+    "start_time_label": "19:53",
+    "start_time_text": "19:53"
+   },
+   {
+    "end_ms": 1196720,
+    "snippet": "जीएस पेपर वन में जो हम सोशल इशज़ के लिए",
+    "start_ms": 1194640,
+    "start_time_label": "19:54",
+    "start_time_text": "19:54"
+   },
+   {
+    "end_ms": 1199039,
+    "snippet": "पढ़ते हैं उसको थोड़ा डेप्थ में पढ़ लें।",
+    "start_ms": 1196720,
+    "start_time_label": "19:56",
+    "start_time_text": "19:56"
+   },
+   {
+    "end_ms": 1202400,
+    "snippet": "तो ऐसे में ऐसे का काम हो जाता है। ऐसे के",
+    "start_ms": 1199039,
+    "start_time_label": "19:59",
+    "start_time_text": "19:59"
+   },
+   {
+    "end_ms": 1204240,
+    "snippet": "लिए आपको प्रैक्टिस करने की बहुत ज्यादा",
+    "start_ms": 1202400,
+    "start_time_label": "20:02",
+    "start_time_text": "20:02"
+   },
+   {
+    "end_ms": 1208000,
+    "snippet": "जरूरत है। मैं तो प्रिपरेशन के शुरुआत से",
+    "start_ms": 1204240,
+    "start_time_label": "20:04",
+    "start_time_text": "20:04"
+   },
+   {
+    "end_ms": 1210799,
+    "snippet": "ही एक ऐसे हर 10-15 दिनों पे लिखा करता था",
+    "start_ms": 1208000,
+    "start_time_label": "20:08",
+    "start_time_text": "20:08"
+   },
+   {
+    "end_ms": 1214320,
+    "snippet": "और मेंस प्रीलिम्स के रिजल्ट और मेंस के",
+    "start_ms": 1210799,
+    "start_time_label": "20:10",
+    "start_time_text": "20:10"
+   },
+   {
+    "end_ms": 1216400,
+    "snippet": "बीच शायद हर दूसरे तीसरे दिन में दो एस्स",
+    "start_ms": 1214320,
+    "start_time_label": "20:14",
+    "start_time_text": "20:14"
+   },
+   {
+    "end_ms": 1219600,
+    "snippet": "लिखा करता था। तो उससे आप इसे इंप्रूव कर",
+    "start_ms": 1216400,
+    "start_time_label": "20:16",
+    "start_time_text": "20:16"
+   },
+   {
+    "end_ms": 1223840,
+    "snippet": "सकते हो। ऐसे में बहुत ज्यादा इंपॉर्टेंट",
+    "start_ms": 1219600,
+    "start_time_label": "20:19",
+    "start_time_text": "20:19"
+   },
+   {
+    "end_ms": 1226720,
+    "snippet": "है कि आपकी राइटिंग बिल्कुल अच्छी होनी",
+    "start_ms": 1223840,
+    "start_time_label": "20:23",
+    "start_time_text": "20:23"
+   },
+   {
+    "end_ms": 1228720,
+    "snippet": "चाहिए। अच्छी इन द सेंस की फ्लो उसमें",
+    "start_ms": 1226720,
+    "start_time_label": "20:26",
+    "start_time_text": "20:26"
+   },
+   {
+    "end_ms": 1231679,
+    "snippet": "बहुत अच्छी हो। भाषा का प्रवाह बहुत अच्छा",
+    "start_ms": 1228720,
+    "start_time_label": "20:28",
+    "start_time_text": "20:28"
+   },
+   {
+    "end_ms": 1235039,
+    "snippet": "हो। आपकी भाषा बहुत सरल हो, बहुत स्पष्ट",
+    "start_ms": 1231679,
+    "start_time_label": "20:31",
+    "start_time_text": "20:31"
+   },
+   {
+    "end_ms": 1238559,
+    "snippet": "हो और जितनी वो सरल, अस्पष्ट और प्रवाहमय",
+    "start_ms": 1235039,
+    "start_time_label": "20:35",
+    "start_time_text": "20:35"
+   },
+   {
+    "end_ms": 1241360,
+    "snippet": "होगी, वह उतनी प्रभावशाली होगी। अह आप",
+    "start_ms": 1238559,
+    "start_time_label": "20:38",
+    "start_time_text": "20:38"
+   },
+   {
+    "end_ms": 1243520,
+    "snippet": "उसमें अलग-अलग डायमेंशन का इस्तेमाल जरूर",
+    "start_ms": 1241360,
+    "start_time_label": "20:41",
+    "start_time_text": "20:41"
+   },
+   {
+    "end_ms": 1246159,
+    "snippet": "करो। हिस्टोरिकल,",
+    "start_ms": 1243520,
+    "start_time_label": "20:43",
+    "start_time_text": "20:43"
+   },
+   {
+    "end_ms": 1247679,
+    "snippet": "कल्चरल,",
+    "start_ms": 1246159,
+    "start_time_label": "20:46",
+    "start_time_text": "20:46"
+   },
+   {
+    "end_ms": 1250240,
+    "snippet": "अह एनवायरमेंटल,",
+    "start_ms": 1247679,
+    "start_time_label": "20:47",
+    "start_time_text": "20:47"
+   },
+   {
+    "end_ms": 1252480,
+    "snippet": "टेक्नोलॉजी से जुड़े हुए। तो यह काफी आपके",
+    "start_ms": 1250240,
+    "start_time_label": "20:50",
+    "start_time_text": "20:50"
+   },
+   {
+    "end_ms": 1255679,
+    "snippet": "आंसर को एस्स को एनरीच करेगा। एट द सेम",
+    "start_ms": 1252480,
+    "start_time_label": "20:52",
+    "start_time_text": "20:52"
+   },
+   {
+    "end_ms": 1258000,
+    "snippet": "टाइम आप हमेशा एक नया पर्सपेक्टिव देने की",
+    "start_ms": 1255679,
+    "start_time_label": "20:55",
+    "start_time_text": "20:55"
+   },
+   {
+    "end_ms": 1261760,
+    "snippet": "कोशिश करो। साथ ही उसको बैलेंस्ड रखो। और",
+    "start_ms": 1258000,
+    "start_time_label": "20:58",
+    "start_time_text": "20:58"
+   },
+   {
+    "end_ms": 1265679,
+    "snippet": "जो एस्स का अंत होता है वो हमेशा कंक्लूजन",
+    "start_ms": 1261760,
+    "start_time_label": "21:01",
+    "start_time_text": "21:01"
+   },
+   {
+    "end_ms": 1268559,
+    "snippet": "को एक पॉजिटिव नोट के साथ एंड करो। उसमें",
+    "start_ms": 1265679,
+    "start_time_label": "21:05",
+    "start_time_text": "21:05"
+   },
+   {
+    "end_ms": 1271679,
+    "snippet": "कोटेशंस का इस्तेमाल कर सकते हो। कविताओं",
+    "start_ms": 1268559,
+    "start_time_label": "21:08",
+    "start_time_text": "21:08"
+   },
+   {
+    "end_ms": 1275520,
+    "snippet": "का इस्तेमाल कर सकते हैं। शायरी का इन इन",
+    "start_ms": 1271679,
+    "start_time_label": "21:11",
+    "start_time_text": "21:11"
+   },
+   {
+    "end_ms": 1278080,
+    "snippet": "चीजों का आप इस्तेमाल करके एस्स को काफी",
+    "start_ms": 1275520,
+    "start_time_label": "21:15",
+    "start_time_text": "21:15"
+   },
+   {
+    "end_ms": 1280720,
+    "snippet": "अच्छा बना सकते हो। मेरा ऑप्शनल हिस्ट्री",
+    "start_ms": 1278080,
+    "start_time_label": "21:18",
+    "start_time_text": "21:18"
+   },
+   {
+    "end_ms": 1282960,
+    "snippet": "रहा है और",
+    "start_ms": 1280720,
+    "start_time_label": "21:20",
+    "start_time_text": "21:20"
+   },
+   {
+    "end_ms": 1285600,
+    "snippet": "हिस्ट्री मैंने मणिकांत सर से पढ़ा था। तो",
+    "start_ms": 1282960,
+    "start_time_label": "21:22",
+    "start_time_text": "21:22"
+   },
+   {
+    "end_ms": 1287440,
+    "snippet": "मैंने बहुत ज्यादा रिसोर्सेज यूज़ नहीं",
+    "start_ms": 1285600,
+    "start_time_label": "21:25",
+    "start_time_text": "21:25"
+   },
+   {
+    "end_ms": 1289520,
+    "snippet": "किए। मणिकांत सर के मैंने रिसोर्सेज यूज़",
+    "start_ms": 1287440,
+    "start_time_label": "21:27",
+    "start_time_text": "21:27"
+   },
+   {
+    "end_ms": 1292080,
+    "snippet": "किए। उससे पहले मैंने लक्ष्मी का विपिन",
+    "start_ms": 1289520,
+    "start_time_label": "21:29",
+    "start_time_text": "21:29"
+   },
+   {
+    "end_ms": 1294480,
+    "snippet": "चंद्रा, सतीश चंद्रा और आर्य शर्मा की जो",
+    "start_ms": 1292080,
+    "start_time_label": "21:32",
+    "start_time_text": "21:32"
+   },
+   {
+    "end_ms": 1297280,
+    "snippet": "पुरानी एनसीआरटी थी बुक उनको मैंने देखा।",
+    "start_ms": 1294480,
+    "start_time_label": "21:34",
+    "start_time_text": "21:34"
+   },
+   {
+    "end_ms": 1300000,
+    "snippet": "यह तीनों बुक्स 11 12 की एनसीआरटी जो",
+    "start_ms": 1297280,
+    "start_time_label": "21:37",
+    "start_time_text": "21:37"
+   },
+   {
+    "end_ms": 1302159,
+    "snippet": "पुराने वाली थी वही है बेसिकली तो उसको",
+    "start_ms": 1300000,
+    "start_time_label": "21:40",
+    "start_time_text": "21:40"
+   },
+   {
+    "end_ms": 1304960,
+    "snippet": "मैंने पढ़ा था और बाकी मणिक सर के सोर्सेस",
+    "start_ms": 1302159,
+    "start_time_label": "21:42",
+    "start_time_text": "21:42"
+   },
+   {
+    "end_ms": 1307679,
+    "snippet": "मैंने उसका मल्टीपल टाइम रिवीज़ किया आंसर",
+    "start_ms": 1304960,
+    "start_time_label": "21:44",
+    "start_time_text": "21:44"
+   },
+   {
+    "end_ms": 1310080,
+    "snippet": "राइटिंग काफी की तो इससे मेरे लिए चीजें",
+    "start_ms": 1307679,
+    "start_time_label": "21:47",
+    "start_time_text": "21:47"
+   },
+   {
+    "end_ms": 1312559,
+    "snippet": "आसान हो गई तो जो भी कोचिंग इंस्टट्यूट",
+    "start_ms": 1310080,
+    "start_time_label": "21:50",
+    "start_time_text": "21:50"
+   },
+   {
+    "end_ms": 1314240,
+    "snippet": "अगर आप कोचिंग का सहारा ले रहे हो तो जो",
+    "start_ms": 1312559,
+    "start_time_label": "21:52",
+    "start_time_text": "21:52"
+   },
+   {
+    "end_ms": 1316960,
+    "snippet": "भी इंस्टट्यूट का आप सहारा ले रहे हो आप",
+    "start_ms": 1314240,
+    "start_time_label": "21:54",
+    "start_time_text": "21:54"
+   },
+   {
+    "end_ms": 1320480,
+    "snippet": "एक तो कोशिश करो कि बहुत",
+    "start_ms": 1316960,
+    "start_time_label": "21:56",
+    "start_time_text": "21:56"
+   },
+   {
+    "end_ms": 1323440,
+    "snippet": "विवेक के साथ आप कोचिंग का चयन करो और एक",
+    "start_ms": 1320480,
+    "start_time_label": "22:00",
+    "start_time_text": "22:00"
+   },
+   {
+    "end_ms": 1326799,
+    "snippet": "बार जब चयन कर लो तो फिर उस पे भरोसा रखो",
+    "start_ms": 1323440,
+    "start_time_label": "22:03",
+    "start_time_text": "22:03"
+   },
+   {
+    "end_ms": 1329600,
+    "snippet": "उसके जो रिसोर्सेज हैं उसमें बहुत ज़्यादा",
+    "start_ms": 1326799,
+    "start_time_label": "22:06",
+    "start_time_text": "22:06"
+   },
+   {
+    "end_ms": 1332880,
+    "snippet": "छेड़छाड़ मत करो। बेसिक अपने रिसोर्सेज को",
+    "start_ms": 1329600,
+    "start_time_label": "22:09",
+    "start_time_text": "22:09"
+   },
+   {
+    "end_ms": 1335360,
+    "snippet": "उन्हीं का रखो या फिर आपको जो समझ में आता",
+    "start_ms": 1332880,
+    "start_time_label": "22:12",
+    "start_time_text": "22:12"
+   },
+   {
+    "end_ms": 1338400,
+    "snippet": "है उनका रखो। बट बहुत ज्यादा परिवर्तन या",
+    "start_ms": 1335360,
+    "start_time_label": "22:15",
+    "start_time_text": "22:15"
+   },
+   {
+    "end_ms": 1341039,
+    "snippet": "बहुत ज्यादा एक्सपेरिमेंट नहीं करना है। अ",
+    "start_ms": 1338400,
+    "start_time_label": "22:18",
+    "start_time_text": "22:18"
+   },
+   {
+    "end_ms": 1344080,
+    "snippet": "आंसर पैराग्राफ में लिखा जाए या पॉइंट में",
+    "start_ms": 1341039,
+    "start_time_label": "22:21",
+    "start_time_text": "22:21"
+   },
+   {
+    "end_ms": 1346400,
+    "snippet": "लिखा जाए। ये एक बहुत ज्यादा पूछा जाने",
+    "start_ms": 1344080,
+    "start_time_label": "22:24",
+    "start_time_text": "22:24"
+   },
+   {
+    "end_ms": 1349039,
+    "snippet": "वाला क्वेश्चन है। मुझे लगता है कि दोनों",
+    "start_ms": 1346400,
+    "start_time_label": "22:26",
+    "start_time_text": "22:26"
+   },
+   {
+    "end_ms": 1351120,
+    "snippet": "का कोई खास मतलब होता नहीं है। आप जिस भी",
+    "start_ms": 1349039,
+    "start_time_label": "22:29",
+    "start_time_text": "22:29"
+   },
+   {
+    "end_ms": 1353679,
+    "snippet": "भाषा जिस भी फॉर्मेट में बहुत ज्यादा",
+    "start_ms": 1351120,
+    "start_time_label": "22:31",
+    "start_time_text": "22:31"
+   },
+   {
+    "end_ms": 1355600,
+    "snippet": "कंफर्टेबल हो और अपनी बातों को बहुत",
+    "start_ms": 1353679,
+    "start_time_label": "22:33",
+    "start_time_text": "22:33"
+   },
+   {
+    "end_ms": 1357600,
+    "snippet": "इफेक्टिवली एक्सप्रेस कर सकते हो आप उसमें",
+    "start_ms": 1355600,
+    "start_time_label": "22:35",
+    "start_time_text": "22:35"
+   },
+   {
+    "end_ms": 1360720,
+    "snippet": "लिखो। बट ज्यादातर अभी एस्पिरेंट पॉइंट",
+    "start_ms": 1357600,
+    "start_time_label": "22:37",
+    "start_time_text": "22:37"
+   },
+   {
+    "end_ms": 1362640,
+    "snippet": "में लिखते हैं। इसका कारण ये होता है कि",
+    "start_ms": 1360720,
+    "start_time_label": "22:40",
+    "start_time_text": "22:40"
+   },
+   {
+    "end_ms": 1365600,
+    "snippet": "पॉइंट में आप कंटेंट को अच्छे से आसानी से",
+    "start_ms": 1362640,
+    "start_time_label": "22:42",
+    "start_time_text": "22:42"
+   },
+   {
+    "end_ms": 1367600,
+    "snippet": "एक्सप्लेन कर पाते हो। पैराग्राफ में",
+    "start_ms": 1365600,
+    "start_time_label": "22:45",
+    "start_time_text": "22:45"
+   },
+   {
+    "end_ms": 1370000,
+    "snippet": "लिखना अपने आप एक चैलेंज होता है जो खास",
+    "start_ms": 1367600,
+    "start_time_label": "22:47",
+    "start_time_text": "22:47"
+   },
+   {
+    "end_ms": 1372960,
+    "snippet": "करके शुरुआत में लिखना शुरुआत लिखने के",
+    "start_ms": 1370000,
+    "start_time_label": "22:50",
+    "start_time_text": "22:50"
+   },
+   {
+    "end_ms": 1375679,
+    "snippet": "प्रक्रम के शुरुआत में तो आई वुड सजेस्ट",
+    "start_ms": 1372960,
+    "start_time_label": "22:52",
+    "start_time_text": "22:52"
+   },
+   {
+    "end_ms": 1378880,
+    "snippet": "कि अगर आप बहुत अच्छे राइटर नहीं हो तो आप",
+    "start_ms": 1375679,
+    "start_time_label": "22:55",
+    "start_time_text": "22:55"
+   },
+   {
+    "end_ms": 1380880,
+    "snippet": "पॉइंट्स में लिखो पॉइंट्स बिल्कुल",
+    "start_ms": 1378880,
+    "start_time_label": "22:58",
+    "start_time_text": "22:58"
+   },
+   {
+    "end_ms": 1384480,
+    "snippet": "छोटे-छोटे लिखो अ बस कोशिश करो कि ज्यादा",
+    "start_ms": 1380880,
+    "start_time_label": "23:00",
+    "start_time_text": "23:00"
+   },
+   {
+    "end_ms": 1386240,
+    "snippet": "से ज्यादा पॉइंट को आप एग्जांपल के हिसाब",
+    "start_ms": 1384480,
+    "start_time_label": "23:04",
+    "start_time_text": "23:04"
+   },
+   {
+    "end_ms": 1388799,
+    "snippet": "सब्सटैंशिएट करो। यह एग्जांपल आपका फैक्ट",
+    "start_ms": 1386240,
+    "start_time_label": "23:06",
+    "start_time_text": "23:06"
+   },
+   {
+    "end_ms": 1391679,
+    "snippet": "हो सकता है, कोई डाटा हो सकता है, कोई और",
+    "start_ms": 1388799,
+    "start_time_label": "23:08",
+    "start_time_text": "23:08"
+   },
+   {
+    "end_ms": 1394240,
+    "snippet": "भी चीज हो सकती है। अब मार्कशीट की यदि",
+    "start_ms": 1391679,
+    "start_time_label": "23:11",
+    "start_time_text": "23:11"
+   },
+   {
+    "end_ms": 1396960,
+    "snippet": "मैं बात करूं तो कल मार्कशीट तो आई है। तो",
+    "start_ms": 1394240,
+    "start_time_label": "23:14",
+    "start_time_text": "23:14"
+   },
+   {
+    "end_ms": 1400000,
+    "snippet": "इसमें मेरे कमोबेस सब में इंप्रूवमेंट हुए",
+    "start_ms": 1396960,
+    "start_time_label": "23:16",
+    "start_time_text": "23:16"
+   },
+   {
+    "end_ms": 1402720,
+    "snippet": "हैं। दो-दो नंबर, तीन-तीन नंबर तो उसने",
+    "start_ms": 1400000,
+    "start_time_label": "23:20",
+    "start_time_text": "23:20"
+   },
+   {
+    "end_ms": 1405919,
+    "snippet": "मेरे को काफी हेल्प किया और साथ ही",
+    "start_ms": 1402720,
+    "start_time_label": "23:22",
+    "start_time_text": "23:22"
+   },
+   {
+    "end_ms": 1407440,
+    "snippet": "इंटरव्यू में मेरे मार्क्स में काफी",
+    "start_ms": 1405919,
+    "start_time_label": "23:25",
+    "start_time_text": "23:25"
+   },
+   {
+    "end_ms": 1410559,
+    "snippet": "इंप्रूवमेंट हुआ है। तो आई वुड रेग सजेस्ट",
+    "start_ms": 1407440,
+    "start_time_label": "23:27",
+    "start_time_text": "23:27"
+   },
+   {
+    "end_ms": 1412400,
+    "snippet": "कि आप इंटरव्यू की भी तैयारी कहीं ना कहीं",
+    "start_ms": 1410559,
+    "start_time_label": "23:30",
+    "start_time_text": "23:30"
+   },
+   {
+    "end_ms": 1415280,
+    "snippet": "शुरू से करो। शुरू से इन द सेंस कि",
+    "start_ms": 1412400,
+    "start_time_label": "23:32",
+    "start_time_text": "23:32"
+   },
+   {
+    "end_ms": 1418400,
+    "snippet": "इंटरव्यू इज बेसिकली अ पर्सनालिटी टेस्ट",
+    "start_ms": 1415280,
+    "start_time_label": "23:35",
+    "start_time_text": "23:35"
+   },
+   {
+    "end_ms": 1420720,
+    "snippet": "और पर्सनालिटी एकद महीने में डेवलप नहीं",
+    "start_ms": 1418400,
+    "start_time_label": "23:38",
+    "start_time_text": "23:38"
+   },
+   {
+    "end_ms": 1423200,
+    "snippet": "होती है। काफी टाइम लगता है। तो आप जब भी",
+    "start_ms": 1420720,
+    "start_time_label": "23:40",
+    "start_time_text": "23:40"
+   },
+   {
+    "end_ms": 1425760,
+    "snippet": "सिविल सर्विज की तैयारी शुरू करो उसी समय",
+    "start_ms": 1423200,
+    "start_time_label": "23:43",
+    "start_time_text": "23:43"
+   },
+   {
+    "end_ms": 1427679,
+    "snippet": "से इंटरव्यू के बारे में सोचना शुरू कर",
+    "start_ms": 1425760,
+    "start_time_label": "23:45",
+    "start_time_text": "23:45"
+   },
+   {
+    "end_ms": 1430960,
+    "snippet": "दो। आपके बात करने का तरीका, बातों को",
+    "start_ms": 1427679,
+    "start_time_label": "23:47",
+    "start_time_text": "23:47"
+   },
+   {
+    "end_ms": 1435200,
+    "snippet": "रखने का तरीका, आपके विचार करने का तरीका",
+    "start_ms": 1430960,
+    "start_time_label": "23:50",
+    "start_time_text": "23:50"
+   },
+   {
+    "end_ms": 1439039,
+    "snippet": "सब बहुत लॉजिकल और फॉर्मल होना चाहिए। और",
+    "start_ms": 1435200,
+    "start_time_label": "23:55",
+    "start_time_text": "23:55"
+   },
+   {
+    "end_ms": 1441840,
+    "snippet": "यह अल्टीमेटली आपके इंटरव्यू को काफी",
+    "start_ms": 1439039,
+    "start_time_label": "23:59",
+    "start_time_text": "23:59"
+   },
+   {
+    "end_ms": 1444240,
+    "snippet": "ज्यादा एनरचिंग करता है। काफी आपके आपके",
+    "start_ms": 1441840,
+    "start_time_label": "24:01",
+    "start_time_text": "24:01"
+   },
+   {
+    "end_ms": 1446480,
+    "snippet": "लिए काफी पॉजिटिव मार्क्स लाने वाला होता",
+    "start_ms": 1444240,
+    "start_time_label": "24:04",
+    "start_time_text": "24:04"
+   },
+   {
+    "end_ms": 1448799,
+    "snippet": "है। जहां तक उन बच्चों की बात है कि जो",
+    "start_ms": 1446480,
+    "start_time_label": "24:06",
+    "start_time_text": "24:06"
+   },
+   {
+    "end_ms": 1451440,
+    "snippet": "गांव में रहते हैं तो मैंने भी अपनी पूरी",
+    "start_ms": 1448799,
+    "start_time_label": "24:08",
+    "start_time_text": "24:08"
+   },
+   {
+    "end_ms": 1454480,
+    "snippet": "तैयारी अपने घर पे रह के की है। हां,",
+    "start_ms": 1451440,
+    "start_time_label": "24:11",
+    "start_time_text": "24:11"
+   },
+   {
+    "end_ms": 1456720,
+    "snippet": "इंटरव्यू से ठीक पहले पिछले बार मैं",
+    "start_ms": 1454480,
+    "start_time_label": "24:14",
+    "start_time_text": "24:14"
+   },
+   {
+    "end_ms": 1459200,
+    "snippet": "दिल्ली आ गया था। उसी तरह से मेंस आंसर",
+    "start_ms": 1456720,
+    "start_time_label": "24:16",
+    "start_time_text": "24:16"
+   },
+   {
+    "end_ms": 1460640,
+    "snippet": "राइटिंग के लिए मैं 2 महीने के लिए दिल्ली",
+    "start_ms": 1459200,
+    "start_time_label": "24:19",
+    "start_time_text": "24:19"
+   },
+   {
+    "end_ms": 1464080,
+    "snippet": "आ गया था। तो उनके लिए मेरा यही है कि आप",
+    "start_ms": 1460640,
+    "start_time_label": "24:20",
+    "start_time_text": "24:20"
+   },
+   {
+    "end_ms": 1467679,
+    "snippet": "ऑनलाइन आज बहुत सारे अच्छे प्लेटफॉर्म्स",
+    "start_ms": 1464080,
+    "start_time_label": "24:24",
+    "start_time_text": "24:24"
+   },
+   {
+    "end_ms": 1469520,
+    "snippet": "हैं, बहुत सारे अच्छे सोर्सेज हैं। आप",
+    "start_ms": 1467679,
+    "start_time_label": "24:27",
+    "start_time_text": "24:27"
+   },
+   {
+    "end_ms": 1472480,
+    "snippet": "उनका इस्तेमाल करो। एंड कोचिंग ऐसा नहीं",
+    "start_ms": 1469520,
+    "start_time_label": "24:29",
+    "start_time_text": "24:29"
+   },
+   {
+    "end_ms": 1474880,
+    "snippet": "है कि बहुत जरूरी है। जो कोचिंग इस्तेमाल",
+    "start_ms": 1472480,
+    "start_time_label": "24:32",
+    "start_time_text": "24:32"
+   },
+   {
+    "end_ms": 1477120,
+    "snippet": "जो कोचिंग अफोर्ड नहीं कर सकते या जो",
+    "start_ms": 1474880,
+    "start_time_label": "24:34",
+    "start_time_text": "24:34"
+   },
+   {
+    "end_ms": 1479679,
+    "snippet": "दिल्ली नहीं आ सकते वो अच्छे बुक्स को",
+    "start_ms": 1477120,
+    "start_time_label": "24:37",
+    "start_time_text": "24:37"
+   },
+   {
+    "end_ms": 1483520,
+    "snippet": "उसका सहारा लें और बुक्स को मल्टीपल टाइम",
+    "start_ms": 1479679,
+    "start_time_label": "24:39",
+    "start_time_text": "24:39"
+   },
+   {
+    "end_ms": 1487200,
+    "snippet": "पढ़ें। उसको समझें। उसको जहां-जहां जरूरत",
+    "start_ms": 1483520,
+    "start_time_label": "24:43",
+    "start_time_text": "24:43"
+   },
+   {
+    "end_ms": 1490000,
+    "snippet": "हो याद भी करें। बस आपको एक सही गाइडेंस",
+    "start_ms": 1487200,
+    "start_time_label": "24:47",
+    "start_time_text": "24:47"
+   },
+   {
+    "end_ms": 1493440,
+    "snippet": "की जरूरत है और आज ऑनलाइन बहुत सारे अच्छे",
+    "start_ms": 1490000,
+    "start_time_label": "24:50",
+    "start_time_text": "24:50"
+   },
+   {
+    "end_ms": 1496480,
+    "snippet": "गाइड उपलब्ध हैं। आपको वो जरूर मदद कर",
+    "start_ms": 1493440,
+    "start_time_label": "24:53",
+    "start_time_text": "24:53"
+   },
+   {
+    "end_ms": 1498960,
+    "snippet": "करेंगे। तो जो भी गांव पे रह के तैयारी",
+    "start_ms": 1496480,
+    "start_time_label": "24:56",
+    "start_time_text": "24:56"
+   },
+   {
+    "end_ms": 1501600,
+    "snippet": "करना चाहते हैं उनको ऑल द बेस्ट एंड आई",
+    "start_ms": 1498960,
+    "start_time_label": "24:58",
+    "start_time_text": "24:58"
+   },
+   {
+    "end_ms": 1503919,
+    "snippet": "फील कि वो बहुत अच्छे से कर सकते हैं और",
+    "start_ms": 1501600,
+    "start_time_label": "25:01",
+    "start_time_text": "25:01"
+   },
+   {
+    "end_ms": 1505760,
+    "snippet": "बहुत सारी चीजें आज उपलब्ध है। तो आप",
+    "start_ms": 1503919,
+    "start_time_label": "25:03",
+    "start_time_text": "25:03"
+   },
+   {
+    "end_ms": 1508000,
+    "snippet": "प्लीज उसका हेल्प लो। एज जहां तक दिल्ली",
+    "start_ms": 1505760,
+    "start_time_label": "25:05",
+    "start_time_text": "25:05"
+   },
+   {
+    "end_ms": 1510159,
+    "snippet": "नॉलेज ट्रैक की बात है तो ये एक अच्छा",
+    "start_ms": 1508000,
+    "start_time_label": "25:08",
+    "start_time_text": "25:08"
+   },
+   {
+    "end_ms": 1514320,
+    "snippet": "इनिशिएटिव इनका है कि डीकेटी सबको टॉपर्स",
+    "start_ms": 1510159,
+    "start_time_label": "25:10",
+    "start_time_text": "25:10"
+   },
+   {
+    "end_ms": 1517120,
+    "snippet": "को अपने पास इनवाइट करती है और उनको अपने",
+    "start_ms": 1514320,
+    "start_time_label": "25:14",
+    "start_time_text": "25:14"
+   },
+   {
+    "end_ms": 1519039,
+    "snippet": "व्यूज को एक्सप्रेस करने का अपॉर्चुनिटी",
+    "start_ms": 1517120,
+    "start_time_label": "25:17",
+    "start_time_text": "25:17"
+   },
+   {
+    "end_ms": 1521919,
+    "snippet": "देती है। तो इससे बेसिकली जो एस्पिरेंट्स",
+    "start_ms": 1519039,
+    "start_time_label": "25:19",
+    "start_time_text": "25:19"
+   },
+   {
+    "end_ms": 1525039,
+    "snippet": "हैं जो शुरू अभी तैयारी शुरू करने वाले",
+    "start_ms": 1521919,
+    "start_time_label": "25:21",
+    "start_time_text": "25:21"
+   },
+   {
+    "end_ms": 1527679,
+    "snippet": "हैं उनके लिए काफी ज्यादा यूज़फुल रहता है।",
+    "start_ms": 1525039,
+    "start_time_label": "25:25",
+    "start_time_text": "25:25"
+   },
+   {
+    "end_ms": 1531039,
+    "snippet": "तो इसके लिए दिल्ली नॉलेज ट्रैक को",
+    "start_ms": 1527679,
+    "start_time_label": "25:27",
+    "start_time_text": "25:27"
+   },
+   {
+    "end_ms": 1533279,
+    "snippet": "इनफैक्ट वो धन्यवाद के पात्र हैं। एंड आई",
+    "start_ms": 1531039,
+    "start_time_label": "25:31",
+    "start_time_text": "25:31"
+   },
+   {
+    "end_ms": 1535840,
+    "snippet": "रियली थैंक देम। थैंक यू। सो थैंक्स।",
+    "start_ms": 1533279,
+    "start_time_label": "25:33",
+    "start_time_text": "25:33"
+   },
+   {
+    "end_ms": 1538880,
+    "snippet": "थैंक्स अ लॉट। एंड ऑल द बेस्ट टू",
+    "start_ms": 1535840,
+    "start_time_label": "25:35",
+    "start_time_text": "25:35"
+   },
+   {
+    "end_ms": 1541880,
+    "snippet": "एस्पिरेंट्स।",
+    "start_ms": 1538880,
+    "start_time_label": "25:38",
+    "start_time_text": "25:38"
+   },
+   {
+    "end_ms": 1543907,
+    "snippet": "[संगीत]",
+    "start_ms": 1541887,
+    "start_time_label": "25:41",
+    "start_time_text": "25:41"
+   }
+  ]
+ },
+ "video": {
+  "channel": "Delhi Knowledge Track",
+  "id": "JNwB9klTU40",
+  "title": "Rank 20 UPSC CSE 2025 | हिंदी मीडियम से CSE कैसे Crack करें | By Hindi Medium Topper Ravi Raaz"
+ }
+}

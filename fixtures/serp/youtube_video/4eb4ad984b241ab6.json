@@ -1,0 +1,131 @@
+{
+ "engine": "youtube_video",
+ "institute_id": "chahal-academy",
+ "params": {
+  "engine": "youtube_video",
+  "gl": "in",
+  "hl": "en",
+  "v": "WgM2V1G4unM"
+ },
+ "purpose": "youtube_video",
+ "rank": 9,
+ "response": {
+  "channel": {
+   "extracted_subscribers": 258000,
+   "link": "https://www.youtube.com/@chahalacademy",
+   "name": "Chahal Academy",
+   "subscribers": "258K subscribers",
+   "thumbnail": "https://yt3.ggpht.com/IT0798WgchmHbxmN7jB3NDbe_JfsJI2v-4fyrFNzHwHZRJ35LaxxxboBY_Nx-lR-XSfSGLYA1UE=s176-c-k-c0x00ffffff-no-rj"
+  },
+  "description": {
+   "content": "#ias #upsc #upsccse #civilservices #upsccivilservices #iasips #iasupsc #upscexam #iasexam #cseexam #upsccseexam #generalstudies #currentaffairs",
+   "links": [
+    {
+     "length": 4,
+     "start_index": 0,
+     "text": "#ias",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/ias"
+    },
+    {
+     "length": 5,
+     "start_index": 5,
+     "text": "#upsc",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/upsc"
+    },
+    {
+     "length": 8,
+     "start_index": 11,
+     "text": "#upsccse",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/upsccse"
+    },
+    {
+     "length": 14,
+     "start_index": 20,
+     "text": "#civilservices",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/civilservices"
+    },
+    {
+     "length": 18,
+     "start_index": 35,
+     "text": "#upsccivilservices",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/upsccivilservices"
+    },
+    {
+     "length": 7,
+     "start_index": 54,
+     "text": "#iasips",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/iasips"
+    },
+    {
+     "length": 8,
+     "start_index": 62,
+     "text": "#iasupsc",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/iasupsc"
+    },
+    {
+     "length": 9,
+     "start_index": 71,
+     "text": "#upscexam",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/upscexam"
+    },
+    {
+     "length": 8,
+     "start_index": 81,
+     "text": "#iasexam",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/iasexam"
+    },
+    {
+     "length": 8,
+     "start_index": 90,
+     "text": "#cseexam",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/cseexam"
+    },
+    {
+     "length": 12,
+     "start_index": 99,
+     "text": "#upsccseexam",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/upsccseexam"
+    },
+    {
+     "length": 15,
+     "start_index": 112,
+     "text": "#generalstudies",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/generalstudies"
+    },
+    {
+     "length": 15,
+     "start_index": 128,
+     "text": "#currentaffairs",
+     "type": "browse",
+     "url": "https://www.youtube.com/hashtag/currentaffairs"
+    }
+   ]
+  },
+  "published_date": "Mar 6, 2026",
+  "search_metadata": {
+   "created_at": "2026-10-05 15:58:25 UTC",
+   "id": "6ac3c921475266d4f7a98f24",
+   "processed_at": "2026-10-05 15:58:25 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube_video",
+   "gl": "in",
+   "hl": "en",
+   "v": "WgM2V1G4unM"
+  },
+  "title": "ASTHA JAIN All India Rank-9 IAS/UPSC Topper 2025-26| IAS/UPSC Result 2025-26 AIR-9 CSE"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "engine": "google_ads_transparency_center",
+ "institute_id": "raus-ias",
+ "params": {
+  "end_date": "20261005",
+  "engine": "google_ads_transparency_center",
+  "num": "100",
+  "region": "2356",
+  "start_date": "20260306",
+  "text": "rauias.com"
+ },
+ "purpose": "ads",
+ "rank": null,
+ "response": {
+  "error": "Google Ads Transparency Center hasn't returned any results for this search.",
+  "search_information": {
+   "results_state": "Fully empty"
+  },
+  "search_metadata": {
+   "created_at": "2026-10-05 16:35:54 UTC",
+   "id": "6ac3d1ea41ffc822e4a4bacc",
+   "processed_at": "2026-10-05 16:35:54 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "end_date": "20261005",
+   "engine": "google_ads_transparency_center",
+   "num": "100",
+   "region": "2356",
+   "start_date": "20260306",
+   "text": "rauias.com"
+  }
+ }
+}

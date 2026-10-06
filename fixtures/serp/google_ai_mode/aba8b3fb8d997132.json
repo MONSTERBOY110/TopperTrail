@@ -1,0 +1,83 @@
+{
+ "engine": "google_ai_mode",
+ "institute_id": null,
+ "params": {
+  "engine": "google_ai_mode",
+  "gl": "in",
+  "hl": "en",
+  "q": "Which coaching institute did Pakshal Secretry, UPSC CSE 2025 AIR 8, study at?"
+ },
+ "purpose": "ai_mode",
+ "rank": 8,
+ "response": {
+  "reconstructed_markdown": "Pakshal Secretry \\(UPSC CSE 2025 AIR 8\\) utilized guidance and resources from a couple of prominent coaching institutes during his preparation: [0]\n\n- Vajiram & Ravi: He enrolled in their Interview Guidance Programme for the personality test stage.\n- VisionIAS: He enrolled in their All India GS Mains Test Series and Personality Development Programme. [0] [1]\n\nWould you like to know more about his optional subject strategy \\(Economics\\) or his educational background at IIT Kanpur? [0] [1]\n\n\n### References\n\n[0] [Pakshal Secretry UPSC AIR 8 2025, Age, Attempts, Optional Subject](https://www.google.com/goto?url=CAESgQEB6zswFWtwNLgP9_T_gH3IBLlhL_59A3cJbKXAzn0UJktWAuXWxX2RGz8kHM-J3BIYDH3hDqnqqRYJRq3Gr3Kk9gD8e9sudTa5cjvAmQqc1IwXrD0Ri2Yue20fq3K1_6aQ240f54KTx3RpvHBkCPoNFOdhHzD2UZA6vq59G3nhMwA) — Pakshal Secretry \\(AIR 8, UPSC CSE 2025\\); Total Marks: 1035 \\(Written 837, Personality Test 198\\). Background: Born 2001, Bagh town, Dhar district, Madhya Pradesh. At...\n\n[1] [Pakshal Secretry AIR 8 UPSC 2025](https://www.google.com/goto?url=CAEStQEB6zswFVXUFW_EdJvUZrGqTmXnzes6rHiG7E4QuH7CoAP_sUppOH1-XwHv8HlHfHzQsoFmhB6LF2k8w4Dql0YHlc2GpRPTntBjeuW5emZcU0NgcEEmZRVTIqTzHWu17Z3r0s7uLm-741Q4C-MNEJ47M3czZHj-wn-aNRgr5bH79DUZPnIX0zzcVuJRTeBMi8zBggSeQxvrEU3DXoYJ6bNKlZ6_noy3LEMtfEzgrHuwIJLo06_Y) — He had enrolled in the VisionIAS All India GS Mains Test Series and Personality Development Programme. Pakshal Secretry is from Bagh in Dhar district of Madhya Pra...\n",
+  "references": [
+   {
+    "index": 0,
+    "link": "https://vajiramandravi.com/upsc-exam/pakshal-secretry-upsc-air-8-2025/",
+    "snippet": "Pakshal Secretry (AIR 8, UPSC CSE 2025); Total Marks: 1035 (Written 837, Personality Test 198). Background: Born 2001, Bagh town, Dhar district, Madhya Pradesh. At...",
+    "source": "Vajiram & Ravi",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://vajiramandravi.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd0zeDdOs38-noM2J7LKP9lhN50pU1OialXirCSy_8san6e0L8mmaMTZcCgqLQ_UZsdyhJYi5jxzXe4CHDSyWfKZr8N8hLjfpAmiiy",
+    "title": "Pakshal Secretry UPSC AIR 8 2025, Age, Attempts, Optional Subject"
+   },
+   {
+    "index": 1,
+    "link": "https://visionias.in/blog/english/pakshal-secretry-air-8-upsc-2025-background-upsc-journey-marksheet-toppers-copy-strategy",
+    "snippet": "He had enrolled in the VisionIAS All India GS Mains Test Series and Personality Development Programme. Pakshal Secretry is from Bagh in Dhar district of Madhya Pra...",
+    "source": "Vision IAS",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://visionias.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ843XJ9J_t7ZR5PF8n8RHzRioUtlC5i8iIFJ7F6mvBLrKcNIr4o4Fw66qseW3jPLX0d-XLMLOSwP_rlywVBONt1ZeC-IuGoCkhASAv",
+    "title": "Pakshal Secretry AIR 8 UPSC 2025"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 15:56:02 UTC",
+   "id": "6ac3c8920c3a08748a36f1c6",
+   "processed_at": "2026-10-05 15:56:02 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_ai_mode",
+   "gl": "in",
+   "hl": "en",
+   "q": "Which coaching institute did Pakshal Secretry, UPSC CSE 2025 AIR 8, study at?"
+  },
+  "text_blocks": [
+   {
+    "reference_indexes": [
+     0
+    ],
+    "snippet": "Pakshal Secretry (UPSC CSE 2025 AIR 8) utilized guidance and resources from a couple of prominent coaching institutes during his preparation:",
+    "snippet_highlighted_words": [
+     "a couple of prominent coaching institutes"
+    ],
+    "type": "paragraph"
+   },
+   {
+    "list": [
+     {
+      "snippet": "Vajiram & Ravi: He enrolled in their Interview Guidance Programme for the personality test stage."
+     },
+     {
+      "reference_indexes": [
+       0,
+       1
+      ],
+      "snippet": "VisionIAS: He enrolled in their All India GS Mains Test Series and Personality Development Programme."
+     }
+    ],
+    "type": "list"
+   },
+   {
+    "reference_indexes": [
+     0,
+     1
+    ],
+    "snippet": "Would you like to know more about his optional subject strategy (Economics) or his educational background at IIT Kanpur?",
+    "type": "paragraph"
+   }
+  ]
+ }
+}

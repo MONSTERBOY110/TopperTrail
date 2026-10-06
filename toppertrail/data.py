@@ -105,7 +105,15 @@ class Registry:
             if m and m.group(1).casefold() in self._handles:
                 return self._handles[m.group(1).casefold()]
         if name:
-            return self._names.get(normalize(name))
+            exact = self._names.get(normalize(name))
+            if exact or link:
+                return exact
+            # A collaboration video has no single channel link, only "A and B": accept it
+            # when one of the joined names is exactly a registered institute name or alias.
+            for part in re.split(r"\s+and\s+|\s*[,&|]\s*", name):
+                hit = self._names.get(normalize(part))
+                if hit:
+                    return hit
         return None
 
     def find_aliases(self, text: str) -> list[str]:

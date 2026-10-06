@@ -1,0 +1,85 @@
+{
+ "engine": "google_ai_mode",
+ "institute_id": null,
+ "params": {
+  "engine": "google_ai_mode",
+  "gl": "in",
+  "hl": "en",
+  "q": "Which coaching institute did Simrandeep Kaur, UPSC CSE 2025 AIR 15, study at?"
+ },
+ "purpose": "ai_mode",
+ "rank": 15,
+ "response": {
+  "reconstructed_markdown": "Simrandeep Kaur was associated with [Vision IAS](https://visionias.in/blog/english/simrandeep-kaur-air-15-upsc-2025-background-upsc-journey-marksheet-toppers-copy) during her UPSC preparation. [0]\n\nRather than a full\\-time general classroom program, she utilized their targeted test series and evaluation programs, which included:\n\n- All India GS Mains Test Series\n- Abhyaas Prelims and Abhyaas Mains\n- Abhyaas Essay and Abhyaas PSIR Optional\n- Personality Development Program \\(Interview guidance\\) [0]\n\nWould you like to know more about her optional subject strategy \\(PSIR\\) or her preparation timeline across her attempts?\n\n\n### References\n\n[0] [Simrandeep Kaur AIR 15 UPSC 2025 \\- Vision IAS](https://www.google.com/goto?url=CAESrAEB6zswFRAnAxHKaQOMO7EXnl6raBcECxI2lWTRpC_UQMVn_U2oOBCPL9x-GivVrM5kfuX57hsmUEjVnHlZ0MXIzINGJvbE76YxsQEuuhC_GePI-MEVf8d0Zx2dghHxl01eFXR-FAaE2Xmaim_vlx9X_ZbobFgRFD44TVoNhmAfpsREcCyRX2nKYr9MvSBeQMoJdWiJWRE4fOgXMnrNk49otE2-jYvTeKjU4gZ8) — She was associated with All India GS Mains Test Series, Abhyaas Prelims, Abhyaas Mains, Abhyaas Essay, Abhyaas PSIR Optional, and the Personality Development Progr...\n",
+  "references": [
+   {
+    "index": 0,
+    "link": "https://visionias.in/blog/english/simrandeep-kaur-air-15-upsc-2025-background-upsc-journey-marksheet-toppers-copy",
+    "snippet": "She was associated with All India GS Mains Test Series, Abhyaas Prelims, Abhyaas Mains, Abhyaas Essay, Abhyaas PSIR Optional, and the Personality Development Progr...",
+    "source": "Vision IAS",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://visionias.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ843XJ9J_t7ZR5PF8n8RHzRioUtlC5i8iIFJ7F6mvBLrKcNIr4o4Fw66qseW3jPLX0d-XLMLOSwP_rlywVBONt1ZeC-IuGoCkhASAv",
+    "title": "Simrandeep Kaur AIR 15 UPSC 2025 - Vision IAS"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 16:10:34 UTC",
+   "id": "6ac3cbfa7a3b054129059357",
+   "processed_at": "2026-10-05 16:10:34 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_ai_mode",
+   "gl": "in",
+   "hl": "en",
+   "q": "Which coaching institute did Simrandeep Kaur, UPSC CSE 2025 AIR 15, study at?"
+  },
+  "text_blocks": [
+   {
+    "reference_indexes": [
+     0
+    ],
+    "snippet": "Simrandeep Kaur was associated with Vision IAS during her UPSC preparation.",
+    "snippet_highlighted_words": [
+     "Vision IAS"
+    ],
+    "snippet_links": [
+     {
+      "link": "https://visionias.in/blog/english/simrandeep-kaur-air-15-upsc-2025-background-upsc-journey-marksheet-toppers-copy",
+      "text": "Vision IAS"
+     }
+    ],
+    "type": "paragraph"
+   },
+   {
+    "snippet": "Rather than a full-time general classroom program, she utilized their targeted test series and evaluation programs, which included:",
+    "type": "paragraph"
+   },
+   {
+    "list": [
+     {
+      "snippet": "All India GS Mains Test Series"
+     },
+     {
+      "snippet": "Abhyaas Prelims and Abhyaas Mains"
+     },
+     {
+      "snippet": "Abhyaas Essay and Abhyaas PSIR Optional"
+     },
+     {
+      "reference_indexes": [
+       0
+      ],
+      "snippet": "Personality Development Program (Interview guidance)"
+     }
+    ],
+    "type": "list"
+   },
+   {
+    "snippet": "Would you like to know more about her optional subject strategy (PSIR) or her preparation timeline across her attempts?",
+    "type": "paragraph"
+   }
+  ]
+ }
+}

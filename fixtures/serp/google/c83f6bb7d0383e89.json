@@ -1,0 +1,61 @@
+{
+ "engine": "google",
+ "institute_id": null,
+ "params": {
+  "engine": "google",
+  "gl": "in",
+  "hl": "en",
+  "q": "\"Ananya Sharma\" UPSC CSE 2025 AIR 13"
+ },
+ "purpose": "google_en",
+ "rank": 13,
+ "response": {
+  "organic_results": [
+   {
+    "displayed_link": "https://upsc.gov.in",
+    "link": "https://upsc.gov.in/",
+    "position": 1,
+    "snippet": "... 13-2025 · Clarification for the post of Assistant Public Prosecutor in ... UPSC CSE 2025 · All candidates appearing in the UPSC Examination will undergo ...",
+    "source": "UPSC",
+    "title": "Welcome to UPSC | UPSC"
+   },
+   {
+    "displayed_link": "https://upsconline.nic.in › exam-list › my-applications",
+    "link": "https://upsconline.nic.in/soap-exam/exam-list/my-applications",
+    "position": 2,
+    "source": "Union Public Service Commission",
+    "title": "exam-list"
+   },
+   {
+    "displayed_link": "https://saurashtrauniversity.ac.in › central-facilities › up...",
+    "link": "https://saurashtrauniversity.ac.in/university/central-facilities/upsc-coaching-centre/",
+    "position": 3,
+    "snippet": "UPSC Coaching Centre. Home · About · Staff · Circulars · News · Downloads · Contact ... Amongst all, civil services examination (CSE) is most popular. Quite often ...",
+    "source": "Saurashtra University",
+    "title": "UPSC Coaching Centre | Saurashtra University-Rajkot"
+   },
+   {
+    "displayed_link": "4.4L+ followers",
+    "link": "https://www.reddit.com/r/UPSC/",
+    "position": 4,
+    "snippet": "I'm trying to find an approach that ensures proper coverage and revision without taking too much time away from static subjects, answer writing, tests, and ...",
+    "source": "Reddit · r/UPSC",
+    "title": "r/UPSC - Connect, Learn, Succeed"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 16:03:33 UTC",
+   "id": "6ac3ca552f5ea0aa71cf06b6",
+   "processed_at": "2026-10-05 16:03:33 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google",
+   "gl": "in",
+   "google_domain": "google.com",
+   "hl": "en",
+   "q": "\"Ananya Sharma\" UPSC CSE 2025 AIR 13"
+  }
+ }
+}

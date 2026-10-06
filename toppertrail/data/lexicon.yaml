@@ -9,7 +9,11 @@ course_types:
     - mock interview programme
     - mock interviews
     - mock interview
-    - personality test
+    - personality test programme
+    - mock personality tests
+    - mock personality test
+    - personality test program
+    - personality test guidance
     - personality development programme
     - daf analysis
     - last mile
@@ -21,7 +25,9 @@ course_types:
     - gs foundation
     - foundation course
     - foundation batch
-    - foundation
+    - foundation programme
+    - foundation program
+    - foundation classes
     - classroom programme
     - classroom program
     - classroom course
@@ -190,7 +196,8 @@ association_cues:
   - enrolled
   - alumni
   - alumnus
-  - success story
+  - our success story
+  - our success stories
   - topper's talk
   - toppers talk
   - selections from

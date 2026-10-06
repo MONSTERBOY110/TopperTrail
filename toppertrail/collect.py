@@ -162,6 +162,7 @@ class Collector:
                 elif p.purpose == "images":
                     for r in data.get("images_results") or []:
                         if self.registry.by_url(r.get("link") or ""):
+                            self._page(run, r["link"])  # image results often lead to the page
                             self._image(run, r.get("original") or "")
                 elif p.purpose == "youtube":
                     self._video_followups(run, t, data.get("video_results") or [])

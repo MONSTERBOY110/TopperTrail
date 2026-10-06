@@ -1,0 +1,71 @@
+{
+ "engine": "google_ai_mode",
+ "institute_id": null,
+ "params": {
+  "engine": "google_ai_mode",
+  "gl": "in",
+  "hl": "en",
+  "q": "Which coaching institute did Sruthii R, UPSC CSE 2025 AIR 18, study at?"
+ },
+ "purpose": "ai_mode",
+ "rank": 18,
+ "response": {
+  "reconstructed_markdown": "Sruthii R, who secured All India Rank 18 in the UPSC CSE 2025, studied at Vajiram and Ravi, where she enrolled in both the General Studies and Sociology Optional courses. She also featured in topper interaction segments with [Vision IAS](https://www.visionias.in/blog/toppers-strategy/sruthi-r-air-18-upsc-2025-background-upsc-journey-marks-strategy) regarding her preparation journey and strategy. [0] [1]\n\nWould you like to know more about her preparation strategy for the Sociology optional or her approach to the Mains examination?\n\n\n### References\n\n[0] [Sruthii R UPSC AIR 18 2025, Age, Attempt, Optional Subject](https://www.google.com/goto?url=CAESewHrOzAVgfCG1YY7OQuv1IqCsK-AHhS2rux9KrO19aR1zXkMaOPemiseW4hcQWmFcKJqzWvD3a7QLcV9dDrJriKKuH2-MucgA5FIb74X2_OvBKm2cQd9MmJha0WbZCXFIhN6XnATcsPK_XLduNUdCszOXZSnSrnlqhvZBw) — Sruthii R is a UPSC Civil Services Examination 2025 topper who secured All India Rank 18. 2025 Roll Number is 5604518. Vajiram and Ravi.\n\n[1] [SRUTHI R AIR 18 UPSC 2025 \\- Vision IAS](https://www.google.com/goto?url=CAESqgEB6zswFdewSarB67826KBfVkr0wcmqS2IPY0hqs8W-ly6uHXXP3wyVgdin3AX49U_mNwALL0RzXHE3K8aWKWZ3snllLhXJtMNPuxc2cIfiV0a0fd78p1uP5TRMmM5skr24HxkJ6M2ndobYkRU6789-OX47gxnUVjC5xmz8n1nr1tr38AtH9TWh20FH27Onld4ifvIMFTuyJ-fatYeIkR0U_5Q-46DNSJjJXg) — Sruthi R secured All India Rank 18 in the UPSC Civil Services Examination 2025. was Sociology. Sruthi R cleared the UPSC Civil Services Examination in her second a...\n",
+  "references": [
+   {
+    "index": 0,
+    "link": "https://vajiramandravi.com/upsc-exam/sruthii-r-upsc-air-18-2025/",
+    "snippet": "Sruthii R is a UPSC Civil Services Examination 2025 topper who secured All India Rank 18. 2025 Roll Number is 5604518. Vajiram and Ravi.",
+    "source": "Vajiram & Ravi",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://vajiramandravi.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLXIOojqz5jtJ6SK5U4q9S7FJJjxZSxdng5yHJ_cGpjD9Eagiv3T16G75c94TkYrkzQrmdiUDWUtOpuDCvtDnrMi1e3VOA90K0cWfi",
+    "title": "Sruthii R UPSC AIR 18 2025, Age, Attempt, Optional Subject"
+   },
+   {
+    "index": 1,
+    "link": "https://www.visionias.in/blog/toppers-strategy/sruthi-r-air-18-upsc-2025-background-upsc-journey-marks-strategy",
+    "snippet": "Sruthi R secured All India Rank 18 in the UPSC Civil Services Examination 2025. was Sociology. Sruthi R cleared the UPSC Civil Services Examination in her second a...",
+    "source": "Vision IAS",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.visionias.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ843XJ9J_t7ZR5PF8n8RHzRioUtlC5i8iIFJ7F6mvBLrKcNIr4o4Fw66qseW3jPLX0d-XLMLOSwP_rlywVBONt1ZeC-IuGoCkhASAv",
+    "title": "SRUTHI R AIR 18 UPSC 2025 - Vision IAS"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 16:14:46 UTC",
+   "id": "6ac3ccf63d0e4e82daea98e3",
+   "processed_at": "2026-10-05 16:14:46 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_ai_mode",
+   "gl": "in",
+   "hl": "en",
+   "q": "Which coaching institute did Sruthii R, UPSC CSE 2025 AIR 18, study at?"
+  },
+  "text_blocks": [
+   {
+    "reference_indexes": [
+     0,
+     1
+    ],
+    "snippet": "Sruthii R, who secured All India Rank 18 in the UPSC CSE 2025, studied at Vajiram and Ravi, where she enrolled in both the General Studies and Sociology Optional courses. She also featured in topper interaction segments with Vision IAS regarding her preparation journey and strategy.",
+    "snippet_highlighted_words": [
+     "Vajiram and Ravi"
+    ],
+    "snippet_links": [
+     {
+      "link": "https://www.visionias.in/blog/toppers-strategy/sruthi-r-air-18-upsc-2025-background-upsc-journey-marks-strategy",
+      "text": "Vision IAS"
+     }
+    ],
+    "type": "paragraph"
+   },
+   {
+    "snippet": "Would you like to know more about her preparation strategy for the Sociology optional or her approach to the Mains examination?",
+    "type": "paragraph"
+   }
+  ]
+ }
+}

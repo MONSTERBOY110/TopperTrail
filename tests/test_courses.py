@@ -77,3 +77,40 @@ def test_marks_are_not_count_claims(lex):
 def test_hindi_plural_suffix_still_matches(lex):
     text = "मॉक इंटरव्यूज में मैंने नेक्स्ट आईएएस का मॉक इंटरव्यू दिया"
     assert lex.classify(text).course_types == ("interview_only",)
+
+
+def test_personality_test_stage_is_not_a_course(lex):
+    # "Personality Test" is the official name of the UPSC interview stage.
+    assert lex.classify("He scored 193 in the Personality Test of UPSC CSE 2025").course_types == ()
+    assert lex.classify("Joined our Personality Test Programme").course_types == ("interview_only",)
+
+
+def test_bare_foundation_is_not_a_course(lex):
+    text = "consistent preparation and a strong academic foundation"
+    assert lex.classify(text).course_types == ()
+    assert lex.classify("GS Foundation Course 2026").course_types == ("foundation_classroom",)
+
+
+def test_ocr_text_with_merged_words_still_names_the_course(lex):
+    ocr = "Heartiest CONGRATULATIONS 1 AIR ANUJ AGNIHOTRI UPSCCSE 2025TOPPER INTERVIEWGUIDANCEPROG"
+    assert lex.classify(ocr).course_types == ()
+    assert lex.classify(ocr, squashed=True).course_types == ("interview_only",)
+    assert lex.classify("XIGPQ RANK 1", squashed=True).course_types == ()  # short terms stay spaced
+
+
+def test_mock_personality_test_is_an_interview_course(lex):
+    assert lex.classify("Attended our Mock Personality Test").course_types == ("interview_only",)
+
+
+def test_merged_ocr_course_must_start_a_word(lex):
+    assert lex.classify("LATEST SERIES OF UPSC TOPPER TALKS", squashed=True).course_types == ()
+    assert lex.classify("isUnacademyOnlineClassroomProgramLearner",
+                        squashed=True).course_types == ("foundation_classroom",)
+
+
+def test_course_inside_a_long_merged_ocr_run_still_counts(lex):
+    # A 15+ letter all-caps run is several words OCR ran together; its word starts are unknown.
+    run = "CONGRATULATIONS 3 AIR AKANSHDHULL UPSCCSE2025TOPPER GENERALSTUDIESCLASSROOMPROGRAM"
+    assert lex.classify(run, squashed=True).course_types == ("foundation_classroom",)
+    terms = lex.classify("SURABHI YADAV ETHICSANSWERWRITINGPROG.&IGP", squashed=True).terms
+    assert "answer writing" in terms and "igp" in terms

@@ -4,16 +4,26 @@ from collections.abc import Sequence
 
 from toppertrail.data import Registry
 from toppertrail.extract.courses import Lexicon
-from toppertrail.extract.text import context_ok, mentions, trim_around
+from toppertrail.extract.text import context_ok, mentions, ranks_in, trim_around
 from toppertrail.hashing import short_hash
 from toppertrail.models import Claim, Exam, Institute, Signal, Topper
 
 WINDOW_LIMIT = 600
 # Sources where publishing the topper is itself the association: the institute hosts the
-# video, prints the poster, or pays for the ad.
-ALWAYS_CLAIMS = {"youtube_hosted", "youtube_description", "poster", "ad_creative"}
+# video or pays for the ad. A poster on the institute's site can be a news thumbnail, so it
+# needs the same association words as a page, and its watermark name does not count.
+ALWAYS_CLAIMS = {"youtube_hosted", "youtube_description", "ad_creative"}
+# Image text (OCR) keeps the words but not the layout, so a rank printed beside one name in a
+# grid of toppers may belong to another.
+IMAGE_TEXT = {"poster", "ad_creative"}
 URL_CUES = ("selection", "our-result", "results-disclosure", "our-topper", "achiever",
             "hall-of-fame", "success-stor", "associated")
+
+
+def _joins(block: str, mentions_in_block) -> bool:
+    """A neighbour block joins the window unless it names another topper or is image alt text
+    (a banner's alt text next to a name is not a disclosure about that name)."""
+    return not mentions_in_block and not block.lstrip().lower().startswith("image:")
 
 
 class ClaimExtractor:
@@ -29,7 +39,7 @@ class ClaimExtractor:
     def _claim(self, topper: Topper, inst: Institute, source_type: str, url: str, title: str,
                window: str, claimed_rank: int | None, search_id: str | None,
                evidence: tuple[str, ...], observed_at: str) -> Claim:
-        cm = self.lexicon.classify(window)
+        cm = self.lexicon.classify(window, squashed=source_type in IMAGE_TEXT)
         cid = short_hash(f"{self.exam.id}|{topper.rank}|{inst.id}|{source_type}|{url}")
         return Claim(
             claim_id=cid,
@@ -54,9 +64,11 @@ class ClaimExtractor:
     def _associated(self, window: str, inst: Institute, url: str, source_type: str) -> bool:
         if source_type in ALWAYS_CLAIMS:
             return True
-        if self.lexicon.associated(window) or self.lexicon.classify(window).course_types:
+        image = source_type in IMAGE_TEXT
+        if self.lexicon.associated(window) or \
+                self.lexicon.classify(window, squashed=image).course_types:
             return True
-        if inst.id in self.registry.find_aliases(window):
+        if source_type != "poster" and inst.id in self.registry.find_aliases(window):
             return True
         return any(cue in url.lower() for cue in URL_CUES)
 
@@ -73,7 +85,8 @@ class ClaimExtractor:
                     evidence: tuple[str, ...], observed_at: str,
                     require_year: bool = True) -> tuple[list[Claim], list[Signal], list[dict]]:
         index = dict(blocks)
-        found = {i: mentions(text, self.toppers) for i, text in blocks}
+        image = source_type in IMAGE_TEXT
+        found = {i: mentions(text, self.toppers, squashed=image) for i, text in blocks}
         claims: list[Claim] = []
         unresolved: list[dict] = []
         done: set[int] = set()
@@ -82,9 +95,9 @@ class ClaimExtractor:
                 if m.topper.rank in done:
                     continue
                 parts = [text]
-                if i - 1 in index and not found.get(i - 1):
+                if i - 1 in index and _joins(index[i - 1], found.get(i - 1)):
                     parts.insert(0, index[i - 1])
-                if i + 1 in index and not found.get(i + 1):
+                if i + 1 in index and _joins(index[i + 1], found.get(i + 1)):
                     parts.append(index[i + 1])
                 window = "\n".join(parts)
                 context = f"{window} {title} {url}"
@@ -105,8 +118,12 @@ class ClaimExtractor:
                     })
                     continue
                 done.add(m.topper.rank)
+                claimed = m.claimed_rank
+                if (source_type in IMAGE_TEXT and claimed != m.topper.rank
+                        and (len(found[i]) > 1 or len(ranks_in(text)) > 1)):
+                    claimed = None
                 claims.append(self._claim(m.topper, inst, source_type, url, title, window,
-                                          m.claimed_rank, search_id, evidence, observed_at))
+                                          claimed, search_id, evidence, observed_at))
         unresolved = [u for u in unresolved if u["rank"] not in done]
         signal_text = "\n".join(t for _, t in blocks)
         return claims, self._signals(inst, signal_text, url, evidence), unresolved

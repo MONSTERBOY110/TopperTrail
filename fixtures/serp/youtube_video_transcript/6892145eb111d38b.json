@@ -1,0 +1,1813 @@
+{
+ "engine": "youtube_video_transcript",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube_video_transcript",
+  "language_code": "hi",
+  "v": "LC15kssPTYQ"
+ },
+ "purpose": "transcript",
+ "rank": 9,
+ "response": {
+  "search_metadata": {
+   "created_at": "2026-10-05 15:58:27 UTC",
+   "id": "6ac3c923de1f339201454a65",
+   "processed_at": "2026-10-05 15:58:27 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "language_code": "hi",
+   "v": "LC15kssPTYQ"
+  },
+  "transcript": [
+   {
+    "snippet": "[music]",
+    "start_ms": 2000,
+    "start_time_label": "2 seconds",
+    "start_time_text": "0:02"
+   },
+   {
+    "snippet": "[music]",
+    "start_ms": 7000,
+    "start_time_label": "7 seconds",
+    "start_time_text": "0:07"
+   },
+   {
+    "snippet": "[music]",
+    "start_ms": 12000,
+    "start_time_label": "12 seconds",
+    "start_time_text": "0:12"
+   },
+   {
+    "snippet": "[snorts]",
+    "start_ms": 14000,
+    "start_time_label": "14 seconds",
+    "start_time_text": "0:14"
+   },
+   {
+    "snippet": "Good evening, sir. Good evening, sir. Good evening, sir. Please sit down. Thank you so much, sir.",
+    "start_ms": 19000,
+    "start_time_label": "19 seconds",
+    "start_time_text": "0:19"
+   },
+   {
+    "snippet": "Yes, sir. How old are you sir? I'm [snorts] 22 year old. What is your date of birth?",
+    "start_ms": 27000,
+    "start_time_label": "27 seconds",
+    "start_time_text": "0:27"
+   },
+   {
+    "snippet": "Sir 16th March 2001. 16th March 2001. Yes sir. So you are all of uh will be 23.",
+    "start_ms": 34000,
+    "start_time_label": "34 seconds",
+    "start_time_text": "0:34"
+   },
+   {
+    "snippet": "Yes sir. Okay. Great. And you come from Shamali? Yes sir.",
+    "start_ms": 44000,
+    "start_time_label": "44 seconds",
+    "start_time_text": "0:44"
+   },
+   {
+    "snippet": "Okay. Please tell us something about yourself. Sit comfortably. Yes sir. I'm comfortable.",
+    "start_ms": 49000,
+    "start_time_label": "49 seconds",
+    "start_time_text": "0:49"
+   },
+   {
+    "snippet": "Okay. So uh tell us something about yourself. So my name is Asta Jan. I belong to Shamli Uttar Pradesh. I am a",
+    "start_ms": 54000,
+    "start_time_label": "54 seconds",
+    "start_time_text": "0:54"
+   },
+   {
+    "snippet": "BA graduate from Miranda House, University of Delhi. Uh my hobbies are playing medminton, yoga and also",
+    "start_ms": 62000,
+    "start_time_label": "1 minute, 2 seconds",
+    "start_time_text": "1:02"
+   },
+   {
+    "snippet": "volunteering for NGOs's especially working in child issues. And this is my first attempt and my first interview. First attempt. First interview.",
+    "start_ms": 70000,
+    "start_time_label": "1 minute, 10 seconds",
+    "start_time_text": "1:10"
+   },
+   {
+    "snippet": "Yes sir. So you hope to crack it? Yes sir. I do hope. Do hope.",
+    "start_ms": 78000,
+    "start_time_label": "1 minute, 18 seconds",
+    "start_time_text": "1:18"
+   },
+   {
+    "snippet": "Yes sir. And uh in instead of pursuing higher studies immediately after graduation, why do you be want to become",
+    "start_ms": 83000,
+    "start_time_label": "1 minute, 23 seconds",
+    "start_time_text": "1:23"
+   },
+   {
+    "snippet": "a civil servant despised by all and kicked around by all?",
+    "start_ms": 90000,
+    "start_time_label": "1 minute, 30 seconds",
+    "start_time_text": "1:30"
+   },
+   {
+    "snippet": "Why do you want to become a civil servant?",
+    "start_ms": 96000,
+    "start_time_label": "1 minute, 36 seconds",
+    "start_time_text": "1:36"
+   },
+   {
+    "snippet": "Sir, uh this has always been my career aspiration and from class 11 I uh I was sure that I want to be a civil servant",
+    "start_ms": 99000,
+    "start_time_label": "1 minute, 39 seconds",
+    "start_time_text": "1:39"
+   },
+   {
+    "snippet": "soon in my life. So after graduation my aim was clear that I will be joining civil services and regarding higher education I will be pursuing higher",
+    "start_ms": 106000,
+    "start_time_label": "1 minute, 46 seconds",
+    "start_time_text": "1:46"
+   },
+   {
+    "snippet": "education but after be after setting up a career for myself that's a career or a career wish or a",
+    "start_ms": 115000,
+    "start_time_label": "1 minute, 55 seconds",
+    "start_time_text": "1:55"
+   },
+   {
+    "snippet": "service wish sir more of a service wish why so sir when I dreamt of becoming civil",
+    "start_ms": 123000,
+    "start_time_label": "2 minutes, 3 seconds",
+    "start_time_text": "2:03"
+   },
+   {
+    "snippet": "servant first in the first instance my motivation was to be a part of governance so that I can bring a change at the ground level And public service I",
+    "start_ms": 130000,
+    "start_time_label": "2 minutes, 10 seconds",
+    "start_time_text": "2:10"
+   },
+   {
+    "snippet": "believe is provides me that opportunity to create some change in the society. So that's why it is more of a service for me than just a career opportunity.",
+    "start_ms": 138000,
+    "start_time_label": "2 minutes, 18 seconds",
+    "start_time_text": "2:18"
+   },
+   {
+    "snippet": "Tell me one thing in hunger index. Yes sir.",
+    "start_ms": 147000,
+    "start_time_label": "2 minutes, 27 seconds",
+    "start_time_text": "2:27"
+   },
+   {
+    "snippet": "We are worse than Bangladesh and Pakistan. Yes sir. Right. That is the uh global index.",
+    "start_ms": 151000,
+    "start_time_label": "2 minutes, 31 seconds",
+    "start_time_text": "2:31"
+   },
+   {
+    "snippet": "80 cr people have to be fed by from the government food uh supplies.",
+    "start_ms": 160000,
+    "start_time_label": "2 minutes, 40 seconds",
+    "start_time_text": "2:40"
+   },
+   {
+    "snippet": "All right. Our health ratio is very bad.",
+    "start_ms": 168000,
+    "start_time_label": "2 minutes, 48 seconds",
+    "start_time_text": "2:48"
+   },
+   {
+    "snippet": "Female infanticide takes place. One in every four child brides come from India.",
+    "start_ms": 171000,
+    "start_time_label": "2 minutes, 51 seconds",
+    "start_time_text": "2:51"
+   },
+   {
+    "snippet": "This is what civil service has given in the last 75 years. And you want to join the band of such people. Why",
+    "start_ms": 180000,
+    "start_time_label": "3 minutes",
+    "start_time_text": "3:00"
+   },
+   {
+    "snippet": "sir? To just focus on um some failures and to declare civil services a a failure would be a great mistake and a",
+    "start_ms": 189000,
+    "start_time_label": "3 minutes, 9 seconds",
+    "start_time_text": "3:09"
+   },
+   {
+    "snippet": "great dishonor to the civil servants and their service to the nation. Today India is fifth largest economy in the world and uh we are excelling in our foreign",
+    "start_ms": 197000,
+    "start_time_label": "3 minutes, 17 seconds",
+    "start_time_text": "3:17"
+   },
+   {
+    "snippet": "policy and even in the ground level I can I can see that in the during the 70 year journey we have reached to a great",
+    "start_ms": 206000,
+    "start_time_label": "3 minutes, 26 seconds",
+    "start_time_text": "3:26"
+   },
+   {
+    "snippet": "height. India has lifted millions out of poverty and India provides the largest food support system in the form of",
+    "start_ms": 213000,
+    "start_time_label": "3 minutes, 33 seconds",
+    "start_time_text": "3:33"
+   },
+   {
+    "snippet": "midday meal or many other schemes regard in education also we are improving now we have 77% around literacy so I am",
+    "start_ms": 221000,
+    "start_time_label": "3 minutes, 41 seconds",
+    "start_time_text": "3:41"
+   },
+   {
+    "snippet": "hopeful that in the coming days civil servant will act as a backbone and will further take India to the new heights excellent okay now you are interested in",
+    "start_ms": 230000,
+    "start_time_label": "3 minutes, 50 seconds",
+    "start_time_text": "3:50"
+   },
+   {
+    "snippet": "child related issues yes sir right have you heard of juven Juvenile Justice Act. Yes sir.",
+    "start_ms": 240000,
+    "start_time_label": "4 minutes",
+    "start_time_text": "4:00"
+   },
+   {
+    "snippet": "Why the act is not taking off?",
+    "start_ms": 246000,
+    "start_time_label": "4 minutes, 6 seconds",
+    "start_time_text": "4:06"
+   },
+   {
+    "snippet": "What are the reasons that Juvenile Justice Act is not taking off fully?",
+    "start_ms": 250000,
+    "start_time_label": "4 minutes, 10 seconds",
+    "start_time_text": "4:10"
+   },
+   {
+    "snippet": "Sir uh as much as I'm aware about the act one issue is regarding the child welfare committees that are there in the",
+    "start_ms": 258000,
+    "start_time_label": "4 minutes, 18 seconds",
+    "start_time_text": "4:18"
+   },
+   {
+    "snippet": "ground level I think there are some issues in their functioning and uh uh regarding adoption rate also I think there is some issue but I'll have to",
+    "start_ms": 267000,
+    "start_time_label": "4 minutes, 27 seconds",
+    "start_time_text": "4:27"
+   },
+   {
+    "snippet": "read more about the act and please do that yes sir and uh can a juvenile be tried as an adult",
+    "start_ms": 276000,
+    "start_time_label": "4 minutes, 36 seconds",
+    "start_time_text": "4:36"
+   },
+   {
+    "snippet": "for crimes committed by them sir I think uh If he is above 16 years, he can be tried. In this the recent amendments do focus on that.",
+    "start_ms": 284000,
+    "start_time_label": "4 minutes, 44 seconds",
+    "start_time_text": "4:44"
+   },
+   {
+    "snippet": "In what cases, sir? Uh in extreme cases like rape and also I think after some cases of rape uh",
+    "start_ms": 294000,
+    "start_time_label": "4 minutes, 54 seconds",
+    "start_time_text": "4:54"
+   },
+   {
+    "snippet": "they were there were some amendments in the act.",
+    "start_ms": 303000,
+    "start_time_label": "5 minutes, 3 seconds",
+    "start_time_text": "5:03"
+   },
+   {
+    "snippet": "Okay. Uh my last question to you right uh are you aware of the age of consent issue in the country? Yes sir.",
+    "start_ms": 306000,
+    "start_time_label": "5 minutes, 6 seconds",
+    "start_time_text": "5:06"
+   },
+   {
+    "snippet": "What is that sir? Um the country law recognized 18 year as the age of age of consent. But",
+    "start_ms": 318000,
+    "start_time_label": "5 minutes, 18 seconds",
+    "start_time_text": "5:18"
+   },
+   {
+    "snippet": "uh regarding the marriage uh the age differential is that girls can marry after 18 years but boy can marry after",
+    "start_ms": 326000,
+    "start_time_label": "5 minutes, 26 seconds",
+    "start_time_text": "5:26"
+   },
+   {
+    "snippet": "21 years. So that's the age of consent I think but under the poxo act",
+    "start_ms": 333000,
+    "start_time_label": "5 minutes, 33 seconds",
+    "start_time_text": "5:33"
+   },
+   {
+    "snippet": "but the age of consent issue comes in for the poxo act largely. Yes, there is an anom anomaly there.",
+    "start_ms": 341000,
+    "start_time_label": "5 minutes, 41 seconds",
+    "start_time_text": "5:41"
+   },
+   {
+    "snippet": "What is the anomaly then sir? Uh the anomaly is that till 18 years uh age of consent is considered as",
+    "start_ms": 347000,
+    "start_time_label": "5 minutes, 47 seconds",
+    "start_time_text": "5:47"
+   },
+   {
+    "snippet": "18 years but if the girl is married to a adult man before 18 years",
+    "start_ms": 355000,
+    "start_time_label": "5 minutes, 55 seconds",
+    "start_time_text": "5:55"
+   },
+   {
+    "snippet": "I think uh Aa is it not the issue of a girl who is 15 15",
+    "start_ms": 363000,
+    "start_time_label": "6 minutes, 3 seconds",
+    "start_time_text": "6:03"
+   },
+   {
+    "snippet": "and uh enters into a sexual diance with a man yes sir but with consent. Yes or that's the issue.",
+    "start_ms": 372000,
+    "start_time_label": "6 minutes, 12 seconds",
+    "start_time_text": "6:12"
+   },
+   {
+    "snippet": "So should that relationship be a crime or should pass as a",
+    "start_ms": 380000,
+    "start_time_label": "6 minutes, 20 seconds",
+    "start_time_text": "6:20"
+   },
+   {
+    "snippet": "consensual act of sexual relationship?",
+    "start_ms": 389000,
+    "start_time_label": "6 minutes, 29 seconds",
+    "start_time_text": "6:29"
+   },
+   {
+    "snippet": "Sir, I think till the age of 18, just to say that the girl has given consent would not be totally appropriate because",
+    "start_ms": 396000,
+    "start_time_label": "6 minutes, 36 seconds",
+    "start_time_text": "6:36"
+   },
+   {
+    "snippet": "the girl uh needs proper education uh in terms of sex education and all and she can't be considered as a full individual",
+    "start_ms": 405000,
+    "start_time_label": "6 minutes, 45 seconds",
+    "start_time_text": "6:45"
+   },
+   {
+    "snippet": "taking independent decisions before the age of 18. But a lot of jurists uh NOS's",
+    "start_ms": 412000,
+    "start_time_label": "6 minutes, 52 seconds",
+    "start_time_text": "6:52"
+   },
+   {
+    "snippet": "and uh women groups are asking for lowering this age.",
+    "start_ms": 420000,
+    "start_time_label": "7 minutes",
+    "start_time_text": "7:00"
+   },
+   {
+    "snippet": "What should be in your estimation? What should be an appropriate age of consent where a girl is fully aware of implications of this kind of Indian?",
+    "start_ms": 427000,
+    "start_time_label": "7 minutes, 7 seconds",
+    "start_time_text": "7:07"
+   },
+   {
+    "snippet": "Sir, I agree with the current age of 18 years. I think that's fine. because at the age of 18 we actually complete our",
+    "start_ms": 439000,
+    "start_time_label": "7 minutes, 19 seconds",
+    "start_time_text": "7:19"
+   },
+   {
+    "snippet": "schooling and we are exposed to the new world and we are fully mature to understand the implications of our actions more clearly. So I don't see any",
+    "start_ms": 446000,
+    "start_time_label": "7 minutes, 26 seconds",
+    "start_time_text": "7:26"
+   },
+   {
+    "snippet": "problem in 18th year year of age as the age of consent. Okay. Thank you. Thank you sir. Hello Asha.",
+    "start_ms": 456000,
+    "start_time_label": "7 minutes, 36 seconds",
+    "start_time_text": "7:36"
+   },
+   {
+    "snippet": "Hello. [clears throat] How are you doing today? I'm good sir.",
+    "start_ms": 464000,
+    "start_time_label": "7 minutes, 44 seconds",
+    "start_time_text": "7:44"
+   },
+   {
+    "snippet": "And how's the weather treating you sir? It is quite cold I would say.",
+    "start_ms": 467000,
+    "start_time_label": "7 minutes, 47 seconds",
+    "start_time_text": "7:47"
+   },
+   {
+    "snippet": "What's the temperature like sir? I think it is around 12 to 14°. Did anything else bother you? Apart from the cold?",
+    "start_ms": 472000,
+    "start_time_label": "7 minutes, 52 seconds",
+    "start_time_text": "7:52"
+   },
+   {
+    "snippet": "Yes. So no uh I think it is pleasant. Did the pollution bother you?",
+    "start_ms": 480000,
+    "start_time_label": "8 minutes",
+    "start_time_text": "8:00"
+   },
+   {
+    "snippet": "So position level did bother me in November very much but right now I think it is quite okayish for me. I think I have been used to it I think.",
+    "start_ms": 485000,
+    "start_time_label": "8 minutes, 5 seconds",
+    "start_time_text": "8:05"
+   },
+   {
+    "snippet": "All right. So uh let's talk about the pollution here in Delhi and then other parts of country. Uh uh this has been a",
+    "start_ms": 494000,
+    "start_time_label": "8 minutes, 14 seconds",
+    "start_time_text": "8:14"
+   },
+   {
+    "snippet": "perennial problem in Delhi particularly more so in November and then it's get accelerated in November and with Supreme",
+    "start_ms": 502000,
+    "start_time_label": "8 minutes, 22 seconds",
+    "start_time_text": "8:22"
+   },
+   {
+    "snippet": "Court intervention uh despite all this nothing has moved in. What do you think should be concrete measures in bullet points 1 2 3 need to be taken.",
+    "start_ms": 509000,
+    "start_time_label": "8 minutes, 29 seconds",
+    "start_time_text": "8:29"
+   },
+   {
+    "snippet": "So for uh first I think we have to move move from reactive approach to proactive approach. So the laws are there but they",
+    "start_ms": 522000,
+    "start_time_label": "8 minutes, 42 seconds",
+    "start_time_text": "8:42"
+   },
+   {
+    "snippet": "are mostly implemented during the high peak month in November and December. So from that we have to ensure that the",
+    "start_ms": 529000,
+    "start_time_label": "8 minutes, 49 seconds",
+    "start_time_text": "8:49"
+   },
+   {
+    "snippet": "laws are implemented throughout the year and any case of violation of laws should be properly.",
+    "start_ms": 536000,
+    "start_time_label": "8 minutes, 56 seconds",
+    "start_time_text": "8:56"
+   },
+   {
+    "snippet": "The problem AA is that you know laws are not executed I mean there's not complied to. Yes sir there is a compliance issue that's why I'm saying that laws have to",
+    "start_ms": 543000,
+    "start_time_label": "9 minutes, 3 seconds",
+    "start_time_text": "9:03"
+   },
+   {
+    "snippet": "be implemented throughout the year with and how do you do that you have a law still not being followed in uh uh and",
+    "start_ms": 552000,
+    "start_time_label": "9 minutes, 12 seconds",
+    "start_time_text": "9:12"
+   },
+   {
+    "snippet": "there is a code intervention is not followed in harana stubble boing still going on Punjab is same scenario",
+    "start_ms": 560000,
+    "start_time_label": "9 minutes, 20 seconds",
+    "start_time_text": "9:20"
+   },
+   {
+    "snippet": "okay come the other measures what do you think about the other measures sir apart from legislative measure I believe that air pollution so we need to",
+    "start_ms": 568000,
+    "start_time_label": "9 minutes, 28 seconds",
+    "start_time_text": "9:28"
+   },
+   {
+    "snippet": "ensure cleaner energy availability in the market. For example, EV vehicles are still in this nent stage. So to promote",
+    "start_ms": 577000,
+    "start_time_label": "9 minutes, 37 seconds",
+    "start_time_text": "9:37"
+   },
+   {
+    "snippet": "cleaner energy will ensure we ensure that the transport the pollution coming from transport will be reduced. Apart",
+    "start_ms": 584000,
+    "start_time_label": "9 minutes, 44 seconds",
+    "start_time_text": "9:44"
+   },
+   {
+    "snippet": "from it, traffic management and uh to ensure public transport system is uh improved uh should be a priority of Delhi government especially. For",
+    "start_ms": 592000,
+    "start_time_label": "9 minutes, 52 seconds",
+    "start_time_text": "9:52"
+   },
+   {
+    "snippet": "example, the bus system uh that is there in Delhi I believe has certain flaws like uh the schedule of the buses and",
+    "start_ms": 601000,
+    "start_time_label": "10 minutes, 1 second",
+    "start_time_text": "10:01"
+   },
+   {
+    "snippet": "how they are moving. The second thing should be the public transport system should be improved. And uh thirdly I believe that uh on a citizens level",
+    "start_ms": 608000,
+    "start_time_label": "10 minutes, 8 seconds",
+    "start_time_text": "10:08"
+   },
+   {
+    "snippet": "there should be a movement by the Delhi people themselves that they can ensure a change in the air pollution level. For",
+    "start_ms": 618000,
+    "start_time_label": "10 minutes, 18 seconds",
+    "start_time_text": "10:18"
+   },
+   {
+    "snippet": "example during Diwali or during any other celebration I have seen people using crackers even though the temp",
+    "start_ms": 625000,
+    "start_time_label": "10 minutes, 25 seconds",
+    "start_time_text": "10:25"
+   },
+   {
+    "snippet": "pollution level reached to certain heights. So I think people should also demand.",
+    "start_ms": 632000,
+    "start_time_label": "10 minutes, 32 seconds",
+    "start_time_text": "10:32"
+   },
+   {
+    "snippet": "Okay. Aa uh India has been having a a very robust uh foreign policy. Yes.",
+    "start_ms": 638000,
+    "start_time_label": "10 minutes, 38 seconds",
+    "start_time_text": "10:38"
+   },
+   {
+    "snippet": "And which is furthest categorized as let's take it as uh neighborhood first. Yes.",
+    "start_ms": 646000,
+    "start_time_label": "10 minutes, 46 seconds",
+    "start_time_text": "10:46"
+   },
+   {
+    "snippet": "Now uh of late the development which has taken place in Maldives have we really achieved our goals as uh",
+    "start_ms": 652000,
+    "start_time_label": "10 minutes, 52 seconds",
+    "start_time_text": "10:52"
+   },
+   {
+    "snippet": "the policy of neighborhood first? So India has always placed neighborhood as as its first priority and regarding the",
+    "start_ms": 660000,
+    "start_time_label": "11 minutes",
+    "start_time_text": "11:00"
+   },
+   {
+    "snippet": "Maldives issue I believe that there are force more on the Maldiv side Maldivian side than the Indian side the India out",
+    "start_ms": 669000,
+    "start_time_label": "11 minutes, 9 seconds",
+    "start_time_text": "11:09"
+   },
+   {
+    "snippet": "campaign that was there was one such fallacy after and the recent controversy regarding the minister's commenting on",
+    "start_ms": 677000,
+    "start_time_label": "11 minutes, 17 seconds",
+    "start_time_text": "11:17"
+   },
+   {
+    "snippet": "the honorable PM was also a mistake on the part of Maldivian government and Indian government uh despite the regime",
+    "start_ms": 684000,
+    "start_time_label": "11 minutes, 24 seconds",
+    "start_time_text": "11:24"
+   },
+   {
+    "snippet": "changes in Maldi has always been uh uh act has always acted as the first respondent and uh in the past also we",
+    "start_ms": 691000,
+    "start_time_label": "11 minutes, 31 seconds",
+    "start_time_text": "11:31"
+   },
+   {
+    "snippet": "have always supported Maldivven government we we even supply um data we our navy help them survey the waters we",
+    "start_ms": 699000,
+    "start_time_label": "11 minutes, 39 seconds",
+    "start_time_text": "11:39"
+   },
+   {
+    "snippet": "supply line of credit also as if you are supposed the most diplomat and you were to take action what action",
+    "start_ms": 708000,
+    "start_time_label": "11 minutes, 48 seconds",
+    "start_time_text": "11:48"
+   },
+   {
+    "snippet": "do you think Indian government should be or Indian foreign ministry should be taken in this case against Maldives.",
+    "start_ms": 717000,
+    "start_time_label": "11 minutes, 57 seconds",
+    "start_time_text": "11:57"
+   },
+   {
+    "snippet": "Sir, I think diplomatic dialogue is the only way forward because we also need to ensure that Maldives remains on Indian",
+    "start_ms": 726000,
+    "start_time_label": "12 minutes, 6 seconds",
+    "start_time_text": "12:06"
+   },
+   {
+    "snippet": "side and the Indian Madi relation go on on a further increase in engagement. So",
+    "start_ms": 732000,
+    "start_time_label": "12 minutes, 12 seconds",
+    "start_time_text": "12:12"
+   },
+   {
+    "snippet": "I think as a diplomat what I would say is that I would engage with Maldivian government to ensure that uh their",
+    "start_ms": 739000,
+    "start_time_label": "12 minutes, 19 seconds",
+    "start_time_text": "12:19"
+   },
+   {
+    "snippet": "uh their perception regarding India uh the recent changes that they are bringing. I can uh bring notice to them that the these changes will not help in",
+    "start_ms": 748000,
+    "start_time_label": "12 minutes, 28 seconds",
+    "start_time_text": "12:28"
+   },
+   {
+    "snippet": "taking forward the relationship and uh we should um engage more with Maldivian government to ensure that the their",
+    "start_ms": 757000,
+    "start_time_label": "12 minutes, 37 seconds",
+    "start_time_text": "12:37"
+   },
+   {
+    "snippet": "China India dynamics that is going on Maldives do not become a zero sum game.",
+    "start_ms": 766000,
+    "start_time_label": "12 minutes, 46 seconds",
+    "start_time_text": "12:46"
+   },
+   {
+    "snippet": "uh they can engage with China and India simultaneously like just like Bangladesh you have a [clears throat] very good",
+    "start_ms": 771000,
+    "start_time_label": "12 minutes, 51 seconds",
+    "start_time_text": "12:51"
+   },
+   {
+    "snippet": "educational background and especially we are happy to see that you were already a fourth yes sir in 12th yes sir",
+    "start_ms": 780000,
+    "start_time_label": "13 minutes",
+    "start_time_text": "13:00"
+   },
+   {
+    "snippet": "in graduation uh what made you choose political science and economics sir these are the two discipline that interests me the most and I think these",
+    "start_ms": 789000,
+    "start_time_label": "13 minutes, 9 seconds",
+    "start_time_text": "13:09"
+   },
+   {
+    "snippet": "two are the discipline that shapes India in a very fundamental way Indian politics and economics are the two areas I believe that can make India a great superpower.",
+    "start_ms": 798000,
+    "start_time_label": "13 minutes, 18 seconds",
+    "start_time_text": "13:18"
+   },
+   {
+    "snippet": "So I have always uh interested in these subjects.",
+    "start_ms": 808000,
+    "start_time_label": "13 minutes, 28 seconds",
+    "start_time_text": "13:28"
+   },
+   {
+    "snippet": "You chose these subjects. Did you have civil services in mind? [clears throat] Yes sir. So I please",
+    "start_ms": 811000,
+    "start_time_label": "13 minutes, 31 seconds",
+    "start_time_text": "13:31"
+   },
+   {
+    "snippet": "sir from class 11th only I was sure that I want to be a part of governance system. So I chose my subjects according to the requirements of the exam also.",
+    "start_ms": 818000,
+    "start_time_label": "13 minutes, 38 seconds",
+    "start_time_text": "13:38"
+   },
+   {
+    "snippet": "What is the main area where civil services are relevant from your perspective?",
+    "start_ms": 829000,
+    "start_time_label": "13 minutes, 49 seconds",
+    "start_time_text": "13:49"
+   },
+   {
+    "snippet": "Sir, I believe in the social sector, civil service has a great role to play in education and health. There is a",
+    "start_ms": 837000,
+    "start_time_label": "13 minutes, 57 seconds",
+    "start_time_text": "13:57"
+   },
+   {
+    "snippet": "saying that uh we can't privatize these sectors and uh there is a role of government government uh there to",
+    "start_ms": 844000,
+    "start_time_label": "14 minutes, 4 seconds",
+    "start_time_text": "14:04"
+   },
+   {
+    "snippet": "improve our literacy rate to ensure inclusive education, inclusive development. The first area would be this and secondary to facilitate",
+    "start_ms": 851000,
+    "start_time_label": "14 minutes, 11 seconds",
+    "start_time_text": "14:11"
+   },
+   {
+    "snippet": "economic growth also we need civil servants. Uh for example this recent development in the economy can be",
+    "start_ms": 859000,
+    "start_time_label": "14 minutes, 19 seconds",
+    "start_time_text": "14:19"
+   },
+   {
+    "snippet": "attributed to the civil servants creative ideas and uh the third area I would say where civil services is",
+    "start_ms": 866000,
+    "start_time_label": "14 minutes, 26 seconds",
+    "start_time_text": "14:26"
+   },
+   {
+    "snippet": "necessary would be in the protection of environment and uh law and order is definitely the fourth area where civil service is important.",
+    "start_ms": 873000,
+    "start_time_label": "14 minutes, 33 seconds",
+    "start_time_text": "14:33"
+   },
+   {
+    "snippet": "Okay. Coming to education, [snorts] what is the dropout rate at the primary level in UP?",
+    "start_ms": 882000,
+    "start_time_label": "14 minutes, 42 seconds",
+    "start_time_text": "14:42"
+   },
+   {
+    "snippet": "Sir I'm sorry I'm not aware about the specific data but I think in the primary level uh the dropout are quite lower",
+    "start_ms": 894000,
+    "start_time_label": "14 minutes, 54 seconds",
+    "start_time_text": "14:54"
+   },
+   {
+    "snippet": "compared to the higher level because uh gross enrollment ratio in the primary uh classes are high as per my understanding",
+    "start_ms": 902000,
+    "start_time_label": "15 minutes, 2 seconds",
+    "start_time_text": "15:02"
+   },
+   {
+    "snippet": "but I have to look into the specific data any reason why it is good in the primary level and not good in the higher level.",
+    "start_ms": 910000,
+    "start_time_label": "15 minutes, 10 seconds",
+    "start_time_text": "15:10"
+   },
+   {
+    "snippet": "So in the primary level I believe that parents do try to send their children to school but due to then they get older",
+    "start_ms": 920000,
+    "start_time_label": "15 minutes, 20 seconds",
+    "start_time_text": "15:20"
+   },
+   {
+    "snippet": "what happens is that the pay u the burden of family comes on the shoulder of children they have to drop out in",
+    "start_ms": 930000,
+    "start_time_label": "15 minutes, 30 seconds",
+    "start_time_text": "15:30"
+   },
+   {
+    "snippet": "order to support their family. Apart from it the quality of education that is in India also u and the teacher u",
+    "start_ms": 937000,
+    "start_time_label": "15 minutes, 37 seconds",
+    "start_time_text": "15:37"
+   },
+   {
+    "snippet": "education that is there uh all these factor combined to ensure uh to uh make this happen that dropout ru increase with higher education.",
+    "start_ms": 946000,
+    "start_time_label": "15 minutes, 46 seconds",
+    "start_time_text": "15:46"
+   },
+   {
+    "snippet": "Do you think midday meal scheme if it is extended to the higher classes it will help in uh reducing this dropout?",
+    "start_ms": 955000,
+    "start_time_label": "15 minutes, 55 seconds",
+    "start_time_text": "15:55"
+   },
+   {
+    "snippet": "So midday meal scheme was a great intervention to ensure a participation of children in the school but I believe",
+    "start_ms": 966000,
+    "start_time_label": "16 minutes, 6 seconds",
+    "start_time_text": "16:06"
+   },
+   {
+    "snippet": "in the higher education this might not be as effective because the burden of uh earning income for the family and uh on",
+    "start_ms": 973000,
+    "start_time_label": "16 minutes, 13 seconds",
+    "start_time_text": "16:13"
+   },
+   {
+    "snippet": "one hand and on the other hand the uh one-time meal in the school might not be compared equally and uh that's why I",
+    "start_ms": 981000,
+    "start_time_label": "16 minutes, 21 seconds",
+    "start_time_text": "16:21"
+   },
+   {
+    "snippet": "believe some other interventions should be necessary not just midday meal for ensuring a enrollment in the higher educ education.",
+    "start_ms": 989000,
+    "start_time_label": "16 minutes, 29 seconds",
+    "start_time_text": "16:29"
+   },
+   {
+    "snippet": "Thank you Asta.",
+    "start_ms": 996000,
+    "start_time_label": "16 minutes, 36 seconds",
+    "start_time_text": "16:36"
+   },
+   {
+    "snippet": "Yes, we do not have your DAFF one. So I don't know what is your optional.",
+    "start_ms": 999000,
+    "start_time_label": "16 minutes, 39 seconds",
+    "start_time_text": "16:39"
+   },
+   {
+    "snippet": "So my optional is political science and international relations. Okay.",
+    "start_ms": 1004000,
+    "start_time_label": "16 minutes, 44 seconds",
+    "start_time_text": "16:44"
+   },
+   {
+    "snippet": "Um congratulations for being fourth at the CBSC. Thank you sir.",
+    "start_ms": 1009000,
+    "start_time_label": "16 minutes, 49 seconds",
+    "start_time_text": "16:49"
+   },
+   {
+    "snippet": "And also crossing the main exam in civil services the first attempt.",
+    "start_ms": 1016000,
+    "start_time_label": "16 minutes, 56 seconds",
+    "start_time_text": "16:56"
+   },
+   {
+    "snippet": "Thank you sir. Thank you sir. You consider it as your brilliance or your ability to focus",
+    "start_ms": 1022000,
+    "start_time_label": "17 minutes, 2 seconds",
+    "start_time_text": "17:02"
+   },
+   {
+    "snippet": "or your ability to put long hours of uh study.",
+    "start_ms": 1031000,
+    "start_time_label": "17 minutes, 11 seconds",
+    "start_time_text": "17:11"
+   },
+   {
+    "snippet": "Sir, I believe my ability to put long hours into the sub uh was a primary factor because brilliance is one thing",
+    "start_ms": 1037000,
+    "start_time_label": "17 minutes, 17 seconds",
+    "start_time_text": "17:17"
+   },
+   {
+    "snippet": "but if we uh if we get overconfident and we do not put many hours into the studies consistently we uh I might not",
+    "start_ms": 1046000,
+    "start_time_label": "17 minutes, 26 seconds",
+    "start_time_text": "17:26"
+   },
+   {
+    "snippet": "have have been able to come this far. So I believe it is it was my hard work and my consistency in education that reached me there.",
+    "start_ms": 1054000,
+    "start_time_label": "17 minutes, 34 seconds",
+    "start_time_text": "17:34"
+   },
+   {
+    "snippet": "Good. You just answered a question on maldis.",
+    "start_ms": 1061000,
+    "start_time_label": "17 minutes, 41 seconds",
+    "start_time_text": "17:41"
+   },
+   {
+    "snippet": "Yes sir asked you are a student of political science and international relations and economics",
+    "start_ms": 1066000,
+    "start_time_label": "17 minutes, 46 seconds",
+    "start_time_text": "17:46"
+   },
+   {
+    "snippet": "tell me what's of Chanakya's policy is being employed",
+    "start_ms": 1074000,
+    "start_time_label": "17 minutes, 54 seconds",
+    "start_time_text": "17:54"
+   },
+   {
+    "snippet": "by India on Maldives right now sir Chananka's policy of concentric",
+    "start_ms": 1082000,
+    "start_time_label": "18 minutes, 2 seconds",
+    "start_time_text": "18:02"
+   },
+   {
+    "snippet": "circles no no on diplomacy on uh diplomacy",
+    "start_ms": 1091000,
+    "start_time_label": "18 minutes, 11 seconds",
+    "start_time_text": "18:11"
+   },
+   {
+    "snippet": "Sam dham dand okay okay okay these four diplom so which stage is being employed by India right now sir I think Sam",
+    "start_ms": 1099000,
+    "start_time_label": "18 minutes, 19 seconds",
+    "start_time_text": "18:19"
+   },
+   {
+    "snippet": "you spoke about Sam but it is not Sam now dialogue sir I think Sam dialogue is over what PM Modi has done",
+    "start_ms": 1107000,
+    "start_time_label": "18 minutes, 27 seconds",
+    "start_time_text": "18:27"
+   },
+   {
+    "snippet": "is something different dam sir I think PM Modi has not done",
+    "start_ms": 1116000,
+    "start_time_label": "18 minutes, 36 seconds",
+    "start_time_text": "18:36"
+   },
+   {
+    "snippet": "anything I in against Maldives. I think he just promoted Lakshadep.",
+    "start_ms": 1123000,
+    "start_time_label": "18 minutes, 43 seconds",
+    "start_time_text": "18:43"
+   },
+   {
+    "snippet": "Of course, what is the aim of prime minister's visit to Lakshadep at this point of time?",
+    "start_ms": 1128000,
+    "start_time_label": "18 minutes, 48 seconds",
+    "start_time_text": "18:48"
+   },
+   {
+    "snippet": "Sir, I think it is it is there to promote Indian tourism. But I can understand that some are taking as a zero sum game that",
+    "start_ms": 1135000,
+    "start_time_label": "18 minutes, 55 seconds",
+    "start_time_text": "18:55"
+   },
+   {
+    "snippet": "you know how many how many Indians went to Laksh in the last tourist season.",
+    "start_ms": 1143000,
+    "start_time_label": "19 minutes, 3 seconds",
+    "start_time_text": "19:03"
+   },
+   {
+    "snippet": "So India do consist the highest number of tourists. 200,000 people India's from India went to Maldis a tiny island",
+    "start_ms": 1147000,
+    "start_time_label": "19 minutes, 7 seconds",
+    "start_time_text": "19:07"
+   },
+   {
+    "snippet": "the whole economy perhaps 40% is dependent on tourism yes sir and out of that 50% is Indian tourists",
+    "start_ms": 1156000,
+    "start_time_label": "19 minutes, 16 seconds",
+    "start_time_text": "19:16"
+   },
+   {
+    "snippet": "going there so what is the stage what is the stage in Chanka's policy",
+    "start_ms": 1163000,
+    "start_time_label": "19 minutes, 23 seconds",
+    "start_time_text": "19:23"
+   },
+   {
+    "snippet": "that India is employing now dand sir they're punishing maldis",
+    "start_ms": 1170000,
+    "start_time_label": "19 minutes, 30 seconds",
+    "start_time_text": "19:30"
+   },
+   {
+    "snippet": "Sir, I might not fully agree that they are punishing Maldives as such.",
+    "start_ms": 1179000,
+    "start_time_label": "19 minutes, 39 seconds",
+    "start_time_text": "19:39"
+   },
+   {
+    "snippet": "I do believe that there might be some element of dam that Maldives will pay for something that they are currently pursuing. But that would be in my sense.",
+    "start_ms": 1185000,
+    "start_time_label": "19 minutes, 45 seconds",
+    "start_time_text": "19:45"
+   },
+   {
+    "snippet": "Makes sense. Yeah.",
+    "start_ms": 1197000,
+    "start_time_label": "19 minutes, 57 seconds",
+    "start_time_text": "19:57"
+   },
+   {
+    "snippet": "Okay. Uh IFS is your third choice and you are interested in yoga. Yes sir.",
+    "start_ms": 1200000,
+    "start_time_label": "20 minutes",
+    "start_time_text": "20:00"
+   },
+   {
+    "snippet": "You have posted as a diplomat in Vladivasto. Okay. Or any other country for that.",
+    "start_ms": 1208000,
+    "start_time_label": "20 minutes, 8 seconds",
+    "start_time_text": "20:08"
+   },
+   {
+    "snippet": "Someone asks you what is yoga? Explain to me. A foreign diplomat is asking you what is yoga? How will you explain? Sir",
+    "start_ms": 1216000,
+    "start_time_label": "20 minutes, 16 seconds",
+    "start_time_text": "20:16"
+   },
+   {
+    "snippet": "I will explain yoga as a science which focus on unifying one's in individual consciousness to the universal",
+    "start_ms": 1225000,
+    "start_time_label": "20 minutes, 25 seconds",
+    "start_time_text": "20:25"
+   },
+   {
+    "snippet": "consciousness. It aims at union of body, soul and mind uh which leads ultimately to self-realization and self awareness.",
+    "start_ms": 1232000,
+    "start_time_label": "20 minutes, 32 seconds",
+    "start_time_text": "20:32"
+   },
+   {
+    "snippet": "Yoga not only focuses on physical wellness but it encompasses emotional, spiritual as well as mental wellness.",
+    "start_ms": 1242000,
+    "start_time_label": "20 minutes, 42 seconds",
+    "start_time_text": "20:42"
+   },
+   {
+    "snippet": "For me personally, yoga is a way of realizing my own potential, to be calm among chaos, to be",
+    "start_ms": 1250000,
+    "start_time_label": "20 minutes, 50 seconds",
+    "start_time_text": "20:50"
+   },
+   {
+    "snippet": "confident among difficulties. And yoga has helped me to be disciplined, to be",
+    "start_ms": 1260000,
+    "start_time_label": "21 minutes",
+    "start_time_text": "21:00"
+   },
+   {
+    "snippet": "focused and one who is a as Lord Krishna said, a karm yogi is one who performs",
+    "start_ms": 1266000,
+    "start_time_label": "21 minutes, 6 seconds",
+    "start_time_text": "21:06"
+   },
+   {
+    "snippet": "nishkam karma. So a yogi is not only one who performs asa or pranayam but in our daily life we can be a yogi. So for me",
+    "start_ms": 1274000,
+    "start_time_label": "21 minutes, 14 seconds",
+    "start_time_text": "21:14"
+   },
+   {
+    "snippet": "yoga is that good good um how will you rate Indian badminton in",
+    "start_ms": 1282000,
+    "start_time_label": "21 minutes, 22 seconds",
+    "start_time_text": "21:22"
+   },
+   {
+    "snippet": "today's world sir um I think India is doing um good in",
+    "start_ms": 1290000,
+    "start_time_label": "21 minutes, 30 seconds",
+    "start_time_text": "21:30"
+   },
+   {
+    "snippet": "bedminton with the Olympic medals from PV Syninduji and Sinaal apart from it we have a commonwealth medals and all but",
+    "start_ms": 1298000,
+    "start_time_label": "21 minutes, 38 seconds",
+    "start_time_text": "21:38"
+   },
+   {
+    "snippet": "yeah there is a long way to go because uh our neighborhood country like China and some South Asian country, Southeast",
+    "start_ms": 1307000,
+    "start_time_label": "21 minutes, 47 seconds",
+    "start_time_text": "21:47"
+   },
+   {
+    "snippet": "Asian countries are doing far better than India and with India's current demography, I do believe that we can do much better than",
+    "start_ms": 1315000,
+    "start_time_label": "21 minutes, 55 seconds",
+    "start_time_text": "21:55"
+   },
+   {
+    "snippet": "what is the problem why India is not doing well.",
+    "start_ms": 1322000,
+    "start_time_label": "22 minutes, 2 seconds",
+    "start_time_text": "22:02"
+   },
+   {
+    "snippet": "Sir, uh there are certain issues. First, I think the infrastructure that is needed is not present at the ground",
+    "start_ms": 1326000,
+    "start_time_label": "22 minutes, 6 seconds",
+    "start_time_text": "22:06"
+   },
+   {
+    "snippet": "level especially in North India. uh in my own state UP I although I was interested in playing badminton uh in my",
+    "start_ms": 1333000,
+    "start_time_label": "22 minutes, 13 seconds",
+    "start_time_text": "22:13"
+   },
+   {
+    "snippet": "own town there was no park or any other facility where I can be trained and so even whose fault is this isn't it",
+    "start_ms": 1342000,
+    "start_time_label": "22 minutes, 22 seconds",
+    "start_time_text": "22:22"
+   },
+   {
+    "snippet": "government's fault sir just to put uh the burden on only the government shoulder would be a policy because my school could have",
+    "start_ms": 1350000,
+    "start_time_label": "22 minutes, 30 seconds",
+    "start_time_text": "22:30"
+   },
+   {
+    "snippet": "introduced it as well but even the school is part of the government so it is a private school it's a private school but That's a different matter. It depends on them.",
+    "start_ms": 1359000,
+    "start_time_label": "22 minutes, 39 seconds",
+    "start_time_text": "22:39"
+   },
+   {
+    "snippet": "Apart from it, I do believe that the p poverty and the poverty rate in India, we m most of the people majorly focus on",
+    "start_ms": 1368000,
+    "start_time_label": "22 minutes, 48 seconds",
+    "start_time_text": "22:48"
+   },
+   {
+    "snippet": "meeting their daily needs. And so in that circumstances to reach for something risky career opportunity like badminton sports in general,",
+    "start_ms": 1377000,
+    "start_time_label": "22 minutes, 57 seconds",
+    "start_time_text": "22:57"
+   },
+   {
+    "snippet": "one point or 140 cr people, they are not going to play badminton.",
+    "start_ms": 1386000,
+    "start_time_label": "23 minutes, 6 seconds",
+    "start_time_text": "23:06"
+   },
+   {
+    "snippet": "all you need five or 10 people to play badminton and for that you need five or 10 people from each of these districts",
+    "start_ms": 1392000,
+    "start_time_label": "23 minutes, 12 seconds",
+    "start_time_text": "23:12"
+   },
+   {
+    "snippet": "to come at the national level. We're not talking of masses to play badminton. Yes sir.",
+    "start_ms": 1399000,
+    "start_time_label": "23 minutes, 19 seconds",
+    "start_time_text": "23:19"
+   },
+   {
+    "snippet": "If the government and the state government cannot provide for five or 10 people to be trained properly in a state or in a district, what is the government doing?",
+    "start_ms": 1404000,
+    "start_time_label": "23 minutes, 24 seconds",
+    "start_time_text": "23:24"
+   },
+   {
+    "snippet": "It's not good enough. [clears throat] Yes, a government can do a lot better. Yes. Thank you.",
+    "start_ms": 1414000,
+    "start_time_label": "23 minutes, 34 seconds",
+    "start_time_text": "23:34"
+   },
+   {
+    "snippet": "Yes sir. Can you tell me the status of women in Shamli? Is it better or worse than the national status?",
+    "start_ms": 1420000,
+    "start_time_label": "23 minutes, 40 seconds",
+    "start_time_text": "23:40"
+   },
+   {
+    "snippet": "So sex ratio is definitely worse than the national status apart and also the literacy rate is around uh 55 to 57%. So",
+    "start_ms": 1426000,
+    "start_time_label": "23 minutes, 46 seconds",
+    "start_time_text": "23:46"
+   },
+   {
+    "snippet": "it is lesser than the national rate and uh there is a need to do much more uh apart from it. Crimes are also there",
+    "start_ms": 1436000,
+    "start_time_label": "23 minutes, 56 seconds",
+    "start_time_text": "23:56"
+   },
+   {
+    "snippet": "against women and uh crime rate in my own district is quite high. That's why there is out migration of families that",
+    "start_ms": 1444000,
+    "start_time_label": "24 minutes, 4 seconds",
+    "start_time_text": "24:04"
+   },
+   {
+    "snippet": "issue was there sometimes ago. So I if compared compared with the Indian I think uh there are worse indicators.",
+    "start_ms": 1452000,
+    "start_time_label": "24 minutes, 12 seconds",
+    "start_time_text": "24:12"
+   },
+   {
+    "snippet": "It's worse than the national status. Yes sir.",
+    "start_ms": 1461000,
+    "start_time_label": "24 minutes, 21 seconds",
+    "start_time_text": "24:21"
+   },
+   {
+    "snippet": "Okay. And uh you have topped in your plus two class all India ranked four. So",
+    "start_ms": 1464000,
+    "start_time_label": "24 minutes, 24 seconds",
+    "start_time_text": "24:24"
+   },
+   {
+    "snippet": "it looks like you have been manufactured as a I officer very brilliant in your studies as well. Okay. Uh Asha can you",
+    "start_ms": 1471000,
+    "start_time_label": "24 minutes, 31 seconds",
+    "start_time_text": "24:31"
+   },
+   {
+    "snippet": "tell me if there would be no civil services what you would be doing?",
+    "start_ms": 1479000,
+    "start_time_label": "24 minutes, 39 seconds",
+    "start_time_text": "24:39"
+   },
+   {
+    "snippet": "So my interests also lie in teaching. I do feel uh joyous when I teach people and uh I have I have been teaching uh in",
+    "start_ms": 1483000,
+    "start_time_label": "24 minutes, 43 seconds",
+    "start_time_text": "24:43"
+   },
+   {
+    "snippet": "NOS's and also children in my locality uh if not civil service then definitely I would feel that uh through my service",
+    "start_ms": 1492000,
+    "start_time_label": "24 minutes, 52 seconds",
+    "start_time_text": "24:52"
+   },
+   {
+    "snippet": "in teaching I can bring change at the ground level which is my main focus. It is a public service. Are there good or bad teachers?",
+    "start_ms": 1500000,
+    "start_time_label": "25 minutes",
+    "start_time_text": "25:00"
+   },
+   {
+    "snippet": "Sir yes sir I do believe there are good teachers and bad teachers and I in my personal life I have met both. Uh the main difference between a good teacher",
+    "start_ms": 1508000,
+    "start_time_label": "25 minutes, 8 seconds",
+    "start_time_text": "25:08"
+   },
+   {
+    "snippet": "and a bad teacher is the willingness to teach. I have seen that [snorts] uh in government school especially that the willingness to teach reduce comparatively to the private sector.",
+    "start_ms": 1516000,
+    "start_time_label": "25 minutes, 16 seconds",
+    "start_time_text": "25:16"
+   },
+   {
+    "snippet": "That may be because there is certain amount of permanency in government schools. That can be one reasons but uh yes if teachers are willing to",
+    "start_ms": 1527000,
+    "start_time_label": "25 minutes, 27 seconds",
+    "start_time_text": "25:27"
+   },
+   {
+    "snippet": "[clears throat] teach in a right manner if they are dedicated that uh they want student welfare rather than just getting income from it that make them a good teacher.",
+    "start_ms": 1535000,
+    "start_time_label": "25 minutes, 35 seconds",
+    "start_time_text": "25:35"
+   },
+   {
+    "snippet": "Aa from past one or two decades there have been mushroom growth of this coaching institutes. Yes.",
+    "start_ms": 1543000,
+    "start_time_label": "25 minutes, 43 seconds",
+    "start_time_text": "25:43"
+   },
+   {
+    "snippet": "What do you think on that? Why is it happening?",
+    "start_ms": 1548000,
+    "start_time_label": "25 minutes, 48 seconds",
+    "start_time_text": "25:48"
+   },
+   {
+    "snippet": "So the competition in the last few decades in competitive exams has increased tremendously as the literacy",
+    "start_ms": 1552000,
+    "start_time_label": "25 minutes, 52 seconds",
+    "start_time_text": "25:52"
+   },
+   {
+    "snippet": "rates go up and children are getting more education their career aspiration has been rising and uh society as a",
+    "start_ms": 1559000,
+    "start_time_label": "25 minutes, 59 seconds",
+    "start_time_text": "25:59"
+   },
+   {
+    "snippet": "whole focus on two three main exams like need uh IIT and UPSC. So we are pushing our children into these three main",
+    "start_ms": 1568000,
+    "start_time_label": "26 minutes, 8 seconds",
+    "start_time_text": "26:08"
+   },
+   {
+    "snippet": "examination. So the competition is quite quite high and the level of difficulty in the exams are also increasing. So the",
+    "start_ms": 1575000,
+    "start_time_label": "26 minutes, 15 seconds",
+    "start_time_text": "26:15"
+   },
+   {
+    "snippet": "coaching institutions provide a kind of hope to the students that they can crack this and they will help them from uh",
+    "start_ms": 1583000,
+    "start_time_label": "26 minutes, 23 seconds",
+    "start_time_text": "26:23"
+   },
+   {
+    "snippet": "they will spoon feed them uh the education and they can crack it.",
+    "start_ms": 1592000,
+    "start_time_label": "26 minutes, 32 seconds",
+    "start_time_text": "26:32"
+   },
+   {
+    "snippet": "Okay. Uh if I say do you agree with me uh the education system has totally failed in India. Do you agree with the",
+    "start_ms": 1596000,
+    "start_time_label": "26 minutes, 36 seconds",
+    "start_time_text": "26:36"
+   },
+   {
+    "snippet": "statement? So no sir to not totally failed. It has uh attained certain um achievements in the past. First I think",
+    "start_ms": 1604000,
+    "start_time_label": "26 minutes, 44 seconds",
+    "start_time_text": "26:44"
+   },
+   {
+    "snippet": "the literacy rate shows that we are from independence till now the literacy rate shows that we have achieved something.",
+    "start_ms": 1613000,
+    "start_time_label": "26 minutes, 53 seconds",
+    "start_time_text": "26:53"
+   },
+   {
+    "snippet": "Apart from it, gross enrollment ratio is quite good in in the primary sector and uh uh Indians achieving uh in science",
+    "start_ms": 1621000,
+    "start_time_label": "27 minutes, 1 second",
+    "start_time_text": "27:01"
+   },
+   {
+    "snippet": "and uh in other areas worldwide is the testimony of Indian education system.",
+    "start_ms": 1630000,
+    "start_time_label": "27 minutes, 10 seconds",
+    "start_time_text": "27:10"
+   },
+   {
+    "snippet": "Yes. But yes, I do believe that we have a long way to go. Okay. Aa thank you.",
+    "start_ms": 1635000,
+    "start_time_label": "27 minutes, 15 seconds",
+    "start_time_text": "27:15"
+   },
+   {
+    "snippet": "Thank you. Thank you so much. So",
+    "start_ms": 1639000,
+    "start_time_label": "27 minutes, 19 seconds",
+    "start_time_text": "27:19"
+   },
+   {
+    "snippet": "[music]",
+    "start_ms": 1647000,
+    "start_time_label": "27 minutes, 27 seconds",
+    "start_time_text": "27:27"
+   },
+   {
+    "snippet": "we are done with your uh formal interaction. Thank you so much sir.",
+    "start_ms": 1648000,
+    "start_time_label": "27 minutes, 28 seconds",
+    "start_time_text": "27:28"
+   },
+   {
+    "snippet": "So how do you think you fared in this interaction sir? I I don't uh I can't evaluate",
+    "start_ms": 1653000,
+    "start_time_label": "27 minutes, 33 seconds",
+    "start_time_text": "27:33"
+   },
+   {
+    "snippet": "because uh this is my first mo so right but u did you find any shortcomings in your",
+    "start_ms": 1661000,
+    "start_time_label": "27 minutes, 41 seconds",
+    "start_time_text": "27:41"
+   },
+   {
+    "snippet": "interview if you noticed any sir I do believe that my answers can be a more crisp and to the point",
+    "start_ms": 1670000,
+    "start_time_label": "27 minutes, 50 seconds",
+    "start_time_text": "27:50"
+   },
+   {
+    "snippet": "and uh there is a knowledge gap that I have to fill [snorts] apart from it I do want to ask one or",
+    "start_ms": 1677000,
+    "start_time_label": "27 minutes, 57 seconds",
+    "start_time_text": "27:57"
+   },
+   {
+    "snippet": "two question like my personal capacity Sure. Uh we'll give you that opportunity. Yes sir.",
+    "start_ms": 1685000,
+    "start_time_label": "28 minutes, 5 seconds",
+    "start_time_text": "28:05"
+   },
+   {
+    "snippet": "Okay. Uh you have been brilliant. Thank you sir.",
+    "start_ms": 1692000,
+    "start_time_label": "28 minutes, 12 seconds",
+    "start_time_text": "28:12"
+   },
+   {
+    "snippet": "The assessment is and I'm sure my colleagues will also have this assessment that you walk into the",
+    "start_ms": 1697000,
+    "start_time_label": "28 minutes, 17 seconds",
+    "start_time_text": "28:17"
+   },
+   {
+    "snippet": "service but but don't become overcon. Yes sir.",
+    "start_ms": 1704000,
+    "start_time_label": "28 minutes, 24 seconds",
+    "start_time_text": "28:24"
+   },
+   {
+    "snippet": "Now I'm going to deflate you. Right. So you'll make it one",
+    "start_ms": 1711000,
+    "start_time_label": "28 minutes, 31 seconds",
+    "start_time_text": "28:31"
+   },
+   {
+    "snippet": "that uh as you pointed out you make very long answers. Wrong answers. Long answers. Long answers. Yes.",
+    "start_ms": 1718000,
+    "start_time_label": "28 minutes, 38 seconds",
+    "start_time_text": "28:38"
+   },
+   {
+    "snippet": "Very long sometimes. And it seems unnecessary repetition. Yes sir.",
+    "start_ms": 1726000,
+    "start_time_label": "28 minutes, 46 seconds",
+    "start_time_text": "28:46"
+   },
+   {
+    "snippet": "So as you yourself said your answers could be more pointed and crisper. So work on that. Yes sir.",
+    "start_ms": 1731000,
+    "start_time_label": "28 minutes, 51 seconds",
+    "start_time_text": "28:51"
+   },
+   {
+    "snippet": "That's one. And sometimes when you don't know or when there is a some question is posed to which you don't agree you make a face like this.",
+    "start_ms": 1739000,
+    "start_time_label": "28 minutes, 59 seconds",
+    "start_time_text": "28:59"
+   },
+   {
+    "snippet": "Yeah. Yeah. I wanted to ask this. My face facial expressions are so just avoid it. Okay.",
+    "start_ms": 1750000,
+    "start_time_label": "29 minutes, 10 seconds",
+    "start_time_text": "29:10"
+   },
+   {
+    "snippet": "But I mean you know you come from a particular background. We all some of us have that kind of a",
+    "start_ms": 1756000,
+    "start_time_label": "29 minutes, 16 seconds",
+    "start_time_text": "29:16"
+   },
+   {
+    "snippet": "background. So we understand a lot of things why it happens and how it happens. That's fine. So but since your",
+    "start_ms": 1764000,
+    "start_time_label": "29 minutes, 24 seconds",
+    "start_time_text": "29:24"
+   },
+   {
+    "snippet": "date is not out you have plenty of time work on it. Okay sir.",
+    "start_ms": 1771000,
+    "start_time_label": "29 minutes, 31 seconds",
+    "start_time_text": "29:31"
+   },
+   {
+    "snippet": "And another thing that you just said yeah is out from the civil services interview.",
+    "start_ms": 1775000,
+    "start_time_label": "29 minutes, 35 seconds",
+    "start_time_text": "29:35"
+   },
+   {
+    "snippet": "It is yes. Okay. Okay. Okay. So I used Yeah. Yes. You just used. Okay. Okay.",
+    "start_ms": 1783000,
+    "start_time_label": "29 minutes, 43 seconds",
+    "start_time_text": "29:43"
+   },
+   {
+    "snippet": "So it is yes. Okay. Just take care of it. We are also we are culpable of this",
+    "start_ms": 1788000,
+    "start_time_label": "29 minutes, 48 seconds",
+    "start_time_text": "29:48"
+   },
+   {
+    "snippet": "uh kind of usage of y but anyway uh your answer why you wanted to join the civil",
+    "start_ms": 1794000,
+    "start_time_label": "29 minutes, 54 seconds",
+    "start_time_text": "29:54"
+   },
+   {
+    "snippet": "service was very good better than one has heard from many people you answered it well okay",
+    "start_ms": 1803000,
+    "start_time_label": "30 minutes, 3 seconds",
+    "start_time_text": "30:03"
+   },
+   {
+    "snippet": "but you can always say that by joining the civil services you will be part of the growth story of India to a 5",
+    "start_ms": 1811000,
+    "start_time_label": "30 minutes, 11 seconds",
+    "start_time_text": "30:11"
+   },
+   {
+    "snippet": "trillion economy me and the advanced countries of the world. We will be",
+    "start_ms": 1820000,
+    "start_time_label": "30 minutes, 20 seconds",
+    "start_time_text": "30:20"
+   },
+   {
+    "snippet": "making that mark soon in our in my service career and I'll be part of that growth story. I'll be delivering those",
+    "start_ms": 1827000,
+    "start_time_label": "30 minutes, 27 seconds",
+    "start_time_text": "30:27"
+   },
+   {
+    "snippet": "plans. I'll be working with people and [clears throat] later I'll be contributing to the policy formulation also.",
+    "start_ms": 1835000,
+    "start_time_label": "30 minutes, 35 seconds",
+    "start_time_text": "30:35"
+   },
+   {
+    "snippet": "So that would make a complete Yes sir. uh and very convincing argument that look here is a young woman who has a vision on 45 year 47.",
+    "start_ms": 1843000,
+    "start_time_label": "30 minutes, 43 seconds",
+    "start_time_text": "30:43"
+   },
+   {
+    "snippet": "Futuristic answer it future and she wants she has a vision for of the country up to that period. Yes sir.",
+    "start_ms": 1855000,
+    "start_time_label": "30 minutes, 55 seconds",
+    "start_time_text": "30:55"
+   },
+   {
+    "snippet": "We want such young people to come and join the services. Right. Long answer you have to then you are very monotonous.",
+    "start_ms": 1863000,
+    "start_time_label": "31 minutes, 3 seconds",
+    "start_time_text": "31:03"
+   },
+   {
+    "snippet": "Your tone is very involved.",
+    "start_ms": 1871000,
+    "start_time_label": "31 minutes, 11 seconds",
+    "start_time_text": "31:11"
+   },
+   {
+    "snippet": "Okay. So, uh involve modulation you will. Yeah.",
+    "start_ms": 1881000,
+    "start_time_label": "31 minutes, 21 seconds",
+    "start_time_text": "31:21"
+   },
+   {
+    "snippet": "Modulation of modulation [cough] [clears throat] this and uh you will be more I if I if I were to told you you",
+    "start_ms": 1885000,
+    "start_time_label": "31 minutes, 25 seconds",
+    "start_time_text": "31:25"
+   },
+   {
+    "snippet": "are excellent and uh you know you put in group like this.",
+    "start_ms": 1893000,
+    "start_time_label": "31 minutes, 33 seconds",
+    "start_time_text": "31:33"
+   },
+   {
+    "snippet": "Okay. I can understand. The way I told you earlier, I could have told the way now I want to tell. Is there a difference? Yes sir, I can feel the difference.",
+    "start_ms": 1897000,
+    "start_time_label": "31 minutes, 37 seconds",
+    "start_time_text": "31:37"
+   },
+   {
+    "snippet": "So you don't connect. If I told you the way I tried to talk like you, I can.",
+    "start_ms": 1905000,
+    "start_time_label": "31 minutes, 45 seconds",
+    "start_time_text": "31:45"
+   },
+   {
+    "snippet": "Okay. So you are good. Outstanding. But we are only suggesting you have time. Yes sir. So work on it.",
+    "start_ms": 1912000,
+    "start_time_label": "31 minutes, 52 seconds",
+    "start_time_text": "31:52"
+   },
+   {
+    "snippet": "Yes sir. I do want to improve on it.",
+    "start_ms": 1918000,
+    "start_time_label": "31 minutes, 58 seconds",
+    "start_time_text": "31:58"
+   },
+   {
+    "snippet": "Your eye contact was good. Your hand movement was very good.",
+    "start_ms": 1921000,
+    "start_time_label": "32 minutes, 1 second",
+    "start_time_text": "32:01"
+   },
+   {
+    "snippet": "[snorts]",
+    "start_ms": 1925000,
+    "start_time_label": "32 minutes, 5 seconds",
+    "start_time_text": "32:05"
+   },
+   {
+    "snippet": "And are you going to go in the similar dress or uh sir I will choose a different si I guess a bit brighter for a young girl of your age that right?",
+    "start_ms": 1925000,
+    "start_time_label": "32 minutes, 5 seconds",
+    "start_time_text": "32:05"
+   },
+   {
+    "snippet": "Yeah. No not but but this is slightly brighter. Yes sir.",
+    "start_ms": 1936000,
+    "start_time_label": "32 minutes, 16 seconds",
+    "start_time_text": "32:16"
+   },
+   {
+    "snippet": "And by the time you go for the interview maybe the wins won't be required. So anyway and shoes formal shoes.",
+    "start_ms": 1941000,
+    "start_time_label": "32 minutes, 21 seconds",
+    "start_time_text": "32:21"
+   },
+   {
+    "snippet": "Shoes. shoes or whatever sandals what whatever you want to wear should be formal.",
+    "start_ms": 1949000,
+    "start_time_label": "32 minutes, 29 seconds",
+    "start_time_text": "32:29"
+   },
+   {
+    "snippet": "Okay. So what you are wearing right now Yes sir is not formal. Okay. Okay. It is not formal. Okay. Right. It matches with your son. Good.",
+    "start_ms": 1955000,
+    "start_time_label": "32 minutes, 35 seconds",
+    "start_time_text": "32:35"
+   },
+   {
+    "snippet": "But it could be okay. More formal. Okay sir.",
+    "start_ms": 1964000,
+    "start_time_label": "32 minutes, 44 seconds",
+    "start_time_text": "32:44"
+   },
+   {
+    "snippet": "Right. So uh since this is your first thing one thing I have told you. Now prepare a question. questions will come",
+    "start_ms": 1967000,
+    "start_time_label": "32 minutes, 47 seconds",
+    "start_time_text": "32:47"
+   },
+   {
+    "snippet": "from your daff m your educational qualifications your optional subject and general studies right current affairs",
+    "start_ms": 1975000,
+    "start_time_label": "32 minutes, 55 seconds",
+    "start_time_text": "32:55"
+   },
+   {
+    "snippet": "so prepare about 100 questions ask your friends to prepare questions yes sir I'm working on daf",
+    "start_ms": 1983000,
+    "start_time_label": "33 minutes, 3 seconds",
+    "start_time_text": "33:03"
+   },
+   {
+    "snippet": "yes sir in particular because you will miss a lot of things they will ask you good questions yes sir so prepare their answers",
+    "start_ms": 1991000,
+    "start_time_label": "33 minutes, 11 seconds",
+    "start_time_text": "33:11"
+   },
+   {
+    "snippet": "pointwise bulleted points Don't write pros. Your language is good.",
+    "start_ms": 2001000,
+    "start_time_label": "33 minutes, 21 seconds",
+    "start_time_text": "33:21"
+   },
+   {
+    "snippet": "You communicate well. So just make the bulleted points so that you they they will automatically come one after the",
+    "start_ms": 2008000,
+    "start_time_label": "33 minutes, 28 seconds",
+    "start_time_text": "33:28"
+   },
+   {
+    "snippet": "other when you answer. Yes sir. Yes. That is a major point.",
+    "start_ms": 2015000,
+    "start_time_label": "33 minutes, 35 seconds",
+    "start_time_text": "33:35"
+   },
+   {
+    "snippet": "You become you become more uh effective in communication. When you are crisper",
+    "start_ms": 2018000,
+    "start_time_label": "33 minutes, 38 seconds",
+    "start_time_text": "33:38"
+   },
+   {
+    "snippet": "make short points. So that will uh deliver the deliver a good punch.",
+    "start_ms": 2025000,
+    "start_time_label": "33 minutes, 45 seconds",
+    "start_time_text": "33:45"
+   },
+   {
+    "snippet": "Yes sir. So practice in front of your friends or family or wherever you think or mirror if nothing else mirror. So",
+    "start_ms": 2030000,
+    "start_time_label": "33 minutes, 50 seconds",
+    "start_time_text": "33:50"
+   },
+   {
+    "snippet": "mirror will mirror will also tell you what you are doing and how you are doing. Yes sir.",
+    "start_ms": 2039000,
+    "start_time_label": "33 minutes, 59 seconds",
+    "start_time_text": "33:59"
+   },
+   {
+    "snippet": "Practice it. You you have done very well and uh just maintain this cheer that you right now have.",
+    "start_ms": 2044000,
+    "start_time_label": "34 minutes, 4 seconds",
+    "start_time_text": "34:04"
+   },
+   {
+    "snippet": "Thank you sir. While answering the questions.",
+    "start_ms": 2053000,
+    "start_time_label": "34 minutes, 13 seconds",
+    "start_time_text": "34:13"
+   },
+   {
+    "snippet": "So I want to ask you was I was I laughing to No. No, you were not laughing. Fine.",
+    "start_ms": 2055000,
+    "start_time_label": "34 minutes, 15 seconds",
+    "start_time_text": "34:15"
+   },
+   {
+    "snippet": "The smile was fine like fine.",
+    "start_ms": 2061000,
+    "start_time_label": "34 minutes, 21 seconds",
+    "start_time_text": "34:21"
+   },
+   {
+    "snippet": "Rather I'm saying you could have it would help you to smile bit more.",
+    "start_ms": 2063000,
+    "start_time_label": "34 minutes, 23 seconds",
+    "start_time_text": "34:23"
+   },
+   {
+    "snippet": "So you are not over the board anyway in any way. If I can add one more thing.",
+    "start_ms": 2068000,
+    "start_time_label": "34 minutes, 28 seconds",
+    "start_time_text": "34:28"
+   },
+   {
+    "snippet": "Um I noticed that you are jumping into answering a question. The question is asked and you immediately start.",
+    "start_ms": 2074000,
+    "start_time_label": "34 minutes, 34 seconds",
+    "start_time_text": "34:34"
+   },
+   {
+    "snippet": "Yes.",
+    "start_ms": 2082000,
+    "start_time_label": "34 minutes, 42 seconds",
+    "start_time_text": "34:42"
+   },
+   {
+    "snippet": "Take a few moments to organize your thoughts.",
+    "start_ms": 2083000,
+    "start_time_label": "34 minutes, 43 seconds",
+    "start_time_text": "34:43"
+   },
+   {
+    "snippet": "Yes. put them if you have made the points just the way chairman sir has said that you have prepared 100",
+    "start_ms": 2085000,
+    "start_time_label": "34 minutes, 45 seconds",
+    "start_time_text": "34:45"
+   },
+   {
+    "snippet": "questions try and take a few moments to organize your thoughts put the priority in your bullet points and then speak yes sir",
+    "start_ms": 2092000,
+    "start_time_label": "34 minutes, 52 seconds",
+    "start_time_text": "34:52"
+   },
+   {
+    "snippet": "that will help you a lot I wish you all the best all the very best any more questions sir I want I also want to know that was",
+    "start_ms": 2100000,
+    "start_time_label": "35 minutes",
+    "start_time_text": "35:00"
+   },
+   {
+    "snippet": "I speaking too fast this is a uh this is a problem that I have when I speak informally that I speak a little faster no you are Not but you were monotonous.",
+    "start_ms": 2108000,
+    "start_time_label": "35 minutes, 8 seconds",
+    "start_time_text": "35:08"
+   },
+   {
+    "snippet": "Okay. Monotony. [clears throat] Yeah. And try to speak more steady be be uh more composed.",
+    "start_ms": 2117000,
+    "start_time_label": "35 minutes, 17 seconds",
+    "start_time_text": "35:17"
+   },
+   {
+    "snippet": "Okay.",
+    "start_ms": 2125000,
+    "start_time_label": "35 minutes, 25 seconds",
+    "start_time_text": "35:25"
+   },
+   {
+    "snippet": "Right. You can practice going bit slower than this. Yes sir.",
+    "start_ms": 2126000,
+    "start_time_label": "35 minutes, 26 seconds",
+    "start_time_text": "35:26"
+   },
+   {
+    "snippet": "But you were in rhythm so there is no problem. It should not affect your content. Yes sir.",
+    "start_ms": 2131000,
+    "start_time_label": "35 minutes, 31 seconds",
+    "start_time_text": "35:31"
+   },
+   {
+    "snippet": "And delivery. So just work on the modulation. Once you bring in the modulation, speed will automatically become slow.",
+    "start_ms": 2138000,
+    "start_time_label": "35 minutes, 38 seconds",
+    "start_time_text": "35:38"
+   },
+   {
+    "snippet": "Okay, sir. Thank you so much. Anything else you want to ask? No sir, I'm done.",
+    "start_ms": 2146000,
+    "start_time_label": "35 minutes, 46 seconds",
+    "start_time_text": "35:46"
+   },
+   {
+    "snippet": "Okay, let's see your name in the newspaper. Thank you so much.",
+    "start_ms": 2149000,
+    "start_time_label": "35 minutes, 49 seconds",
+    "start_time_text": "35:49"
+   },
+   {
+    "snippet": "[snorts]",
+    "start_ms": 2156000,
+    "start_time_label": "35 minutes, 56 seconds",
+    "start_time_text": "35:56"
+   },
+   {
+    "snippet": "Let's use the washroom. Wonderful. Come on.",
+    "start_ms": 2158000,
+    "start_time_label": "35 minutes, 58 seconds",
+    "start_time_text": "35:58"
+   }
+  ]
+ },
+ "video": {
+  "channel": "99Notes IAS",
+  "id": "LC15kssPTYQ",
+  "title": "AIR Rank 9 - ASTHA JAIN UPSC 2025 |AIR Rank 131 -  UPSC 2024"
+ }
+}

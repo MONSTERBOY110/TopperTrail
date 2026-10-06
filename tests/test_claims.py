@@ -100,3 +100,69 @@ def test_long_window_is_trimmed_around_the_name(ex):
     claims, _, _ = run(ex, [(0, text)])
     assert "Anuj Agnihotri" in claims[0].window
     assert len(claims[0].window) <= 600
+
+
+def test_image_text_naming_several_toppers_does_not_borrow_a_rank(ex):
+    # OCR of a grid poster loses the layout: the rank printed next to a name may belong to
+    # another topper. A rank that differs from the official one is not attributed there.
+    ocr = ("NEXT IAS CSE 2025 TOP RANKERS AIR AIR AIR AIR 2 3 5 Anuj Agnihotri "
+           "Rajeshwari Suve M Akansh Dhull Raghav Jhunjhunwala CA-VA Program Interview Guidance")
+    claims, _, _ = run(ex, [(0, "UPSC CSE 2025 toppers"), (1, ocr)], inst="next-ias",
+                       url="https://www.nextias.com/p", source="poster")
+    by_rank = {c.rank: c for c in claims}
+    assert by_rank[1].claimed_rank is None
+    assert by_rank[2].claimed_rank in (2, None)
+    single = "Congratulations Anuj Agnihotri AIR 2 UPSC CSE 2025"
+    claims, _, _ = run(ex, [(0, single)], inst="next-ias", url="https://www.nextias.com/q",
+                       source="poster")
+    assert claims[0].claimed_rank == 2  # one topper named: the printed rank is his
+
+
+def test_news_biography_headline_is_not_a_claim(ex):
+    text = ("Anuj Agnihotri Success Story: he secured AIR 1 in UPSC CSE 2025. The final "
+            "results were announced by the Union Public Service Commission.")
+    claims, _, unresolved = run(ex, [(0, text)], inst="studyiq",
+                                url="https://www.studyiq.com/articles/anuj-agnihotri/")
+    assert claims == [] and unresolved[0]["reason"] == "named without claiming the topper"
+
+
+def test_image_text_with_several_ranks_does_not_borrow_a_rank(ex):
+    ocr = ("UPSC CSE RESULTS 2025 RANK1 RANK45 RANK7 RANK39 RANK53 RANK75 RANK76 "
+           "Anuj Agnihotri RajahMohaideen Rohin Kumar")
+    claims, _, _ = run(ex, [(0, "Legacy IAS results"), (1, ocr + " our students")],
+                       inst="legacy-ias", url="https://www.legacyias.com/r", source="poster")
+    assert claims[0].rank == 1 and claims[0].claimed_rank is None
+
+
+def test_blog_thumbnail_without_association_is_not_a_claim(ex):
+    blocks = [(0, "UPSC CSE 2025 Toppers List: AIR 1 Anuj Agnihotri, Marks, Strategy"),
+              (1, "UPSC PREPARATION STRATEGY AIR1 ANUJAGNIHOTRI Unacademy")]
+    claims, _, unresolved = run(ex, blocks, inst="unacademy",
+                                url="https://unacademy.com/content/upsc-cse-2025-toppers/",
+                                source="poster")
+    assert claims == [] and unresolved
+
+
+def test_banner_alt_text_does_not_join_the_window(ex):
+    blocks = [(0, "image: All India GS Mains, Essay and Ethics Test Series"),
+              (1, "In the UPSC CSE Final Result 2025, Anuj Agnihotri has secured AIR 1.")]
+    claims, _, _ = run(ex, blocks, inst="vision-ias", url="https://www.visionias.in/blog/m")
+    assert claims == []
+
+
+def test_ocr_poster_with_merged_name_and_course_is_a_claim(ex):
+    ocr = ("VAJIRAM&RAVI Heartiest CONGRATULATIONS 1 AIR ANUJAGNIHOTRI UPSCCSE 2025TOPPER "
+           "INTERVIEWGUIDANCEPROG")
+    claims, _, _ = run(ex, [(0, "UPSC CSE 2025 toppers"), (1, ocr)], source="poster",
+                       url="https://vajiramandravi.com/p")
+    assert [c.rank for c in claims] == [1]
+    assert claims[0].course_types == ("interview_only",)
+    claims, _, _ = run(ex, [(0, ocr)], source="web_page", url="https://vajiramandravi.com/q")
+    assert claims == []  # merged words are only trusted in image text
+
+
+def test_merged_name_in_an_ad_never_borrows_another_rank(ex):
+    ocr = "VISIONIAS AIR2&3 GS Classroom Student ISHANBHATNAGAR UPSC CSE 2025 Enroll Now"
+    claims, _, _ = run(ex, [(0, ocr)], inst="vision-ias", url="https://adstransparency.x/a",
+                       source="ad_creative")
+    assert [(c.rank, c.claimed_rank) for c in claims] == [(5, None)]

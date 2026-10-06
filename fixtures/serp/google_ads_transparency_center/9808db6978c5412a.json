@@ -1,0 +1,128 @@
+{
+ "engine": "google_ads_transparency_center",
+ "institute_id": "shankar-ias",
+ "params": {
+  "end_date": "20261005",
+  "engine": "google_ads_transparency_center",
+  "num": "100",
+  "region": "2356",
+  "start_date": "20260306",
+  "text": "shankariasacademy.com"
+ },
+ "purpose": "ads",
+ "rank": null,
+ "response": {
+  "ad_creatives": [
+   {
+    "ad_creative_id": "CR12997344896313458689",
+    "advertiser": "Kovai IAS Academy",
+    "advertiser_id": "AR02424015649928904705",
+    "details_link": "https://adstransparency.google.com/advertiser/AR02424015649928904705/creative/CR12997344896313458689?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=shankariasacademy.com",
+    "first_shown": 1781011107,
+    "format": "video",
+    "last_shown": 1783613352
+   },
+   {
+    "ad_creative_id": "CR15546868750580973569",
+    "advertiser": "Kovai IAS Academy",
+    "advertiser_id": "AR02424015649928904705",
+    "details_link": "https://adstransparency.google.com/advertiser/AR02424015649928904705/creative/CR15546868750580973569?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=shankariasacademy.com",
+    "first_shown": 1771434182,
+    "format": "text",
+    "height": 156,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/11682247248762308578",
+    "last_shown": 1781432200,
+    "width": 348
+   },
+   {
+    "ad_creative_id": "CR09408710467066527745",
+    "advertiser": "Kovai IAS Academy",
+    "advertiser_id": "AR02424015649928904705",
+    "details_link": "https://adstransparency.google.com/advertiser/AR02424015649928904705/creative/CR09408710467066527745?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=shankariasacademy.com",
+    "first_shown": 1781011708,
+    "format": "text",
+    "height": 150,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/2054081910238573363",
+    "last_shown": 1781092667,
+    "width": 348
+   },
+   {
+    "ad_creative_id": "CR12410148512476430337",
+    "advertiser": "Kovai IAS Academy",
+    "advertiser_id": "AR02424015649928904705",
+    "details_link": "https://adstransparency.google.com/advertiser/AR02424015649928904705/creative/CR12410148512476430337?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=shankariasacademy.com",
+    "first_shown": 1781011083,
+    "format": "text",
+    "height": 109,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/12643491374428756232",
+    "last_shown": 1781092625,
+    "width": 360
+   },
+   {
+    "ad_creative_id": "CR03220581999999713281",
+    "advertiser": "SHANKAR IAS ACADEMY",
+    "advertiser_id": "AR02549360404992098305",
+    "details_link": "https://adstransparency.google.com/advertiser/AR02549360404992098305/creative/CR03220581999999713281?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=shankariasacademy.com",
+    "first_shown": 1730895742,
+    "format": "text",
+    "height": 239,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/16157770098047046678",
+    "last_shown": 1777276498,
+    "width": 380
+   },
+   {
+    "ad_creative_id": "CR01477970419184041985",
+    "advertiser": "SHANKAR IAS ACADEMY",
+    "advertiser_id": "AR02549360404992098305",
+    "details_link": "https://adstransparency.google.com/advertiser/AR02549360404992098305/creative/CR01477970419184041985?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=shankariasacademy.com",
+    "first_shown": 1730103544,
+    "format": "text",
+    "height": 199,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/8528352537047042643",
+    "last_shown": 1777276494,
+    "width": 380
+   },
+   {
+    "ad_creative_id": "CR09114949487297560577",
+    "advertiser": "SHANKAR IAS ACADEMY",
+    "advertiser_id": "AR02549360404992098305",
+    "details_link": "https://adstransparency.google.com/advertiser/AR02549360404992098305/creative/CR09114949487297560577?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=shankariasacademy.com",
+    "first_shown": 1730895763,
+    "format": "text",
+    "height": 279,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/9931082550569367232",
+    "last_shown": 1777276391,
+    "width": 380
+   },
+   {
+    "ad_creative_id": "CR08134962470042206209",
+    "advertiser": "SHANKAR IAS ACADEMY",
+    "advertiser_id": "AR02549360404992098305",
+    "details_link": "https://adstransparency.google.com/advertiser/AR02549360404992098305/creative/CR08134962470042206209?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=shankariasacademy.com",
+    "first_shown": 1730895747,
+    "format": "text",
+    "height": 199,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/15076822149068333451",
+    "last_shown": 1777276220,
+    "width": 380
+   }
+  ],
+  "search_information": {
+   "total_results": 8
+  },
+  "search_metadata": {
+   "created_at": "2026-10-05 16:35:59 UTC",
+   "id": "6ac3d1ef4632b5bc1a1eb962",
+   "processed_at": "2026-10-05 16:35:59 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "end_date": "20261005",
+   "engine": "google_ads_transparency_center",
+   "num": "100",
+   "region": "2356",
+   "start_date": "20260306",
+   "text": "shankariasacademy.com"
+  }
+ }
+}

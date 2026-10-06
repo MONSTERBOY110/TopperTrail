@@ -6,7 +6,15 @@ from dataclasses import dataclass
 import yaml
 
 from toppertrail.data import read_data
-from toppertrail.extract.text import normalize, term_pattern
+from toppertrail.extract.text import (
+    SQUASH_MIN,
+    normalize,
+    ocr_find,
+    ocr_pattern,
+    ocr_words,
+    squash,
+    term_pattern,
+)
 
 INTERVIEW_ONLY = "interview_only"
 GENERIC = "coaching_generic"
@@ -68,6 +76,11 @@ class Lexicon:
         ]
         generic = [(GENERIC, normalize(t), term_pattern(t)) for t in raw["generic_coaching"]]
         self._course = sorted(course, key=_order)
+        # Multi-word course names, spaces removed, for OCR text that ran the words together.
+        self._squashed = [
+            (ctype, term, ocr_pattern(term))
+            for ctype, term, _ in sorted(course, key=lambda e: (-len(squash(e[1])), e[1]))
+            if " " in term and len(squash(term)) >= SQUASH_MIN]
         self._with_generic = sorted(course + generic, key=_order)
         self._vague = [p for _, p in _compile(raw["vague_labels"])]
         self._paid = [p for _, p in _compile(raw["paid_free"])]
@@ -83,9 +96,17 @@ class Lexicon:
     def load(cls) -> Lexicon:
         return cls(yaml.safe_load(read_data("lexicon.yaml")))
 
-    def classify(self, text: str, include_generic: bool = False) -> CourseMatch:
+    def classify(self, text: str, include_generic: bool = False,
+                 squashed: bool = False) -> CourseMatch:
         norm = normalize(text)
         hits = _masked_hits(text, self._with_generic if include_generic else self._course)
+        if squashed:
+            flat = ocr_words(text)
+            for label, term, pattern in self._squashed:
+                m = ocr_find(pattern, flat, whole=False)
+                if m:
+                    hits.append((label, term))
+                    flat = flat[:m.start()] + "#" * (m.end() - m.start()) + flat[m.end():]
         return CourseMatch(
             course_types=tuple(sorted({label for label, _ in hits})),
             terms=tuple(sorted({term for _, term in hits})),

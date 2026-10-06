@@ -1,0 +1,37 @@
+{
+ "engine": "youtube_video_transcript",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube_video_transcript",
+  "language_code": "hi",
+  "v": "Vv335A1Zq3A"
+ },
+ "purpose": "transcript",
+ "rank": 19,
+ "response": {
+  "available_transcripts": [
+   {
+    "language_code": "hi",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=Vv335A1Zq3A",
+    "type": "asr"
+   }
+  ],
+  "error": "YouTube Video Transcript hasn't returned any results for this query. Transcript with other language or auto-generated is available.",
+  "search_metadata": {
+   "created_at": "2026-10-05 16:16:07 UTC",
+   "id": "6ac3cd47d5fd744f56c0ddaa",
+   "processed_at": "2026-10-05 16:16:07 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "language_code": "hi",
+   "v": "Vv335A1Zq3A"
+  }
+ },
+ "video": {
+  "channel": "Delhi Knowledge Track",
+  "id": "Vv335A1Zq3A",
+  "title": "Rank 19 UPSC CSE 2025 | Prelims, Resources & GS 3 Strategy |  By Nisar Dishant Amrutlal"
+ }
+}

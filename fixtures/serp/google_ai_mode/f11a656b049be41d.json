@@ -1,0 +1,65 @@
+{
+ "engine": "google_ai_mode",
+ "institute_id": null,
+ "params": {
+  "engine": "google_ai_mode",
+  "gl": "in",
+  "hl": "en",
+  "q": "Which coaching institute did Mohit Shekher Shukla, JEE Advanced 2026 AIR 4, study at?"
+ },
+ "purpose": "ai_mode",
+ "rank": 4,
+ "response": {
+  "reconstructed_markdown": "Mohit Shekher Shukla studied at Sri Chaitanya Educational Institutions \\(specifically as a classroom student at their Hyderabad campus/Sanath Nagar COE campus, participating in their IPL Super 60 program\\). [0] [1]\n\nWould you like to know more about his preparation strategy, score, or details on other JEE Advanced 2026 toppers?\n\n\n### References\n\n[0] [JEE Advanced 2026 AIR 4 \\| Mohit Shekhar Shukla Success Story](https://www.google.com/goto?url=CAESZgHrOzAVzzpfXyl4SWLsCgMOjYDIdNEPZPWPkrEmhzOjD5JYhOpf-gj0T2wnJHUWz2onsdTlZdGbEaZLhEEHdqJLEE71iofMTMLXB8X3Bec7JukRl1KtrPw0NqWIvpRtS3l39wq1Pg) — Mohit, a classroom student from Sri Chaitanya Hyderabad, shares his inspiring journey to achieving one of the top ranks in the country.\n\n[1] [From a dream to AIR 4. Watch the inspiring journey of Mohit S. ...](https://www.google.com/goto?url=CAES2AEB6zswFXwAgvPKaOE1KSSi7f4MOzPun3sF_IiqEN1RkdbtFP5uaMJDr7SDqrWWvK1lhsRkT4gugwpMeJvMTtwu1PJUrl7dDK3uNtQLOeIkixKm-UZRny4AZPm32uhuJkPPwqof63QJ4YREAAEq9manMTOqwE9l0JjLYWFptRwE4s0XIaoDxmpNspJ3BYCKgaSIrkJlsB19McJCBanSIsEKnQ8Sq7ZrSpcmY7HZhOOdNZW8mMB_1vnedF5KqCG2IRUeNnG9YbvLkib6eHhMIhS1aPlq2laxbIM) — Mohit S. Shukla achieved AIR 4 in the Open Category for JEE Advanced 2026 as a Hyderabad Classroom Student of Sri Chaitanya Educational Institutions.\n",
+  "references": [
+   {
+    "index": 0,
+    "link": "https://www.youtube.com/watch?v=X74kUp26CuM",
+    "snippet": "Mohit, a classroom student from Sri Chaitanya Hyderabad, shares his inspiring journey to achieving one of the top ranks in the country.",
+    "source": "YouTube",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCRSL4z7vqGQF7AtqLUzA0OXK45cX7L3z-a-Uz2y_Bc2M9zp46Y8g8f7lJgAGCqU9g0TQ3HovTv12kJHsnAdvarq8RIqXRbcAQp-Ut",
+    "title": "JEE Advanced 2026 AIR 4 | Mohit Shekhar Shukla Success Story"
+   },
+   {
+    "index": 1,
+    "link": "https://www.facebook.com/SriChaitanyaEducationalSM/videos/from-a-dream-to-air-4watch-the-inspiring-journey-of-mohit-s-shukla-air-4-open-ca/1466467865232963/",
+    "snippet": "Mohit S. Shukla achieved AIR 4 in the Open Category for JEE Advanced 2026 as a Hyderabad Classroom Student of Sri Chaitanya Educational Institutions.",
+    "source": "Facebook",
+    "source_icon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAABQCACdASogACAAPtEutFooIagoGAEAGglsALsvXYwDn_-iZ6gDePf2vYYGkCmTeN_6CSoGI0A5hznM3MHxIBBIxwiaXCl0eZXa3QAA_v7CoH6-yjNCRBNofwXkht-1rWbxufb-E9drQeZiOT9NyGS55GL_CyyM64Hz9o-mMamSP6T9GLQtOhPCjNugo0cKkTRCrsdNbnN3ivdL5PSXZrxvTWVr9DH9f9v_Hv3c3-W15984KXxKZcdlIgIgIK-n-Zp5F8Uft-KM8aYDQiGh2C0eZbD77EVE1VFftToiO3Y0Pb4luMSVbIxnEudvMFqU20pBsmhLQR_9HVeRkTA0f4jBSSbLb7f2U1c3wmgM9BAUWyxb8R6yWsioN13AXZG0bD2JoB4PDUAvKhv4yb0GpVnFBiGejQx3EIxHv-UZakY6DXJL3QGCwuSShFOnNGyddLhORCOHB-525UIu1bszzZ_rrU1mnU8vKtH0P_CSqizQAA.webp",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP4xC6N6CMJMeMDKocUTFY7gSEvtPSHRfoZXQIwPdhr10I9-0Rdj5V5irVYJ-41nJyRbWVW2_VhxasttvKNemSu1beQcVEcJ8_uKHK8g",
+    "title": "From a dream to AIR 4. Watch the inspiring journey of Mohit S. ..."
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 17:12:34 UTC",
+   "id": "6ac3da82d45a389c16f58c3d",
+   "processed_at": "2026-10-05 17:12:34 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_ai_mode",
+   "gl": "in",
+   "hl": "en",
+   "q": "Which coaching institute did Mohit Shekher Shukla, JEE Advanced 2026 AIR 4, study at?"
+  },
+  "text_blocks": [
+   {
+    "reference_indexes": [
+     0,
+     1
+    ],
+    "snippet": "Mohit Shekher Shukla studied at Sri Chaitanya Educational Institutions (specifically as a classroom student at their Hyderabad campus/Sanath Nagar COE campus, participating in their IPL Super 60 program).",
+    "snippet_highlighted_words": [
+     "Sri Chaitanya Educational Institutions"
+    ],
+    "type": "paragraph"
+   },
+   {
+    "snippet": "Would you like to know more about his preparation strategy, score, or details on other JEE Advanced 2026 toppers?",
+    "type": "paragraph"
+   }
+  ]
+ }
+}

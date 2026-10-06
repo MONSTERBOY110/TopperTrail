@@ -1,0 +1,71 @@
+{
+ "engine": "google_ai_mode",
+ "institute_id": null,
+ "params": {
+  "engine": "google_ai_mode",
+  "gl": "in",
+  "hl": "en",
+  "q": "Which coaching institute did Ayush Bhalotia, NEET UG 2026 AIR 4, study at?"
+ },
+ "purpose": "ai_mode",
+ "rank": 4,
+ "response": {
+  "reconstructed_markdown": "Ayush Bhalotia studied at the [ALLEN Career Institute](https://news.allen.in/re-neet-2026-result-air-4-ayush-bhalotia-success-story/). He was a regular classroom student at the institute for two years during his preparation. [0] [1]\n\nWould you like to know more about his preparation strategy, daily routine, or his score breakdown for the exam?\n\n\n### References\n\n[0] [Re\\-NEET 2026 Result: AIR\\-4 Ayush Bhalotia Success Story \\| ALLEN News](https://www.google.com/goto?url=CAESiAEB6zswFeaewktxPOWKQKysKvKeaJ7F7CTiFjeKnxaL8USwsjm0IUcXffsYb-EWO4XY4YPSDeNBxAX6QX1gyVN7jmE5fNflVNDA_x1H7LzW-2BdS-UBpKsGxm7w17KZU_uEQQL-3vFxWpNVA2aD1I8rCeJCykaS6XedhCg5SK9XRiGL6pGHO2Cr) — Ayush Bhalotia. ALLEN Career Institute regular student for two years; first doctor in family and village; Preparation Strategy: Daily revision, mock tests, mistake...\n\n[1] [🏆 Meet Ayush Bhalotia, AIR 4 in NEET \\(UG\\) 2026 with the ...](https://www.google.com/goto?url=CAESzQEB6zswFfwv2pulRneiZVpIs1_gEfm-U9CJXqXmVcvDb9YjSoqQ9sEM9k_ead5be1lWsmaI5A1sJX5ZkwFZKh1wsEqArRqTKwmSuNYG9wjtr_J99utSXl0vBnNaiNpETuowkMKwU7AXJuKmNKu90Oi_jzcIQeo6nPRMItDkQK9ltrGSsqWGcUa6gs-s8H7DYUFB_meYYIMbq7tTvA0jCrnfOrhWvDCm2YINHxjxckEalb4QYz0vIRUrgLb53oVmIzrCWc346zW6uVgl_aYi) — Ayush Bhalotia achieved All India Rank \\(AIR\\) 4 in the NEET \\(UG\\) 2026 examination. He completed his preparation through the ALLEN Career Institute's Classroom Cours\n",
+  "references": [
+   {
+    "index": 0,
+    "link": "https://news.allen.in/re-neet-2026-result-air-4-ayush-bhalotia-success-story/",
+    "snippet": "Ayush Bhalotia. ALLEN Career Institute regular student for two years; first doctor in family and village; Preparation Strategy: Daily revision, mock tests, mistake...",
+    "source": "Allen",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.allen.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsAmTlk_lgxNZY3Cf2x_jCNh38cRsO1-XoidSdX8rrSHPpERnwyCeixdJlSse8gAbzTzrBmfYggBcWUidhhW3eoBv7coTsy5v9DYQ",
+    "title": "Re-NEET 2026 Result: AIR-4 Ayush Bhalotia Success Story | ALLEN News"
+   },
+   {
+    "index": 1,
+    "link": "https://www.facebook.com/ALLENRajasthan/videos/-meet-ayush-bhalotia-air-4-in-neet-ug-2026-with-the-allen-classroom-programheres/1790969925106536/",
+    "snippet": "Ayush Bhalotia achieved All India Rank (AIR) 4 in the NEET (UG) 2026 examination. He completed his preparation through the ALLEN Career Institute's Classroom Cours",
+    "source": "Facebook",
+    "source_icon": "https://serpapi.com/images/i/UklGRsQBAABXRUJQVlA4ILgBAADwCACdASogACAAAsBMJbACdMsuzeIHyCNMaADzAf__02_QB_1d8A5832Rv2vtXC0EcsuAlU7dLCQhc3RNEYC1O3_VUsJ0xeXrkkPEpcgsbgAD--qtUYEQiH6pJGlHcMhN_v_QmmU4GS_NtwWjxve2FsrAgwKtfXlBlg6H2dKV26Gy0Uzk6-L2FN0IV7R-ZQq7-bnG7vhwj9QzKS6XG9wBWo0NYeWMCO_ZU6usNA8Y7k7ZnQYHCuS9L5dTYq_aJRe1t-0BlHpRLuLSSAR9DrmTAgAydg6D32XfdRa6M8Qh6Jz3K7DW9w_UqhT4pQSjxxtP3jCfF_u8oX2ns-cz4D1kfoOJBGX5XVLHuSjhB0loP--wCDR1i1Axx6bKwb9IjZ4l9zozscLA0ftq0kmXKGaa5FPdTbUMiGdOOT-Ew756IvBLZSZzvhUEkB3Dnu5-cXAUAlnkRQdbatKxVUfWP4kEl_uQ-FKrspt0NmsnZGbiuDYwC3mMiwLGbSeppgCRT0wtldHaAuDm9W2XkAa6f-M25XGye5QSw5LatITIjFZfHV0dMOvH8RPrBmbAfaHv7Ipg-yRwr8wAAAA.webp",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRByolHq2yObHFrDcmI5tpRGE2ZtKMv5muUHek2axV97VDfGSE7Zydt-ZChaUNxF_VMN9cBtExlL5R5rqmoZVeiRgaEy3gbHSAAREHZ1Q",
+    "title": "🏆 Meet Ayush Bhalotia, AIR 4 in NEET (UG) 2026 with the ..."
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 17:18:51 UTC",
+   "id": "6ac3dbfbff7aa2b223575f54",
+   "processed_at": "2026-10-05 17:18:51 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_ai_mode",
+   "gl": "in",
+   "hl": "en",
+   "q": "Which coaching institute did Ayush Bhalotia, NEET UG 2026 AIR 4, study at?"
+  },
+  "text_blocks": [
+   {
+    "reference_indexes": [
+     0,
+     1
+    ],
+    "snippet": "Ayush Bhalotia studied at the ALLEN Career Institute. He was a regular classroom student at the institute for two years during his preparation.",
+    "snippet_highlighted_words": [
+     "ALLEN Career Institute"
+    ],
+    "snippet_links": [
+     {
+      "link": "https://news.allen.in/re-neet-2026-result-air-4-ayush-bhalotia-success-story/",
+      "text": "ALLEN Career Institute"
+     }
+    ],
+    "type": "paragraph"
+   },
+   {
+    "snippet": "Would you like to know more about his preparation strategy, daily routine, or his score breakdown for the exam?",
+    "type": "paragraph"
+   }
+  ]
+ }
+}

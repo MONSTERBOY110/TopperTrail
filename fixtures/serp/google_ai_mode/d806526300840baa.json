@@ -1,0 +1,55 @@
+{
+ "engine": "google_ai_mode",
+ "institute_id": null,
+ "params": {
+  "engine": "google_ai_mode",
+  "gl": "in",
+  "hl": "en",
+  "q": "Which coaching institute did Panshul Bansal, NEET UG 2026 AIR 2, study at?"
+ },
+ "purpose": "ai_mode",
+ "rank": 2,
+ "response": {
+  "reconstructed_markdown": "Panshul Bansal studied at ALLEN Career Institute, where he was enrolled as a classroom student. [0]\n\nWould you like to know more about his preparation strategy, study routine, or his scores in the exam?\n\n\n### References\n\n[0] [NEET\\-UG 2026 Re exam \\- ALLEN's Panshul Bansal is AIR\\-2](https://www.google.com/goto?url=CAESiAEB6zswFRXIUugY9glsCb_qufcVnKsq6leiM0j3r8KONZvWkugLCgZFL4bXfpZ6l6n79Y2bnyQthz0ssbgZgoZabMiqGZxGlhkkbumPvdIZKLre4qQBkQNQi_En3RnQgZXrHrT8cVOE-1mqAS5kZvbRiGbc11_co5LqGlLmped-vry1nQKCtFGi) — ALLEN's Panshul Bansal, a classroom student at ALLEN Career Institute, has secured All India Rank 2 in Re\\-NEET 2026, 715 out of 720 marks\n",
+  "references": [
+   {
+    "index": 0,
+    "link": "https://news.allen.in/re-neet-2026-result-air-2-panshul-bansal-success-story/",
+    "snippet": "ALLEN's Panshul Bansal, a classroom student at ALLEN Career Institute, has secured All India Rank 2 in Re-NEET 2026, 715 out of 720 marks",
+    "source": "Allen",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.allen.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSizGbZ_fr7lkxTpmxXUWC2_XPL7T-01aclAUKpo7Mcr34kGo44PiXrqCbWLTg5dhI1Al67ndeznMicd3lqqJGPgMnyjJNLfKUiYYEC",
+    "title": "NEET-UG 2026 Re exam - ALLEN's Panshul Bansal is AIR-2"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 17:17:28 UTC",
+   "id": "6ac3dba8c06680b55e859baa",
+   "processed_at": "2026-10-05 17:17:28 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_ai_mode",
+   "gl": "in",
+   "hl": "en",
+   "q": "Which coaching institute did Panshul Bansal, NEET UG 2026 AIR 2, study at?"
+  },
+  "text_blocks": [
+   {
+    "reference_indexes": [
+     0
+    ],
+    "snippet": "Panshul Bansal studied at ALLEN Career Institute, where he was enrolled as a classroom student.",
+    "snippet_highlighted_words": [
+     "ALLEN Career Institute"
+    ],
+    "type": "paragraph"
+   },
+   {
+    "snippet": "Would you like to know more about his preparation strategy, study routine, or his scores in the exam?",
+    "type": "paragraph"
+   }
+  ]
+ }
+}

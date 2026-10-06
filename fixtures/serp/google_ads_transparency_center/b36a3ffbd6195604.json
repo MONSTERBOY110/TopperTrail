@@ -1,0 +1,158 @@
+{
+ "engine": "google_ads_transparency_center",
+ "institute_id": "dhyeya-ias",
+ "params": {
+  "end_date": "20261005",
+  "engine": "google_ads_transparency_center",
+  "num": "100",
+  "region": "2356",
+  "start_date": "20260306",
+  "text": "dhyeyaias.com"
+ },
+ "purpose": "ads",
+ "rank": null,
+ "response": {
+  "ad_creatives": [
+   {
+    "ad_creative_id": "CR17238878950860521473",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR17238878950860521473?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1778865085,
+    "format": "text",
+    "height": 109,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/5559262184364865731",
+    "last_shown": 1789584264,
+    "width": 360
+   },
+   {
+    "ad_creative_id": "CR13941365032798388225",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR13941365032798388225?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1775162401,
+    "format": "video",
+    "last_shown": 1789576197
+   },
+   {
+    "ad_creative_id": "CR04561564858184630273",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR04561564858184630273?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1778698604,
+    "format": "text",
+    "last_shown": 1789575907
+   },
+   {
+    "ad_creative_id": "CR10379025080532336641",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR10379025080532336641?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1779028565,
+    "format": "text",
+    "last_shown": 1789575591
+   },
+   {
+    "ad_creative_id": "CR11403979374584659969",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR11403979374584659969?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1779163599,
+    "format": "text",
+    "last_shown": 1789570438
+   },
+   {
+    "ad_creative_id": "CR02665099302489030657",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR02665099302489030657?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1778760684,
+    "format": "text",
+    "last_shown": 1789563900
+   },
+   {
+    "ad_creative_id": "CR01078737875987595265",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR01078737875987595265?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1775734961,
+    "format": "text",
+    "height": 350,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/16951190371503789911",
+    "last_shown": 1780490132,
+    "width": 381
+   },
+   {
+    "ad_creative_id": "CR13037942507743215617",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR13037942507743215617?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1775102370,
+    "format": "text",
+    "height": 548,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/7767367428829511060",
+    "last_shown": 1780070063,
+    "width": 381
+   },
+   {
+    "ad_creative_id": "CR17946799933310894081",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR17946799933310894081?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1741689102,
+    "format": "text",
+    "height": 173,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/18182973702835254721",
+    "last_shown": 1779500069,
+    "width": 380
+   },
+   {
+    "ad_creative_id": "CR07958318015710232577",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR07958318015710232577?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1778211316,
+    "format": "video",
+    "last_shown": 1779256635
+   },
+   {
+    "ad_creative_id": "CR15771456782376894465",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR15771456782376894465?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1775706388,
+    "format": "image",
+    "height": 600,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/74404104260167529",
+    "last_shown": 1779110043,
+    "width": 300
+   },
+   {
+    "ad_creative_id": "CR10483471332187045889",
+    "advertiser": "Dhyeya School Of Competition",
+    "advertiser_id": "AR16190474899876216833",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16190474899876216833/creative/CR10483471332187045889?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=dhyeyaias.com",
+    "first_shown": 1775067262,
+    "format": "video",
+    "last_shown": 1776702342
+   }
+  ],
+  "search_information": {
+   "total_results": 12
+  },
+  "search_metadata": {
+   "created_at": "2026-10-05 16:19:13 UTC",
+   "id": "6ac3ce0147787472830b8d38",
+   "processed_at": "2026-10-05 16:19:13 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "end_date": "20261005",
+   "engine": "google_ads_transparency_center",
+   "num": "100",
+   "region": "2356",
+   "start_date": "20260306",
+   "text": "dhyeyaias.com"
+  }
+ }
+}

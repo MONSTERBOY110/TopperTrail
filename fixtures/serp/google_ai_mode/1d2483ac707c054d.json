@@ -1,0 +1,68 @@
+{
+ "engine": "google_ai_mode",
+ "institute_id": null,
+ "params": {
+  "engine": "google_ai_mode",
+  "gl": "in",
+  "hl": "en",
+  "q": "Which coaching institute did Yashaswi Raj Vardhan, UPSC CSE 2025 AIR 11, study at?"
+ },
+ "purpose": "ai_mode",
+ "rank": 11,
+ "response": {
+  "reconstructed_markdown": "Yashaswi Raj Vardhan \\(UPSC CSE 2025 AIR 11\\) attended the Interview Guidance Programme at Vajiram & Ravi. [0]\n\nWould you like to know more about his background, such as his educational qualifications or optional subject? [0] [1]\n\n\n### References\n\n[0] [Yashaswi Raj Vardhan UPSC AIR 11 2025, Education ...](https://www.google.com/goto?url=CAEShgEB6zswFddtrdI0ANwx3j4pSmYE6egi5iaJQP8hpTaU9sBqwai0TDJKZY_fLrQ_3G65IMnN3ffH7QXfIovNonBAOrwiSk-f_96Sbp4QrhWGLSKQl5eOj1rfi-rf0sU4HKpTAAaknTynqh9BE-2838kRR4pOzM71BMjMChlRTm1vLYpBAMuzAw) — He secured All India Rank 11. He attended the Interview Guidance Programme at Vajiram & Ravi. He enjoys reflective writing, watching thriller movies, and has activ...\n\n[1] [Mr. YASHASWI RAJ VARDHAN \\| AIR 11 UPSC CSE 2025](https://www.google.com/goto?url=CAESZQHrOzAVbtOoJp3vBzjYfQwxJY4aaV-5aP0PGkwUzeNkc7_KFR6Qay7ObD-Dc-iaE14nyccLi7TxpiRrJrF5Rqp2V7al7vU0PwSys86TiK5SdHB42ekIFCNBSZ0YkmAIRvRdU0C9) — He pursued further schooling and earned a degree in Computer Science Engineering from Delhi Technological University. he worked as a quantitative analyst at Barcla\n",
+  "references": [
+   {
+    "index": 0,
+    "link": "https://vajiramandravi.com/upsc-exam/yashaswi-raj-vardhan-upsc-air-11-2025/",
+    "snippet": "He secured All India Rank 11. He attended the Interview Guidance Programme at Vajiram & Ravi. He enjoys reflective writing, watching thriller movies, and has activ...",
+    "source": "Vajiram & Ravi",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://vajiramandravi.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6F46BKqhjy79Bi6D1NXFhaB9eEiSgIz-Co1IxBBkTEVBF_A9dZsxZcuJiHrIKPVA7E9gCrj1BdPMNKvQo4QIvN0ZH67_IWbQkrMev",
+    "title": "Yashaswi Raj Vardhan UPSC AIR 11 2025, Education ..."
+   },
+   {
+    "index": 1,
+    "link": "https://www.youtube.com/shorts/8euoURhSNbU",
+    "snippet": "He pursued further schooling and earned a degree in Computer Science Engineering from Delhi Technological University. he worked as a quantitative analyst at Barcla",
+    "source": "YouTube",
+    "source_icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBgCdASogACAAPtEutFooIagoGAEAGgljAD5AbYAqgUAIwA6Xf06lPXHvpxQu8QdihHk60n-TWA1_VUu2GYAA_v7CLxlRZhCZ8bQcOnf-FK5rm5qBS4imypGe7iaZE9fo0nn8rFBOrTerqoO_32T--q4zWO5KTvg3viJzuL_nf8Fqz97bSZw8M__w85gxE_qOqRjMNgbrKEFRm77_1pY8ry5mZ1-H6sD6S59uhtiXY_543_bnsQtT6aAZoWbCki3DlSAedXr7QyyDCWk-tgA3B6dPPRv2ixaTPq7omOnE5qjWU5PLokpnpw-WN0t3PTN8nmvoUUrfONPiUjdbekUBQFDUEoUQKWqgyWKxURxiT-xlzJqrfbIuZNPz9hpS2gcqAkwalmZGv4AA.webp",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEWPPNPHAtOqgbhuRcJdvD5OGukG706RZYd4doEHIzft9EhAvAg64z9cvo7PAqtMA5lTP-Gw5_pFgVvXidzBUUOsgaWHmvSEw-xruSoQ",
+    "title": "Mr. YASHASWI RAJ VARDHAN | AIR 11 UPSC CSE 2025"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 16:01:47 UTC",
+   "id": "6ac3c9eb3ee5dfd59d0cf70f",
+   "processed_at": "2026-10-05 16:01:47 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_ai_mode",
+   "gl": "in",
+   "hl": "en",
+   "q": "Which coaching institute did Yashaswi Raj Vardhan, UPSC CSE 2025 AIR 11, study at?"
+  },
+  "text_blocks": [
+   {
+    "reference_indexes": [
+     0
+    ],
+    "snippet": "Yashaswi Raj Vardhan (UPSC CSE 2025 AIR 11) attended the Interview Guidance Programme at Vajiram & Ravi.",
+    "snippet_highlighted_words": [
+     "Vajiram & Ravi"
+    ],
+    "type": "paragraph"
+   },
+   {
+    "reference_indexes": [
+     0,
+     1
+    ],
+    "snippet": "Would you like to know more about his background, such as his educational qualifications or optional subject?",
+    "type": "paragraph"
+   }
+  ]
+ }
+}

@@ -1,0 +1,2825 @@
+{
+ "engine": "youtube_video_transcript",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube_video_transcript",
+  "language_code": "hi",
+  "v": "sshz5oLkzHE"
+ },
+ "purpose": "transcript",
+ "rank": 5,
+ "response": {
+  "available_transcripts": [
+   {
+    "language_code": "en",
+    "selected": true,
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&type=asr&v=sshz5oLkzHE",
+    "type": "asr"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 15:45:09 UTC",
+   "id": "6ac3c6055a5e96ffa760d91f",
+   "processed_at": "2026-10-05 15:45:09 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "language_code": "hi",
+   "v": "sshz5oLkzHE"
+  },
+  "transcript": [
+   {
+    "end_ms": 7759,
+    "snippet": "what were the strategies which work for",
+    "start_ms": 4319,
+    "start_time_label": "0:04",
+    "start_time_text": "0:04"
+   },
+   {
+    "end_ms": 17119,
+    "snippet": "you you make some mistakes early on you're learning the process and something I said about my own Journey",
+    "start_ms": 10759,
+    "start_time_label": "0:10",
+    "start_time_text": "0:10"
+   },
+   {
+    "end_ms": 23039,
+    "snippet": "was that to act to how was a typical first year like at NL Delhi how was a",
+    "start_ms": 17119,
+    "start_time_label": "0:17",
+    "start_time_text": "0:17"
+   },
+   {
+    "end_ms": 28840,
+    "snippet": "typical third year like and fifth year like I think maximum examination",
+    "start_ms": 23039,
+    "start_time_label": "0:23",
+    "start_time_text": "0:23"
+   },
+   {
+    "end_ms": 35280,
+    "snippet": "application students students",
+    "start_ms": 28840,
+    "start_time_label": "0:28",
+    "start_time_text": "0:28"
+   },
+   {
+    "end_ms": 40680,
+    "snippet": "matter firstly for cl and later on for upsc uh what What's a typical day in the",
+    "start_ms": 35280,
+    "start_time_label": "0:35",
+    "start_time_text": "0:35"
+   },
+   {
+    "end_ms": 46920,
+    "snippet": "life of a upsc aspir how was your interview like I think it's important to be prepared for",
+    "start_ms": 40680,
+    "start_time_label": "0:40",
+    "start_time_text": "0:40"
+   },
+   {
+    "end_ms": 54160,
+    "snippet": "anything because anything can happen so if I were to give a few anecdotes I like music very much but the chairperson just",
+    "start_ms": 46920,
+    "start_time_label": "0:46",
+    "start_time_text": "0:46"
+   },
+   {
+    "end_ms": 60440,
+    "snippet": "had this had immense knowledge so we were discussing RI Shankar's concerts pit RI Shankar's concerts and Woodstock",
+    "start_ms": 54160,
+    "start_time_label": "0:54",
+    "start_time_text": "0:54"
+   },
+   {
+    "end_ms": 65640,
+    "snippet": "festival and I was blown away by how cool this person was the other thing is that we had this very random discussion",
+    "start_ms": 60440,
+    "start_time_label": "1:00",
+    "start_time_text": "1:00"
+   },
+   {
+    "end_ms": 70720,
+    "snippet": "on life after death and whether death is Meaningful so the other interesting",
+    "start_ms": 65640,
+    "start_time_label": "1:05",
+    "start_time_text": "1:05"
+   },
+   {
+    "end_ms": 76360,
+    "snippet": "thing that happened in my interview was uh that there were a few questions from",
+    "start_ms": 70720,
+    "start_time_label": "1:10",
+    "start_time_text": "1:10"
+   },
+   {
+    "end_ms": 82550,
+    "snippet": "IP law okay for which I have a gold medal I couldn't answer that",
+    "start_ms": 76360,
+    "start_time_label": "1:16",
+    "start_time_text": "1:16"
+   },
+   {
+    "end_ms": 86889,
+    "snippet": "[Applause] [Music]",
+    "start_ms": 82550,
+    "start_time_label": "1:22",
+    "start_time_text": "1:22"
+   },
+   {
+    "end_ms": 96920,
+    "snippet": "so today on the podcast we have with us a typical Sharma K beta ishan bhatnagar",
+    "start_ms": 90040,
+    "start_time_label": "1:30",
+    "start_time_text": "1:30"
+   },
+   {
+    "end_ms": 103520,
+    "snippet": "who is an ex Elian he was all India ranked six in Elite 2018 all India",
+    "start_ms": 96920,
+    "start_time_label": "1:36",
+    "start_time_text": "1:36"
+   },
+   {
+    "end_ms": 110399,
+    "snippet": "ranked 45 from what I remember in Cloud 2018 and is also all India ranked 276 uh",
+    "start_ms": 103520,
+    "start_time_label": "1:43",
+    "start_time_text": "1:43"
+   },
+   {
+    "end_ms": 115759,
+    "snippet": "in the upsc examination which was held last year uh and after clearing both",
+    "start_ms": 110399,
+    "start_time_label": "1:50",
+    "start_time_text": "1:50"
+   },
+   {
+    "end_ms": 121840,
+    "snippet": "clat and aliot he eventually went to nlu Delhi where he spent Fantastic 5 years",
+    "start_ms": 115759,
+    "start_time_label": "1:55",
+    "start_time_text": "1:55"
+   },
+   {
+    "end_ms": 127079,
+    "snippet": "so welcome to the podcast isan hi sir it's great to be here it's great to have",
+    "start_ms": 121840,
+    "start_time_label": "2:01",
+    "start_time_text": "2:01"
+   },
+   {
+    "end_ms": 133680,
+    "snippet": "you here so let's start with maybe a brief uh uh",
+    "start_ms": 127079,
+    "start_time_label": "2:07",
+    "start_time_text": "2:07"
+   },
+   {
+    "end_ms": 140519,
+    "snippet": "a brief description of yourself AB Journey if you can just summarize it for",
+    "start_ms": 133680,
+    "start_time_label": "2:13",
+    "start_time_text": "2:13"
+   },
+   {
+    "end_ms": 146319,
+    "snippet": "for all the viewers out there sure sir uh I was born in lnno brought up in",
+    "start_ms": 140519,
+    "start_time_label": "2:20",
+    "start_time_text": "2:20"
+   },
+   {
+    "end_ms": 153280,
+    "snippet": "bopal I went to Campion School bopal DPS and 11th 12th me I took PCM initially I",
+    "start_ms": 146319,
+    "start_time_label": "2:26",
+    "start_time_text": "2:26"
+   },
+   {
+    "end_ms": 160200,
+    "snippet": "wanted to do iitj uh not because I knew what it was because but because that was what all the smart people did at the",
+    "start_ms": 153280,
+    "start_time_label": "2:33",
+    "start_time_text": "2:33"
+   },
+   {
+    "end_ms": 167879,
+    "snippet": "time uh by the end of 11th I realized that was not something for me and I wanted to do uh I wanted to get into law",
+    "start_ms": 160200,
+    "start_time_label": "2:40",
+    "start_time_text": "2:40"
+   },
+   {
+    "end_ms": 173680,
+    "snippet": "like my cousin and I came to Ellie and uh that was really really it was a",
+    "start_ms": 167879,
+    "start_time_label": "2:47",
+    "start_time_text": "2:47"
+   },
+   {
+    "end_ms": 180519,
+    "snippet": "really big shift because I found myself preparing very hard I found myself very consistent got through clatt and elot",
+    "start_ms": 173680,
+    "start_time_label": "2:53",
+    "start_time_text": "2:53"
+   },
+   {
+    "end_ms": 186120,
+    "snippet": "and went to National Law university Delhi that was a completely different experience because you're exposed to so",
+    "start_ms": 180519,
+    "start_time_label": "3:00",
+    "start_time_text": "3:00"
+   },
+   {
+    "end_ms": 192400,
+    "snippet": "many new ideas so much new information so many new activities went for a few competitions abroad in turn with the",
+    "start_ms": 186120,
+    "start_time_label": "3:06",
+    "start_time_text": "3:06"
+   },
+   {
+    "end_ms": 198720,
+    "snippet": "undp the United Nation volunteers couple of litigators and corporate firms and uh",
+    "start_ms": 192400,
+    "start_time_label": "3:12",
+    "start_time_text": "3:12"
+   },
+   {
+    "end_ms": 205120,
+    "snippet": "had a really rich and diverse experience at the end of which I realized that I would want to do something that had",
+    "start_ms": 198720,
+    "start_time_label": "3:18",
+    "start_time_text": "3:18"
+   },
+   {
+    "end_ms": 211480,
+    "snippet": "something more to do with Public Service a public facing job where I'd been the small towns and Villages of India and",
+    "start_ms": 205120,
+    "start_time_label": "3:25",
+    "start_time_text": "3:25"
+   },
+   {
+    "end_ms": 217319,
+    "snippet": "solve problems there so I decided that I wanted to give the civil services exam this decision was towards the end of",
+    "start_ms": 211480,
+    "start_time_label": "3:31",
+    "start_time_text": "3:31"
+   },
+   {
+    "end_ms": 223640,
+    "snippet": "fourth year somewhere in the second semester of fourth year uh appeared for it in 2023 that was my first attempt",
+    "start_ms": 217319,
+    "start_time_label": "3:37",
+    "start_time_text": "3:37"
+   },
+   {
+    "end_ms": 230200,
+    "snippet": "I've got the rank 276 which will likely get me the income tax service got it got",
+    "start_ms": 223640,
+    "start_time_label": "3:43",
+    "start_time_text": "3:43"
+   },
+   {
+    "end_ms": 235599,
+    "snippet": "it starting with your Clarity and aliot journey isan uh I think you wrote clatt",
+    "start_ms": 230200,
+    "start_time_label": "3:50",
+    "start_time_text": "3:50"
+   },
+   {
+    "end_ms": 242319,
+    "snippet": "and AI both in 2018 uh you prepared for an year and a half or so yeah I",
+    "start_ms": 235599,
+    "start_time_label": "3:55",
+    "start_time_text": "3:55"
+   },
+   {
+    "end_ms": 248879,
+    "snippet": "think how was that Journey like ups and downs so I understand time clad pattern",
+    "start_ms": 242319,
+    "start_time_label": "4:02",
+    "start_time_text": "4:02"
+   },
+   {
+    "end_ms": 255400,
+    "snippet": "was slightly different from what it is in 2024 uh so how was a journey like uh or",
+    "start_ms": 248879,
+    "start_time_label": "4:08",
+    "start_time_text": "4:08"
+   },
+   {
+    "end_ms": 261280,
+    "snippet": "uh takeways Journey which helped you even",
+    "start_ms": 255400,
+    "start_time_label": "4:15",
+    "start_time_text": "4:15"
+   },
+   {
+    "end_ms": 268720,
+    "snippet": "later on in your upsc prep in your law school life etc etc yes sir uh I started",
+    "start_ms": 261280,
+    "start_time_label": "4:21",
+    "start_time_text": "4:21"
+   },
+   {
+    "end_ms": 276320,
+    "snippet": "towards the end of class 11th or maybe the beginning of class 12th I think summer vacation I got really serious and",
+    "start_ms": 268720,
+    "start_time_label": "4:28",
+    "start_time_text": "4:28"
+   },
+   {
+    "end_ms": 285320,
+    "snippet": "I started out with a sense of great regret uh regret and a great sense of great uh uh despair because IIT my whole",
+    "start_ms": 276320,
+    "start_time_label": "4:36",
+    "start_time_text": "4:36"
+   },
+   {
+    "end_ms": 291240,
+    "snippet": "journey had not been very successful it hadn't been to my liking and for the first time I was up against a wall that",
+    "start_ms": 285320,
+    "start_time_label": "4:45",
+    "start_time_text": "4:45"
+   },
+   {
+    "end_ms": 298000,
+    "snippet": "I couldn't climb and that's when I realized that you have to be super motivated and you have to really know what you're doing because it can't just",
+    "start_ms": 291240,
+    "start_time_label": "4:51",
+    "start_time_text": "4:51"
+   },
+   {
+    "end_ms": 304680,
+    "snippet": "be things are really so 12th May I came to Legal Edge I came to you and I told you about how my It",
+    "start_ms": 298000,
+    "start_time_label": "4:58",
+    "start_time_text": "4:58"
+   },
+   {
+    "end_ms": 311919,
+    "snippet": "Journey had been and I we you you urged me to start a fresh so that's what I did",
+    "start_ms": 304680,
+    "start_time_label": "5:04",
+    "start_time_text": "5:04"
+   },
+   {
+    "end_ms": 318160,
+    "snippet": "and I think there were a couple of challenges of the cuff one was that I only had a year the other thing was that",
+    "start_ms": 311919,
+    "start_time_label": "5:11",
+    "start_time_text": "5:11"
+   },
+   {
+    "end_ms": 325600,
+    "snippet": "one looked at droppers who had a lot more time than any fresher and something that Karena said was",
+    "start_ms": 318160,
+    "start_time_label": "5:18",
+    "start_time_text": "5:18"
+   },
+   {
+    "end_ms": 334720,
+    "snippet": "that I think that Journey was all about optimization prioritizing uh making sure that I do",
+    "start_ms": 328039,
+    "start_time_label": "5:28",
+    "start_time_text": "5:28"
+   },
+   {
+    "end_ms": 343199,
+    "snippet": "the syllabus multiple times learning from coaching but also making sure that my Pari syllabus complete and I gave every",
+    "start_ms": 334720,
+    "start_time_label": "5:34",
+    "start_time_text": "5:34"
+   },
+   {
+    "end_ms": 350080,
+    "snippet": "mock as if that was my that was clad that was alert and two three days i' just very intensely study for that mock",
+    "start_ms": 343199,
+    "start_time_label": "5:43",
+    "start_time_text": "5:43"
+   },
+   {
+    "end_ms": 356319,
+    "snippet": "and try and give that uh and there were lots of ups and downs lots of difficult scores lots of issues at school",
+    "start_ms": 350080,
+    "start_time_label": "5:50",
+    "start_time_text": "5:50"
+   },
+   {
+    "end_ms": 362680,
+    "snippet": "attendance issues all sorts of issues but I think just persisting with it giving time speaking to mentors and",
+    "start_ms": 356319,
+    "start_time_label": "5:56",
+    "start_time_text": "5:56"
+   },
+   {
+    "end_ms": 368800,
+    "snippet": "getting clarifications and really doggedly pursuing uh my objectives I think that",
+    "start_ms": 362680,
+    "start_time_label": "6:02",
+    "start_time_text": "6:02"
+   },
+   {
+    "end_ms": 374599,
+    "snippet": "was the big takeaway and that helped got it got it and I think looking at your",
+    "start_ms": 368800,
+    "start_time_label": "6:08",
+    "start_time_text": "6:08"
+   },
+   {
+    "end_ms": 381639,
+    "snippet": "background students that uh you have and you had everything going in favor of you",
+    "start_ms": 374599,
+    "start_time_label": "6:14",
+    "start_time_text": "6:14"
+   },
+   {
+    "end_ms": 388039,
+    "snippet": "uh UPS allia rank six uh but from what I",
+    "start_ms": 381639,
+    "start_time_label": "6:21",
+    "start_time_text": "6:21"
+   },
+   {
+    "end_ms": 393560,
+    "snippet": "remember uh even during your clad days I remember having a lot of conversations",
+    "start_ms": 388039,
+    "start_time_label": "6:28",
+    "start_time_text": "6:28"
+   },
+   {
+    "end_ms": 396440,
+    "snippet": "with you your",
+    "start_ms": 393560,
+    "start_time_label": "6:33",
+    "start_time_text": "6:33"
+   },
+   {
+    "end_ms": 414080,
+    "snippet": "parents B what were the strategies that you used to bounce back uh and same same with",
+    "start_ms": 405880,
+    "start_time_label": "6:45",
+    "start_time_text": "6:45"
+   },
+   {
+    "end_ms": 420759,
+    "snippet": "your upsc journey also perance so what did you do to bounce",
+    "start_ms": 414080,
+    "start_time_label": "6:54",
+    "start_time_text": "6:54"
+   },
+   {
+    "end_ms": 427759,
+    "snippet": "back and eventually get the kind of ranks that you got in both clat and upsc sir I'm",
+    "start_ms": 420759,
+    "start_time_label": "7:00",
+    "start_time_text": "7:00"
+   },
+   {
+    "end_ms": 435680,
+    "snippet": "sure and I think what I've realized over time is J that somebody's done daily",
+    "start_ms": 427759,
+    "start_time_label": "7:07",
+    "start_time_text": "7:07"
+   },
+   {
+    "end_ms": 441599,
+    "snippet": "well that's the cumulation of a lot of failures on a daily basis something's going wrong and then you're trying to",
+    "start_ms": 435680,
+    "start_time_label": "7:15",
+    "start_time_text": "7:15"
+   },
+   {
+    "end_ms": 448240,
+    "snippet": "fix it so this happened all the time clad me GK was really bad and uh I would",
+    "start_ms": 441599,
+    "start_time_label": "7:21",
+    "start_time_text": "7:21"
+   },
+   {
+    "end_ms": 454720,
+    "snippet": "get really really bad scores performance in that pattern I think 50 marks were for GK so that was a big",
+    "start_ms": 448240,
+    "start_time_label": "7:28",
+    "start_time_text": "7:28"
+   },
+   {
+    "end_ms": 459879,
+    "snippet": "issue and I think sir one strategy was to come",
+    "start_ms": 454720,
+    "start_time_label": "7:34",
+    "start_time_text": "7:34"
+   },
+   {
+    "end_ms": 465560,
+    "snippet": "to you I think those conversations were helpful I think having a mentor and having someone I think when we are",
+    "start_ms": 459879,
+    "start_time_label": "7:39",
+    "start_time_text": "7:39"
+   },
+   {
+    "end_ms": 471520,
+    "snippet": "younger we need someone else to help us process things and reframe things I think as I get older I do it for myself",
+    "start_ms": 465560,
+    "start_time_label": "7:45",
+    "start_time_text": "7:45"
+   },
+   {
+    "end_ms": 477680,
+    "snippet": "now but taking a stock of all the progress",
+    "start_ms": 471520,
+    "start_time_label": "7:51",
+    "start_time_text": "7:51"
+   },
+   {
+    "end_ms": 485560,
+    "snippet": "that one has done already work and that we are very we a very",
+    "start_ms": 477680,
+    "start_time_label": "7:57",
+    "start_time_text": "7:57"
+   },
+   {
+    "end_ms": 491599,
+    "snippet": "short way off from what we want to achieve it just seems very far because sometimes that small Improvement that",
+    "start_ms": 485560,
+    "start_time_label": "8:05",
+    "start_time_text": "8:05"
+   },
+   {
+    "end_ms": 497680,
+    "snippet": "I'm yet to make could have made a huge difference in that mock or maybe in whatever process I am uh to give a very",
+    "start_ms": 491599,
+    "start_time_label": "8:11",
+    "start_time_text": "8:11"
+   },
+   {
+    "end_ms": 503039,
+    "snippet": "concrete example I've been a horrible prelims taker last year also I had three marks more than the cutof this time I",
+    "start_ms": 497680,
+    "start_time_label": "8:17",
+    "start_time_text": "8:17"
+   },
+   {
+    "end_ms": 510240,
+    "snippet": "don't know if I'm clearing the cut off and how I interpret that is that this is the game I've chosen to play and this",
+    "start_ms": 503039,
+    "start_time_label": "8:23",
+    "start_time_text": "8:23"
+   },
+   {
+    "end_ms": 516159,
+    "snippet": "game everything is a package a firm job is a package law school is a package you you take the whole package you buy into",
+    "start_ms": 510240,
+    "start_time_label": "8:30",
+    "start_time_text": "8:30"
+   },
+   {
+    "end_ms": 521399,
+    "snippet": "the experience and then there will be uncertainty there will be downsides to that package and you have to be willing",
+    "start_ms": 516159,
+    "start_time_label": "8:36",
+    "start_time_text": "8:36"
+   },
+   {
+    "end_ms": 528080,
+    "snippet": "to accept that and we take it with Equanimity because it's only when you accept the downside you get to play the",
+    "start_ms": 521399,
+    "start_time_label": "8:41",
+    "start_time_text": "8:41"
+   },
+   {
+    "end_ms": 534600,
+    "snippet": "game and that that's the only time you get to win so that would be so everything is a package which",
+    "start_ms": 528080,
+    "start_time_label": "8:48",
+    "start_time_text": "8:48"
+   },
+   {
+    "end_ms": 541680,
+    "snippet": "means package successes uncertainities failures",
+    "start_ms": 534600,
+    "start_time_label": "8:54",
+    "start_time_text": "8:54"
+   },
+   {
+    "end_ms": 546920,
+    "snippet": "loss ups and downs and uh and another important thing",
+    "start_ms": 541680,
+    "start_time_label": "9:01",
+    "start_time_text": "9:01"
+   },
+   {
+    "end_ms": 552880,
+    "snippet": "is if You' have chosen to play that game UHS and",
+    "start_ms": 546920,
+    "start_time_label": "9:06",
+    "start_time_text": "9:06"
+   },
+   {
+    "end_ms": 559720,
+    "snippet": "downs you can't do anything about it exactly okay and uh you wrote CL 2018",
+    "start_ms": 552880,
+    "start_time_label": "9:12",
+    "start_time_text": "9:12"
+   },
+   {
+    "end_ms": 565120,
+    "snippet": "which was in a way recently controversy and",
+    "start_ms": 559720,
+    "start_time_label": "9:19",
+    "start_time_text": "9:19"
+   },
+   {
+    "end_ms": 570880,
+    "snippet": "ugc cl 2018 maybe I remember because it was the last online CL baring 2020 which",
+    "start_ms": 565120,
+    "start_time_label": "9:25",
+    "start_time_text": "9:25"
+   },
+   {
+    "end_ms": 578519,
+    "snippet": "was online because of covid uh so 2018 I remember online",
+    "start_ms": 570880,
+    "start_time_label": "9:30",
+    "start_time_text": "9:30"
+   },
+   {
+    "end_ms": 588800,
+    "snippet": "CL did anything like that happen with you yeah I don't remember I do remember that",
+    "start_ms": 582880,
+    "start_time_label": "9:42",
+    "start_time_text": "9:42"
+   },
+   {
+    "end_ms": 594279,
+    "snippet": "I was solving a math question and uh 3 four minutes had passed when I looked at",
+    "start_ms": 588800,
+    "start_time_label": "9:48",
+    "start_time_text": "9:48"
+   },
+   {
+    "end_ms": 600880,
+    "snippet": "the clock again so I always thought I zoned out while I was solving so I can't really say for sure got it",
+    "start_ms": 594279,
+    "start_time_label": "9:54",
+    "start_time_text": "9:54"
+   },
+   {
+    "end_ms": 606079,
+    "snippet": "how is a law school life like nlu Delhi May uh if you can just let all the",
+    "start_ms": 600880,
+    "start_time_label": "10:00",
+    "start_time_text": "10:00"
+   },
+   {
+    "end_ms": 612120,
+    "snippet": "students know how was a typical first year like at nlu Delhi how was a typical",
+    "start_ms": 606079,
+    "start_time_label": "10:06",
+    "start_time_text": "10:06"
+   },
+   {
+    "end_ms": 618760,
+    "snippet": "third year like and fifth year like so uh day in the life of a first year student third year student and a fifth",
+    "start_ms": 612120,
+    "start_time_label": "10:12",
+    "start_time_text": "10:12"
+   },
+   {
+    "end_ms": 624720,
+    "snippet": "year student yes sir um and I think it really varies so the day in the life of a first year student will be very",
+    "start_ms": 618760,
+    "start_time_label": "10:18",
+    "start_time_text": "10:18"
+   },
+   {
+    "end_ms": 630560,
+    "snippet": "different from the third year student and a fifth year student uh when we start start out a journey in law school",
+    "start_ms": 624720,
+    "start_time_label": "10:24",
+    "start_time_text": "10:24"
+   },
+   {
+    "end_ms": 636160,
+    "snippet": "I think there's this huge catch up and I think especially I had a PCM background",
+    "start_ms": 630560,
+    "start_time_label": "10:30",
+    "start_time_text": "10:30"
+   },
+   {
+    "end_ms": 641480,
+    "snippet": "so for me those kind of humanities texts that we had to read that was a big shift",
+    "start_ms": 636160,
+    "start_time_label": "10:36",
+    "start_time_text": "10:36"
+   },
+   {
+    "end_ms": 647920,
+    "snippet": "and I think just the kind of ideas the kind of information the kind of complexity that's there in the curriculum the first year especially the",
+    "start_ms": 641480,
+    "start_time_label": "10:41",
+    "start_time_text": "10:41"
+   },
+   {
+    "end_ms": 654399,
+    "snippet": "first semester is all about catching up with it and going up to that level where we were able to read Amar be able to",
+    "start_ms": 647920,
+    "start_time_label": "10:47",
+    "start_time_text": "10:47"
+   },
+   {
+    "end_ms": 660200,
+    "snippet": "read these scholar and have intelligent informed discussions about these opinions um",
+    "start_ms": 654399,
+    "start_time_label": "10:54",
+    "start_time_text": "10:54"
+   },
+   {
+    "end_ms": 666519,
+    "snippet": "alongside that I think a lot of First Years myself included we also got into lots of extracurriculars because for a",
+    "start_ms": 660200,
+    "start_time_label": "11:00",
+    "start_time_text": "11:00"
+   },
+   {
+    "end_ms": 673079,
+    "snippet": "year or two especially 11 12th the way it is in most schools you're encouraged to just study study study so I did a lot",
+    "start_ms": 666519,
+    "start_time_label": "11:06",
+    "start_time_text": "11:06"
+   },
+   {
+    "end_ms": 681560,
+    "snippet": "of music people do some sports and El Deli doesn't have sports facilities that equal say NSA or other places but we did",
+    "start_ms": 673079,
+    "start_time_label": "11:13",
+    "start_time_text": "11:13"
+   },
+   {
+    "end_ms": 688240,
+    "snippet": "some people did Sports some people did music and it was mostly this uh second year and third year that people tend to",
+    "start_ms": 681560,
+    "start_time_label": "11:21",
+    "start_time_text": "11:21"
+   },
+   {
+    "end_ms": 693360,
+    "snippet": "refine their interest a little bit you're reading enough to start writing research papers I was trying to get",
+    "start_ms": 688240,
+    "start_time_label": "11:28",
+    "start_time_text": "11:28"
+   },
+   {
+    "end_ms": 699680,
+    "snippet": "published and you're doing blogs you're doing all of that there's also mooting mooting is a big thing people start out",
+    "start_ms": 693360,
+    "start_time_label": "11:33",
+    "start_time_text": "11:33"
+   },
+   {
+    "end_ms": 705519,
+    "snippet": "in the first year by the second year they've gotten a hang of it by the third year they've got their best moot whatever that might be third year fourth",
+    "start_ms": 699680,
+    "start_time_label": "11:39",
+    "start_time_text": "11:39"
+   },
+   {
+    "end_ms": 712200,
+    "snippet": "they try to optimize that uh there's lots of debates du has an excellent debating circuit that nlu Delhi gives us",
+    "start_ms": 705519,
+    "start_time_label": "11:45",
+    "start_time_text": "11:45"
+   },
+   {
+    "end_ms": 718279,
+    "snippet": "access to because we are technically in Delhi and uh so we had that we had lots",
+    "start_ms": 712200,
+    "start_time_label": "11:52",
+    "start_time_text": "11:52"
+   },
+   {
+    "end_ms": 724920,
+    "snippet": "of ADR competitions as well and N Deli has a lot of symposiums seminars Etc with faculties from across the world",
+    "start_ms": 718279,
+    "start_time_label": "11:58",
+    "start_time_text": "11:58"
+   },
+   {
+    "end_ms": 733079,
+    "snippet": "coming so that's this time of intense in intellectual exploration by the time the fifth year comes around people uh their",
+    "start_ms": 724920,
+    "start_time_label": "12:04",
+    "start_time_text": "12:04"
+   },
+   {
+    "end_ms": 738880,
+    "snippet": "objectives are a lot more crystallized so I think there's not as much exploration as deepening that which is",
+    "start_ms": 733079,
+    "start_time_label": "12:13",
+    "start_time_text": "12:13"
+   },
+   {
+    "end_ms": 745160,
+    "snippet": "that they want to do so somebody who wants to be a litigator I know some seniors would go and work with uh chief",
+    "start_ms": 738880,
+    "start_time_label": "12:18",
+    "start_time_text": "12:18"
+   },
+   {
+    "end_ms": 751959,
+    "snippet": "justice chandu they'd go and work with Supreme Court judges legal interns Maybe become legal clerks and they worked with",
+    "start_ms": 745160,
+    "start_time_label": "12:25",
+    "start_time_text": "12:25"
+   },
+   {
+    "end_ms": 758440,
+    "snippet": "litigators and people would go into go with Niche law firms Boutique firms Etc get that experience some people who",
+    "start_ms": 751959,
+    "start_time_label": "12:31",
+    "start_time_text": "12:31"
+   },
+   {
+    "end_ms": 763560,
+    "snippet": "wanted to prepare for exams did that and there's a lot it's it's a lot more relaxed so fifth year is the time when",
+    "start_ms": 758440,
+    "start_time_label": "12:38",
+    "start_time_text": "12:38"
+   },
+   {
+    "end_ms": 769600,
+    "snippet": "people really let it all out they go around people go and exchange and then that's just three months of great",
+    "start_ms": 763560,
+    "start_time_label": "12:43",
+    "start_time_text": "12:43"
+   },
+   {
+    "end_ms": 774680,
+    "snippet": "exploration and great travel got it",
+    "start_ms": 769600,
+    "start_time_label": "12:49",
+    "start_time_text": "12:49"
+   },
+   {
+    "end_ms": 779880,
+    "snippet": "and so whenever I start any new batch",
+    "start_ms": 774680,
+    "start_time_label": "12:54",
+    "start_time_text": "12:54"
+   },
+   {
+    "end_ms": 782880,
+    "snippet": "first",
+    "start_ms": 779880,
+    "start_time_label": "12:59",
+    "start_time_text": "12:59"
+   },
+   {
+    "end_ms": 791920,
+    "snippet": "students at least 80% of the students in their class 11th have already",
+    "start_ms": 785760,
+    "start_time_label": "13:05",
+    "start_time_text": "13:05"
+   },
+   {
+    "end_ms": 797040,
+    "snippet": "decided uh which is very surprising for",
+    "start_ms": 791920,
+    "start_time_label": "13:11",
+    "start_time_text": "13:11"
+   },
+   {
+    "end_ms": 802839,
+    "snippet": "meally firstep seven years down the line two years of Cl preparation and then",
+    "start_ms": 797680,
+    "start_time_label": "13:17",
+    "start_time_text": "13:17"
+   },
+   {
+    "end_ms": 810199,
+    "snippet": "five years of the law school Journey um in your case upsc k was it decided did",
+    "start_ms": 802839,
+    "start_time_label": "13:22",
+    "start_time_text": "13:22"
+   },
+   {
+    "end_ms": 815839,
+    "snippet": "in your class 12th itself or in the first year of Law School in the fourth year of Law School fifth year yeah after",
+    "start_ms": 810199,
+    "start_time_label": "13:30",
+    "start_time_text": "13:30"
+   },
+   {
+    "end_ms": 820920,
+    "snippet": "you graduated so upsc prep",
+    "start_ms": 815839,
+    "start_time_label": "13:35",
+    "start_time_text": "13:35"
+   },
+   {
+    "end_ms": 828000,
+    "snippet": "Journey uh sir to reflect on the question a little bit I think we we're",
+    "start_ms": 822480,
+    "start_time_label": "13:42",
+    "start_time_text": "13:42"
+   },
+   {
+    "end_ms": 833240,
+    "snippet": "very focused on the what and not so much on the why so I think something you asked me earlier about setbacks I think",
+    "start_ms": 828000,
+    "start_time_label": "13:48",
+    "start_time_text": "13:48"
+   },
+   {
+    "end_ms": 840000,
+    "snippet": "if you have a strong enough why you're willing to withstand the how and get to the what so uh",
+    "start_ms": 833240,
+    "start_time_label": "13:53",
+    "start_time_text": "13:53"
+   },
+   {
+    "end_ms": 845480,
+    "snippet": "for me I've always been a bit of a Wanderer and upsc ESS I had a very good",
+    "start_ms": 840000,
+    "start_time_label": "14:00",
+    "start_time_text": "14:00"
+   },
+   {
+    "end_ms": 851040,
+    "snippet": "score in the essay it was not all those who Wonder lost and I I I really stand by that because that's how my life has",
+    "start_ms": 845480,
+    "start_time_label": "14:05",
+    "start_time_text": "14:05"
+   },
+   {
+    "end_ms": 858959,
+    "snippet": "been 11 12th I wanted to do hardcore physics what good research in physics",
+    "start_ms": 851040,
+    "start_time_label": "14:11",
+    "start_time_text": "14:11"
+   },
+   {
+    "end_ms": 868600,
+    "snippet": "law school I wanted to be a public interest litigator some sort of a public facing very pro bono kind of a profile",
+    "start_ms": 858959,
+    "start_time_label": "14:18",
+    "start_time_text": "14:18"
+   },
+   {
+    "end_ms": 874320,
+    "snippet": "and I was really interested in Academia I was very very opposed to the services just on principle because my family",
+    "start_ms": 868600,
+    "start_time_label": "14:28",
+    "start_time_text": "14:28"
+   },
+   {
+    "end_ms": 881639,
+    "snippet": "would always push me for the services if you remember CL me where I had 45 my first reference was nlu Bal because they",
+    "start_ms": 874320,
+    "start_time_label": "14:34",
+    "start_time_text": "14:34"
+   },
+   {
+    "end_ms": 886720,
+    "snippet": "just wouldn't let me go to Bangalore uh so that is that was my background so I",
+    "start_ms": 881639,
+    "start_time_label": "14:41",
+    "start_time_text": "14:41"
+   },
+   {
+    "end_ms": 893519,
+    "snippet": "was actually very opposed to it it's only that in those five years of law school over time what I realized was uh",
+    "start_ms": 886720,
+    "start_time_label": "14:46",
+    "start_time_text": "14:46"
+   },
+   {
+    "end_ms": 899680,
+    "snippet": "it's a very hard life being a litigator is a very very hard life there's a lot of challenges",
+    "start_ms": 893519,
+    "start_time_label": "14:53",
+    "start_time_text": "14:53"
+   },
+   {
+    "end_ms": 907240,
+    "snippet": "and the remedies we get in courts I think there are some limitations to what remedies you get and the execution of",
+    "start_ms": 899680,
+    "start_time_label": "14:59",
+    "start_time_text": "14:59"
+   },
+   {
+    "end_ms": 914279,
+    "snippet": "those orders because ultimately it's likely to go to a district magistrate and so on and then execute follow we",
+    "start_ms": 907240,
+    "start_time_label": "15:07",
+    "start_time_text": "15:07"
+   },
+   {
+    "end_ms": 919959,
+    "snippet": "have these excellent laws judgments in place so I thought it was best to be the executor to go there and solve these",
+    "start_ms": 914279,
+    "start_time_label": "15:14",
+    "start_time_text": "15:14"
+   },
+   {
+    "end_ms": 925480,
+    "snippet": "problems um so fourth year end is when I decided that I wanted to pursue the",
+    "start_ms": 919959,
+    "start_time_label": "15:19",
+    "start_time_text": "15:19"
+   },
+   {
+    "end_ms": 931800,
+    "snippet": "civil services and that's when I had my resolve is it took a lot of time I watched",
+    "start_ms": 925480,
+    "start_time_label": "15:25",
+    "start_time_text": "15:25"
+   },
+   {
+    "end_ms": 938399,
+    "snippet": "swadesh a couple of times before this happened for for one full week I was watching it on and off and then I",
+    "start_ms": 931800,
+    "start_time_label": "15:31",
+    "start_time_text": "15:31"
+   },
+   {
+    "end_ms": 943759,
+    "snippet": "decided um and then I had a big loss at the end of fourth year my grandmother",
+    "start_ms": 938399,
+    "start_time_label": "15:38",
+    "start_time_text": "15:38"
+   },
+   {
+    "end_ms": 949920,
+    "snippet": "passed away uh so fifth year was when I started preparing in Earnest but I would say that half a year had been on and off",
+    "start_ms": 943759,
+    "start_time_label": "15:43",
+    "start_time_text": "15:43"
+   },
+   {
+    "end_ms": 955079,
+    "snippet": "bread before that got it got it so you started preparing for upsc I think by",
+    "start_ms": 949920,
+    "start_time_label": "15:49",
+    "start_time_text": "15:49"
+   },
+   {
+    "end_ms": 960800,
+    "snippet": "the end of your fourth year and you prepared for the whole of fifth year so how was a preparation Journey like what",
+    "start_ms": 955079,
+    "start_time_label": "15:55",
+    "start_time_text": "15:55"
+   },
+   {
+    "end_ms": 969399,
+    "snippet": "was a typical life typical day uh what What's a typical day in the life of a upsc aspirant",
+    "start_ms": 960800,
+    "start_time_label": "16:00",
+    "start_time_text": "16:00"
+   },
+   {
+    "end_ms": 976399,
+    "snippet": "or you can dwell a little on that I think one very common thing across exams",
+    "start_ms": 970519,
+    "start_time_label": "16:10",
+    "start_time_text": "16:10"
+   },
+   {
+    "end_ms": 983079,
+    "snippet": "and in the life of every aspirant is that uh you make some mistakes early on uh you're learning the process and",
+    "start_ms": 976399,
+    "start_time_label": "16:16",
+    "start_time_text": "16:16"
+   },
+   {
+    "end_ms": 989240,
+    "snippet": "something I said about my own Journey was that to act is to her so every time I act I commit some mistake and then I",
+    "start_ms": 983079,
+    "start_time_label": "16:23",
+    "start_time_text": "16:23"
+   },
+   {
+    "end_ms": 994759,
+    "snippet": "learn from it and get better and that I think is the spirit with which we take our mistakes and not we take our",
+    "start_ms": 989240,
+    "start_time_label": "16:29",
+    "start_time_text": "16:29"
+   },
+   {
+    "end_ms": 1001440,
+    "snippet": "learnings early on so I think when I started the upsc the conventional advice is to pursue one book to pursue one set",
+    "start_ms": 994759,
+    "start_time_label": "16:34",
+    "start_time_text": "16:34"
+   },
+   {
+    "end_ms": 1008279,
+    "snippet": "of sources so lakshmikant for polity for instance uh eom you will take up One Source out of Shams of Ral and so on so",
+    "start_ms": 1001440,
+    "start_time_label": "16:41",
+    "start_time_text": "16:41"
+   },
+   {
+    "end_ms": 1014079,
+    "snippet": "there there's one source and you make your book list and then you read it very well and one solves questions based on",
+    "start_ms": 1008279,
+    "start_time_label": "16:48",
+    "start_time_text": "16:48"
+   },
+   {
+    "end_ms": 1019519,
+    "snippet": "that pyqs are a very big part both of clat of upsc everywhere I think and I",
+    "start_ms": 1014079,
+    "start_time_label": "16:54",
+    "start_time_text": "16:54"
+   },
+   {
+    "end_ms": 1027160,
+    "snippet": "think I made a lot of mistakes there and I did a lot of different sources and I took my learnings and over time I think",
+    "start_ms": 1019519,
+    "start_time_label": "16:59",
+    "start_time_text": "16:59"
+   },
+   {
+    "end_ms": 1033120,
+    "snippet": "what really helped was one thing that I was still in college so there's a lot of uh there's a lot of peace that comes",
+    "start_ms": 1027160,
+    "start_time_label": "17:07",
+    "start_time_text": "17:07"
+   },
+   {
+    "end_ms": 1038240,
+    "snippet": "with that there's a safety net there's a bubble I think that stress is in there that oh I've left College what am I",
+    "start_ms": 1033120,
+    "start_time_label": "17:13",
+    "start_time_text": "17:13"
+   },
+   {
+    "end_ms": 1044720,
+    "snippet": "doing with my life that really helped I had a lot of family support as well and then helpful seniors cousins and so on",
+    "start_ms": 1038240,
+    "start_time_label": "17:18",
+    "start_time_text": "17:18"
+   },
+   {
+    "end_ms": 1052400,
+    "snippet": "so but to answer the question more directly about the day in the life of upsc ASP uh initially it's very Hazard",
+    "start_ms": 1044720,
+    "start_time_label": "17:24",
+    "start_time_text": "17:24"
+   },
+   {
+    "end_ms": 1059600,
+    "snippet": "eventually one gets to a plan so maybe I want to spend 8 hours a day 10 hours a day with law school maybe a little less",
+    "start_ms": 1052400,
+    "start_time_label": "17:32",
+    "start_time_text": "17:32"
+   },
+   {
+    "end_ms": 1065600,
+    "snippet": "and I would try and divide my day between different subjects and between different stages of the exam so you",
+    "start_ms": 1059600,
+    "start_time_label": "17:39",
+    "start_time_text": "17:39"
+   },
+   {
+    "end_ms": 1071760,
+    "snippet": "primarily prepare for the prelims and the means and there's different kinds of preparation means is more subjective",
+    "start_ms": 1065600,
+    "start_time_label": "17:45",
+    "start_time_text": "17:45"
+   },
+   {
+    "end_ms": 1077159,
+    "snippet": "more answer based prelims is more objective so I would try and divide my day and allocate different time to",
+    "start_ms": 1071760,
+    "start_time_label": "17:51",
+    "start_time_text": "17:51"
+   },
+   {
+    "end_ms": 1083440,
+    "snippet": "different subjects based on my my Str of quality maybe less time economics May me more time and try and get multiple",
+    "start_ms": 1077159,
+    "start_time_label": "17:57",
+    "start_time_text": "17:57"
+   },
+   {
+    "end_ms": 1090280,
+    "snippet": "revisions along with tests and feedback and isan what were your study",
+    "start_ms": 1083440,
+    "start_time_label": "18:03",
+    "start_time_text": "18:03"
+   },
+   {
+    "end_ms": 1098760,
+    "snippet": "strategies study ethics uh which helped you in your CL days in",
+    "start_ms": 1090280,
+    "start_time_label": "18:10",
+    "start_time_text": "18:10"
+   },
+   {
+    "end_ms": 1105679,
+    "snippet": "your law school days and later on in your upsc preparation days UD",
+    "start_ms": 1098760,
+    "start_time_label": "18:18",
+    "start_time_text": "18:18"
+   },
+   {
+    "end_ms": 1125039,
+    "snippet": "frequently breaks frequently breaks in the course of a day and frequently breaks in the",
+    "start_ms": 1118880,
+    "start_time_label": "18:38",
+    "start_time_text": "18:38"
+   },
+   {
+    "end_ms": 1132360,
+    "snippet": "course of the complete preparation cycle uh and so on and so forth so CL time and",
+    "start_ms": 1125039,
+    "start_time_label": "18:45",
+    "start_time_text": "18:45"
+   },
+   {
+    "end_ms": 1138840,
+    "snippet": "then UPS time uh what were the strategies which worked which worked for you in context of these questions and",
+    "start_ms": 1132360,
+    "start_time_label": "18:52",
+    "start_time_text": "18:52"
+   },
+   {
+    "end_ms": 1144840,
+    "snippet": "more I think quite a few of them I picked up here um one thing that really",
+    "start_ms": 1138840,
+    "start_time_label": "18:58",
+    "start_time_text": "18:58"
+   },
+   {
+    "end_ms": 1150799,
+    "snippet": "works for both exams and across other exams as well I believe is to begin with",
+    "start_ms": 1144840,
+    "start_time_label": "19:04",
+    "start_time_text": "19:04"
+   },
+   {
+    "end_ms": 1157360,
+    "snippet": "the end in mind so when I speak to Juniors especially people who are writing clat um and they'll ask me some",
+    "start_ms": 1150799,
+    "start_time_label": "19:10",
+    "start_time_text": "19:10"
+   },
+   {
+    "end_ms": 1162520,
+    "snippet": "question and I'll ask them have you given this year's paper have you sat with this paper and you know what it is",
+    "start_ms": 1157360,
+    "start_time_label": "19:17",
+    "start_time_text": "19:17"
+   },
+   {
+    "end_ms": 1168840,
+    "snippet": "and the answer is very often no and I think that's that's a big b that's a big bit of a mistake because I think one",
+    "start_ms": 1162520,
+    "start_time_label": "19:22",
+    "start_time_text": "19:22"
+   },
+   {
+    "end_ms": 1174720,
+    "snippet": "must start with the end product look at the paper because perhaps there's a lot of things you already know and there's",
+    "start_ms": 1168840,
+    "start_time_label": "19:28",
+    "start_time_text": "19:28"
+   },
+   {
+    "end_ms": 1180320,
+    "snippet": "things that you have no idea about so I think the first thing to do is to look at the paper that's come look at a",
+    "start_ms": 1174720,
+    "start_time_label": "19:34",
+    "start_time_text": "19:34"
+   },
+   {
+    "end_ms": 1187440,
+    "snippet": "couple of papers see what one's strengths and weaknesses are and then to have a sense of what the syllabus is",
+    "start_ms": 1180320,
+    "start_time_label": "19:40",
+    "start_time_text": "19:40"
+   },
+   {
+    "end_ms": 1193159,
+    "snippet": "after that it's important to try and allocate time to different topics because what happens is",
+    "start_ms": 1187440,
+    "start_time_label": "19:47",
+    "start_time_text": "19:47"
+   },
+   {
+    "end_ms": 1199799,
+    "snippet": "that the first few topics we do in a lot of depth one quick reading and then you in",
+    "start_ms": 1193159,
+    "start_time_label": "19:53",
+    "start_time_text": "19:53"
+   },
+   {
+    "end_ms": 1204960,
+    "snippet": "the exam so I think that allocation of time that allocation of timelines",
+    "start_ms": 1199799,
+    "start_time_label": "19:59",
+    "start_time_text": "19:59"
+   },
+   {
+    "end_ms": 1211320,
+    "snippet": "something that we discussed a long time ago was that plans so what you said was to have not",
+    "start_ms": 1204960,
+    "start_time_label": "20:04",
+    "start_time_text": "20:04"
+   },
+   {
+    "end_ms": 1216960,
+    "snippet": "have your plan workout is unfortunate but to not have a plan at all is more unfortunate so you start out with a plan",
+    "start_ms": 1211320,
+    "start_time_label": "20:11",
+    "start_time_text": "20:11"
+   },
+   {
+    "end_ms": 1222760,
+    "snippet": "and you start out with a very good idea of what it is that you need to do and then there have to be lots of checks",
+    "start_ms": 1216960,
+    "start_time_label": "20:16",
+    "start_time_text": "20:16"
+   },
+   {
+    "end_ms": 1228320,
+    "snippet": "along the way so I think mocks are a very good example pyqs are a very good example so ever so often you do an audit",
+    "start_ms": 1222760,
+    "start_time_label": "20:22",
+    "start_time_text": "20:22"
+   },
+   {
+    "end_ms": 1235799,
+    "snippet": "you with check of where am I and then I think Mo analysis cop",
+    "start_ms": 1228320,
+    "start_time_label": "20:28",
+    "start_time_text": "20:28"
+   },
+   {
+    "end_ms": 1244000,
+    "snippet": "something Mac Mac so the first Mac I had um and um and uh so that's a good idea",
+    "start_ms": 1235799,
+    "start_time_label": "20:35",
+    "start_time_text": "20:35"
+   },
+   {
+    "end_ms": 1249400,
+    "snippet": "so one has to have a list of things even for the interview stage I had a list of topics that I had to do I had a list of",
+    "start_ms": 1244000,
+    "start_time_label": "20:44",
+    "start_time_text": "20:44"
+   },
+   {
+    "end_ms": 1254880,
+    "snippet": "things that I had trouble answering IR was weak for me for instance so I had a list of questions that I wanted to",
+    "start_ms": 1249400,
+    "start_time_label": "20:49",
+    "start_time_text": "20:49"
+   },
+   {
+    "end_ms": 1261200,
+    "snippet": "prepare and so on so that progress tracking is really important that's the second thing the third thing is I think",
+    "start_ms": 1254880,
+    "start_time_label": "20:54",
+    "start_time_text": "20:54"
+   },
+   {
+    "end_ms": 1269240,
+    "snippet": "being consistent far more than anything else far more than and people feel that because boards",
+    "start_ms": 1261200,
+    "start_time_label": "21:01",
+    "start_time_text": "21:01"
+   },
+   {
+    "end_ms": 1274480,
+    "snippet": "that works just being consistent over time",
+    "start_ms": 1269240,
+    "start_time_label": "21:09",
+    "start_time_text": "21:09"
+   },
+   {
+    "end_ms": 1282559,
+    "snippet": "giving time every day used to be",
+    "start_ms": 1274480,
+    "start_time_label": "21:14",
+    "start_time_text": "21:14"
+   },
+   {
+    "end_ms": 1289600,
+    "snippet": "in just sitting giving the ass being consistent and actively studying not just passively reading but trying active",
+    "start_ms": 1282679,
+    "start_time_label": "21:22",
+    "start_time_text": "21:22"
+   },
+   {
+    "end_ms": 1297440,
+    "snippet": "recall and all of these methods I think that helps 90% of the success is just showing up it's showing up day after day",
+    "start_ms": 1289600,
+    "start_time_label": "21:29",
+    "start_time_text": "21:29"
+   },
+   {
+    "end_ms": 1306120,
+    "snippet": "what because maximum students and I think this is across examinations what happens is day one p",
+    "start_ms": 1297440,
+    "start_time_label": "21:37",
+    "start_time_text": "21:37"
+   },
+   {
+    "end_ms": 1313799,
+    "snippet": "start because start you don't have any baggage on day one or and maybe you do",
+    "start_ms": 1306600,
+    "start_time_label": "21:46",
+    "start_time_text": "21:46"
+   },
+   {
+    "end_ms": 1318600,
+    "snippet": "all the right things on day one previous",
+    "start_ms": 1313799,
+    "start_time_label": "21:53",
+    "start_time_text": "21:53"
+   },
+   {
+    "end_ms": 1339279,
+    "snippet": "[Music] asps so there are certain kind of",
+    "start_ms": 1332430,
+    "start_time_label": "22:12",
+    "start_time_text": "22:12"
+   },
+   {
+    "end_ms": 1348279,
+    "snippet": "aspirants they just keep showing up day after day they keep doing the same things and they just they also Ensure",
+    "start_ms": 1339279,
+    "start_time_label": "22:19",
+    "start_time_text": "22:19"
+   },
+   {
+    "end_ms": 1355840,
+    "snippet": "but certain aspirants uh do something which which is commonly known as quite quitting so quite quitting technically",
+    "start_ms": 1348840,
+    "start_time_label": "22:28",
+    "start_time_text": "22:28"
+   },
+   {
+    "end_ms": 1362840,
+    "snippet": "it's a cooperate term but ASP they still come to the classes they",
+    "start_ms": 1355840,
+    "start_time_label": "22:35",
+    "start_time_text": "22:35"
+   },
+   {
+    "end_ms": 1366360,
+    "snippet": "still come for mock",
+    "start_ms": 1362840,
+    "start_time_label": "22:42",
+    "start_time_text": "22:42"
+   },
+   {
+    "end_ms": 1376320,
+    "snippet": "but and I think that's a mistake so uh so yes again 90% of the success is",
+    "start_ms": 1368520,
+    "start_time_label": "22:48",
+    "start_time_text": "22:48"
+   },
+   {
+    "end_ms": 1381840,
+    "snippet": "showing up uh daily so got",
+    "start_ms": 1376320,
+    "start_time_label": "22:56",
+    "start_time_text": "22:56"
+   },
+   {
+    "end_ms": 1387880,
+    "snippet": "it another question isan uh which a lot of aspirants or at least a CL aspirant",
+    "start_ms": 1381840,
+    "start_time_label": "23:01",
+    "start_time_text": "23:01"
+   },
+   {
+    "end_ms": 1393600,
+    "snippet": "would be curious about 11 12 stream",
+    "start_ms": 1387880,
+    "start_time_label": "23:07",
+    "start_time_text": "23:07"
+   },
+   {
+    "end_ms": 1398960,
+    "snippet": "matter firstly for cl and later on for upsc",
+    "start_ms": 1393600,
+    "start_time_label": "23:13",
+    "start_time_text": "23:13"
+   },
+   {
+    "end_ms": 1406000,
+    "snippet": "so in CL or in upsc disadvantage uh so what's your take on",
+    "start_ms": 1398960,
+    "start_time_label": "23:18",
+    "start_time_text": "23:18"
+   },
+   {
+    "end_ms": 1412200,
+    "snippet": "this so I would say each stream has its own advantages so Humanity perhaps",
+    "start_ms": 1406000,
+    "start_time_label": "23:26",
+    "start_time_text": "23:26"
+   },
+   {
+    "end_ms": 1417840,
+    "snippet": "reading and being acquainted with the social sciences that helps because",
+    "start_ms": 1412200,
+    "start_time_label": "23:32",
+    "start_time_text": "23:32"
+   },
+   {
+    "end_ms": 1426279,
+    "snippet": "upsc but then PCM also gave me a set of advantages for one thing and this is a bit of a stereotype but uh PCM students",
+    "start_ms": 1419000,
+    "start_time_label": "23:39",
+    "start_time_text": "23:39"
+   },
+   {
+    "end_ms": 1432120,
+    "snippet": "have to study for much longer it's a stereotype it's not true but it's factual in nature it is what it is H it",
+    "start_ms": 1426279,
+    "start_time_label": "23:46",
+    "start_time_text": "23:46"
+   },
+   {
+    "end_ms": 1437559,
+    "snippet": "is what it is especially if you're doing IIT even if it's a bit of a field attempt like it was for me in the 11th",
+    "start_ms": 1432120,
+    "start_time_label": "23:52",
+    "start_time_text": "23:52"
+   },
+   {
+    "end_ms": 1444279,
+    "snippet": "class uh just sitting longer and then having that mathematical aptitude that helps with data interpretation that",
+    "start_ms": 1437559,
+    "start_time_label": "23:57",
+    "start_time_text": "23:57"
+   },
+   {
+    "end_ms": 1449679,
+    "snippet": "helps with cessat and upsc humanities has its own advantages Commerce is also",
+    "start_ms": 1444279,
+    "start_time_label": "24:04",
+    "start_time_text": "24:04"
+   },
+   {
+    "end_ms": 1455080,
+    "snippet": "very useful because a large chunk of upsc prep even for clat Eco is a big",
+    "start_ms": 1449679,
+    "start_time_label": "24:09",
+    "start_time_text": "24:09"
+   },
+   {
+    "end_ms": 1460520,
+    "snippet": "thing and if you've done Commerce with math then you get that quantitative Edge as well I think Commerce has these",
+    "start_ms": 1455080,
+    "start_time_label": "24:15",
+    "start_time_text": "24:15"
+   },
+   {
+    "end_ms": 1468480,
+    "snippet": "broader things of marketing etc etc that have a lot of bearing on how we live life so I think and do what we do during",
+    "start_ms": 1460520,
+    "start_time_label": "24:20",
+    "start_time_text": "24:20"
+   },
+   {
+    "end_ms": 1474360,
+    "snippet": "school what you do outside of it so I think this is advice that you gave someone a long time ago and I happen to",
+    "start_ms": 1468480,
+    "start_time_label": "24:28",
+    "start_time_text": "24:28"
+   },
+   {
+    "end_ms": 1480240,
+    "snippet": "be there so I listen to this which is that it has to be based on the students",
+    "start_ms": 1474360,
+    "start_time_label": "24:34",
+    "start_time_text": "24:34"
+   },
+   {
+    "end_ms": 1488039,
+    "snippet": "competencies student directly it's not",
+    "start_ms": 1480240,
+    "start_time_label": "24:40",
+    "start_time_text": "24:40"
+   },
+   {
+    "end_ms": 1492440,
+    "snippet": "like or medical",
+    "start_ms": 1488039,
+    "start_time_label": "24:48",
+    "start_time_text": "24:48"
+   },
+   {
+    "end_ms": 1503760,
+    "snippet": "forart alongside this for my PCM there were months that I wasn't there in",
+    "start_ms": 1498480,
+    "start_time_label": "24:58",
+    "start_time_text": "24:58"
+   },
+   {
+    "end_ms": 1509360,
+    "snippet": "school or where I was quite quitting in a way and studying I brought took my legal Edge material and I solved it",
+    "start_ms": 1503760,
+    "start_time_label": "25:03",
+    "start_time_text": "25:03"
+   },
+   {
+    "end_ms": 1514760,
+    "snippet": "during class so but I could handle uh the boards towards the end I I studied",
+    "start_ms": 1509360,
+    "start_time_label": "25:09",
+    "start_time_text": "25:09"
+   },
+   {
+    "end_ms": 1523279,
+    "snippet": "for a month or two months and did not do a lot of clad then but that was because I had that aptitude for Science and I",
+    "start_ms": 1514760,
+    "start_time_label": "25:14",
+    "start_time_text": "25:14"
+   },
+   {
+    "end_ms": 1527760,
+    "snippet": "couldn't remember a lot of things so physics",
+    "start_ms": 1523279,
+    "start_time_label": "25:23",
+    "start_time_text": "25:23"
+   },
+   {
+    "end_ms": 1535159,
+    "snippet": "so that was a big Advantage chemistry was very hard for me because so I think it has to be the",
+    "start_ms": 1529919,
+    "start_time_label": "25:29",
+    "start_time_text": "25:29"
+   },
+   {
+    "end_ms": 1540520,
+    "snippet": "students competencies and their interests and every stream will give some",
+    "start_ms": 1535159,
+    "start_time_label": "25:35",
+    "start_time_text": "25:35"
+   },
+   {
+    "end_ms": 1546520,
+    "snippet": "advantage and the Gass is always green on the other side human science better",
+    "start_ms": 1540640,
+    "start_time_label": "25:40",
+    "start_time_text": "25:40"
+   },
+   {
+    "end_ms": 1552120,
+    "snippet": "sence but so what what you're saying is even for upsc doesn't really matter a",
+    "start_ms": 1546520,
+    "start_time_label": "25:46",
+    "start_time_text": "25:46"
+   },
+   {
+    "end_ms": 1558799,
+    "snippet": "lot uh Humanities Commerce science 11 advantage or disadvantage",
+    "start_ms": 1552120,
+    "start_time_label": "25:52",
+    "start_time_text": "25:52"
+   },
+   {
+    "end_ms": 1565799,
+    "snippet": "uh preparation and what about law students so do law students have an edge if they",
+    "start_ms": 1558799,
+    "start_time_label": "25:58",
+    "start_time_text": "25:58"
+   },
+   {
+    "end_ms": 1573399,
+    "snippet": "are preparing for upsc or is that a disadvantage as compared to uh other type of graduations",
+    "start_ms": 1565799,
+    "start_time_label": "26:05",
+    "start_time_text": "26:05"
+   },
+   {
+    "end_ms": 1579240,
+    "snippet": "so what's your take on this sir I would say that like back to",
+    "start_ms": 1573399,
+    "start_time_label": "26:13",
+    "start_time_text": "26:13"
+   },
+   {
+    "end_ms": 1584960,
+    "snippet": "the stream answer as well there are advantages everywhere you have to spin it right so for law students I think",
+    "start_ms": 1579240,
+    "start_time_label": "26:19",
+    "start_time_text": "26:19"
+   },
+   {
+    "end_ms": 1590640,
+    "snippet": "there's a definite advantage in GS2 because there's four GS papers one is",
+    "start_ms": 1584960,
+    "start_time_label": "26:24",
+    "start_time_text": "26:24"
+   },
+   {
+    "end_ms": 1598919,
+    "snippet": "history geography just cutting you short um before you give this answer completely can you just quickly let us",
+    "start_ms": 1590640,
+    "start_time_label": "26:30",
+    "start_time_text": "26:30"
+   },
+   {
+    "end_ms": 1609360,
+    "snippet": "know because I think pretty much everyone knows that it's three stages prelims Mains and interview but how are the papers like for sure so prelims is",
+    "start_ms": 1601320,
+    "start_time_label": "26:41",
+    "start_time_text": "26:41"
+   },
+   {
+    "end_ms": 1618440,
+    "snippet": "an objective paper of 100 questions plus two minus. 66 um and for prelims there's no",
+    "start_ms": 1609360,
+    "start_time_label": "26:49",
+    "start_time_text": "26:49"
+   },
+   {
+    "end_ms": 1625640,
+    "snippet": "particularly defined syllabus they have some very broad headings but it could be anything under the sun typically we an",
+    "start_ms": 1618440,
+    "start_time_label": "26:58",
+    "start_time_text": "26:58"
+   },
+   {
+    "end_ms": 1633559,
+    "snippet": "average aspirent will prepare for poity economy Science and Tech environment current affairs uh geography so these",
+    "start_ms": 1625640,
+    "start_time_label": "27:05",
+    "start_time_text": "27:05"
+   },
+   {
+    "end_ms": 1640200,
+    "snippet": "are these broad areas that we prepare for and there can be anything under the sun just say a lot of clad type GK which",
+    "start_ms": 1633559,
+    "start_time_label": "27:13",
+    "start_time_text": "27:13"
+   },
+   {
+    "end_ms": 1645559,
+    "snippet": "is inherently very random it used to be in my time that can also come in is",
+    "start_ms": 1640200,
+    "start_time_label": "27:20",
+    "start_time_text": "27:20"
+   },
+   {
+    "end_ms": 1651840,
+    "snippet": "Admirals post arrange something like that so there can be a lot of trivia sports trivia Etc but mostly it's these",
+    "start_ms": 1645559,
+    "start_time_label": "27:25",
+    "start_time_text": "27:25"
+   },
+   {
+    "end_ms": 1656880,
+    "snippet": "broad subjects uh when you go to the main stage it's a drastic shift because",
+    "start_ms": 1651840,
+    "start_time_label": "27:31",
+    "start_time_text": "27:31"
+   },
+   {
+    "end_ms": 1662360,
+    "snippet": "means has a very defined syllabus and all that you're doing when you're preparing for means is that you're",
+    "start_ms": 1656880,
+    "start_time_label": "27:36",
+    "start_time_text": "27:36"
+   },
+   {
+    "end_ms": 1667919,
+    "snippet": "preparing for each heading of the syllabus so economy has a couple of headings like inclusive development and",
+    "start_ms": 1662360,
+    "start_time_label": "27:42",
+    "start_time_text": "27:42"
+   },
+   {
+    "end_ms": 1673000,
+    "snippet": "so oning it's a very structured exam and",
+    "start_ms": 1667919,
+    "start_time_label": "27:47",
+    "start_time_text": "27:47"
+   },
+   {
+    "end_ms": 1678760,
+    "snippet": "means has a couple of language qualifiers this got they've got an essay paper uh they've got",
+    "start_ms": 1673000,
+    "start_time_label": "27:53",
+    "start_time_text": "27:53"
+   },
+   {
+    "end_ms": 1684600,
+    "snippet": "four GS papers one is history geography Society two is polity international",
+    "start_ms": 1678760,
+    "start_time_label": "27:58",
+    "start_time_text": "27:58"
+   },
+   {
+    "end_ms": 1690559,
+    "snippet": "relations governance and social justice which is very similar to society three has a bunch of things like economy",
+    "start_ms": 1684600,
+    "start_time_label": "28:04",
+    "start_time_text": "28:04"
+   },
+   {
+    "end_ms": 1697200,
+    "snippet": "Science and Tech environment etc etc four is the ethics paper and then there's two optional papers optional one",
+    "start_ms": 1690559,
+    "start_time_label": "28:10",
+    "start_time_text": "28:10"
+   },
+   {
+    "end_ms": 1704320,
+    "snippet": "optional two and for a professional course this syllabus can be very vast so for law it's very vast because they ask",
+    "start_ms": 1697200,
+    "start_time_label": "28:17",
+    "start_time_text": "28:17"
+   },
+   {
+    "end_ms": 1711440,
+    "snippet": "they try and ask you stuff that you studied through five years of Law School um so that's how those two papers are so",
+    "start_ms": 1704320,
+    "start_time_label": "28:24",
+    "start_time_text": "28:24"
+   },
+   {
+    "end_ms": 1717679,
+    "snippet": "that's the main stage after means we have the interview stage that perhaps is the most unstructured because it's",
+    "start_ms": 1711440,
+    "start_time_label": "28:31",
+    "start_time_text": "28:31"
+   },
+   {
+    "end_ms": 1724080,
+    "snippet": "really up to the panel what they want to talk about and what this typically entails is brushing up all of F's Basics",
+    "start_ms": 1717679,
+    "start_time_label": "28:37",
+    "start_time_text": "28:37"
+   },
+   {
+    "end_ms": 1730440,
+    "snippet": "you go back all the way to what you did in school and what you did in college and to try and have a very informed",
+    "start_ms": 1724080,
+    "start_time_label": "28:44",
+    "start_time_text": "28:44"
+   },
+   {
+    "end_ms": 1736720,
+    "snippet": "conversation and doing lots of newspapers lots of mocks to try and hor one skills so those are the three stages",
+    "start_ms": 1730440,
+    "start_time_label": "28:50",
+    "start_time_text": "28:50"
+   },
+   {
+    "end_ms": 1740039,
+    "snippet": "three stages got it",
+    "start_ms": 1736720,
+    "start_time_label": "28:56",
+    "start_time_text": "28:56"
+   },
+   {
+    "end_ms": 1747640,
+    "snippet": "I think we were answering some question what was the question so the question was law and what advantages it",
+    "start_ms": 1741880,
+    "start_time_label": "29:01",
+    "start_time_text": "29:01"
+   },
+   {
+    "end_ms": 1753960,
+    "snippet": "confers okay so uh the the advantages that law confers so prelims stage polity",
+    "start_ms": 1747640,
+    "start_time_label": "29:07",
+    "start_time_text": "29:07"
+   },
+   {
+    "end_ms": 1759360,
+    "snippet": "is a reasonably important subject 12 to 15 marks and it's very consistent in",
+    "start_ms": 1753960,
+    "start_time_label": "29:13",
+    "start_time_text": "29:13"
+   },
+   {
+    "end_ms": 1765720,
+    "snippet": "terms of the weightage because with upsc weightage changes year on year some subject that was very wey one year can",
+    "start_ms": 1759360,
+    "start_time_label": "29:19",
+    "start_time_text": "29:19"
+   },
+   {
+    "end_ms": 1772240,
+    "snippet": "all would disappear the next so poity sub is a is a subject that's very consistent it's important for pre it's",
+    "start_ms": 1765720,
+    "start_time_label": "29:25",
+    "start_time_text": "29:25"
+   },
+   {
+    "end_ms": 1779960,
+    "snippet": "really important for means because GS2 has a large component of polity that comes right out of constitutional law so",
+    "start_ms": 1772240,
+    "start_time_label": "29:32",
+    "start_time_text": "29:32"
+   },
+   {
+    "end_ms": 1786519,
+    "snippet": "it's very very there's a great overlap there and uh governance Etc also have some overlap with what we study in law",
+    "start_ms": 1779960,
+    "start_time_label": "29:39",
+    "start_time_text": "29:39"
+   },
+   {
+    "end_ms": 1792320,
+    "snippet": "school paper 4 ethics has a lot of case studies and I think U of course there's",
+    "start_ms": 1786519,
+    "start_time_label": "29:46",
+    "start_time_text": "29:46"
+   },
+   {
+    "end_ms": 1797640,
+    "snippet": "there Theory within ethics and so on some of it has some overlap with jurist Prudence which is something that LW",
+    "start_ms": 1792320,
+    "start_time_label": "29:52",
+    "start_time_text": "29:52"
+   },
+   {
+    "end_ms": 1804640,
+    "snippet": "students study uh but outside of that there's also the idea of taking a factual situation uh which is so easy",
+    "start_ms": 1797640,
+    "start_time_label": "29:57",
+    "start_time_text": "29:57"
+   },
+   {
+    "end_ms": 1810600,
+    "snippet": "for law students we have the Iraq method issue rle arue application and conclusion um so we know how to handle",
+    "start_ms": 1804640,
+    "start_time_label": "30:04",
+    "start_time_text": "30:04"
+   },
+   {
+    "end_ms": 1816240,
+    "snippet": "those case studies I think it comes very naturally to our students the essay can sometimes be very high yielding for me I",
+    "start_ms": 1810600,
+    "start_time_label": "30:10",
+    "start_time_text": "30:10"
+   },
+   {
+    "end_ms": 1822320,
+    "snippet": "had a pretty high score this year for the SE and one reason for that was that there was a topic that had something to",
+    "start_ms": 1816240,
+    "start_time_label": "30:16",
+    "start_time_text": "30:16"
+   },
+   {
+    "end_ms": 1828360,
+    "snippet": "do with Justice and charity and so on and we've done theories of justice so I think there it helps then having a very",
+    "start_ms": 1822320,
+    "start_time_label": "30:22",
+    "start_time_text": "30:22"
+   },
+   {
+    "end_ms": 1833480,
+    "snippet": "good optional and this can be any optional but if you're a law graduate and you've done law very well then a lot",
+    "start_ms": 1828360,
+    "start_time_label": "30:28",
+    "start_time_text": "30:28"
+   },
+   {
+    "end_ms": 1839480,
+    "snippet": "of the interview questions can also be on law for me 70% questions were on raw and I could answer that because I",
+    "start_ms": 1833480,
+    "start_time_label": "30:33",
+    "start_time_text": "30:33"
+   },
+   {
+    "end_ms": 1846600,
+    "snippet": "thought very deeply about those issues and I think that that's also because nlu Delhi has this culture of debate and discussion where we've we've discussed",
+    "start_ms": 1839480,
+    "start_time_label": "30:39",
+    "start_time_text": "30:39"
+   },
+   {
+    "end_ms": 1852720,
+    "snippet": "the questions that are likely to come up it how was your interview like and",
+    "start_ms": 1846600,
+    "start_time_label": "30:46",
+    "start_time_text": "30:46"
+   },
+   {
+    "end_ms": 1859840,
+    "snippet": "another question connected to this uh upsc interviews",
+    "start_ms": 1852720,
+    "start_time_label": "30:52",
+    "start_time_text": "30:52"
+   },
+   {
+    "end_ms": 1866720,
+    "snippet": "web series or movies so 12th fail had a good 10 15 Minutes interview scene and",
+    "start_ms": 1859840,
+    "start_time_label": "30:59",
+    "start_time_text": "30:59"
+   },
+   {
+    "end_ms": 1873600,
+    "snippet": "uh even aspirants the web series by tvf had a good 15 odd Minutes interview scene so",
+    "start_ms": 1866720,
+    "start_time_label": "31:06",
+    "start_time_text": "31:06"
+   },
+   {
+    "end_ms": 1880840,
+    "snippet": "interview and and how was your interview like if you can just share some anecdotes from that yes and no I I would",
+    "start_ms": 1873600,
+    "start_time_label": "31:13",
+    "start_time_text": "31:13"
+   },
+   {
+    "end_ms": 1886399,
+    "snippet": "say that there is that creative Liberty because I think with all of this exam a",
+    "start_ms": 1880840,
+    "start_time_label": "31:20",
+    "start_time_text": "31:20"
+   },
+   {
+    "end_ms": 1891679,
+    "snippet": "lot of it is very boring if they made a very realistic movie that wouldn't work at all no one would watch it nobody",
+    "start_ms": 1886399,
+    "start_time_label": "31:26",
+    "start_time_text": "31:26"
+   },
+   {
+    "end_ms": 1898639,
+    "snippet": "would watch it I wouldn't want to watch my own Journey um so there is that creative Liberty but they do try and",
+    "start_ms": 1891679,
+    "start_time_label": "31:31",
+    "start_time_text": "31:31"
+   },
+   {
+    "end_ms": 1905480,
+    "snippet": "challenge you they do try and nudge you they will POS difficult questions uh questions that a either I don't have",
+    "start_ms": 1898639,
+    "start_time_label": "31:38",
+    "start_time_text": "31:38"
+   },
+   {
+    "end_ms": 1910519,
+    "snippet": "full knowledge of B questions which could be potential traps uh not in the",
+    "start_ms": 1905480,
+    "start_time_label": "31:45",
+    "start_time_text": "31:45"
+   },
+   {
+    "end_ms": 1917480,
+    "snippet": "sense that they're trying to score me down or something it's just that how do I handle difficult questions so if I",
+    "start_ms": 1910519,
+    "start_time_label": "31:50",
+    "start_time_text": "31:50"
+   },
+   {
+    "end_ms": 1924720,
+    "snippet": "were to give a few anecdotes one thing that was very interested with my panel was that I like music very much but the",
+    "start_ms": 1917480,
+    "start_time_label": "31:57",
+    "start_time_text": "31:57"
+   },
+   {
+    "end_ms": 1930600,
+    "snippet": "chairperson just had this had immense knowledge so we were discussing Ravi Shankar's concerts pit RI Shankar's",
+    "start_ms": 1924720,
+    "start_time_label": "32:04",
+    "start_time_text": "32:04"
+   },
+   {
+    "end_ms": 1936840,
+    "snippet": "concerts and the Woodstock festival and I was blown away by how cool this person was and how much he knew um the other",
+    "start_ms": 1930600,
+    "start_time_label": "32:10",
+    "start_time_text": "32:10"
+   },
+   {
+    "end_ms": 1944600,
+    "snippet": "thing is that we had this very very random discussion on life after death and whether death is Meaningful so I",
+    "start_ms": 1936840,
+    "start_time_label": "32:16",
+    "start_time_text": "32:16"
+   },
+   {
+    "end_ms": 1950919,
+    "snippet": "think it's important to be prepared for anything because anything can happen and uh the other interesting thing that",
+    "start_ms": 1944600,
+    "start_time_label": "32:24",
+    "start_time_text": "32:24"
+   },
+   {
+    "end_ms": 1957559,
+    "snippet": "happened in my interview was uh that there were a few questions from IP law",
+    "start_ms": 1950919,
+    "start_time_label": "32:30",
+    "start_time_text": "32:30"
+   },
+   {
+    "end_ms": 1963519,
+    "snippet": "okay for which I have a gold medal and I couldn't answer that because for that for some reason it was it just was wiped",
+    "start_ms": 1957559,
+    "start_time_label": "32:37",
+    "start_time_text": "32:37"
+   },
+   {
+    "end_ms": 1969000,
+    "snippet": "clean from my mind and that was that is the kind of setback that one faces that you're in the interview hall there's",
+    "start_ms": 1963519,
+    "start_time_label": "32:43",
+    "start_time_text": "32:43"
+   },
+   {
+    "end_ms": 1974720,
+    "snippet": "other people to there's still other people you've got to answer to and you've not been able to answer a few questions so I had to pick myself back",
+    "start_ms": 1969000,
+    "start_time_label": "32:49",
+    "start_time_text": "32:49"
+   },
+   {
+    "end_ms": 1983320,
+    "snippet": "up have the same upbeat demeanor try and answer them go to the next interview with a fresh C",
+    "start_ms": 1974720,
+    "start_time_label": "32:54",
+    "start_time_text": "32:54"
+   },
+   {
+    "end_ms": 1991399,
+    "snippet": "so so IP law what isan is saying is intellectual property law uh which consists of from what I remember seven",
+    "start_ms": 1983320,
+    "start_time_label": "33:03",
+    "start_time_text": "33:03"
+   },
+   {
+    "end_ms": 1998320,
+    "snippet": "six or seven different type of laws which is copyright pent trademark uh industrial applications etc",
+    "start_ms": 1991399,
+    "start_time_label": "33:11",
+    "start_time_text": "33:11"
+   },
+   {
+    "end_ms": 2006559,
+    "snippet": "etc okay okay got it got it so what plans now isan now with uh",
+    "start_ms": 1998320,
+    "start_time_label": "33:18",
+    "start_time_text": "33:18"
+   },
+   {
+    "end_ms": 2014559,
+    "snippet": "after having cleared upsc last year and uh you said mostly uh mostly you will be",
+    "start_ms": 2006559,
+    "start_time_label": "33:26",
+    "start_time_text": "33:26"
+   },
+   {
+    "end_ms": 2021519,
+    "snippet": "an IRS officer yes sir uh so what plans now I have given the exam again uh with",
+    "start_ms": 2014559,
+    "start_time_label": "33:34",
+    "start_time_text": "33:34"
+   },
+   {
+    "end_ms": 2028760,
+    "snippet": "prelims there's some people who have a facility for people they do really really well I have a friend who's scoring 130 on this paper I'm scoring",
+    "start_ms": 2021519,
+    "start_time_label": "33:41",
+    "start_time_text": "33:41"
+   },
+   {
+    "end_ms": 2035039,
+    "snippet": "close to 85 from the answer in fact when we were discussing",
+    "start_ms": 2028760,
+    "start_time_label": "33:48",
+    "start_time_text": "33:48"
+   },
+   {
+    "end_ms": 2042880,
+    "snippet": "this so I think maximin",
+    "start_ms": 2035039,
+    "start_time_label": "33:55",
+    "start_time_text": "33:55"
+   },
+   {
+    "end_ms": 2051720,
+    "snippet": "application or finally you got an all India rank of 276 and you're saying that you're giving",
+    "start_ms": 2045440,
+    "start_time_label": "34:05",
+    "start_time_text": "34:05"
+   },
+   {
+    "end_ms": 2056780,
+    "snippet": "the exam again you gave the exam [Music]",
+    "start_ms": 2051720,
+    "start_time_label": "34:11",
+    "start_time_text": "34:11"
+   },
+   {
+    "end_ms": 2067480,
+    "snippet": "again you are an exception yeah why did you think of giving the examination again H it does seem very absurd because",
+    "start_ms": 2059879,
+    "start_time_label": "34:19",
+    "start_time_text": "34:19"
+   },
+   {
+    "end_ms": 2073639,
+    "snippet": "this wouldn't happen anywhere else for cl you just take the college that you have nobody would give it again uh",
+    "start_ms": 2067480,
+    "start_time_label": "34:27",
+    "start_time_text": "34:27"
+   },
+   {
+    "end_ms": 2078960,
+    "snippet": "there's two reasons for that one is that it is very common even for people who've got an",
+    "start_ms": 2073639,
+    "start_time_label": "34:33",
+    "start_time_text": "34:33"
+   },
+   {
+    "end_ms": 2084800,
+    "snippet": "under 100 Rank and who've got the IPS it's extremely common for them to give it again and the other thing is that",
+    "start_ms": 2078960,
+    "start_time_label": "34:38",
+    "start_time_text": "34:38"
+   },
+   {
+    "end_ms": 2091879,
+    "snippet": "there's a structural reason for that which is that there's something called an extraordinary leave that's a concept for the services which is that when I",
+    "start_ms": 2084800,
+    "start_time_label": "34:44",
+    "start_time_text": "34:44"
+   },
+   {
+    "end_ms": 2098280,
+    "snippet": "join so there'll be training at labasa and then at the Academy for direct taxes",
+    "start_ms": 2091879,
+    "start_time_label": "34:51",
+    "start_time_text": "34:51"
+   },
+   {
+    "end_ms": 2104599,
+    "snippet": "um and when you join there you have the option of filling out that extraordinary leave form and what that does is that",
+    "start_ms": 2098280,
+    "start_time_label": "34:58",
+    "start_time_text": "34:58"
+   },
+   {
+    "end_ms": 2111320,
+    "snippet": "your seniority Remains the Same and you get a Year's leave without pay to give the exam again so it's inbuilt into the",
+    "start_ms": 2104599,
+    "start_time_label": "35:04",
+    "start_time_text": "35:04"
+   },
+   {
+    "end_ms": 2117440,
+    "snippet": "system it's a very it's a very structural feature of the civil services exam and people do it because different",
+    "start_ms": 2111320,
+    "start_time_label": "35:11",
+    "start_time_text": "35:11"
+   },
+   {
+    "end_ms": 2123160,
+    "snippet": "Services have uh different uh there's different roles under each service and",
+    "start_ms": 2117440,
+    "start_time_label": "35:17",
+    "start_time_text": "35:17"
+   },
+   {
+    "end_ms": 2128680,
+    "snippet": "the IAS is the service that has the broadest field of of application so the",
+    "start_ms": 2123160,
+    "start_time_label": "35:23",
+    "start_time_text": "35:23"
+   },
+   {
+    "end_ms": 2134520,
+    "snippet": "Indian administrative service they're virtually everywhere you you have them in psus you're you're the CEO of a",
+    "start_ms": 2128680,
+    "start_time_label": "35:28",
+    "start_time_text": "35:28"
+   },
+   {
+    "end_ms": 2140560,
+    "snippet": "district Municipal Corporation you're also in the tribal Affairs department so that is the broadest field every other",
+    "start_ms": 2134520,
+    "start_time_label": "35:34",
+    "start_time_text": "35:34"
+   },
+   {
+    "end_ms": 2146599,
+    "snippet": "service is more specialized so people want as broad a pallot to work so I think that is why people will keep",
+    "start_ms": 2140560,
+    "start_time_label": "35:40",
+    "start_time_text": "35:40"
+   },
+   {
+    "end_ms": 2151720,
+    "snippet": "giving the exam again not just once but for even 100 under 100 ranks okay",
+    "start_ms": 2146599,
+    "start_time_label": "35:46",
+    "start_time_text": "35:46"
+   },
+   {
+    "end_ms": 2159640,
+    "snippet": "there's a second time and a third time and a fourth time and so on so that is very common got it",
+    "start_ms": 2151720,
+    "start_time_label": "35:51",
+    "start_time_text": "35:51"
+   },
+   {
+    "end_ms": 2166359,
+    "snippet": "reflecting on your law school life isan uh",
+    "start_ms": 2160839,
+    "start_time_label": "36:00",
+    "start_time_text": "36:00"
+   },
+   {
+    "end_ms": 2185680,
+    "snippet": "so what are you do with your law school life towards a fourth fifth year",
+    "start_ms": 2176839,
+    "start_time_label": "36:16",
+    "start_time_text": "36:16"
+   },
+   {
+    "end_ms": 2189560,
+    "snippet": "corporate and uh",
+    "start_ms": 2185680,
+    "start_time_label": "36:25",
+    "start_time_text": "36:25"
+   },
+   {
+    "end_ms": 2200040,
+    "snippet": "in long term obviously so like reflecting on your law school life what do you",
+    "start_ms": 2192720,
+    "start_time_label": "36:32",
+    "start_time_text": "36:32"
+   },
+   {
+    "end_ms": 2207280,
+    "snippet": "think stereotyp certain things uh because a lot of a lot of",
+    "start_ms": 2200040,
+    "start_time_label": "36:40",
+    "start_time_text": "36:40"
+   },
+   {
+    "end_ms": 2212760,
+    "snippet": "incoming first years are also watching this podcast who are just about to enter",
+    "start_ms": 2207280,
+    "start_time_label": "36:47",
+    "start_time_text": "36:47"
+   },
+   {
+    "end_ms": 2219520,
+    "snippet": "um certain law school so what are the dos and don'ts as per you",
+    "start_ms": 2212760,
+    "start_time_label": "36:52",
+    "start_time_text": "36:52"
+   },
+   {
+    "end_ms": 2226000,
+    "snippet": "especially in the first year of a lost student sir I think uh this is a real",
+    "start_ms": 2220200,
+    "start_time_label": "37:00",
+    "start_time_text": "37:00"
+   },
+   {
+    "end_ms": 2231119,
+    "snippet": "dilemma so I have had so many first years come to me across my years at law",
+    "start_ms": 2226000,
+    "start_time_label": "37:06",
+    "start_time_text": "37:06"
+   },
+   {
+    "end_ms": 2237560,
+    "snippet": "school and ask me this exact question and there are two things one is that",
+    "start_ms": 2231119,
+    "start_time_label": "37:11",
+    "start_time_text": "37:11"
+   },
+   {
+    "end_ms": 2242640,
+    "snippet": "there is no set path people take very very different paths and sometimes The",
+    "start_ms": 2237560,
+    "start_time_label": "37:17",
+    "start_time_text": "37:17"
+   },
+   {
+    "end_ms": 2248960,
+    "snippet": "Road Less Traveled is the road that's better and that leads to better outcomes you with Ellie or that that that's not a",
+    "start_ms": 2242640,
+    "start_time_label": "37:22",
+    "start_time_text": "37:22"
+   },
+   {
+    "end_ms": 2254240,
+    "snippet": "conventional path at all but it's done so well so I think that is there that is",
+    "start_ms": 2248960,
+    "start_time_label": "37:28",
+    "start_time_text": "37:28"
+   },
+   {
+    "end_ms": 2259400,
+    "snippet": "the easier thing to say that's true but that's the easier thing to say it's very hard being a first year and you're",
+    "start_ms": 2254240,
+    "start_time_label": "37:34",
+    "start_time_text": "37:34"
+   },
+   {
+    "end_ms": 2265920,
+    "snippet": "seeing all of this happen and you're in that environment to make that decision so one thing that I really benefited",
+    "start_ms": 2259400,
+    "start_time_label": "37:39",
+    "start_time_text": "37:39"
+   },
+   {
+    "end_ms": 2271960,
+    "snippet": "from was to try everything to be in part of everything and then through my experiences I was able to learn about",
+    "start_ms": 2265920,
+    "start_time_label": "37:45",
+    "start_time_text": "37:45"
+   },
+   {
+    "end_ms": 2278720,
+    "snippet": "what is valuable and what isn't at the same time it's important to not see it as a train",
+    "start_ms": 2271960,
+    "start_time_label": "37:51",
+    "start_time_text": "37:51"
+   },
+   {
+    "end_ms": 2284599,
+    "snippet": "train there are people who will only do one moot in their fourth year and they win that Moot and that's the college's",
+    "start_ms": 2278720,
+    "start_time_label": "37:58",
+    "start_time_text": "37:58"
+   },
+   {
+    "end_ms": 2290319,
+    "snippet": "biggest achievement in 10 years there are people who will keep doing it and then who move off to litigation and so",
+    "start_ms": 2284599,
+    "start_time_label": "38:04",
+    "start_time_text": "38:04"
+   },
+   {
+    "end_ms": 2295800,
+    "snippet": "on um and I think the other thing that's important is that there is a bare",
+    "start_ms": 2290319,
+    "start_time_label": "38:10",
+    "start_time_text": "38:10"
+   },
+   {
+    "end_ms": 2301359,
+    "snippet": "minimum that one should do one thing that I tell that I've told my juniors over the years is do not make a decision",
+    "start_ms": 2295800,
+    "start_time_label": "38:15",
+    "start_time_text": "38:15"
+   },
+   {
+    "end_ms": 2307560,
+    "snippet": "that forecloses options so for instance in academics uh it's not necessary to be",
+    "start_ms": 2301359,
+    "start_time_label": "38:21",
+    "start_time_text": "38:21"
+   },
+   {
+    "end_ms": 2313319,
+    "snippet": "back batch rank one or two but it's necessary or it helps to have a reasonably good batch rank to have a",
+    "start_ms": 2307560,
+    "start_time_label": "38:27",
+    "start_time_text": "38:27"
+   },
+   {
+    "end_ms": 2318400,
+    "snippet": "reasonably good academic profile uh to take it seriously and at least in the",
+    "start_ms": 2313319,
+    "start_time_label": "38:33",
+    "start_time_text": "38:33"
+   },
+   {
+    "end_ms": 2323480,
+    "snippet": "first few years to pay attention now this has two things one is that placements should be an option in the",
+    "start_ms": 2318400,
+    "start_time_label": "38:38",
+    "start_time_text": "38:38"
+   },
+   {
+    "end_ms": 2329359,
+    "snippet": "fourth year even if we don't take them up there's no necessity of taking that particular path and like you said lots",
+    "start_ms": 2323480,
+    "start_time_label": "38:43",
+    "start_time_text": "38:43"
+   },
+   {
+    "end_ms": 2334839,
+    "snippet": "of people decide later on that they don't want to do it there's High attrition at law firms uh but having",
+    "start_ms": 2329359,
+    "start_time_label": "38:49",
+    "start_time_text": "38:49"
+   },
+   {
+    "end_ms": 2339920,
+    "snippet": "that option open is important doing some extracurriculars and some co-curriculars",
+    "start_ms": 2334839,
+    "start_time_label": "38:54",
+    "start_time_text": "38:54"
+   },
+   {
+    "end_ms": 2347359,
+    "snippet": "maybe not mooting but debating maybe ad maybe something else that gives us good skills that might be useful vis a public",
+    "start_ms": 2339920,
+    "start_time_label": "38:59",
+    "start_time_text": "38:59"
+   },
+   {
+    "end_ms": 2353079,
+    "snippet": "speaking Vis A even as an officer if you're negotiating with other departments so I think there's a core",
+    "start_ms": 2347359,
+    "start_time_label": "39:07",
+    "start_time_text": "39:07"
+   },
+   {
+    "end_ms": 2360359,
+    "snippet": "minimum of skills and competencies that we should all try and acquire in law school outside of that what we do should",
+    "start_ms": 2353079,
+    "start_time_label": "39:13",
+    "start_time_text": "39:13"
+   },
+   {
+    "end_ms": 2366480,
+    "snippet": "be governed largely by our interests and our aspirations and sometimes also family situation if money is an",
+    "start_ms": 2360359,
+    "start_time_label": "39:20",
+    "start_time_text": "39:20"
+   },
+   {
+    "end_ms": 2375680,
+    "snippet": "important Factor vis a family situation then maybe you do a c job for a few years but that would be my take I think",
+    "start_ms": 2366480,
+    "start_time_label": "39:26",
+    "start_time_text": "39:26"
+   },
+   {
+    "end_ms": 2383359,
+    "snippet": "one key takeway from what you just said is um unless there can be an exception",
+    "start_ms": 2375680,
+    "start_time_label": "39:35",
+    "start_time_text": "39:35"
+   },
+   {
+    "end_ms": 2389960,
+    "snippet": "of a family situation yeah which compulsion there are there is a certain route that you need to take",
+    "start_ms": 2383359,
+    "start_time_label": "39:43",
+    "start_time_text": "39:43"
+   },
+   {
+    "end_ms": 2395359,
+    "snippet": "law school",
+    "start_ms": 2389960,
+    "start_time_label": "39:49",
+    "start_time_text": "39:49"
+   },
+   {
+    "end_ms": 2402240,
+    "snippet": "efforts because once once you graduate so there are certain skills that you can acquire at the at the right",
+    "start_ms": 2395599,
+    "start_time_label": "39:55",
+    "start_time_text": "39:55"
+   },
+   {
+    "end_ms": 2408160,
+    "snippet": "page of 19 20 21 22 only and once you graduate you just expected to use those",
+    "start_ms": 2402240,
+    "start_time_label": "40:02",
+    "start_time_text": "40:02"
+   },
+   {
+    "end_ms": 2412560,
+    "snippet": "skills uh",
+    "start_ms": 2408160,
+    "start_time_label": "40:08",
+    "start_time_text": "40:08"
+   },
+   {
+    "end_ms": 2431640,
+    "snippet": "and students technically they all stepping stones and",
+    "start_ms": 2424240,
+    "start_time_label": "40:24",
+    "start_time_text": "40:24"
+   },
+   {
+    "end_ms": 2437160,
+    "snippet": "no one's going to remember them few years even few weeks down the line so",
+    "start_ms": 2431640,
+    "start_time_label": "40:31",
+    "start_time_text": "40:31"
+   },
+   {
+    "end_ms": 2443560,
+    "snippet": "law school I [Music] think is good even if you're not a good public speaker just just go out there",
+    "start_ms": 2437160,
+    "start_time_label": "40:37",
+    "start_time_text": "40:37"
+   },
+   {
+    "end_ms": 2449880,
+    "snippet": "and speak uh just raise your hand and ask the doubt and uh just give the answer if you have the answer so I think",
+    "start_ms": 2443560,
+    "start_time_label": "40:43",
+    "start_time_text": "40:43"
+   },
+   {
+    "end_ms": 2456590,
+    "snippet": "one advice to the law school students would be [Music]",
+    "start_ms": 2449880,
+    "start_time_label": "40:49",
+    "start_time_text": "40:49"
+   },
+   {
+    "end_ms": 2468599,
+    "snippet": "okay uh so before we end isan uh this is wonderful experience any advice for a",
+    "start_ms": 2461280,
+    "start_time_label": "41:01",
+    "start_time_text": "41:01"
+   },
+   {
+    "end_ms": 2473800,
+    "snippet": "the clat aspirants B even though I discuss but if you can",
+    "start_ms": 2468599,
+    "start_time_label": "41:08",
+    "start_time_text": "41:08"
+   },
+   {
+    "end_ms": 2479599,
+    "snippet": "just give an advice in a nutshell to the incoming law school students clad aspirant and incoming law school",
+    "start_ms": 2473800,
+    "start_time_label": "41:13",
+    "start_time_text": "41:13"
+   },
+   {
+    "end_ms": 2484760,
+    "snippet": "students uh I think my advice to CL aspirants would be",
+    "start_ms": 2479599,
+    "start_time_label": "41:19",
+    "start_time_text": "41:19"
+   },
+   {
+    "end_ms": 2491720,
+    "snippet": "to firstly try and enjoy the process secondly as we've discussed to",
+    "start_ms": 2484760,
+    "start_time_label": "41:24",
+    "start_time_text": "41:24"
+   },
+   {
+    "end_ms": 2498000,
+    "snippet": "no end here look at the pyqs look at what your pattern is please if you've got a year to prepare don't be looking",
+    "start_ms": 2491720,
+    "start_time_label": "41:31",
+    "start_time_text": "41:31"
+   },
+   {
+    "end_ms": 2505560,
+    "snippet": "at it halfway through your preparation and see to try and be very",
+    "start_ms": 2498000,
+    "start_time_label": "41:38",
+    "start_time_text": "41:38"
+   },
+   {
+    "end_ms": 2511560,
+    "snippet": "consistent to be very very clear about their objectives",
+    "start_ms": 2505560,
+    "start_time_label": "41:45",
+    "start_time_text": "41:45"
+   },
+   {
+    "end_ms": 2521960,
+    "snippet": "and to take failures in their",
+    "start_ms": 2517640,
+    "start_time_label": "41:57",
+    "start_time_text": "41:57"
+   },
+   {
+    "end_ms": 2532880,
+    "snippet": "stes nobody cares nobody cares everybody cares about the one rank you can get at the end also nobody once you get into",
+    "start_ms": 2525599,
+    "start_time_label": "42:05",
+    "start_time_text": "42:05"
+   },
+   {
+    "end_ms": 2539880,
+    "snippet": "law school nobody asked me my rank so you just have to get there so I think that is very important for cl aspirants",
+    "start_ms": 2532880,
+    "start_time_label": "42:12",
+    "start_time_text": "42:12"
+   },
+   {
+    "end_ms": 2547160,
+    "snippet": "for people who are going into the first year I think uh something that you said sir they have to have they have to be",
+    "start_ms": 2539880,
+    "start_time_label": "42:19",
+    "start_time_text": "42:19"
+   },
+   {
+    "end_ms": 2554079,
+    "snippet": "willing to fail to act is to ear you will step on a few toes you will make a few mistakes definitely make a fool of",
+    "start_ms": 2547160,
+    "start_time_label": "42:27",
+    "start_time_text": "42:27"
+   },
+   {
+    "end_ms": 2559400,
+    "snippet": "yourself and that's perfectly fine they should try and go there with as open a",
+    "start_ms": 2554079,
+    "start_time_label": "42:34",
+    "start_time_text": "42:34"
+   },
+   {
+    "end_ms": 2566599,
+    "snippet": "mind as possible as open a heart as possible very willing to learn to make mistakes this is not the time to be oh I",
+    "start_ms": 2559400,
+    "start_time_label": "42:39",
+    "start_time_text": "42:39"
+   },
+   {
+    "end_ms": 2572599,
+    "snippet": "want to be number one so there is that that drive is super important in uh when when we are giving clat because I want",
+    "start_ms": 2566599,
+    "start_time_label": "42:46",
+    "start_time_text": "42:46"
+   },
+   {
+    "end_ms": 2577839,
+    "snippet": "to have a good rank is important to getting a good nlu once you're there it has to be about I'm going to learn as",
+    "start_ms": 2572599,
+    "start_time_label": "42:52",
+    "start_time_text": "42:52"
+   },
+   {
+    "end_ms": 2584040,
+    "snippet": "much as possible and maintain and ensure that basic minimum of a good rank of",
+    "start_ms": 2577839,
+    "start_time_label": "42:57",
+    "start_time_text": "42:57"
+   },
+   {
+    "end_ms": 2591200,
+    "snippet": "some activities of a great friend Circle so all of that is there and I really hope that they have an incredible time",
+    "start_ms": 2584040,
+    "start_time_label": "43:04",
+    "start_time_text": "43:04"
+   },
+   {
+    "end_ms": 2596760,
+    "snippet": "at Law School wherever you go make amazing friends and have lots and lots of enriching",
+    "start_ms": 2591200,
+    "start_time_label": "43:11",
+    "start_time_text": "43:11"
+   },
+   {
+    "end_ms": 2603119,
+    "snippet": "experiences wonderful isan so thank you so much uh from my",
+    "start_ms": 2596760,
+    "start_time_label": "43:16",
+    "start_time_text": "43:16"
+   },
+   {
+    "end_ms": 2610079,
+    "snippet": "side and uh from the side of all the clad aspirants as well as incoming law school students uh for coming over for",
+    "start_ms": 2603119,
+    "start_time_label": "43:23",
+    "start_time_text": "43:23"
+   },
+   {
+    "end_ms": 2615599,
+    "snippet": "their isan and uh and doing this so it was great having you here all the very",
+    "start_ms": 2610079,
+    "start_time_label": "43:30",
+    "start_time_text": "43:30"
+   },
+   {
+    "end_ms": 2621200,
+    "snippet": "best uh for your future and take care always a pleasure sir thank you thank",
+    "start_ms": 2615599,
+    "start_time_label": "43:35",
+    "start_time_text": "43:35"
+   },
+   {
+    "end_ms": 2624319,
+    "snippet": "you Shan",
+    "start_ms": 2621200,
+    "start_time_label": "43:41",
+    "start_time_text": "43:41"
+   }
+  ]
+ },
+ "video": {
+  "channel": "LegalEdge CLAT Coaching by Toprankers",
+  "id": "sshz5oLkzHE",
+  "title": "Cracked CLAT, AILET & UPSC in the FIRST Attempt - Ishaan Bhatnagar's Success Story | Law Podcasts"
+ }
+}

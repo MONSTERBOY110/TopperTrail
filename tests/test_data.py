@@ -61,3 +61,9 @@ def test_devanagari_alias_needs_a_word_start():
     reg = load_registry()
     assert reg.find_aliases("व्हाई डज़ दैट इमोशन कम्स इन") == []
     assert reg.find_aliases("मोशन है तो सिलेक्शन है") == ["motion"]
+
+
+def test_collaboration_channel_without_link_resolves_by_an_exact_part():
+    reg = load_registry()
+    assert reg.by_channel(None, "NEXT IAS and NEXT IAS HINDI").id == "next-ias"
+    assert reg.by_channel(None, "NEXT IAS Fans Club") is None

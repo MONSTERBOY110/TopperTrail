@@ -131,3 +131,13 @@ def test_replay_image_without_fixture_is_not_recorded(tmp_path):
     run = Collector(*args(), FakeSerp(responses), FakePages(), ReplayImageReader(tmp_path / "fx"),
                     EvidenceStore(tmp_path / "ev")).run()
     assert run.of_kind("image") == []
+
+
+def test_image_results_on_institute_domains_also_fetch_the_page(tmp_path):
+    responses = {("google_images", "Anuj Agnihotri AIR 1 UPSC 2025"): {
+        "search_metadata": {"id": "i1"},
+        "images_results": [{"link": "https://vajiramandravi.com/a", "original": "https://x/p.jpg"},
+                           {"link": "https://www.instagram.com/p/x", "original": "https://x/q.jpg"}]}}
+    run = Collector(*args(), FakeSerp(responses), FakePages(), FakeImages(),
+                    EvidenceStore(tmp_path / "ev")).run()
+    assert [a.key for a in run.of_kind("page")] == ["https://vajiramandravi.com/a"]

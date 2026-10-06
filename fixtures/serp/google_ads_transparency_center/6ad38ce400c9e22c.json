@@ -1,0 +1,119 @@
+{
+ "engine": "google_ads_transparency_center",
+ "institute_id": "chahal-academy",
+ "params": {
+  "end_date": "20261005",
+  "engine": "google_ads_transparency_center",
+  "num": "100",
+  "region": "2356",
+  "start_date": "20260306",
+  "text": "chahalacademy.com"
+ },
+ "purpose": "ads",
+ "rank": null,
+ "response": {
+  "ad_creatives": [
+   {
+    "ad_creative_id": "CR05257351003245641729",
+    "advertiser": "Kushal kANTILAL JAIN",
+    "advertiser_id": "AR06911328915931791361",
+    "details_link": "https://adstransparency.google.com/advertiser/AR06911328915931791361/creative/CR05257351003245641729?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=chahalacademy.com",
+    "first_shown": 1776254023,
+    "format": "text",
+    "height": 170,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/3187555744100017093",
+    "last_shown": 1788150582,
+    "width": 486
+   },
+   {
+    "ad_creative_id": "CR17518346227928793089",
+    "advertiser": "SUMESH CHAHAL",
+    "advertiser_id": "AR08248009874743492609",
+    "details_link": "https://adstransparency.google.com/advertiser/AR08248009874743492609/creative/CR17518346227928793089?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=chahalacademy.com",
+    "first_shown": 1740631545,
+    "format": "text",
+    "height": 179,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/14296623615717214567",
+    "last_shown": 1784795804,
+    "width": 380
+   },
+   {
+    "ad_creative_id": "CR15571824434716082177",
+    "advertiser": "SUMESH CHAHAL",
+    "advertiser_id": "AR08248009874743492609",
+    "details_link": "https://adstransparency.google.com/advertiser/AR08248009874743492609/creative/CR15571824434716082177?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=chahalacademy.com",
+    "first_shown": 1783284873,
+    "format": "text",
+    "height": 170,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/15063184624573572136",
+    "last_shown": 1784795659,
+    "width": 486
+   },
+   {
+    "ad_creative_id": "CR13021420971146346497",
+    "advertiser": "Kushal kANTILAL JAIN",
+    "advertiser_id": "AR06911328915931791361",
+    "details_link": "https://adstransparency.google.com/advertiser/AR06911328915931791361/creative/CR13021420971146346497?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=chahalacademy.com",
+    "first_shown": 1775966203,
+    "format": "text",
+    "height": 148,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/6304659004281879780",
+    "last_shown": 1780492350,
+    "width": 348
+   },
+   {
+    "ad_creative_id": "CR05846643425612398593",
+    "advertiser": "Yash Choudhary",
+    "advertiser_id": "AR16187618592005554177",
+    "details_link": "https://adstransparency.google.com/advertiser/AR16187618592005554177/creative/CR05846643425612398593?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=chahalacademy.com",
+    "first_shown": 1713510000,
+    "format": "text",
+    "height": 272,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/18079816621928427648",
+    "last_shown": 1779000612,
+    "width": 380
+   },
+   {
+    "ad_creative_id": "CR15384623466166616065",
+    "advertiser": "Kushal kANTILAL JAIN",
+    "advertiser_id": "AR06911328915931791361",
+    "details_link": "https://adstransparency.google.com/advertiser/AR06911328915931791361/creative/CR15384623466166616065?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=chahalacademy.com",
+    "first_shown": 1690280440,
+    "format": "text",
+    "height": 207,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/3683871140728004698",
+    "last_shown": 1777138918,
+    "width": 380
+   },
+   {
+    "ad_creative_id": "CR13864687333850218497",
+    "advertiser": "SUMESH CHAHAL",
+    "advertiser_id": "AR08248009874743492609",
+    "details_link": "https://adstransparency.google.com/advertiser/AR08248009874743492609/creative/CR13864687333850218497?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=chahalacademy.com",
+    "first_shown": 1752649200,
+    "format": "text",
+    "height": 147,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/12036643478245459128",
+    "last_shown": 1774227864,
+    "width": 380
+   }
+  ],
+  "search_information": {
+   "total_results": 7
+  },
+  "search_metadata": {
+   "created_at": "2026-10-05 16:16:58 UTC",
+   "id": "6ac3cd7ac29c3d3ab2d75969",
+   "processed_at": "2026-10-05 16:16:58 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "end_date": "20261005",
+   "engine": "google_ads_transparency_center",
+   "num": "100",
+   "region": "2356",
+   "start_date": "20260306",
+   "text": "chahalacademy.com"
+  }
+ }
+}

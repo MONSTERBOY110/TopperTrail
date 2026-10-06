@@ -1,0 +1,79 @@
+{
+ "engine": "google_ai_mode",
+ "institute_id": null,
+ "params": {
+  "engine": "google_ai_mode",
+  "gl": "in",
+  "hl": "en",
+  "q": "Which coaching institute did Kudale Shravani Krishna, NEET UG 2026 AIR 5, study at?"
+ },
+ "purpose": "ai_mode",
+ "rank": 5,
+ "response": {
+  "reconstructed_markdown": "Kudale Shravani Krishna studied at Success Code Coaching Institute \\(also referred to as Success Code Academy\\) located in Baramati, Maharashtra. [0] [1]\n\nIf you want, I can share:\n\n- Details about her academic background and schooling\n- Her score breakdown and achievements in NEET UG 2026\n\nLet me know how you'd like to proceed.\n\n\n### References\n\n[0] [Lessons From Maharashtra's NEET 2026 Topper](https://www.google.com/goto?url=CAESkQEB6zswFbKStia32D5hajn-N5xBP5Mi2JtKaA0GFniDcyvO8x6PCQfELjV4bZNx1uFrPYTanbvQpDxmqxYqH51qAh7_hKsUsJIbMopMXhMnRqMQQwEsDy1QL08NDCWxYlcDBHJkf_KceJ4_poQz-PkkNmOFqZ4Qk2_8ea2kfmhS2vLr8Ld0HIrsmBLUoGny3ktw) — She prepared for NEET at Success Code Coaching Institute in Baramati.\n\n[1] [Success Code Academy Baramati](https://www.google.com/goto?url=CAESuQEB6zswFafrDXDeH_Ayr5WBlOBd35p_meImHAV5gneLs9wd_wXgGKbz16ZT19AhMbYPf87TmWLCvez3ea5aeO1F4vLS1Y9yyDOOmEsR4NvSoYgBKFSHAYy-DUVXeZGUrGGBHiQF-wQeQRzw-OXQdDFC6C3zwwYCLX6ZCc1pWB9vLjK1VIfl_GZhj2s4HUweirIsk49f1B22tYvbZOV2xrvvlsIllin-4Qb3N69BUAsMhIH7as6XlmL5ug) — Strong fundamentals developed from an early stage, regular mentor/teacher\\-driven study and relentless practice tests at Success Code Academy Baramati\n",
+  "references": [
+   {
+    "index": 0,
+    "link": "https://medadmit.in/updates/maharashtra-neet-2026-topper-shravani-kudale-air-5-lessons",
+    "snippet": "She prepared for NEET at Success Code Coaching Institute in Baramati.",
+    "source": "medadmit.in",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://medadmit.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "title": "Lessons From Maharashtra's NEET 2026 Topper"
+   },
+   {
+    "index": 1,
+    "link": "https://www.linkedin.com/posts/successcodeacademy_shravanikudale-successcodeacademy-neet2026-activity-7486803711260966912-16uR",
+    "snippet": "Strong fundamentals developed from an early stage, regular mentor/teacher-driven study and relentless practice tests at Success Code Academy Baramati",
+    "source": "LinkedIn",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3ksxusu1AdIpKbWLoZWvAvwPcsq2IDR2JGdtvwGLIvJsuBLqpSXx2pHJHvX_wQhIKyJ2s5rJd06iOkPwY8tMrb8aH",
+    "title": "Success Code Academy Baramati"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 17:19:48 UTC",
+   "id": "6ac3dc343a920623feef8ff2",
+   "processed_at": "2026-10-05 17:19:48 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_ai_mode",
+   "gl": "in",
+   "hl": "en",
+   "q": "Which coaching institute did Kudale Shravani Krishna, NEET UG 2026 AIR 5, study at?"
+  },
+  "text_blocks": [
+   {
+    "reference_indexes": [
+     0,
+     1
+    ],
+    "snippet": "Kudale Shravani Krishna studied at Success Code Coaching Institute (also referred to as Success Code Academy) located in Baramati, Maharashtra.",
+    "snippet_highlighted_words": [
+     "Success Code Coaching Institute"
+    ],
+    "type": "paragraph"
+   },
+   {
+    "snippet": "If you want, I can share:",
+    "type": "paragraph"
+   },
+   {
+    "list": [
+     {
+      "snippet": "Details about her academic background and schooling"
+     },
+     {
+      "snippet": "Her score breakdown and achievements in NEET UG 2026"
+     }
+    ],
+    "type": "list"
+   },
+   {
+    "snippet": "Let me know how you'd like to proceed.",
+    "type": "paragraph"
+   }
+  ]
+ }
+}

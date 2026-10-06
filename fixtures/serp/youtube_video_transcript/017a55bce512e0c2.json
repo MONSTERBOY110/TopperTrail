@@ -1,0 +1,343 @@
+{
+ "engine": "youtube_video_transcript",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube_video_transcript",
+  "language_code": "hi",
+  "v": "ueDaJrCC7tk"
+ },
+ "purpose": "transcript",
+ "rank": 4,
+ "response": {
+  "search_metadata": {
+   "created_at": "2026-10-05 15:44:18 UTC",
+   "id": "6ac3c5d2018c4853403a706e",
+   "processed_at": "2026-10-05 15:44:18 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "language_code": "hi",
+   "v": "ueDaJrCC7tk"
+  },
+  "transcript": [
+   {
+    "snippet": "Hi Ra, many many congratulations to you. Thank you ma'am. Thank you.",
+    "start_ms": 8000,
+    "start_time_label": "8 seconds",
+    "start_time_text": "0:08"
+   },
+   {
+    "snippet": "So how does it feel getting all India rank four?",
+    "start_ms": 13000,
+    "start_time_label": "13 seconds",
+    "start_time_text": "0:13"
+   },
+   {
+    "snippet": "Uh ma'am it's a sense of relief. I would say that the cycle need not to be repeated again. So I think I'm in a sense of gratefulness and calmness.",
+    "start_ms": 16000,
+    "start_time_label": "16 seconds",
+    "start_time_text": "0:16"
+   },
+   {
+    "snippet": "Yeah. So before starting if you could just brief us about your background, your educational background and how and when did you decide to prepare for civil services?",
+    "start_ms": 27000,
+    "start_time_label": "27 seconds",
+    "start_time_text": "0:27"
+   },
+   {
+    "snippet": "Uh ma'am this is my third attempt. My uh graduation subject is also economics. I graduated from SRCC from DU in 2022 with",
+    "start_ms": 36000,
+    "start_time_label": "36 seconds",
+    "start_time_text": "0:36"
+   },
+   {
+    "snippet": "an honors degree in economics and during the college final year I decided that I wanted to pursue this career option as",
+    "start_ms": 46000,
+    "start_time_label": "46 seconds",
+    "start_time_text": "0:46"
+   },
+   {
+    "snippet": "my choice. So during my college days I worked in certain uh soci societal impact activities like financial",
+    "start_ms": 53000,
+    "start_time_label": "53 seconds",
+    "start_time_text": "0:53"
+   },
+   {
+    "snippet": "inclusion and CSR activities and working with vulnerable sections of the society.",
+    "start_ms": 62000,
+    "start_time_label": "1 minute, 2 seconds",
+    "start_time_text": "1:02"
+   },
+   {
+    "snippet": "So that was the changing and turning point for me where I decided that I want to sit for this exam. So just next year",
+    "start_ms": 68000,
+    "start_time_label": "1 minute, 8 seconds",
+    "start_time_text": "1:08"
+   },
+   {
+    "snippet": "after the college got ended in 2023 I gave my first attempt by preparing from that year itself and this is 2025 my third attempt.",
+    "start_ms": 76000,
+    "start_time_label": "1 minute, 16 seconds",
+    "start_time_text": "1:16"
+   },
+   {
+    "snippet": "Okay. So coming to the preparation part there are three levels of preparation pre and interview. So do you think that you have followed a particular strategy",
+    "start_ms": 86000,
+    "start_time_label": "1 minute, 26 seconds",
+    "start_time_text": "1:26"
+   },
+   {
+    "snippet": "or anything specific that could help the other aspirants also that you would want to share for each level?",
+    "start_ms": 93000,
+    "start_time_label": "1 minute, 33 seconds",
+    "start_time_text": "1:33"
+   },
+   {
+    "snippet": "Yes. Uh so for prelimin I would guide the aspirants that uh please focus on pyqs as much as you can and chase more",
+    "start_ms": 99000,
+    "start_time_label": "1 minute, 39 seconds",
+    "start_time_text": "1:39"
+   },
+   {
+    "snippet": "static and please focus less on the current a part and stick to your limited compilations. The more organized your",
+    "start_ms": 108000,
+    "start_time_label": "1 minute, 48 seconds",
+    "start_time_text": "1:48"
+   },
+   {
+    "snippet": "knowledge base is the better is it for your revision and the the lesser scattered clutter you have available. So that gives a cognitive overdose to you.",
+    "start_ms": 117000,
+    "start_time_label": "1 minute, 57 seconds",
+    "start_time_text": "1:57"
+   },
+   {
+    "snippet": "So it is very recommended to avoid that thing. For mains please focus on your value addition part. Try to include",
+    "start_ms": 126000,
+    "start_time_label": "2 minutes, 6 seconds",
+    "start_time_text": "2:06"
+   },
+   {
+    "snippet": "every value addition pointer like data fact committee recommendation map schematics recommendations expert",
+    "start_ms": 134000,
+    "start_time_label": "2 minutes, 14 seconds",
+    "start_time_text": "2:14"
+   },
+   {
+    "snippet": "opinion etc. Anything under the sun which you can do for value addition and fight for every mark in your main",
+    "start_ms": 141000,
+    "start_time_label": "2 minutes, 21 seconds",
+    "start_time_text": "2:21"
+   },
+   {
+    "snippet": "science. And uh during the interview phase uh only guidance from me is that work on your personality traits. Start",
+    "start_ms": 148000,
+    "start_time_label": "2 minutes, 28 seconds",
+    "start_time_text": "2:28"
+   },
+   {
+    "snippet": "thinking like a problem solver. What you can do, what is feasible for an administrator to do in this situation.",
+    "start_ms": 155000,
+    "start_time_label": "2 minutes, 35 seconds",
+    "start_time_text": "2:35"
+   },
+   {
+    "snippet": "Resources are limited. Your advice should be should be practical and should be implementable and focus on your soft skills like be very humble and",
+    "start_ms": 163000,
+    "start_time_label": "2 minutes, 43 seconds",
+    "start_time_text": "2:43"
+   },
+   {
+    "snippet": "respectful towards the board and speak with a sense of calmness but confidence I would say. So these are my three strengths for the different phases of exam.",
+    "start_ms": 171000,
+    "start_time_label": "2 minutes, 51 seconds",
+    "start_time_text": "2:51"
+   },
+   {
+    "snippet": "So there's one confusion in every aspirant's mind initially in the initial phase that what optional to choose. So what is your take on it on choosing an optional subject?",
+    "start_ms": 181000,
+    "start_time_label": "3 minutes, 1 second",
+    "start_time_text": "3:01"
+   },
+   {
+    "snippet": "I think your choice of optional should be around the subject which you think you are comfortable with and you can sit that sit with that for a few hours in a",
+    "start_ms": 191000,
+    "start_time_label": "3 minutes, 11 seconds",
+    "start_time_text": "3:11"
+   },
+   {
+    "snippet": "day. So economics was the only subject which I knew. So I didn't know any other subject. So the choice came very naturally to me. I did not even consider",
+    "start_ms": 199000,
+    "start_time_label": "3 minutes, 19 seconds",
+    "start_time_text": "3:19"
+   },
+   {
+    "snippet": "thinking about other options where I had the disadvantage of competing with people who have four plus years of experience than me already before starting the examination. So ma'am this",
+    "start_ms": 208000,
+    "start_time_label": "3 minutes, 28 seconds",
+    "start_time_text": "3:28"
+   },
+   {
+    "snippet": "was my take. I would recommend the candidates to please have a look at the syllabus, have a look at their interest areas, have a look at the VQs, talk to",
+    "start_ms": 216000,
+    "start_time_label": "3 minutes, 36 seconds",
+    "start_time_text": "3:36"
+   },
+   {
+    "snippet": "certain friends and sit and think that if they're able to sit upon that subject with for few hours in a day and I think that should answer the dilemma.",
+    "start_ms": 224000,
+    "start_time_label": "3 minutes, 44 seconds",
+    "start_time_text": "3:44"
+   },
+   {
+    "snippet": "Okay. And uh so this was your third attempt right?",
+    "start_ms": 234000,
+    "start_time_label": "3 minutes, 54 seconds",
+    "start_time_text": "3:54"
+   },
+   {
+    "snippet": "So is there anything different that you did this time that has helped you not only clear this exam but also get a good rank and",
+    "start_ms": 237000,
+    "start_time_label": "3 minutes, 57 seconds",
+    "start_time_text": "3:57"
+   },
+   {
+    "snippet": "I think uh mains changed the game for me. My mains marks improved by 109 marks",
+    "start_ms": 245000,
+    "start_time_label": "4 minutes, 5 seconds",
+    "start_time_text": "4:05"
+   },
+   {
+    "snippet": "and uh so overall my marks increased by 144 marks as compared to the last attempt. So fighting for every single",
+    "start_ms": 252000,
+    "start_time_label": "4 minutes, 12 seconds",
+    "start_time_text": "4:12"
+   },
+   {
+    "snippet": "mark, any new dimension, any more number of pointers, any value addition, I focus extensively on my mains strategy this",
+    "start_ms": 259000,
+    "start_time_label": "4 minutes, 19 seconds",
+    "start_time_text": "4:19"
+   },
+   {
+    "snippet": "time. So I think that is the game changer for me this time.",
+    "start_ms": 267000,
+    "start_time_label": "4 minutes, 27 seconds",
+    "start_time_text": "4:27"
+   },
+   {
+    "snippet": "Okay. So apart from the preparation thing, uh there are many ups and downs in this phase of of preparation. So I",
+    "start_ms": 271000,
+    "start_time_label": "4 minutes, 31 seconds",
+    "start_time_text": "4:31"
+   },
+   {
+    "snippet": "know you must have also felt those things like sometimes it feels like everything is going great, sometimes it feels like nothing is on track. So what",
+    "start_ms": 278000,
+    "start_time_label": "4 minutes, 38 seconds",
+    "start_time_text": "4:38"
+   },
+   {
+    "snippet": "is your take on it? how to deal with such phases.",
+    "start_ms": 286000,
+    "start_time_label": "4 minutes, 46 seconds",
+    "start_time_text": "4:46"
+   },
+   {
+    "snippet": "Uh ma'am, I think I have been a very in a very worse position last year. I could not get through the final results when I",
+    "start_ms": 289000,
+    "start_time_label": "4 minutes, 49 seconds",
+    "start_time_text": "4:49"
+   },
+   {
+    "snippet": "searched the PDF. No name was to be found anywhere. So ma'am, that was one of the lowest points in my preparation journey. I think ma'am I would just",
+    "start_ms": 296000,
+    "start_time_label": "4 minutes, 56 seconds",
+    "start_time_text": "4:56"
+   },
+   {
+    "snippet": "point out two three facts which I wanted to convey to people that uh please be",
+    "start_ms": 305000,
+    "start_time_label": "5 minutes, 5 seconds",
+    "start_time_text": "5:05"
+   },
+   {
+    "snippet": "very clear that why do you want to come in this exam? this exam will take a toll on you. Even the most brilliant talk toppers and the most brilliant prodigies",
+    "start_ms": 313000,
+    "start_time_label": "5 minutes, 13 seconds",
+    "start_time_text": "5:13"
+   },
+   {
+    "snippet": "sometime fail to clear this exam in a lesser number of attempts. So please be very careful of that and uh please be",
+    "start_ms": 321000,
+    "start_time_label": "5 minutes, 21 seconds",
+    "start_time_text": "5:21"
+   },
+   {
+    "snippet": "prepared of doing very extensive amount of hard work in this fair. So this exam will shatter you on your worst days. So",
+    "start_ms": 329000,
+    "start_time_label": "5 minutes, 29 seconds",
+    "start_time_text": "5:29"
+   },
+   {
+    "snippet": "please uh if you are honest and uh if you think you have put in the right amount of hard work and although there is certain amount of luck ma'am I think",
+    "start_ms": 338000,
+    "start_time_label": "5 minutes, 38 seconds",
+    "start_time_text": "5:38"
+   },
+   {
+    "snippet": "it totally depends on upon you as to what do you do for yourself yeah so I think you have covered almost",
+    "start_ms": 346000,
+    "start_time_label": "5 minutes, 46 seconds",
+    "start_time_text": "5:46"
+   },
+   {
+    "snippet": "everything lastly a few lines for the viewers to the aspirants who are working to motivate them anything that you would want to say to them",
+    "start_ms": 353000,
+    "start_time_label": "5 minutes, 53 seconds",
+    "start_time_text": "5:53"
+   },
+   {
+    "snippet": "ma'am I don't think there should be any motivation in this exam I think discipline and consistency should be your driving factors. You should not",
+    "start_ms": 361000,
+    "start_time_label": "6 minutes, 1 second",
+    "start_time_text": "6:01"
+   },
+   {
+    "snippet": "taking you should not be taking something because it is your motivation.",
+    "start_ms": 370000,
+    "start_time_label": "6 minutes, 10 seconds",
+    "start_time_text": "6:10"
+   },
+   {
+    "snippet": "You should be doing because it is your discipline and your routine today. So I think uh there is a need to be a very coldarted person in this preparation and",
+    "start_ms": 374000,
+    "start_time_label": "6 minutes, 14 seconds",
+    "start_time_text": "6:14"
+   },
+   {
+    "snippet": "uh daily putting in 10 plus hours of work. I don't think there is any shortcut to this exam ma'am. So don't chase motivation, chase your discipline and your hard work ma'am.",
+    "start_ms": 383000,
+    "start_time_label": "6 minutes, 23 seconds",
+    "start_time_text": "6:23"
+   },
+   {
+    "snippet": "Okay. Thank you. Thank you so much Lava for joining us. Thank you for giving your time. It was great talking to you. All the best for your future.",
+    "start_ms": 392000,
+    "start_time_label": "6 minutes, 32 seconds",
+    "start_time_text": "6:32"
+   },
+   {
+    "snippet": "Thank you. Thank you.",
+    "start_ms": 400000,
+    "start_time_label": "6 minutes, 40 seconds",
+    "start_time_text": "6:40"
+   }
+  ]
+ },
+ "video": {
+  "channel": "Bliss Point Studies",
+  "id": "ueDaJrCC7tk",
+  "title": "Raghav Jhunjhunwala | AIR - 04 | TOPPER | UPSC (CSE) 2025 | Economics Optional | BLISS POINT STUDIES"
+ }
+}

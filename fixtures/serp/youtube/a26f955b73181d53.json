@@ -1,0 +1,84 @@
+{
+ "engine": "youtube",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube",
+  "gl": "in",
+  "hl": "en",
+  "search_query": "Kabeer Chhillar JEE Advanced 2026 topper"
+ },
+ "purpose": "youtube",
+ "rank": 2,
+ "response": {
+  "search_metadata": {
+   "created_at": "2026-10-05 17:11:38 UTC",
+   "id": "6ac3da4aa2897136320fc66d",
+   "processed_at": "2026-10-05 17:11:38 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube",
+   "gl": "in",
+   "hl": "en",
+   "search_query": "Kabeer Chhillar JEE Advanced 2026 topper"
+  },
+  "video_results": [
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@ALLENCareerInstituteofficial",
+     "name": "ALLEN Career Institute",
+     "thumbnail": "https://yt3.ggpht.com/eYL1nv41lFYd7d49CW9VwIutXmWTJueXlf7d8-qUgwsNQVRwNK_nsq-UUuUkOvLxnJOEird9AWk=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "THE MAKING OF A CHAMPION! Get ready to be inspired by the incredible journey of Kabeer Chhillar, who has secured the ...",
+    "length": "57:09",
+    "link": "https://www.youtube.com/watch?v=xFNv39jo02Y",
+    "position_on_page": 2,
+    "published_date": "4mo ago",
+    "title": "MEET AIR 2! 🏆 JEE Advanced 2026 Topper Kabeer Chhillar Success Story | ALLEN",
+    "views": 5645
+   },
+   {
+    "channel": {
+     "name": "ALLEN Career Institute and ALLEN JEE",
+     "thumbnail": "https://yt3.ggpht.com/eYL1nv41lFYd7d49CW9VwIutXmWTJueXlf7d8-qUgwsNQVRwNK_nsq-UUuUkOvLxnJOEird9AWk=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "description": "Top ranks are never a coincidence—they are built through legacy, discipline, and hard work. Continuing this tradition, Kabeer ...",
+    "length": "1:01",
+    "link": "https://www.youtube.com/watch?v=WbXR5FliUYE",
+    "position_on_page": 4,
+    "published_date": "5mo ago",
+    "title": "JEE Main 2026 AIR 1 😱 Kabeer Chhiller | ALLENS's Legacy Continues",
+    "views": 17912
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@ALLENJEE",
+     "name": "ALLEN JEE",
+     "thumbnail": "https://yt3.ggpht.com/AzNL3Avp_7hGfQXzAUMk8DSfcms9y3JR9I5rE9BLzRAiOErJPKcR_m814NhTcsgqbp8RbSmUjg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "... of JEE 2026—Kabeer Chhillar, who recently shattered records by securing All India Rank 2 (AIR 2) in JEE Advanced 2026.",
+    "length": "9:47",
+    "link": "https://www.youtube.com/watch?v=uFisiszJJ5Q",
+    "position_on_page": 5,
+    "published_date": "4mo ago",
+    "title": "Room Raid of JEE Advanced AIR 2! 😱 Inside Kabeer Chhillar’s Kota Hostel Room!",
+    "views": 887443
+   },
+   {
+    "channel": {
+     "name": "ON THE RISE and Kabeer Chhillar",
+     "thumbnail": "https://yt3.ggpht.com/FCl8Z9Ac113t003SQkAFXMrc9RaBybez6SVTgRXXqgUu88Ad3cnBypmnbBbpu1WvSs6C5X8D=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "description": "Candid conversation with Kabeer Chhillar AIR 1- Jee Mains AIR-2- Jee Advanced Gold Medallist Intl. Chemistry Olympiad.",
+    "length": "31:15",
+    "link": "https://www.youtube.com/watch?v=dLhOXCkHPRQ",
+    "position_on_page": 6,
+    "published_date": "3w ago",
+    "title": "Unfiltered with AIR 1 KABEER CHHILLAR",
+    "views": 81255
+   }
+  ]
+ }
+}

@@ -85,3 +85,31 @@ def test_trim_around_snaps_to_words_and_marks_cuts():
     words = set(text.split()) | {"..."}
     assert all(w.strip(".") in words or w == "..." for w in out.split())
     assert len(out) <= 120
+
+
+def test_exam_year_is_never_read_as_a_rank():
+    from toppertrail.extract.text import ranks_in
+    t = Topper("upsc-cse-2025", 1, "ANUJ AGNIHOTRI")
+    m = mentions("UPSC CSE 2025 Rank 1 Anuj Agnihotri", [t])
+    assert m and m[0].claimed_rank == 1
+    assert ranks_in("UPSC CSE 2025 Rank 1") == {1}
+
+
+def test_merged_ocr_name_must_start_and_end_a_word():
+    akash = Topper("x", 9, "AKASH KUMAR")
+    assert mentions("Congratulations PRAKASHKUMAR AIR 9", [akash], squashed=True) == []
+    assert mentions("Congratulations AKASHKUMARI AIR 9", [akash], squashed=True) == []
+    assert mentions("Congratulations AKASHKUMAR AIR 9", [akash], squashed=True)
+    assert mentions("ToppersAkashKumar AIR9", [akash], squashed=True)  # case change ends a word
+
+
+def test_trim_cuts_at_newlines_too():
+    from toppertrail.extract.text import trim_around
+    text = "\n".join(f"WORD{i}" for i in range(150)) + "\nAnuj Agnihotri AIR 1\n" + \
+        "\n".join(f"TAIL{i}" for i in range(150))
+    out = trim_around(text, "ANUJ AGNIHOTRI", 300).replace("...", " ")
+    tokens = out.split()
+    assert "Agnihotri" in tokens
+    assert all(t.startswith(("WORD", "TAIL")) and t[4:].isdigit() or t in
+               ("Anuj", "Agnihotri", "AIR", "1") for t in tokens)
+    assert all(t not in ("ORD", "RD") for t in tokens)

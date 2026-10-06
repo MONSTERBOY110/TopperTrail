@@ -8,18 +8,44 @@ CCPA finds this one institute at a time, months later. The evidence is public on
 
 Built for the SerpApi India Hackathon 2026 (Knowledge & Public Interest).
 
+## What the recorded run found (UPSC CSE 2025, top 20)
+
+- **7 institutes claim AIR 1**, and all 20 top ranks are claimed by at least 3 institutes each (266 claims by 20 institutes).
+- A course is named next to 69% of claims; **39% of those name only an interview programme**, the pattern behind most CCPA penalties.
+- Whether the course was paid or free is stated next to **1%** of claims.
+- Vajiram & Ravi claims 18 of the top 20; 29 of its 47 claims name only its interview programme.
+- Google AI Mode names a coaching institute for all 20 toppers.
+
+Full numbers, JEE Advanced and NEET UG: [docs/FINDINGS.md](docs/FINDINGS.md). Every number is reproducible from the committed run with no API key.
+
 ## Try it in a minute, no API key
 
-```bash
-git clone <this repository> && cd TopperTrail
-py -3.11 -m venv .venv            # macOS or Linux: python3.11 -m venv .venv
-.venv/Scripts/python -m pip install -e .
-export TOPPERTRAIL_REPLAY=1        # PowerShell: $env:TOPPERTRAIL_REPLAY="1"
+Windows (PowerShell):
+
+```powershell
+git clone https://github.com/MONSTERBOY110/TopperTrail.git; cd TopperTrail
+py -3.11 -m venv .venv
+.venv\Scripts\Activate.ps1
+python -m pip install -e .
+$env:TOPPERTRAIL_REPLAY = "1"
 toppertrail collect upsc-cse-2025  # replays the recorded SerpApi run from fixtures/
 toppertrail verify upsc-cse-2025   # evidence hashes and the manifest root match the recording
 toppertrail analyze upsc-cse-2025  # builds the ledger and prints the headline numbers
 toppertrail serve                  # http://127.0.0.1:8765/
 ```
+
+macOS or Linux:
+
+```bash
+git clone https://github.com/MONSTERBOY110/TopperTrail.git && cd TopperTrail
+python3.11 -m venv .venv && source .venv/bin/activate
+python -m pip install -e .
+export TOPPERTRAIL_REPLAY=1
+toppertrail collect upsc-cse-2025 && toppertrail verify upsc-cse-2025
+toppertrail analyze upsc-cse-2025 && toppertrail serve
+```
+
+The same replay works for `jee-adv-2026` and `neet-ug-2026`. Python 3.11 or newer.
 
 ## Run it live
 
@@ -75,7 +101,7 @@ TopperTrail records what institutes publicly claim and what they disclose next t
 
 ## AI tools
 
-Code, tests and documentation were written with Claude Code (Anthropic). No AI model is used inside the product.
+Code, tests and documentation were written with Claude Code (Anthropic). The demo video's narration voice is Microsoft Edge neural text to speech. No AI model is used inside the product.
 
 ## License
 

@@ -1,0 +1,29 @@
+{
+ "engine": "google_images",
+ "institute_id": null,
+ "params": {
+  "engine": "google_images",
+  "gl": "in",
+  "hl": "en",
+  "q": "Simrandeep Kaur AIR 15 UPSC 2025"
+ },
+ "purpose": "images",
+ "rank": 15,
+ "response": {
+  "error": "Google Images hasn't returned any results for this query.",
+  "search_metadata": {
+   "created_at": "2026-10-05 16:09:59 UTC",
+   "id": "6ac3cbd7932b0ee61f693eb5",
+   "processed_at": "2026-10-05 16:09:59 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_images",
+   "gl": "in",
+   "google_domain": "google.com",
+   "hl": "en",
+   "q": "Simrandeep Kaur AIR 15 UPSC 2025"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "engine": "youtube_video_transcript",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube_video_transcript",
+  "language_code": "hi",
+  "v": "3LzcTRbWNe4"
+ },
+ "purpose": "transcript",
+ "rank": 16,
+ "response": {
+  "available_transcripts": [
+   {
+    "language_code": "hi",
+    "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=3LzcTRbWNe4",
+    "type": "asr"
+   }
+  ],
+  "error": "YouTube Video Transcript hasn't returned any results for this query. Transcript with other language or auto-generated is available.",
+  "search_metadata": {
+   "created_at": "2026-10-05 16:13:22 UTC",
+   "id": "6ac3cca23a920675a5ac94ff",
+   "processed_at": "2026-10-05 16:13:22 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "language_code": "hi",
+   "v": "3LzcTRbWNe4"
+  }
+ },
+ "video": {
+  "channel": "UPSC TIME",
+  "id": "3LzcTRbWNe4",
+  "title": "UPSC Topper Monika Srivastava (AIR 16) Live Interaction l Toppers Talk l UPSC TIME"
+ }
+}

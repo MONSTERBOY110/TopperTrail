@@ -17,7 +17,7 @@ _ASCII = re.compile(r"^[\x00-\x7f]+$")
 _RANK = re.compile(
     r"(?<![a-z])(?:all india rank|air|rank|crl)\s*[-:#]?\s*(\d{1,4})(?!\d)"
     r"|रैंक\s*[-:#]?\s*(\d{1,4})(?!\d)"
-    r"|(?<!\d)(\d{1,4})\s*(?:st|nd|rd|th)?\s*rank(?![a-z])"
+    r"|(?<!\d)(?!(?:19|20)\d\d(?!\d))(\d{1,4})\s*(?:st|nd|rd|th)?\s*rank(?![a-z])"
 )
 
 
@@ -53,11 +53,11 @@ def name_regex(name: str) -> re.Pattern[str] | None:
 def snap_span(text: str, start: int, end: int) -> tuple[int, int]:
     """Move a cut inward to whitespace so no word is split."""
     if start > 0:
-        space = text.find(" ", start)
-        start = space + 1 if 0 <= space < end else start
+        m = re.compile(r"\s").search(text, start)
+        start = m.end() if m and m.start() < end else start
     if end < len(text):
-        space = text.rfind(" ", start, end)
-        end = space if space > start else end
+        cuts = [m.start() for m in re.finditer(r"\s", text[start:end])]
+        end = start + cuts[-1] if cuts and cuts[-1] > 0 else end
     return start, end
 
 
@@ -90,6 +90,55 @@ def find_name(text: str, name: str) -> list[tuple[int, int]]:
     return spans
 
 
+SQUASH_MIN = 10  # shorter squashed terms or names would match inside unrelated words
+
+
+# Words in OCR text: spaces are often dropped, so a change from lower to upper case or between
+# letters and digits also ends a word ("2025TOPPER", "OnlineClassroomProgram").
+_OCR_WORD = re.compile(r"[A-Z]+(?![a-z])|[A-Z]?[a-z]+|\d+|[\u0900-\u097f]+")
+
+
+def ocr_words(text: str) -> str:
+    """Image text as normalized words joined by '|'."""
+    words = _OCR_WORD.findall(unicodedata.normalize("NFC", text))
+    return "|".join(normalize(w) for w in words)
+
+
+MERGED_RUN = 15  # an OCR "word" this long is several words run together
+
+
+def ocr_pattern(term: str) -> re.Pattern[str]:
+    """`term` with its spaces optional, for searching ocr_words() output with ocr_find()."""
+    return re.compile(r"\|?".join(re.escape(c) for c in squash(term)))
+
+
+def ocr_find(pattern: re.Pattern[str], flat: str, whole: bool) -> re.Match[str] | None:
+    """First match that starts a word, or starts anywhere inside a long merged run (whose real
+    word starts are unknown). With `whole` (names) it must start and end a word, so a name
+    never matches inside a longer name."""
+    for m in pattern.finditer(flat):
+        begin = flat.rfind("|", 0, m.start()) + 1
+        stop = flat.find("|", m.start())
+        word = flat[begin:stop if stop >= 0 else len(flat)]
+        starts = m.start() == begin
+        if whole:
+            if starts and (m.end() == len(flat) or flat[m.end()] == "|"):
+                return m
+        elif starts or len(word) >= MERGED_RUN:
+            return m
+    return None
+
+
+def squash(text: str) -> str:
+    """Letters and digits only. OCR of a poster often drops the spaces between words."""
+    return re.sub(r"[^a-z0-9\u0900-\u097f]", "", normalize(text))
+
+
+def ranks_in(text: str) -> set[int]:
+    """Every rank number printed in the text."""
+    return {int(next(g for g in m.groups() if g)) for m in _RANK.finditer(normalize(text))}
+
+
 def ranks_near(norm_text: str, span: tuple[int, int], reach: int = 80) -> list[tuple[int, int]]:
     start, end = span
     out = []
@@ -115,11 +164,22 @@ class Mention:
     claimed_rank: int | None
 
 
-def mentions(text: str, toppers: Sequence[Topper]) -> list[Mention]:
+def mentions(text: str, toppers: Sequence[Topper], squashed: bool = False) -> list[Mention]:
+    """Toppers named in the text. With `squashed` (image text), a full name whose words OCR
+    ran together also counts, and only the official rank is read for it: with the layout gone,
+    any other printed rank may belong to someone else."""
     norm = normalize(text)
     out = []
+    flat = ocr_words(text) if squashed else ""
     for topper in toppers:
-        for span in find_name(text, topper.name):
+        spans = find_name(text, topper.name)
+        if (not spans and squashed and len(name_tokens(topper.name)) >= 2
+                and len(squash(topper.name)) >= SQUASH_MIN
+                and ocr_find(ocr_pattern(topper.name), flat, whole=True)):
+            claimed = topper.rank if topper.rank in ranks_in(text) else None
+            out.append(Mention(topper, 0, 0, claimed))
+            continue
+        for span in spans:
             near = ranks_near(norm, span)
             if len(name_tokens(topper.name)) < 2 and topper.rank not in {v for _, v in near}:
                 continue

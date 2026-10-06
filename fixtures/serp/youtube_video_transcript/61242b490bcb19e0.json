@@ -1,0 +1,1963 @@
+{
+ "engine": "youtube_video_transcript",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube_video_transcript",
+  "language_code": "hi",
+  "v": "mjd0-jdV9o4"
+ },
+ "purpose": "transcript",
+ "rank": 11,
+ "response": {
+  "search_metadata": {
+   "created_at": "2026-10-05 16:01:40 UTC",
+   "id": "6ac3c9e4dafa5f62dfacf9ba",
+   "processed_at": "2026-10-05 16:01:40 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube_video_transcript",
+   "language_code": "hi",
+   "v": "mjd0-jdV9o4"
+  },
+  "transcript": [
+   {
+    "snippet": "[music]",
+    "start_ms": 15000,
+    "start_time_label": "15 seconds",
+    "start_time_text": "0:15"
+   },
+   {
+    "snippet": "[music]",
+    "start_ms": 24000,
+    "start_time_label": "24 seconds",
+    "start_time_text": "0:24"
+   },
+   {
+    "snippet": "Good morning sir.",
+    "start_ms": 30000,
+    "start_time_label": "30 seconds",
+    "start_time_text": "0:30"
+   },
+   {
+    "snippet": "Good morning. Can you brief briefly introduce yourself man from Bihar?",
+    "start_ms": 31000,
+    "start_time_label": "31 seconds",
+    "start_time_text": "0:31"
+   },
+   {
+    "snippet": "Yes sir. So my name is Ashasi Rajaran. I was born in Patna Bihar. I did my initial schooling here from DPS Patna.",
+    "start_ms": 38000,
+    "start_time_label": "38 seconds",
+    "start_time_text": "0:38"
+   },
+   {
+    "snippet": "Then for my further schooling and my engineering I went to Delhi. I did computer science engineering from Delhi Technological University. Thereafter I",
+    "start_ms": 46000,
+    "start_time_label": "46 seconds",
+    "start_time_text": "0:46"
+   },
+   {
+    "snippet": "pursued a job at Barclays where I was a quantitative analyst for 3.5 years. I gave my first attempt while I was still",
+    "start_ms": 54000,
+    "start_time_label": "54 seconds",
+    "start_time_text": "0:54"
+   },
+   {
+    "snippet": "working. This is my second attempt and first interview. Sir, your father is a register of cooperative societies. Yes sir.",
+    "start_ms": 61000,
+    "start_time_label": "1 minute, 1 second",
+    "start_time_text": "1:01"
+   },
+   {
+    "snippet": "He's in I Yes sir. Okay.",
+    "start_ms": 69000,
+    "start_time_label": "1 minute, 9 seconds",
+    "start_time_text": "1:09"
+   },
+   {
+    "snippet": "What qualities a I is officer should have [clears throat] sir. Uh sir I think an is officer should",
+    "start_ms": 74000,
+    "start_time_label": "1 minute, 14 seconds",
+    "start_time_text": "1:14"
+   },
+   {
+    "snippet": "mainly have three qualities sir. The first one is competence. The second one is integrity and the third one is compassion.",
+    "start_ms": 83000,
+    "start_time_label": "1 minute, 23 seconds",
+    "start_time_text": "1:23"
+   },
+   {
+    "snippet": "Okay. And your mother is also working somewhere because you have shown a income of six lakhs. Yes sir.",
+    "start_ms": 93000,
+    "start_time_label": "1 minute, 33 seconds",
+    "start_time_text": "1:33"
+   },
+   {
+    "snippet": "A profession you had not given.",
+    "start_ms": 101000,
+    "start_time_label": "1 minute, 41 seconds",
+    "start_time_text": "1:41"
+   },
+   {
+    "snippet": "Sir I have given sir she is a consultant on uh design work in fabric industry.",
+    "start_ms": 103000,
+    "start_time_label": "1 minute, 43 seconds",
+    "start_time_text": "1:43"
+   },
+   {
+    "snippet": "It's a very small hobby kind of a job but uh it brings in some income. Yes sir. Actually my wife is also interior",
+    "start_ms": 109000,
+    "start_time_label": "1 minute, 49 seconds",
+    "start_time_text": "1:49"
+   },
+   {
+    "snippet": "decorator and brings uh good pocket money for herself. Yes sir.",
+    "start_ms": 117000,
+    "start_time_label": "1 minute, 57 seconds",
+    "start_time_text": "1:57"
+   },
+   {
+    "snippet": "That's good. Okay.",
+    "start_ms": 125000,
+    "start_time_label": "2 minutes, 5 seconds",
+    "start_time_text": "2:05"
+   },
+   {
+    "snippet": "How the studies of public administration is applicable to actual publication uh public administration.",
+    "start_ms": 128000,
+    "start_time_label": "2 minutes, 8 seconds",
+    "start_time_text": "2:08"
+   },
+   {
+    "snippet": "So, so the discipline of public administration the study was devised initially to solve the problems that were in actual public administration.",
+    "start_ms": 140000,
+    "start_time_label": "2 minutes, 20 seconds",
+    "start_time_text": "2:20"
+   },
+   {
+    "snippet": "The whole relevance of the discipline stems from the fact that it is meant to focus on these practical aspects of public administration rather than the",
+    "start_ms": 149000,
+    "start_time_label": "2 minutes, 29 seconds",
+    "start_time_text": "2:29"
+   },
+   {
+    "snippet": "philosophical debate which we see in political science regarding the status of state and citizenship. So it has to focus more on the implementation side of",
+    "start_ms": 157000,
+    "start_time_label": "2 minutes, 37 seconds",
+    "start_time_text": "2:37"
+   },
+   {
+    "snippet": "things as well as the policy aspect and comparative studies to make the practical aspect more uh better sir.",
+    "start_ms": 165000,
+    "start_time_label": "2 minutes, 45 seconds",
+    "start_time_text": "2:45"
+   },
+   {
+    "snippet": "Okay. When public administration became a full-fledged subject it got linked from political science.",
+    "start_ms": 175000,
+    "start_time_label": "2 minutes, 55 seconds",
+    "start_time_text": "2:55"
+   },
+   {
+    "snippet": "Sir uh sir it was after uh Mr. Mr.",
+    "start_ms": 183000,
+    "start_time_label": "3 minutes, 3 seconds",
+    "start_time_text": "3:03"
+   },
+   {
+    "snippet": "Woodro Wilson's essay on public administration uh science of administration in which he argues for a separate discipline in 1887",
+    "start_ms": 187000,
+    "start_time_label": "3 minutes, 7 seconds",
+    "start_time_text": "3:07"
+   },
+   {
+    "snippet": "188 1870 or 1887. Check it. I will check it sir. Sure sir.",
+    "start_ms": 196000,
+    "start_time_label": "3 minutes, 16 seconds",
+    "start_time_text": "3:16"
+   },
+   {
+    "snippet": "So you must have gone through the ancient public administration in India.",
+    "start_ms": 205000,
+    "start_time_label": "3 minutes, 25 seconds",
+    "start_time_text": "3:25"
+   },
+   {
+    "snippet": "Yes sir. How was the administration then and now?",
+    "start_ms": 213000,
+    "start_time_label": "3 minutes, 33 seconds",
+    "start_time_text": "3:33"
+   },
+   {
+    "snippet": "Sir, uh ancient public administration, the best source we have is Cautilia's earth shastra which gives us a very detailed structured administration which",
+    "start_ms": 220000,
+    "start_time_label": "3 minutes, 40 seconds",
+    "start_time_text": "3:40"
+   },
+   {
+    "snippet": "is very similar in structure to present day administration. However, with subtle differences sir the most prominent being uh the use of paper in uh ruling people.",
+    "start_ms": 228000,
+    "start_time_label": "3 minutes, 48 seconds",
+    "start_time_text": "3:48"
+   },
+   {
+    "snippet": "So the concept of kagazi raj as we call it was brought in later in the medieval era. uh the use of paper was much lesser",
+    "start_ms": 238000,
+    "start_time_label": "3 minutes, 58 seconds",
+    "start_time_text": "3:58"
+   },
+   {
+    "snippet": "before. Second sir, uh the aspect of uh feudal lots was uh not present by then.",
+    "start_ms": 246000,
+    "start_time_label": "4 minutes, 6 seconds",
+    "start_time_text": "4:06"
+   },
+   {
+    "snippet": "So uh it also came in later. Regional administration was completely centralized unlike uh present day administration where we have a federal structure. There was no federal secture.",
+    "start_ms": 252000,
+    "start_time_label": "4 minutes, 12 seconds",
+    "start_time_text": "4:12"
+   },
+   {
+    "snippet": "Third sir, it was a monarchy. However, the king was bound by said to be bound by cautilia in very moral principles.",
+    "start_ms": 261000,
+    "start_time_label": "4 minutes, 21 seconds",
+    "start_time_text": "4:21"
+   },
+   {
+    "snippet": "However, it continues to be a monarchy and a patrimonial state where children uh citizens were treated as children of the king. However, today we have citizens as master of the government.",
+    "start_ms": 269000,
+    "start_time_label": "4 minutes, 29 seconds",
+    "start_time_text": "4:29"
+   },
+   {
+    "snippet": "These are the broad differences from today's rule. Sir, there is a book on in public administration in ancient India.",
+    "start_ms": 279000,
+    "start_time_label": "4 minutes, 39 seconds",
+    "start_time_text": "4:39"
+   },
+   {
+    "snippet": "Sir, it was published by Oxford University in 1916.",
+    "start_ms": 288000,
+    "start_time_label": "4 minutes, 48 seconds",
+    "start_time_text": "4:48"
+   },
+   {
+    "snippet": "Sir, so that was a compulsory book for IC candidates.",
+    "start_ms": 293000,
+    "start_time_label": "4 minutes, 53 seconds",
+    "start_time_text": "4:53"
+   },
+   {
+    "snippet": "Very good to answer sir.",
+    "start_ms": 300000,
+    "start_time_label": "5 minutes",
+    "start_time_text": "5:00"
+   },
+   {
+    "snippet": "Name is same. This is was written by a Bengali author. I have just forgotten a name because I have recently delivered a",
+    "start_ms": 302000,
+    "start_time_label": "5 minutes, 2 seconds",
+    "start_time_text": "5:02"
+   },
+   {
+    "snippet": "lecture on bureaucracy ancient bure bureaucracy. I've just forgotten. I will tell you",
+    "start_ms": 311000,
+    "start_time_label": "5 minutes, 11 seconds",
+    "start_time_text": "5:11"
+   },
+   {
+    "snippet": "later on. So now we come to present day administration. What are uh what do you",
+    "start_ms": 318000,
+    "start_time_label": "5 minutes, 18 seconds",
+    "start_time_text": "5:18"
+   },
+   {
+    "snippet": "feel about changes in administration like uh",
+    "start_ms": 325000,
+    "start_time_label": "5 minutes, 25 seconds",
+    "start_time_text": "5:25"
+   },
+   {
+    "snippet": "new people coming in midway or the role of experts and technologydriven administration.",
+    "start_ms": 332000,
+    "start_time_label": "5 minutes, 32 seconds",
+    "start_time_text": "5:32"
+   },
+   {
+    "snippet": "Sir, especially since uh post globalization we are in uh the role of administration",
+    "start_ms": 346000,
+    "start_time_label": "5 minutes, 46 seconds",
+    "start_time_text": "5:46"
+   },
+   {
+    "snippet": "has become much more complex than before. The context has become very dynamic and therefore there is a need for expertise in administration. There",
+    "start_ms": 353000,
+    "start_time_label": "5 minutes, 53 seconds",
+    "start_time_text": "5:53"
+   },
+   {
+    "snippet": "have been uh efforts both by the medium of lateral entry as sir mentioned where people are coming in midway as well as bringing in experts, advisers, making",
+    "start_ms": 361000,
+    "start_time_label": "6 minutes, 1 second",
+    "start_time_text": "6:01"
+   },
+   {
+    "snippet": "committees and taking uh the help of what we call s staff agencies. So these are domain experts who give their",
+    "start_ms": 370000,
+    "start_time_label": "6 minutes, 10 seconds",
+    "start_time_text": "6:10"
+   },
+   {
+    "snippet": "expertise. I think sir uh both these changes are not just welcome they are very necessary in present time because",
+    "start_ms": 377000,
+    "start_time_label": "6 minutes, 17 seconds",
+    "start_time_text": "6:17"
+   },
+   {
+    "snippet": "uh we need the one expertise and second there has to be a coherence between public and private side of things",
+    "start_ms": 385000,
+    "start_time_label": "6 minutes, 25 seconds",
+    "start_time_text": "6:25"
+   },
+   {
+    "snippet": "because uh now it is not the state only which is delivering uh services to the people. The market has also assumed a",
+    "start_ms": 393000,
+    "start_time_label": "6 minutes, 33 seconds",
+    "start_time_text": "6:33"
+   },
+   {
+    "snippet": "greater role. The third party like csos have also assumed a greater role. So there has to be a coherence between all these three and these coherence can only be made by such efforts.",
+    "start_ms": 400000,
+    "start_time_label": "6 minutes, 40 seconds",
+    "start_time_text": "6:40"
+   },
+   {
+    "snippet": "You belong to Sarin Sarin sir.",
+    "start_ms": 410000,
+    "start_time_label": "6 minutes, 50 seconds",
+    "start_time_text": "6:50"
+   },
+   {
+    "snippet": "S uh if you are a district collector of sin sir what changes you will bring immediately?",
+    "start_ms": 413000,
+    "start_time_label": "6 minutes, 53 seconds",
+    "start_time_text": "6:53"
+   },
+   {
+    "snippet": "Three changes sir. Sir. Yes. Collector of Bahadur.",
+    "start_ms": 420000,
+    "start_time_label": "7 minutes",
+    "start_time_text": "7:00"
+   },
+   {
+    "snippet": "Sir.",
+    "start_ms": 429000,
+    "start_time_label": "7 minutes, 9 seconds",
+    "start_time_text": "7:09"
+   },
+   {
+    "snippet": "Sir, first and foremost change I would bring in sir, uh not exactly a change but make the law and order situation better. Second sir, uh my district has",
+    "start_ms": 431000,
+    "start_time_label": "7 minutes, 11 seconds",
+    "start_time_text": "7:11"
+   },
+   {
+    "snippet": "always suffered with flooding. Uh so there are two streams of water we get from Nepal which uh very often result in flooding. So there is work going on with",
+    "start_ms": 440000,
+    "start_time_label": "7 minutes, 20 seconds",
+    "start_time_text": "7:20"
+   },
+   {
+    "snippet": "embankment and there is some local area management also going on but these efforts have been minimal. I would look into that that nobody suffers from",
+    "start_ms": 448000,
+    "start_time_label": "7 minutes, 28 seconds",
+    "start_time_text": "7:28"
+   },
+   {
+    "snippet": "flooding and displacement again. And sir lastly ensuring a large number of junis and public sabhas to ensure that all the",
+    "start_ms": 456000,
+    "start_time_label": "7 minutes, 36 seconds",
+    "start_time_text": "7:36"
+   },
+   {
+    "snippet": "public services people are getting it is responsive, it is on time and it is effective.",
+    "start_ms": 465000,
+    "start_time_label": "7 minutes, 45 seconds",
+    "start_time_text": "7:45"
+   },
+   {
+    "snippet": "How you will uh I pick up from your last sentence sir.",
+    "start_ms": 471000,
+    "start_time_label": "7 minutes, 51 seconds",
+    "start_time_text": "7:51"
+   },
+   {
+    "snippet": "How you will enforce it? Sir uh do you maybe sir uh I can uh tell",
+    "start_ms": 476000,
+    "start_time_label": "7 minutes, 56 seconds",
+    "start_time_text": "7:56"
+   },
+   {
+    "snippet": "about some innovative practices if you want sir. Yes, I did myself sir. I think sir uh where I mentioned",
+    "start_ms": 484000,
+    "start_time_label": "8 minutes, 4 seconds",
+    "start_time_text": "8:04"
+   },
+   {
+    "snippet": "that flooding was an issue I also believe that the large water resource potential of the district is being underutilized in the same time. One",
+    "start_ms": 491000,
+    "start_time_label": "8 minutes, 11 seconds",
+    "start_time_text": "8:11"
+   },
+   {
+    "snippet": "would be sir focusing on bringing in some water rich maybe water-rich industries like maybe sir a thermal power plant or a nuclear installation or",
+    "start_ms": 499000,
+    "start_time_label": "8 minutes, 19 seconds",
+    "start_time_text": "8:19"
+   },
+   {
+    "snippet": "a data center which could better utilize these potential and also give employment to the people and employment also remains a very huge issue. Second would",
+    "start_ms": 508000,
+    "start_time_label": "8 minutes, 28 seconds",
+    "start_time_text": "8:28"
+   },
+   {
+    "snippet": "be sir it is very close to Patna. If a connectivity could be better developed.",
+    "start_ms": 516000,
+    "start_time_label": "8 minutes, 36 seconds",
+    "start_time_text": "8:36"
+   },
+   {
+    "snippet": "It is just across the river and bridges are being already developed. I think sir first uh there should be a green uh",
+    "start_ms": 521000,
+    "start_time_label": "8 minutes, 41 seconds",
+    "start_time_text": "8:41"
+   },
+   {
+    "snippet": "green field city which can be planned along the northern banks of Ganga closer to Chapra which could make the this better and so rapid transportation",
+    "start_ms": 528000,
+    "start_time_label": "8 minutes, 48 seconds",
+    "start_time_text": "8:48"
+   },
+   {
+    "snippet": "through buses because uh railway connectivity or RRT will take some time but bus connectivity can be immediately improvised.",
+    "start_ms": 537000,
+    "start_time_label": "8 minutes, 57 seconds",
+    "start_time_text": "8:57"
+   },
+   {
+    "snippet": "You don't have the traffic uh con traffic congestion and We do sir.",
+    "start_ms": 547000,
+    "start_time_label": "9 minutes, 7 seconds",
+    "start_time_text": "9:07"
+   },
+   {
+    "snippet": "So that should be your first priority sir. Actually government is already building a large number of bridges almost to completion which will solve",
+    "start_ms": 555000,
+    "start_time_label": "9 minutes, 15 seconds",
+    "start_time_text": "9:15"
+   },
+   {
+    "snippet": "this problem automatically. That is why it was not included in my answer.",
+    "start_ms": 563000,
+    "start_time_label": "9 minutes, 23 seconds",
+    "start_time_text": "9:23"
+   },
+   {
+    "snippet": "In the cities itself there is a traffic problem in sin. I have been election observer. Sir sir.",
+    "start_ms": 567000,
+    "start_time_label": "9 minutes, 27 seconds",
+    "start_time_text": "9:27"
+   },
+   {
+    "snippet": "So so that that is my point that better it would be sir. first without any expenses.",
+    "start_ms": 576000,
+    "start_time_label": "9 minutes, 36 seconds",
+    "start_time_text": "9:36"
+   },
+   {
+    "snippet": "Sir, you can do it sir then encroachment sir.",
+    "start_ms": 585000,
+    "start_time_label": "9 minutes, 45 seconds",
+    "start_time_text": "9:45"
+   },
+   {
+    "snippet": "Okay. We come to very important uh laws now passed by the on parliament sir.",
+    "start_ms": 591000,
+    "start_time_label": "9 minutes, 51 seconds",
+    "start_time_text": "9:51"
+   },
+   {
+    "snippet": "You referred to the shanty bill. Yes sir.",
+    "start_ms": 600000,
+    "start_time_label": "10 minutes",
+    "start_time_text": "10:00"
+   },
+   {
+    "snippet": "When you refer to the nuclear plants in your area I could appreciate it.",
+    "start_ms": 603000,
+    "start_time_label": "10 minutes, 3 seconds",
+    "start_time_text": "10:03"
+   },
+   {
+    "snippet": "There are some labor laws also for especially for jigjack uh jig workers. What is that? Gig workers. Yes, sir.",
+    "start_ms": 610000,
+    "start_time_label": "10 minutes, 10 seconds",
+    "start_time_text": "10:10"
+   },
+   {
+    "snippet": "H gig workers sir. Gig workers sir.",
+    "start_ms": 618000,
+    "start_time_label": "10 minutes, 18 seconds",
+    "start_time_text": "10:18"
+   },
+   {
+    "snippet": "Uh so sir gig workers are uh platform workers who derive their employment uh on a not so regular basis using digital",
+    "start_ms": 623000,
+    "start_time_label": "10 minutes, 23 seconds",
+    "start_time_text": "10:23"
+   },
+   {
+    "snippet": "platforms. answer. Uh the new labor codes have simplified the existing uh um multiplicity of laws into four codes as",
+    "start_ms": 631000,
+    "start_time_label": "10 minutes, 31 seconds",
+    "start_time_text": "10:31"
+   },
+   {
+    "snippet": "well as introduced some uh security guarantees uh sorry social security aspects for these workers. It would be",
+    "start_ms": 640000,
+    "start_time_label": "10 minutes, 40 seconds",
+    "start_time_text": "10:40"
+   },
+   {
+    "snippet": "instead of sir uh making the protection based on higher uh on firing they have introduced voluntary uh contribution",
+    "start_ms": 648000,
+    "start_time_label": "10 minutes, 48 seconds",
+    "start_time_text": "10:48"
+   },
+   {
+    "snippet": "based uh social security arrangements as well as sir we are trying to expand the general social security net for them uh",
+    "start_ms": 656000,
+    "start_time_label": "10 minutes, 56 seconds",
+    "start_time_text": "10:56"
+   },
+   {
+    "snippet": "so that they could get recognized as an employee however informal and get the same benefits as regular employees while they are on the job.",
+    "start_ms": 664000,
+    "start_time_label": "11 minutes, 4 seconds",
+    "start_time_text": "11:04"
+   },
+   {
+    "snippet": "So government of India is helping them in some way.",
+    "start_ms": 673000,
+    "start_time_label": "11 minutes, 13 seconds",
+    "start_time_text": "11:13"
+   },
+   {
+    "snippet": "Mandatory registration of gig workers negatively and there have been some uh protest there.",
+    "start_ms": 684000,
+    "start_time_label": "11 minutes, 24 seconds",
+    "start_time_text": "11:24"
+   },
+   {
+    "snippet": "Government of India has opened air for registration of a gig workers. Yes sir they have.",
+    "start_ms": 695000,
+    "start_time_label": "11 minutes, 35 seconds",
+    "start_time_text": "11:35"
+   },
+   {
+    "snippet": "That is a point. We have 1.23 cr gig workers. Yes sir.",
+    "start_ms": 703000,
+    "start_time_label": "11 minutes, 43 seconds",
+    "start_time_text": "11:43"
+   },
+   {
+    "snippet": "And likely to be almost 3 crores by Vasad Bharat. Yes sir.",
+    "start_ms": 710000,
+    "start_time_label": "11 minutes, 50 seconds",
+    "start_time_text": "11:50"
+   },
+   {
+    "snippet": "Okay. Then do you agree the new Grammy G will is better than the previous one?",
+    "start_ms": 718000,
+    "start_time_label": "11 minutes, 58 seconds",
+    "start_time_text": "11:58"
+   },
+   {
+    "snippet": "Sir in many aspects it is a better bill.",
+    "start_ms": 726000,
+    "start_time_label": "12 minutes, 6 seconds",
+    "start_time_text": "12:06"
+   },
+   {
+    "snippet": "uh first sir it is guaranteeing 125 days instead of 100 days earlier. It takes care of the agricultural season instead",
+    "start_ms": 729000,
+    "start_time_label": "12 minutes, 9 seconds",
+    "start_time_text": "12:09"
+   },
+   {
+    "snippet": "of bringing in inflated prices for labor during the peak season where employment is not an issue. It focuses on lean periods where employment actually needs",
+    "start_ms": 737000,
+    "start_time_label": "12 minutes, 17 seconds",
+    "start_time_text": "12:17"
+   },
+   {
+    "snippet": "focus. Sir, it also focuses on uh removing ghost beneficiaries by better digitization and better attendance monitoring and also sir it brings in",
+    "start_ms": 746000,
+    "start_time_label": "12 minutes, 26 seconds",
+    "start_time_text": "12:26"
+   },
+   {
+    "snippet": "some responsibility for the state government who have been very lax in the implementation because they only had to pass on the funding rather than actually",
+    "start_ms": 754000,
+    "start_time_label": "12 minutes, 34 seconds",
+    "start_time_text": "12:34"
+   },
+   {
+    "snippet": "fund it. So it is a better initiative sir.",
+    "start_ms": 761000,
+    "start_time_label": "12 minutes, 41 seconds",
+    "start_time_text": "12:41"
+   },
+   {
+    "snippet": "States like Bihar, Punjab sir, Kerala which are financially in a crunch sir",
+    "start_ms": 766000,
+    "start_time_label": "12 minutes, 46 seconds",
+    "start_time_text": "12:46"
+   },
+   {
+    "snippet": "how they will manage 40% of the contribution",
+    "start_ms": 774000,
+    "start_time_label": "12 minutes, 54 seconds",
+    "start_time_text": "12:54"
+   },
+   {
+    "snippet": "sir actually sir uh they can first with reduction in ghost beneficiaries in the first place itself a lot of",
+    "start_ms": 782000,
+    "start_time_label": "13 minutes, 2 seconds",
+    "start_time_text": "13:02"
+   },
+   {
+    "snippet": "mismanagement of funds will get sorted out and that will reduce the burden and second sir when the State governments actually have to pay for their share.",
+    "start_ms": 790000,
+    "start_time_label": "13 minutes, 10 seconds",
+    "start_time_text": "13:10"
+   },
+   {
+    "snippet": "They are much more vigilant in the payments and make sure that the implementation is better. And when it comes to the shortage of funds that they can always uh seek grants and loans from",
+    "start_ms": 798000,
+    "start_time_label": "13 minutes, 18 seconds",
+    "start_time_text": "13:18"
+   },
+   {
+    "snippet": "the central government when needed and even the finance commission gives them enough uh transfers when needed.",
+    "start_ms": 807000,
+    "start_time_label": "13 minutes, 27 seconds",
+    "start_time_text": "13:27"
+   },
+   {
+    "snippet": "Why not to I I give a new concept to it.",
+    "start_ms": 815000,
+    "start_time_label": "13 minutes, 35 seconds",
+    "start_time_text": "13:35"
+   },
+   {
+    "snippet": "Said please. You are sitting in your home. You ask for something. It comes sir.",
+    "start_ms": 819000,
+    "start_time_label": "13 minutes, 39 seconds",
+    "start_time_text": "13:39"
+   },
+   {
+    "snippet": "So it can be two to five or 10 rupees extra.",
+    "start_ms": 827000,
+    "start_time_label": "13 minutes, 47 seconds",
+    "start_time_text": "13:47"
+   },
+   {
+    "snippet": "Sir, why not the consumer should pay sir?",
+    "start_ms": 832000,
+    "start_time_label": "13 minutes, 52 seconds",
+    "start_time_text": "13:52"
+   },
+   {
+    "snippet": "Sir, you have saved your time. You have saved your petrol and you have saved your laundry.",
+    "start_ms": 839000,
+    "start_time_label": "13 minutes, 59 seconds",
+    "start_time_text": "13:59"
+   },
+   {
+    "snippet": "Sir, sir, think it over.",
+    "start_ms": 854000,
+    "start_time_label": "14 minutes, 14 seconds",
+    "start_time_text": "14:14"
+   },
+   {
+    "snippet": "Sir, think it over. Okay. If it is a item is of 50 rupees,",
+    "start_ms": 858000,
+    "start_time_label": "14 minutes, 18 seconds",
+    "start_time_text": "14:18"
+   },
+   {
+    "snippet": "so five rupees should go. It should be 55, 5 rupees should go to the gigback fund of the state.",
+    "start_ms": 866000,
+    "start_time_label": "14 minutes, 26 seconds",
+    "start_time_text": "14:26"
+   },
+   {
+    "snippet": "Definitely it doesn't matter much.",
+    "start_ms": 873000,
+    "start_time_label": "14 minutes, 33 seconds",
+    "start_time_text": "14:33"
+   },
+   {
+    "snippet": "I agree sir. assess of small amount can be introduced. Sir, I have been doing many innovative ways.",
+    "start_ms": 878000,
+    "start_time_label": "14 minutes, 38 seconds",
+    "start_time_text": "14:38"
+   },
+   {
+    "snippet": "When I said that uh responsibility has to be fixed in my times 50 years back,",
+    "start_ms": 886000,
+    "start_time_label": "14 minutes, 46 seconds",
+    "start_time_text": "14:46"
+   },
+   {
+    "snippet": "45 years back, we used to stamp a paper sir.",
+    "start_ms": 894000,
+    "start_time_label": "14 minutes, 54 seconds",
+    "start_time_text": "14:54"
+   },
+   {
+    "snippet": "Sir, so that was a bounding from Clark to the signing authority sir.",
+    "start_ms": 902000,
+    "start_time_label": "15 minutes, 2 seconds",
+    "start_time_text": "15:02"
+   },
+   {
+    "snippet": "And I learned it from Hong Kong sir.",
+    "start_ms": 910000,
+    "start_time_label": "15 minutes, 10 seconds",
+    "start_time_text": "15:10"
+   },
+   {
+    "snippet": "Chinese embassy embassy sir. Then it was called Republic of China.",
+    "start_ms": 913000,
+    "start_time_label": "15 minutes, 13 seconds",
+    "start_time_text": "15:13"
+   },
+   {
+    "snippet": "Yes sir.",
+    "start_ms": 921000,
+    "start_time_label": "15 minutes, 21 seconds",
+    "start_time_text": "15:21"
+   },
+   {
+    "snippet": "Exact time 10:00 a.m. 11:00 a.m. 12 they will chart out.",
+    "start_ms": 922000,
+    "start_time_label": "15 minutes, 22 seconds",
+    "start_time_text": "15:22"
+   },
+   {
+    "snippet": "Sir, that was a trick I used and made myself very popular officer. Same did I with my court cases.",
+    "start_ms": 934000,
+    "start_time_label": "15 minutes, 34 seconds",
+    "start_time_text": "15:34"
+   },
+   {
+    "snippet": "Sir, every hearing timing was fixed. Sir every",
+    "start_ms": 945000,
+    "start_time_label": "15 minutes, 45 seconds",
+    "start_time_text": "15:45"
+   },
+   {
+    "snippet": "time 10 second 11 12 or after lunch so that there is no rush in the courtrooms",
+    "start_ms": 954000,
+    "start_time_label": "15 minutes, 54 seconds",
+    "start_time_text": "15:54"
+   },
+   {
+    "snippet": "very and I learned it from supreme court then supreme court",
+    "start_ms": 963000,
+    "start_time_label": "16 minutes, 3 seconds",
+    "start_time_text": "16:03"
+   },
+   {
+    "snippet": "okay we had good interaction",
+    "start_ms": 971000,
+    "start_time_label": "16 minutes, 11 seconds",
+    "start_time_text": "16:11"
+   },
+   {
+    "snippet": "Mr. Sir Yashwani let Shri my senior colleague Shri Kant",
+    "start_ms": 978000,
+    "start_time_label": "16 minutes, 18 seconds",
+    "start_time_text": "16:18"
+   },
+   {
+    "snippet": "interact with you then we give our analysis. Okay sir. Yeah. Good morning sir.",
+    "start_ms": 986000,
+    "start_time_label": "16 minutes, 26 seconds",
+    "start_time_text": "16:26"
+   },
+   {
+    "snippet": "Morning. You worked in PWC and Barclay sir. What was your role in Blay?",
+    "start_ms": 994000,
+    "start_time_label": "16 minutes, 34 seconds",
+    "start_time_text": "16:34"
+   },
+   {
+    "snippet": "Sir I was a quantitative analyst at Barclay. So the bank uses a number of models for both its internal operation",
+    "start_ms": 1003000,
+    "start_time_label": "16 minutes, 43 seconds",
+    "start_time_text": "16:43"
+   },
+   {
+    "snippet": "as well as its market operations. My job was involved with both developing and monitoring that these models are up to the mark.",
+    "start_ms": 1011000,
+    "start_time_label": "16 minutes, 51 seconds",
+    "start_time_text": "16:51"
+   },
+   {
+    "snippet": "Uh these models relate to any specific operations you are working Yeah. Sir I",
+    "start_ms": 1020000,
+    "start_time_label": "17 minutes",
+    "start_time_text": "17:00"
+   },
+   {
+    "snippet": "was working mostly with the capital regulatory model sir which monitored that uh uh the capital requirement which",
+    "start_ms": 1028000,
+    "start_time_label": "17 minutes, 8 seconds",
+    "start_time_text": "17:08"
+   },
+   {
+    "snippet": "the bank has to set aside for uh the requirements by the bosel accord was maintained and that our model was not underpredicting the risk at any point.",
+    "start_ms": 1035000,
+    "start_time_label": "17 minutes, 15 seconds",
+    "start_time_text": "17:15"
+   },
+   {
+    "snippet": "Okay. Okay. How do you feel our Indian banks, prominent banks like SBI and uh in comparison to Bartis?",
+    "start_ms": 1046000,
+    "start_time_label": "17 minutes, 26 seconds",
+    "start_time_text": "17:26"
+   },
+   {
+    "snippet": "Sir uh could you please clarify sir? I means working of the sir",
+    "start_ms": 1057000,
+    "start_time_label": "17 minutes, 37 seconds",
+    "start_time_text": "17:37"
+   },
+   {
+    "snippet": "State Bank of India and with the Barclays because State Bank of India also has a overseas operations.",
+    "start_ms": 1066000,
+    "start_time_label": "17 minutes, 46 seconds",
+    "start_time_text": "17:46"
+   },
+   {
+    "snippet": "Yes sir. Uh I'm sorry sir I don't think I would be very fit to answer that question because I did not see the",
+    "start_ms": 1074000,
+    "start_time_label": "17 minutes, 54 seconds",
+    "start_time_text": "17:54"
+   },
+   {
+    "snippet": "banking operation side of things. So I can answer to the risk management part of the things but I can yeah we can answer you can answer risk",
+    "start_ms": 1080000,
+    "start_time_label": "18 minutes",
+    "start_time_text": "18:00"
+   },
+   {
+    "snippet": "management also if you have if you have any knowledge you can answer risk management also sir sir so SBI and other Indian banks",
+    "start_ms": 1088000,
+    "start_time_label": "18 minutes, 8 seconds",
+    "start_time_text": "18:08"
+   },
+   {
+    "snippet": "prefer to go by the incurred loss model and by the fixed rate uh of risk model in which instead of uh modeling for",
+    "start_ms": 1096000,
+    "start_time_label": "18 minutes, 16 seconds",
+    "start_time_text": "18:16"
+   },
+   {
+    "snippet": "every single customer every single account they take fixed rates for what type of account we have and apply a flat rate across it. So this way sometimes",
+    "start_ms": 1104000,
+    "start_time_label": "18 minutes, 24 seconds",
+    "start_time_text": "18:24"
+   },
+   {
+    "snippet": "they have to set aside a larger capital than required. This crunches their operational abilities. Banks with Barclay like Barlays, JPMC who are",
+    "start_ms": 1112000,
+    "start_time_label": "18 minutes, 32 seconds",
+    "start_time_text": "18:32"
+   },
+   {
+    "snippet": "investing more in their technology domain are able to model for each account separately, assess their risk very accurately and able to set aside",
+    "start_ms": 1121000,
+    "start_time_label": "18 minutes, 41 seconds",
+    "start_time_text": "18:41"
+   },
+   {
+    "snippet": "exactly the required capital and hence have a greater operational capability. Okay. Okay.",
+    "start_ms": 1129000,
+    "start_time_label": "18 minutes, 49 seconds",
+    "start_time_text": "18:49"
+   },
+   {
+    "snippet": "in public administration what was the contribution of Herbert Simon",
+    "start_ms": 1138000,
+    "start_time_label": "18 minutes, 58 seconds",
+    "start_time_text": "18:58"
+   },
+   {
+    "snippet": "sir uh Mr. Herbert Simonser uh gave uh models of decision making as well as he gave the ideas around uh communication.",
+    "start_ms": 1144000,
+    "start_time_label": "19 minutes, 4 seconds",
+    "start_time_text": "19:04"
+   },
+   {
+    "snippet": "See his main contribution was sir the bounded rationality model in which he talks about value premises limiting uh",
+    "start_ms": 1155000,
+    "start_time_label": "19 minutes, 15 seconds",
+    "start_time_text": "19:15"
+   },
+   {
+    "snippet": "fact premises rationality and sir he even won the Nobel prize in economics for this concept.",
+    "start_ms": 1163000,
+    "start_time_label": "19 minutes, 23 seconds",
+    "start_time_text": "19:23"
+   },
+   {
+    "snippet": "Okay. You're doing very well in Barclays with a computer science background. Yes sir.",
+    "start_ms": 1171000,
+    "start_time_label": "19 minutes, 31 seconds",
+    "start_time_text": "19:31"
+   },
+   {
+    "snippet": "Why do you want to ship shift? Because new era is a tech era.",
+    "start_ms": 1177000,
+    "start_time_label": "19 minutes, 37 seconds",
+    "start_time_text": "19:37"
+   },
+   {
+    "snippet": "Sir, I agree sir. The new era is the tech era and I think there uh our government could also benefit from some people with",
+    "start_ms": 1181000,
+    "start_time_label": "19 minutes, 41 seconds",
+    "start_time_text": "19:41"
+   },
+   {
+    "snippet": "technical experience. I always wanted to join the public services and uh as soon as I got an opportunity to try my hand at it, I am here.",
+    "start_ms": 1189000,
+    "start_time_label": "19 minutes, 49 seconds",
+    "start_time_text": "19:49"
+   },
+   {
+    "snippet": "Okay. What attracts you in public administration?",
+    "start_ms": 1199000,
+    "start_time_label": "19 minutes, 59 seconds",
+    "start_time_text": "19:59"
+   },
+   {
+    "snippet": "So mostly it is the respect that comes with the job and the ability to serve the people. It is the accessibility one",
+    "start_ms": 1202000,
+    "start_time_label": "20 minutes, 2 seconds",
+    "start_time_text": "20:02"
+   },
+   {
+    "snippet": "gets at the most diverse and highest level to deliver the goods to public.",
+    "start_ms": 1209000,
+    "start_time_label": "20 minutes, 9 seconds",
+    "start_time_text": "20:09"
+   },
+   {
+    "snippet": "Given the chance, which sector would you like to work?",
+    "start_ms": 1214000,
+    "start_time_label": "20 minutes, 14 seconds",
+    "start_time_text": "20:14"
+   },
+   {
+    "snippet": "Sir, I would like to work at least once in the information technology domain because I have some experience there as well as in the finance sector. Sir, why not social sector?",
+    "start_ms": 1219000,
+    "start_time_label": "20 minutes, 19 seconds",
+    "start_time_text": "20:19"
+   },
+   {
+    "snippet": "Sir, all the sectors are open. I It's just a preference. Even in the social sector, I would be very happy to work, sir.",
+    "start_ms": 1230000,
+    "start_time_label": "20 minutes, 30 seconds",
+    "start_time_text": "20:30"
+   },
+   {
+    "snippet": "Okay. Okay. Okay. Okay. What do you mean by digital privacy bill? [clears throat] Sir, uh are you referring to the DPDP act sir?",
+    "start_ms": 1236000,
+    "start_time_label": "20 minutes, 36 seconds",
+    "start_time_text": "20:36"
+   },
+   {
+    "snippet": "Yes. Yes. Yes.",
+    "start_ms": 1246000,
+    "start_time_label": "20 minutes, 46 seconds",
+    "start_time_text": "20:46"
+   },
+   {
+    "snippet": "Sir, the DPDP act is digital data protection uh act in which we are creating a responsibility on uh the big",
+    "start_ms": 1248000,
+    "start_time_label": "20 minutes, 48 seconds",
+    "start_time_text": "20:48"
+   },
+   {
+    "snippet": "data companies which hold the data of our uh citizens. Uh we call them s data fidiciaries and data principles. Data",
+    "start_ms": 1257000,
+    "start_time_label": "20 minutes, 57 seconds",
+    "start_time_text": "20:57"
+   },
+   {
+    "snippet": "principle being the citizen, data fidiciary being the person that holds the data and we have created certain safeguards and a lot of mechanism around",
+    "start_ms": 1265000,
+    "start_time_label": "21 minutes, 5 seconds",
+    "start_time_text": "21:05"
+   },
+   {
+    "snippet": "the consent of the data principle to ensure their privacy is safeguarded.",
+    "start_ms": 1273000,
+    "start_time_label": "21 minutes, 13 seconds",
+    "start_time_text": "21:13"
+   },
+   {
+    "snippet": "Okay. Now in defense we use uh con we use no convention directed energy weapons.",
+    "start_ms": 1278000,
+    "start_time_label": "21 minutes, 18 seconds",
+    "start_time_text": "21:18"
+   },
+   {
+    "snippet": "Yes sir.",
+    "start_ms": 1287000,
+    "start_time_label": "21 minutes, 27 seconds",
+    "start_time_text": "21:27"
+   },
+   {
+    "snippet": "Directed energy missiles. What are these?",
+    "start_ms": 1288000,
+    "start_time_label": "21 minutes, 28 seconds",
+    "start_time_text": "21:28"
+   },
+   {
+    "snippet": "Yes sir sir. So instead of shooting physical projectiles we shoot waves of energy and",
+    "start_ms": 1290000,
+    "start_time_label": "21 minutes, 30 seconds",
+    "start_time_text": "21:30"
+   },
+   {
+    "snippet": "uh disable either uh by uh burning or by disabling jamming the communication system of a projectile. So for example",
+    "start_ms": 1297000,
+    "start_time_label": "21 minutes, 37 seconds",
+    "start_time_text": "21:37"
+   },
+   {
+    "snippet": "sir we have a lot of swarm of drones coming in. So if we try to shoot it down with actual missiles it will be very costly. Instead we have a directed",
+    "start_ms": 1306000,
+    "start_time_label": "21 minutes, 46 seconds",
+    "start_time_text": "21:46"
+   },
+   {
+    "snippet": "energy weapon which will launch a wave around it. It will either hit the fuel area and burn the drone or it will disable its communication and make it",
+    "start_ms": 1314000,
+    "start_time_label": "21 minutes, 54 seconds",
+    "start_time_text": "21:54"
+   },
+   {
+    "snippet": "useless. That way we save on cost and it is very precise.",
+    "start_ms": 1321000,
+    "start_time_label": "22 minutes, 1 second",
+    "start_time_text": "22:01"
+   },
+   {
+    "snippet": "Okay. Okay. These are high and high beam high beam energy missiles. Either they use lasers or sir we have one using",
+    "start_ms": 1327000,
+    "start_time_label": "22 minutes, 7 seconds",
+    "start_time_text": "22:07"
+   },
+   {
+    "snippet": "laser called Kali and another we have sir which uses laser and we have a kilo ampere one another one. Yes sir.",
+    "start_ms": 1337000,
+    "start_time_label": "22 minutes, 17 seconds",
+    "start_time_text": "22:17"
+   },
+   {
+    "snippet": "Yeah. India is also in in the race building this missiles. Okay. Thank you. Thank you sir.",
+    "start_ms": 1344000,
+    "start_time_label": "22 minutes, 24 seconds",
+    "start_time_text": "22:24"
+   },
+   {
+    "snippet": "Ma'am.",
+    "start_ms": 1352000,
+    "start_time_label": "22 minutes, 32 seconds",
+    "start_time_text": "22:32"
+   },
+   {
+    "snippet": "Ma'am you have to mute unmute I think.",
+    "start_ms": 1361000,
+    "start_time_label": "22 minutes, 41 seconds",
+    "start_time_text": "22:41"
+   },
+   {
+    "snippet": "Helloandant sir public administration in ancient India.",
+    "start_ms": 1369000,
+    "start_time_label": "22 minutes, 49 seconds",
+    "start_time_text": "22:49"
+   },
+   {
+    "snippet": "Yes sir. I will look at it.",
+    "start_ms": 1380000,
+    "start_time_label": "23 minutes",
+    "start_time_text": "23:00"
+   },
+   {
+    "snippet": "Was published by Oxford University sir.",
+    "start_ms": 1381000,
+    "start_time_label": "23 minutes, 1 second",
+    "start_time_text": "23:01"
+   },
+   {
+    "snippet": "McMillan sorry in 1916 19",
+    "start_ms": 1384000,
+    "start_time_label": "23 minutes, 4 seconds",
+    "start_time_text": "23:04"
+   },
+   {
+    "snippet": "16 famous book.",
+    "start_ms": 1391000,
+    "start_time_label": "23 minutes, 11 seconds",
+    "start_time_text": "23:11"
+   },
+   {
+    "snippet": "Okay ma'am. Uh uh uh. Good morning ma'am.",
+    "start_ms": 1403000,
+    "start_time_label": "23 minutes, 23 seconds",
+    "start_time_text": "23:23"
+   },
+   {
+    "snippet": "Good morning sir. Good morning. Uh yes, uh Raj, what do you think are the",
+    "start_ms": 1408000,
+    "start_time_label": "23 minutes, 28 seconds",
+    "start_time_text": "23:28"
+   },
+   {
+    "snippet": "challenges in going for this criminal law reforms in case of administration?",
+    "start_ms": 1414000,
+    "start_time_label": "23 minutes, 34 seconds",
+    "start_time_text": "23:34"
+   },
+   {
+    "snippet": "Uh ma'am uh criminal law reforms we have uh recommendations over the years from law commission to bring in changes.",
+    "start_ms": 1422000,
+    "start_time_label": "23 minutes, 42 seconds",
+    "start_time_text": "23:42"
+   },
+   {
+    "snippet": "Since we had a police state before and we transitioned into a democratic polity, we have had to bring in changes.",
+    "start_ms": 1430000,
+    "start_time_label": "23 minutes, 50 seconds",
+    "start_time_text": "23:50"
+   },
+   {
+    "snippet": "The challenges we majorly face as one ma'am that uh bringing in any drastic change could uh uh hamper the uh",
+    "start_ms": 1438000,
+    "start_time_label": "23 minutes, 58 seconds",
+    "start_time_text": "23:58"
+   },
+   {
+    "snippet": "pre-existing system we have created. So it has to be gradual. Second is ma'am we cannot bring retrospective changes. The changes will be only applicable from the",
+    "start_ms": 1448000,
+    "start_time_label": "24 minutes, 8 seconds",
+    "start_time_text": "24:08"
+   },
+   {
+    "snippet": "prospective time as enshrined in our constitution. Third is ma'am uh every criminal law has to be bounded by the",
+    "start_ms": 1456000,
+    "start_time_label": "24 minutes, 16 seconds",
+    "start_time_text": "24:16"
+   },
+   {
+    "snippet": "limit set by our fundamental rights and uh the Supreme Court keeps evolving the definition over the years which makes it",
+    "start_ms": 1465000,
+    "start_time_label": "24 minutes, 25 seconds",
+    "start_time_text": "24:25"
+   },
+   {
+    "snippet": "very difficult to precisely make it unambiguous and clear. Uh that remains a challenge. Ma'am,",
+    "start_ms": 1473000,
+    "start_time_label": "24 minutes, 33 seconds",
+    "start_time_text": "24:33"
+   },
+   {
+    "snippet": "what is the challenges of cooperative societies? Are they failing in risk management or financial management?",
+    "start_ms": 1481000,
+    "start_time_label": "24 minutes, 41 seconds",
+    "start_time_text": "24:41"
+   },
+   {
+    "snippet": "Ma'am uh one of the biggest challenge with cooperative societies is the lack of trust people have because early fraudulent activities that took place.",
+    "start_ms": 1489000,
+    "start_time_label": "24 minutes, 49 seconds",
+    "start_time_text": "24:49"
+   },
+   {
+    "snippet": "So uh people lack trust in their uh uh functioning and because of that we lack",
+    "start_ms": 1496000,
+    "start_time_label": "24 minutes, 56 seconds",
+    "start_time_text": "24:56"
+   },
+   {
+    "snippet": "democratization even at the grassroot levels. If we see the primary agricultural credit societies which exist which are the grassroot of this",
+    "start_ms": 1504000,
+    "start_time_label": "25 minutes, 4 seconds",
+    "start_time_text": "25:04"
+   },
+   {
+    "snippet": "they lack democratic participation to a great extent. It has been contained to a very few people. Next is that ma'am there is lack of expertise and funding.",
+    "start_ms": 1511000,
+    "start_time_label": "25 minutes, 11 seconds",
+    "start_time_text": "25:11"
+   },
+   {
+    "snippet": "So uh like we enabled the Panchati Raj institutions by providing adequate training, manpower and uh funding to the",
+    "start_ms": 1519000,
+    "start_time_label": "25 minutes, 19 seconds",
+    "start_time_text": "25:19"
+   },
+   {
+    "snippet": "very grassroot level. It has not happened with PAX and other cooperative institutions. Third is ma'am the",
+    "start_ms": 1527000,
+    "start_time_label": "25 minutes, 27 seconds",
+    "start_time_text": "25:27"
+   },
+   {
+    "snippet": "very nature of administration around it are not trained to deal with cooperative societies. They become sometimes harshly",
+    "start_ms": 1535000,
+    "start_time_label": "25 minutes, 35 seconds",
+    "start_time_text": "25:35"
+   },
+   {
+    "snippet": "regulatory rather than enabling. And fourth is ma'am the viability the so you were right with the the fact ma'am you",
+    "start_ms": 1542000,
+    "start_time_label": "25 minutes, 42 seconds",
+    "start_time_text": "25:42"
+   },
+   {
+    "snippet": "mentioned risk management capabilities they lack because they lack expertise around it so that's why some financial mismanagement often takes place and it",
+    "start_ms": 1549000,
+    "start_time_label": "25 minutes, 49 seconds",
+    "start_time_text": "25:49"
+   },
+   {
+    "snippet": "is rather detected very late what do you think are the do you think",
+    "start_ms": 1557000,
+    "start_time_label": "25 minutes, 57 seconds",
+    "start_time_text": "25:57"
+   },
+   {
+    "snippet": "this democracy is in peril and what are the observation that you are seeing uh under the democracy",
+    "start_ms": 1566000,
+    "start_time_label": "26 minutes, 6 seconds",
+    "start_time_text": "26:06"
+   },
+   {
+    "snippet": "Ma'am, should I limit my answer just to India or the world and subcontinent?",
+    "start_ms": 1575000,
+    "start_time_label": "26 minutes, 15 seconds",
+    "start_time_text": "26:15"
+   },
+   {
+    "snippet": "What just to India?",
+    "start_ms": 1580000,
+    "start_time_label": "26 minutes, 20 seconds",
+    "start_time_text": "26:20"
+   },
+   {
+    "snippet": "I mean in India I really don't feel democracy is at peril. there has been a sort of activism around it and I think even that is a very good sign for a",
+    "start_ms": 1582000,
+    "start_time_label": "26 minutes, 22 seconds",
+    "start_time_text": "26:22"
+   },
+   {
+    "snippet": "democracy that people are raising their voices and asking questions but uh there is no democratic decline in India and uh it is actually going pretty good and if",
+    "start_ms": 1590000,
+    "start_time_label": "26 minutes, 30 seconds",
+    "start_time_text": "26:30"
+   },
+   {
+    "snippet": "people are able to raise their concerns regarding any sort of decline I think it is in itself a very positive sign that people are able to express themselves",
+    "start_ms": 1599000,
+    "start_time_label": "26 minutes, 39 seconds",
+    "start_time_text": "26:39"
+   },
+   {
+    "snippet": "but uh there are uh uh clampdowns on protest and parliament is not functioning efficiently Right.",
+    "start_ms": 1608000,
+    "start_time_label": "26 minutes, 48 seconds",
+    "start_time_text": "26:48"
+   },
+   {
+    "snippet": "Um on the parliament part I would slightly beg to differ. LA the last session of parliament we had actually we noted over 100% efficiency more than what we was expect we were expecting.",
+    "start_ms": 1618000,
+    "start_time_label": "26 minutes, 58 seconds",
+    "start_time_text": "26:58"
+   },
+   {
+    "snippet": "Yes ma'am the number of sittings have drastically gone down over the years and it needs more attention as well as the parliamentary committees need better",
+    "start_ms": 1629000,
+    "start_time_label": "27 minutes, 9 seconds",
+    "start_time_text": "27:09"
+   },
+   {
+    "snippet": "attention but ma'am I think uh it is something that has not become a public agenda. If it does people start focusing on their MPs",
+    "start_ms": 1636000,
+    "start_time_label": "27 minutes, 16 seconds",
+    "start_time_text": "27:16"
+   },
+   {
+    "snippet": "why they are not raising the specific questions it can become better.",
+    "start_ms": 1645000,
+    "start_time_label": "27 minutes, 25 seconds",
+    "start_time_text": "27:25"
+   },
+   {
+    "snippet": "Okay. My last question is if you are a civil servant in your district and there is a communal violence in your uh",
+    "start_ms": 1650000,
+    "start_time_label": "27 minutes, 30 seconds",
+    "start_time_text": "27:30"
+   },
+   {
+    "snippet": "district what are the steps that you would take to reduce it?",
+    "start_ms": 1656000,
+    "start_time_label": "27 minutes, 36 seconds",
+    "start_time_text": "27:36"
+   },
+   {
+    "snippet": "Um ma'am uh if there is an ongoing violence right now the first step would",
+    "start_ms": 1663000,
+    "start_time_label": "27 minutes, 43 seconds",
+    "start_time_text": "27:43"
+   },
+   {
+    "snippet": "be to ensure that uh first the law and order is stabilized uh by uh putting a",
+    "start_ms": 1669000,
+    "start_time_label": "27 minutes, 49 seconds",
+    "start_time_text": "27:49"
+   },
+   {
+    "snippet": "uh curfew or anything just stopping the violence at any cost in the first place is the most important step if an ongoing violence is there. Second would be",
+    "start_ms": 1676000,
+    "start_time_label": "27 minutes, 56 seconds",
+    "start_time_text": "27:56"
+   },
+   {
+    "snippet": "inviting the stakeholders, elders and respected people from all uh major communities of the area, hearing their",
+    "start_ms": 1684000,
+    "start_time_label": "28 minutes, 4 seconds",
+    "start_time_text": "28:04"
+   },
+   {
+    "snippet": "voices out, creating peace committees could be helpful for restoration of immediate as well as uh long-term issues. Third would be ma'am making sure",
+    "start_ms": 1691000,
+    "start_time_label": "28 minutes, 11 seconds",
+    "start_time_text": "28:11"
+   },
+   {
+    "snippet": "that any incitement any kind of uh burning uh uh messages that are being uh",
+    "start_ms": 1700000,
+    "start_time_label": "28 minutes, 20 seconds",
+    "start_time_text": "28:20"
+   },
+   {
+    "snippet": "spread across the area can be contained limited and identified who are spreading them and they need to be detained. Then",
+    "start_ms": 1708000,
+    "start_time_label": "28 minutes, 28 seconds",
+    "start_time_text": "28:28"
+   },
+   {
+    "snippet": "ma'am uh next step would be to go for a sort of message delivery through uh",
+    "start_ms": 1714000,
+    "start_time_label": "28 minutes, 34 seconds",
+    "start_time_text": "28:34"
+   },
+   {
+    "snippet": "possibly even religious leaders who can give in messages of peace so that people uh come into harmony again. And fourth",
+    "start_ms": 1722000,
+    "start_time_label": "28 minutes, 42 seconds",
+    "start_time_text": "28:42"
+   },
+   {
+    "snippet": "would be ma'am isolating uh friction points. So in every district in every area there are certain friction points around which such incidences usually",
+    "start_ms": 1730000,
+    "start_time_label": "28 minutes, 50 seconds",
+    "start_time_text": "28:50"
+   },
+   {
+    "snippet": "develop more. These points can be developed and special attention like installation of cameras, deploying more personnel there could uh uh minimize the possibility of any such future events.",
+    "start_ms": 1738000,
+    "start_time_label": "28 minutes, 58 seconds",
+    "start_time_text": "28:58"
+   },
+   {
+    "snippet": "Thank you sir. Over to you sir. Thank you ma'am.",
+    "start_ms": 1750000,
+    "start_time_label": "29 minutes, 10 seconds",
+    "start_time_text": "29:10"
+   },
+   {
+    "snippet": "Uh Mr. candidate. How do you rate your own uh your own interview?",
+    "start_ms": 1762000,
+    "start_time_label": "29 minutes, 22 seconds",
+    "start_time_text": "29:22"
+   },
+   {
+    "snippet": "Sir, I feel I could have been more precise in a lot of points. I think I spoke a lot.",
+    "start_ms": 1771000,
+    "start_time_label": "29 minutes, 31 seconds",
+    "start_time_text": "29:31"
+   },
+   {
+    "snippet": "Your last question sir, reply was 1 minute 30 seconds.",
+    "start_ms": 1778000,
+    "start_time_label": "29 minutes, 38 seconds",
+    "start_time_text": "29:38"
+   },
+   {
+    "snippet": "Sir, why this happened? I tell you.",
+    "start_ms": 1786000,
+    "start_time_label": "29 minutes, 46 seconds",
+    "start_time_text": "29:46"
+   },
+   {
+    "snippet": "Yes sir. The reply should be in 25 to 30 seconds.",
+    "start_ms": 1790000,
+    "start_time_label": "29 minutes, 50 seconds",
+    "start_time_text": "29:50"
+   },
+   {
+    "snippet": "Sir, second mistake you did that you begin to reply at the moment the question was just completed.",
+    "start_ms": 1796000,
+    "start_time_label": "29 minutes, 56 seconds",
+    "start_time_text": "29:56"
+   },
+   {
+    "snippet": "Best way is give a pause of 1 2 3 4 seconds then reply.",
+    "start_ms": 1809000,
+    "start_time_label": "30 minutes, 9 seconds",
+    "start_time_text": "30:09"
+   },
+   {
+    "snippet": "Third uh is suggestion now.",
+    "start_ms": 1819000,
+    "start_time_label": "30 minutes, 19 seconds",
+    "start_time_text": "30:19"
+   },
+   {
+    "snippet": "No no you will get a video sir.",
+    "start_ms": 1824000,
+    "start_time_label": "30 minutes, 24 seconds",
+    "start_time_text": "30:24"
+   },
+   {
+    "snippet": "Third is prepare each line of your death.",
+    "start_ms": 1831000,
+    "start_time_label": "30 minutes, 31 seconds",
+    "start_time_text": "30:31"
+   },
+   {
+    "snippet": "Sir, probable questions.",
+    "start_ms": 1841000,
+    "start_time_label": "30 minutes, 41 seconds",
+    "start_time_text": "30:41"
+   },
+   {
+    "snippet": "Sir, we have not digged into the cooperative societies. We have not digged into the candles in cooperative societies.",
+    "start_ms": 1844000,
+    "start_time_label": "30 minutes, 44 seconds",
+    "start_time_text": "30:44"
+   },
+   {
+    "snippet": "Sir, or your mother's uh passion which gives a little income to her. Sir,",
+    "start_ms": 1852000,
+    "start_time_label": "30 minutes, 52 seconds",
+    "start_time_text": "30:52"
+   },
+   {
+    "snippet": "so because it was first thing I said question mark I immediately question marked it sir",
+    "start_ms": 1860000,
+    "start_time_label": "31 minutes",
+    "start_time_text": "31:00"
+   },
+   {
+    "snippet": "you should be ready yes sir what what she is doing and what is a creative thing he has recently done",
+    "start_ms": 1868000,
+    "start_time_label": "31 minutes, 8 seconds",
+    "start_time_text": "31:08"
+   },
+   {
+    "snippet": "okay your father's roles responsibilities then shriant asked you",
+    "start_ms": 1876000,
+    "start_time_label": "31 minutes, 16 seconds",
+    "start_time_text": "31:16"
+   },
+   {
+    "snippet": "about uh your assignment and in a private company.",
+    "start_ms": 1884000,
+    "start_time_label": "31 minutes, 24 seconds",
+    "start_time_text": "31:24"
+   },
+   {
+    "snippet": "Sir, Vijay Witch SBI. Yes, sir.",
+    "start_ms": 1892000,
+    "start_time_label": "31 minutes, 32 seconds",
+    "start_time_text": "31:32"
+   },
+   {
+    "snippet": "So, your reply was uh a little crude. I'm sorry, sir.",
+    "start_ms": 1899000,
+    "start_time_label": "31 minutes, 39 seconds",
+    "start_time_text": "31:39"
+   },
+   {
+    "snippet": "Sir, I I I can't do it. You could have politely said, \"Sir, I will think it over.\"",
+    "start_ms": 1904000,
+    "start_time_label": "31 minutes, 44 seconds",
+    "start_time_text": "31:44"
+   },
+   {
+    "snippet": "Sir, that aspect I have not studed.",
+    "start_ms": 1911000,
+    "start_time_label": "31 minutes, 51 seconds",
+    "start_time_text": "31:51"
+   },
+   {
+    "snippet": "I'm really sorry for then you begin to offer anything which you know sir",
+    "start_ms": 1917000,
+    "start_time_label": "31 minutes, 57 seconds",
+    "start_time_text": "31:57"
+   },
+   {
+    "snippet": "you're suggesting to a question no",
+    "start_ms": 1924000,
+    "start_time_label": "32 minutes, 4 seconds",
+    "start_time_text": "32:04"
+   },
+   {
+    "snippet": "sir if you don't want to uh if you don't know sir",
+    "start_ms": 1933000,
+    "start_time_label": "32 minutes, 13 seconds",
+    "start_time_text": "32:13"
+   },
+   {
+    "snippet": "get excused I will read about it sir so that next question comes Never volunteer yourself with a question sir.",
+    "start_ms": 1941000,
+    "start_time_label": "32 minutes, 21 seconds",
+    "start_time_text": "32:21"
+   },
+   {
+    "snippet": "Never ever never sir.",
+    "start_ms": 1951000,
+    "start_time_label": "32 minutes, 31 seconds",
+    "start_time_text": "32:31"
+   },
+   {
+    "snippet": "Lastly, you should have more topographical",
+    "start_ms": 1955000,
+    "start_time_label": "32 minutes, 35 seconds",
+    "start_time_text": "32:35"
+   },
+   {
+    "snippet": "mindset with uh ready replies. If you are a collector, what you will do",
+    "start_ms": 1962000,
+    "start_time_label": "32 minutes, 42 seconds",
+    "start_time_text": "32:42"
+   },
+   {
+    "snippet": "sir? First decongestion, encroachment, traffic management",
+    "start_ms": 1970000,
+    "start_time_label": "32 minutes, 50 seconds",
+    "start_time_text": "32:50"
+   },
+   {
+    "snippet": "and before that everybody comes in the office at time",
+    "start_ms": 1979000,
+    "start_time_label": "32 minutes, 59 seconds",
+    "start_time_text": "32:59"
+   },
+   {
+    "snippet": "no expenses traffic management no extra expenses sir",
+    "start_ms": 1987000,
+    "start_time_label": "33 minutes, 7 seconds",
+    "start_time_text": "33:07"
+   },
+   {
+    "snippet": "notices for encroacher no expenses sir okay these are",
+    "start_ms": 1994000,
+    "start_time_label": "33 minutes, 14 seconds",
+    "start_time_text": "33:14"
+   },
+   {
+    "snippet": "value added additions to your portfolio. Yes sir.",
+    "start_ms": 2003000,
+    "start_time_label": "33 minutes, 23 seconds",
+    "start_time_text": "33:23"
+   },
+   {
+    "snippet": "Your local papers are very particular.",
+    "start_ms": 2010000,
+    "start_time_label": "33 minutes, 30 seconds",
+    "start_time_text": "33:30"
+   },
+   {
+    "snippet": "Yes sir.",
+    "start_ms": 2027000,
+    "start_time_label": "33 minutes, 47 seconds",
+    "start_time_text": "33:47"
+   },
+   {
+    "snippet": "Then I told you time fixation each e file can also be a time lag",
+    "start_ms": 2030000,
+    "start_time_label": "33 minutes, 50 seconds",
+    "start_time_text": "33:50"
+   },
+   {
+    "snippet": "complete the process in a day 24 hours 30 hours whatever everybody has to do it own trick",
+    "start_ms": 2038000,
+    "start_time_label": "33 minutes, 58 seconds",
+    "start_time_text": "33:58"
+   },
+   {
+    "snippet": "sir a bihar from uh a can young is officer from bihar has",
+    "start_ms": 2046000,
+    "start_time_label": "34 minutes, 6 seconds",
+    "start_time_text": "34:06"
+   },
+   {
+    "snippet": "revolutionized uh education department in Punjab. He's Krishna Kamar",
+    "start_ms": 2055000,
+    "start_time_label": "34 minutes, 15 seconds",
+    "start_time_text": "34:15"
+   },
+   {
+    "snippet": "sir read about him. He came on India to today front page few years back sir.",
+    "start_ms": 2062000,
+    "start_time_label": "34 minutes, 22 seconds",
+    "start_time_text": "34:22"
+   },
+   {
+    "snippet": "Wherever he had gone he is an oil terror. Yes sir.",
+    "start_ms": 2071000,
+    "start_time_label": "34 minutes, 31 seconds",
+    "start_time_text": "34:31"
+   },
+   {
+    "snippet": "And informative and innovative sir. That's the beauty of our uh our service.",
+    "start_ms": 2077000,
+    "start_time_label": "34 minutes, 37 seconds",
+    "start_time_text": "34:37"
+   },
+   {
+    "snippet": "Yes sir.",
+    "start_ms": 2085000,
+    "start_time_label": "34 minutes, 45 seconds",
+    "start_time_text": "34:45"
+   },
+   {
+    "snippet": "Okay. Yes sir. GI has also worked in many capacities in Hana. He will tell you more about it.",
+    "start_ms": 2087000,
+    "start_time_label": "34 minutes, 47 seconds",
+    "start_time_text": "34:47"
+   },
+   {
+    "snippet": "Yes sir.",
+    "start_ms": 2100000,
+    "start_time_label": "35 minutes",
+    "start_time_text": "35:00"
+   },
+   {
+    "snippet": "And put a smile on a little smile on your face. Yes sir. Yes sir.",
+    "start_ms": 2101000,
+    "start_time_label": "35 minutes, 1 second",
+    "start_time_text": "35:01"
+   },
+   {
+    "snippet": "You are good sir. He is very you are good. You have a knowledge and only thing sir told you",
+    "start_ms": 2107000,
+    "start_time_label": "35 minutes, 7 seconds",
+    "start_time_text": "35:07"
+   },
+   {
+    "snippet": "tend to talk a lot means you want to prolong your answers. Okay. You want to point give four points, five points.",
+    "start_ms": 2114000,
+    "start_time_label": "35 minutes, 14 seconds",
+    "start_time_text": "35:14"
+   },
+   {
+    "snippet": "There is no need only you can give whatever important one or two points.",
+    "start_ms": 2123000,
+    "start_time_label": "35 minutes, 23 seconds",
+    "start_time_text": "35:23"
+   },
+   {
+    "snippet": "Sir, maximum three one or two points. See they want to know whether you how you answer you know the subject that's all.",
+    "start_ms": 2126000,
+    "start_time_label": "35 minutes, 26 seconds",
+    "start_time_text": "35:26"
+   },
+   {
+    "snippet": "It is not uh you know more they want to test all knowledge on this topics. No that is not the purpose. Okay. And uh",
+    "start_ms": 2133000,
+    "start_time_label": "35 minutes, 33 seconds",
+    "start_time_text": "35:33"
+   },
+   {
+    "snippet": "reaction to the questions that are important rather than knowledge. Okay.",
+    "start_ms": 2141000,
+    "start_time_label": "35 minutes, 41 seconds",
+    "start_time_text": "35:41"
+   },
+   {
+    "snippet": "How do you react to what do how do you communicate that is why and how do you maintain your calm calmness and attitude",
+    "start_ms": 2147000,
+    "start_time_label": "35 minutes, 47 seconds",
+    "start_time_text": "35:47"
+   },
+   {
+    "snippet": "towards questions and that is all tested and also your integrity. Sometime there might be some you will be testing your",
+    "start_ms": 2153000,
+    "start_time_label": "35 minutes, 53 seconds",
+    "start_time_text": "35:53"
+   },
+   {
+    "snippet": "integrity in questions. They cannot because practically cannot test it. No they will ask some questions and test it. Okay. This is how the things happen.",
+    "start_ms": 2161000,
+    "start_time_label": "36 minutes, 1 second",
+    "start_time_text": "36:01"
+   },
+   {
+    "snippet": "Yeah. And uh you are good. You have a knowledge of the current events and other things. Excellent. And uh when is your interview?",
+    "start_ms": 2170000,
+    "start_time_label": "36 minutes, 10 seconds",
+    "start_time_text": "36:10"
+   },
+   {
+    "snippet": "16th January, sir. Yeah. Uh is anyway you you'll do well.",
+    "start_ms": 2179000,
+    "start_time_label": "36 minutes, 19 seconds",
+    "start_time_text": "36:19"
+   },
+   {
+    "snippet": "Good. And uh and your experience of you find a good answer because your good bar is more than two lakhs.",
+    "start_ms": 2184000,
+    "start_time_label": "36 minutes, 24 seconds",
+    "start_time_text": "36:24"
+   },
+   {
+    "snippet": "Yes sir.",
+    "start_ms": 2194000,
+    "start_time_label": "36 minutes, 34 seconds",
+    "start_time_text": "36:34"
+   },
+   {
+    "snippet": "And here you end up in starting with 80,000. Yes sir.",
+    "start_ms": 2195000,
+    "start_time_label": "36 minutes, 35 seconds",
+    "start_time_text": "36:35"
+   },
+   {
+    "snippet": "And you two reaching two lakh you will take a decade in civil service. Yes sir. Possibly. Yes sir.",
+    "start_ms": 2200000,
+    "start_time_label": "36 minutes, 40 seconds",
+    "start_time_text": "36:40"
+   },
+   {
+    "snippet": "Yeah. Then the question will be there then you have to give satisfactory answers. Okay sir. Yes sir. Good luck. Thank you.",
+    "start_ms": 2207000,
+    "start_time_label": "36 minutes, 47 seconds",
+    "start_time_text": "36:47"
+   },
+   {
+    "snippet": "Thank you sir. Ma'am.",
+    "start_ms": 2215000,
+    "start_time_label": "36 minutes, 55 seconds",
+    "start_time_text": "36:55"
+   },
+   {
+    "snippet": "Thank you sir. Raj. Uh so there is a difference between confidence and overconfidence.",
+    "start_ms": 2220000,
+    "start_time_label": "37 minutes",
+    "start_time_text": "37:00"
+   },
+   {
+    "snippet": "Yes ma'am.",
+    "start_ms": 2229000,
+    "start_time_label": "37 minutes, 9 seconds",
+    "start_time_text": "37:09"
+   },
+   {
+    "snippet": "So let's uh understand that this part sometimes you're becoming overconfident.",
+    "start_ms": 2231000,
+    "start_time_label": "37 minutes, 11 seconds",
+    "start_time_text": "37:11"
+   },
+   {
+    "snippet": "Sorry ma'am Raj. So I think uh it's okay that uh there is always because 65 plus the",
+    "start_ms": 2238000,
+    "start_time_label": "37 minutes, 18 seconds",
+    "start_time_text": "37:18"
+   },
+   {
+    "snippet": "panel members will be Yes ma'am. You have to understand they know more. Yes ma'am. Yes ma'am.",
+    "start_ms": 2245000,
+    "start_time_label": "37 minutes, 25 seconds",
+    "start_time_text": "37:25"
+   },
+   {
+    "snippet": "Okay. So that's the thing and you have a very good knowledge organized response but keep your answers humble and",
+    "start_ms": 2251000,
+    "start_time_label": "37 minutes, 31 seconds",
+    "start_time_text": "37:31"
+   },
+   {
+    "snippet": "violence can be reduced but the thing is how it is. Yes ma'am.",
+    "start_ms": 2258000,
+    "start_time_label": "37 minutes, 38 seconds",
+    "start_time_text": "37:38"
+   },
+   {
+    "snippet": "Okay. Make very nuanced answer ma'am.",
+    "start_ms": 2263000,
+    "start_time_label": "37 minutes, 43 seconds",
+    "start_time_text": "37:43"
+   },
+   {
+    "snippet": "Okay. Not reducing. Yes. Of course you are organized but reducing violence is not in one word.",
+    "start_ms": 2267000,
+    "start_time_label": "37 minutes, 47 seconds",
+    "start_time_text": "37:47"
+   },
+   {
+    "snippet": "Okay. Understand the reality. And uh I said democracy is in peril.",
+    "start_ms": 2274000,
+    "start_time_label": "37 minutes, 54 seconds",
+    "start_time_text": "37:54"
+   },
+   {
+    "snippet": "Yes. Are democracies doing good? But there are challenges that remain. Yes ma'am. You have to have the reality check. Yes ma'am.",
+    "start_ms": 2280000,
+    "start_time_label": "38 minutes",
+    "start_time_text": "38:00"
+   },
+   {
+    "snippet": "So you cannot just deny that democracy is good. Yes ma'am.",
+    "start_ms": 2288000,
+    "start_time_label": "38 minutes, 8 seconds",
+    "start_time_text": "38:08"
+   },
+   {
+    "snippet": "Either you evade the problems or you evade the question itself. No.",
+    "start_ms": 2292000,
+    "start_time_label": "38 minutes, 12 seconds",
+    "start_time_text": "38:12"
+   },
+   {
+    "snippet": "So please tell the challenges because we are a very uh uh we are just 75 plus years.",
+    "start_ms": 2297000,
+    "start_time_label": "38 minutes, 17 seconds",
+    "start_time_text": "38:17"
+   },
+   {
+    "snippet": "Yes sir.",
+    "start_ms": 2305000,
+    "start_time_label": "38 minutes, 25 seconds",
+    "start_time_text": "38:25"
+   },
+   {
+    "snippet": "Yes. So there are always challenges in democracy and uh it's the import it's important that we evolve and reform.",
+    "start_ms": 2306000,
+    "start_time_label": "38 minutes, 26 seconds",
+    "start_time_text": "38:26"
+   },
+   {
+    "snippet": "Yes ma'am.",
+    "start_ms": 2314000,
+    "start_time_label": "38 minutes, 34 seconds",
+    "start_time_text": "38:34"
+   },
+   {
+    "snippet": "Otherwise reforms are not uh use reforms are useless right? Yes ma'am. So please do uh have a reality check.",
+    "start_ms": 2315000,
+    "start_time_label": "38 minutes, 35 seconds",
+    "start_time_text": "38:35"
+   },
+   {
+    "snippet": "There should be social attitude in your uh answers. That's very important. Social temper. There is",
+    "start_ms": 2323000,
+    "start_time_label": "38 minutes, 43 seconds",
+    "start_time_text": "38:43"
+   },
+   {
+    "snippet": "scientific temper but keep your social temper very high. Okay ma'am. That's very important. Yes ma'am.",
+    "start_ms": 2330000,
+    "start_time_label": "38 minutes, 50 seconds",
+    "start_time_text": "38:50"
+   },
+   {
+    "snippet": "Assur said keep smiling little more energy. Don't be too monotonous and hand movements not more than your chest.",
+    "start_ms": 2337000,
+    "start_time_label": "38 minutes, 57 seconds",
+    "start_time_text": "38:57"
+   },
+   {
+    "snippet": "Not more than your chest. Keep keep it to the level of below your chest. Your hand movements are not not even go near the uh ch uh the uh table.",
+    "start_ms": 2346000,
+    "start_time_label": "39 minutes, 6 seconds",
+    "start_time_text": "39:06"
+   },
+   {
+    "snippet": "Yes ma'am.",
+    "start_ms": 2356000,
+    "start_time_label": "39 minutes, 16 seconds",
+    "start_time_text": "39:16"
+   },
+   {
+    "snippet": "Fine. So don't go near the table. That's very important. Hand movements should be very proper. Yes ma'am.",
+    "start_ms": 2357000,
+    "start_time_label": "39 minutes, 17 seconds",
+    "start_time_text": "39:17"
+   },
+   {
+    "snippet": "Fine. A bler would do good for you. I think some physical workout also you should do. Yes ma'am. Keep the energy, stamina high.",
+    "start_ms": 2364000,
+    "start_time_label": "39 minutes, 24 seconds",
+    "start_time_text": "39:24"
+   },
+   {
+    "snippet": "Yes ma'am. Fine. All the best. Thank you ma'am. Thank you sir. May I take a leave? Oh.",
+    "start_ms": 2372000,
+    "start_time_label": "39 minutes, 32 seconds",
+    "start_time_text": "39:32"
+   },
+   {
+    "snippet": "Thank you sir. Thank you ma'am.",
+    "start_ms": 2381000,
+    "start_time_label": "39 minutes, 41 seconds",
+    "start_time_text": "39:41"
+   },
+   {
+    "snippet": "[music]",
+    "start_ms": 2384000,
+    "start_time_label": "39 minutes, 44 seconds",
+    "start_time_text": "39:44"
+   }
+  ]
+ },
+ "video": {
+  "channel": "KingMakers IAS Academy",
+  "id": "mjd0-jdV9o4",
+  "title": "Mr. YASHASWI RAJ VARDHAN | AIR 11 UPSC CSE 2025 |  PTGP 2025 | KingMakers IAS Academy"
+ }
+}

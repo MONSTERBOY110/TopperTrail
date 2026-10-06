@@ -66,12 +66,18 @@ class _Builder:
             inst = self.registry.by_url(r.get("link") or "")
             if not inst:
                 continue
+            title = r.get("title") or ""
+            page_sha, page = self.pages.get(r["link"], (None, None))
+            if page and page.get("blocks") and not page.get("error"):
+                blocks = [(int(i), t) for i, t in page["blocks"]]
+                self.take(self.ex.from_blocks(inst, r["link"], title, blocks, "web_page", sid,
+                                              (sha, page_sha), page["fetched_at"] or day))
             img_sha, img = self.images.get(r.get("original") or "", (None, None))
             text = img["text"] if img and not img.get("error") else ""
-            evidence = (sha, img_sha) if img_sha else (sha,)
-            title = r.get("title") or ""
+            if not text.strip():
+                continue  # without image text the poster adds nothing beyond its page
             self.take(self.ex.from_blocks(inst, r["link"], title, [(0, title), (1, text)],
-                                          "poster", sid, evidence, day))
+                                          "poster", sid, (sha, img_sha), day))
 
     def videos(self, sha: str, resp: dict, sid, day: str) -> None:
         for v in resp.get("video_results") or []:
@@ -141,11 +147,23 @@ def analyze(exam: Exam, toppers: list[Topper], registry: Registry, lexicon: Lexi
             b.answers.append(ai_answer(resp, rank, registry))
 
     unique = {c.claim_id: c for c in sorted(b.claims, key=lambda c: (c.claim_id, c.evidence))}
-    claims = sorted(unique.values(), key=lambda c: (c.rank, c.institute_id, c.source_type, c.url))
+    # One image published on several pages is one advertisement: keep it once, at its first URL.
+    images: set[tuple] = set()
+    kept = []
+    for c in sorted(unique.values(), key=lambda c: (c.url, c.claim_id)):
+        if c.source_type in ("poster", "ad_creative"):
+            key = (c.rank, c.institute_id, c.source_type, " ".join(c.window.split()))
+            if key in images:
+                continue
+            images.add(key)
+        kept.append(c)
+    claims = sorted(kept, key=lambda c: (c.rank, c.institute_id, c.source_type, c.url))
     flags = apply_rules(exam, claims, b.signals, b.reports, b.interviews, registry)
     signals = sorted({(s.institute_id, s.rule_id, s.text, s.url): s for s in b.signals}.values(),
                      key=lambda s: (s.institute_id, s.rule_id, s.text, s.url))
-    unresolved = {(u["rank"], u["institute_id"], u["url"]): u for u in b.unresolved}
+    claimed = {(c.rank, c.institute_id, c.url) for c in claims}
+    unresolved = {(u["rank"], u["institute_id"], u["url"]): u for u in b.unresolved
+                  if (u["rank"], u["institute_id"], u["url"]) not in claimed}
     ledger = {
         "exam": exam.id,
         "label": exam.label,

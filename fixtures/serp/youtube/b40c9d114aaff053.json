@@ -1,0 +1,103 @@
+{
+ "engine": "youtube",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube",
+  "gl": "in",
+  "hl": "en",
+  "search_query": "Panshul Bansal NEET 2026 topper"
+ },
+ "purpose": "youtube",
+ "rank": 2,
+ "response": {
+  "search_metadata": {
+   "created_at": "2026-10-05 17:17:25 UTC",
+   "id": "6ac3dba58ffd7b2064b3185b",
+   "processed_at": "2026-10-05 17:17:25 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube",
+   "gl": "in",
+   "hl": "en",
+   "search_query": "Panshul Bansal NEET 2026 topper"
+  },
+  "video_results": [
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@OTVNewsEnglish",
+     "name": "OTV News English",
+     "thumbnail": "https://yt3.ggpht.com/lZ6pMm4-DetsFBn_pPD-fB1uWgjWDL6UJZSO5qHjvC7eA1SkxPPiZwyDncaWupDtAPmFFP-GDq4=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "How NEET UG 2026 AIR 2 Panshul Bansal Secured Second Position #neetug2026 #PanshulBansal #air2 #neet #otvnews ...",
+    "length": "2:37",
+    "link": "https://www.youtube.com/watch?v=grvTo82I3eY",
+    "position_on_page": 2,
+    "published_date": "2mo ago",
+    "title": "How NEET UG 2026 AIR 2 Panshul Bansal Secured Second Position",
+    "views": 8214
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@NDTV",
+     "name": "NDTV",
+     "thumbnail": "https://yt3.ggpht.com/mOb3OXPZO0-7LmZ0Y4o_wz2imPJ7aFa_isYXg0awkLyL1ehglmsiQD4rWxwrUrfXLK9jlh35=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "Despite the uncertainty caused by the NEET UG 2026 paper leak and re-exam, joint topper Panshul Bansal stayed focused and ...",
+    "length": "0:56",
+    "link": "https://www.youtube.com/watch?v=QdmnoIaKk5o",
+    "position_on_page": 3,
+    "published_date": "2mo ago",
+    "title": "NEET Topper Panshul Bansal Reveals How His Mother's Advice Changed Everything",
+    "views": 3669
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@ALLENNEET",
+     "name": "ALLEN NEET",
+     "thumbnail": "https://yt3.ggpht.com/LxSY6sv3A1Rx3MB4lkwErRD-Fi8VBFlOha_wVZ0OiHVF2PEbvqRZrpUL-Xr1OK1R7_2czkKzow=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "What does it take to raise an AIR 2? Meet the parents of NEET UG 2026 AIR 2, Panshul Bansal, as they share the habits, support, ...",
+    "length": "12:11",
+    "link": "https://www.youtube.com/watch?v=Eag_N3FgBwE",
+    "position_on_page": 4,
+    "published_date": "2mo ago",
+    "title": "Behind NEET AIR 2 Success! 😱 Honest Parenting Tips & Routine | Panshul Bansal",
+    "views": 12086
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@NDTV",
+     "name": "NDTV",
+     "thumbnail": "https://yt3.ggpht.com/mOb3OXPZO0-7LmZ0Y4o_wz2imPJ7aFa_isYXg0awkLyL1ehglmsiQD4rWxwrUrfXLK9jlh35=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "In an exclusive interview with NDTV, NEET UG 2026 joint topper Panshul Bansal reflects on one of the most turbulent years in the ...",
+    "length": "7:48",
+    "link": "https://www.youtube.com/watch?v=RO_ug5ljDKU",
+    "position_on_page": 6,
+    "published_date": "2mo ago",
+    "title": "NEET Protest | 'I Treated The Retest As An Opportunity': NEET UG 2026 Topper Panshul Bansal",
+    "views": 4610
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@indianexpress",
+     "name": "The Indian Express",
+     "thumbnail": "https://yt3.ggpht.com/uxf8fUitVuLiZgHIONcME8dhduUOHWjeVwsY1DX19AMQwLhmvkqb8TI1SKpRc8T8MZU5sE0fyw=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "Panshul Bansal NEET AIR 1: Delhi's Panshul Bansal secured AIR 1 in NEET-UG 2026 after improving his score from 701 to 715 ...",
+    "length": "9:58",
+    "link": "https://www.youtube.com/watch?v=M5m3pG0fg4k",
+    "position_on_page": 7,
+    "published_date": "2mo ago",
+    "title": "NEET AIR 1 Panshul Bansal Reveals Winning Study Strategy That Changed Everything",
+    "views": 5219
+   }
+  ]
+ }
+}

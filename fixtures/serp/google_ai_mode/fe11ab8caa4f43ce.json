@@ -1,0 +1,75 @@
+{
+ "engine": "google_ai_mode",
+ "institute_id": null,
+ "params": {
+  "engine": "google_ai_mode",
+  "gl": "in",
+  "hl": "en",
+  "q": "Which coaching institute did Zinnia Aurora, UPSC CSE 2025 AIR 6, study at?"
+ },
+ "purpose": "ai_mode",
+ "rank": 6,
+ "response": {
+  "reconstructed_markdown": "Zinnia Aurora was associated with multiple prominent coaching institutes for different components of her UPSC preparation:\n\n- Shubhra Ranjan IAS Academy: She took the PSIR \\(Political Science and International Relations\\) Tablet Course for her optional subject preparation. [0]\n- VisionIAS: She was associated with their Classroom GS Mains Advance Course, Abhyaas Prelims, Abhyaas Mains, Essay Programme, and PSIR Test Series. [1]\n\nIf you'd like, I can share more details about her preparation strategy, optional subject, or educational background.\n\n\n### References\n\n[0] [UPSC Coaching Classes in Delhi, India \\- Shubhra Ranjan Study](https://www.google.com/goto?url=CAESWQHrOzAVIY5fmjRALQ9edsTseaMwRS_u-Mcg73FRfFHALNfy6GVUYUh1xY0Xcg9q_bw5Yp7WXT4IEFlj0rIsdnHTd_bqfQB0FbRabd9jbxUPqqXvCQNo38vM) — Join Shubhra Ranjan IAS Academy in Delhi for top UPSC coaching classes\\! With 60\\+ courses, expert faculty, and proven success, we shape future policymakers.\n\n[1] [Zinnia Aurora AIR 6 UPSC 2025](https://www.google.com/goto?url=CAESwAEB6zswFW3MYt-jXdzKeDTz76E83Ut6CakDi6Lqy7kNdIUKVjHZjeKHtkBC2qQH3Ua9Md_YX-ghBuZWm6zCb4G8vDGwgxdTlc7A16yYg2ZTikApbpKzunK7Q5l80KrS6gO0ViYZvFi64qxgSPw-poXzj-7Sc9biOKAfOiruV2AF1WjqN6F9Hokm0edPnYNZvQKLICFp09omAYiJV2vCmux6PHeGi9-6nUJiHISvKnvzQut5WMUPbRTwUPYGBbu2ypw) — She was associated with VisionIAS Classroom GS Mains Advance Course, Abhyaas Prelims, Abhyaas Mains, Essay Programme, and PSIR Test Series.\n",
+  "references": [
+   {
+    "index": 0,
+    "link": "https://www.shubhraranjan.com/",
+    "snippet": "Join Shubhra Ranjan IAS Academy in Delhi for top UPSC coaching classes! With 60+ courses, expert faculty, and proven success, we shape future policymakers.",
+    "source": "Shubhra Ranjan",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.shubhraranjan.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTAKdOKEKQ9wM4vuqZ_TjJF7GqHt2TFNrckX0V_2E3NFPaqeEylsHu7_G75woUIGt4k6feOYvLolbuo5nn2mC5Dvl0eCHWGGhwyVoC",
+    "title": "UPSC Coaching Classes in Delhi, India - Shubhra Ranjan Study"
+   },
+   {
+    "index": 1,
+    "link": "https://visionias.in/blog/toppers-strategy/zinnia-aurora-air-6-upsc-2025-background-upsc-journey-marksheet-toppers-copy-and-strategy",
+    "snippet": "She was associated with VisionIAS Classroom GS Mains Advance Course, Abhyaas Prelims, Abhyaas Mains, Essay Programme, and PSIR Test Series.",
+    "source": "Vision IAS",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://visionias.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ843XJ9J_t7ZR5PF8n8RHzRioUtlC5i8iIFJ7F6mvBLrKcNIr4o4Fw66qseW3jPLX0d-XLMLOSwP_rlywVBONt1ZeC-IuGoCkhASAv",
+    "title": "Zinnia Aurora AIR 6 UPSC 2025"
+   }
+  ],
+  "search_metadata": {
+   "created_at": "2026-10-05 15:49:34 UTC",
+   "id": "6ac3c70eeeabd398817c5dee",
+   "processed_at": "2026-10-05 15:49:34 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_ai_mode",
+   "gl": "in",
+   "hl": "en",
+   "q": "Which coaching institute did Zinnia Aurora, UPSC CSE 2025 AIR 6, study at?"
+  },
+  "text_blocks": [
+   {
+    "snippet": "Zinnia Aurora was associated with multiple prominent coaching institutes for different components of her UPSC preparation:",
+    "type": "paragraph"
+   },
+   {
+    "list": [
+     {
+      "reference_indexes": [
+       0
+      ],
+      "snippet": "Shubhra Ranjan IAS Academy: She took the PSIR (Political Science and International Relations) Tablet Course for her optional subject preparation."
+     },
+     {
+      "reference_indexes": [
+       1
+      ],
+      "snippet": "VisionIAS: She was associated with their Classroom GS Mains Advance Course, Abhyaas Prelims, Abhyaas Mains, Essay Programme, and PSIR Test Series."
+     }
+    ],
+    "type": "list"
+   },
+   {
+    "snippet": "If you'd like, I can share more details about her preparation strategy, optional subject, or educational background.",
+    "type": "paragraph"
+   }
+  ]
+ }
+}

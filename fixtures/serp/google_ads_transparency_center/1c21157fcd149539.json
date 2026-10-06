@@ -1,0 +1,426 @@
+{
+ "engine": "google_ads_transparency_center",
+ "institute_id": "srirams-ias",
+ "params": {
+  "end_date": "20261005",
+  "engine": "google_ads_transparency_center",
+  "num": "100",
+  "region": "2356",
+  "start_date": "20260306",
+  "text": "sriramsias.com"
+ },
+ "purpose": "ads",
+ "rank": null,
+ "response": {
+  "ad_creatives": [
+   {
+    "ad_creative_id": "CR03807901176951734273",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR03807901176951734273?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1789130064,
+    "format": "image",
+    "last_shown": 1791186950
+   },
+   {
+    "ad_creative_id": "CR11382954375799373825",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR11382954375799373825?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1785414288,
+    "format": "text",
+    "height": 266,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/12172743042431921265",
+    "last_shown": 1791176014,
+    "width": 348
+   },
+   {
+    "ad_creative_id": "CR06250731240358412289",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR06250731240358412289?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1788942728,
+    "format": "image",
+    "height": 422,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/469744141010692848",
+    "last_shown": 1791173183,
+    "width": 724
+   },
+   {
+    "ad_creative_id": "CR01380835636386201601",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR01380835636386201601?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1785670778,
+    "format": "text",
+    "height": 160,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/739058423558392061",
+    "last_shown": 1791141388,
+    "width": 348
+   },
+   {
+    "ad_creative_id": "CR07521797468393046017",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR07521797468393046017?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1788787030,
+    "format": "image",
+    "image": "https://tpc.googlesyndication.com/archive/simgad/14590889487896015832",
+    "last_shown": 1791128867,
+    "width": 734
+   },
+   {
+    "ad_creative_id": "CR04604073764420845569",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR04604073764420845569?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1785670402,
+    "format": "text",
+    "height": 170,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/6361988920169506570",
+    "last_shown": 1791126083,
+    "width": 486
+   },
+   {
+    "ad_creative_id": "CR18069488483029745665",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR18069488483029745665?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1789793428,
+    "format": "image",
+    "height": 1740,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/9154503508391909728",
+    "last_shown": 1791116759,
+    "width": 623
+   },
+   {
+    "ad_creative_id": "CR15035110168763301889",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR15035110168763301889?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1789836899,
+    "format": "text",
+    "height": 370,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/5940293161431724398",
+    "last_shown": 1790434246,
+    "width": 348
+   },
+   {
+    "ad_creative_id": "CR09796198843098857473",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR09796198843098857473?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1788892334,
+    "format": "image",
+    "height": 600,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/15913146532874005218",
+    "last_shown": 1789724761,
+    "width": 300
+   },
+   {
+    "ad_creative_id": "CR00747351290488553473",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR00747351290488553473?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1789564004,
+    "format": "image",
+    "height": 600,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/14294478102955765960",
+    "last_shown": 1789724700,
+    "width": 300
+   },
+   {
+    "ad_creative_id": "CR12039619278668824577",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR12039619278668824577?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1789151152,
+    "format": "video",
+    "last_shown": 1789724595
+   },
+   {
+    "ad_creative_id": "CR02479183156226293761",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR02479183156226293761?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1789146606,
+    "format": "text",
+    "last_shown": 1789724011
+   },
+   {
+    "ad_creative_id": "CR15474974090422386689",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR15474974090422386689?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1788870703,
+    "format": "video",
+    "last_shown": 1789641053
+   },
+   {
+    "ad_creative_id": "CR12565727895978246145",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR12565727895978246145?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1788873319,
+    "format": "text",
+    "last_shown": 1789640978
+   },
+   {
+    "ad_creative_id": "CR00282633801836789761",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR00282633801836789761?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1788872850,
+    "format": "text",
+    "last_shown": 1789640940
+   },
+   {
+    "ad_creative_id": "CR14150404527068545025",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR14150404527068545025?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1789151668,
+    "format": "image",
+    "height": 600,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/13845857072463425144",
+    "last_shown": 1789560736,
+    "width": 300
+   },
+   {
+    "ad_creative_id": "CR09684007975135477761",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR09684007975135477761?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1789018344,
+    "format": "video",
+    "last_shown": 1789552482
+   },
+   {
+    "ad_creative_id": "CR13659689463935139841",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR13659689463935139841?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1785197893,
+    "format": "image",
+    "last_shown": 1785438235
+   },
+   {
+    "ad_creative_id": "CR08174353496309497857",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR08174353496309497857?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784806246,
+    "format": "image",
+    "image": "https://tpc.googlesyndication.com/archive/simgad/18073948009655276353",
+    "last_shown": 1785437023,
+    "width": 734
+   },
+   {
+    "ad_creative_id": "CR10553555921328406529",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR10553555921328406529?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784712233,
+    "format": "text",
+    "last_shown": 1785436037
+   },
+   {
+    "ad_creative_id": "CR18162191778701115393",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR18162191778701115393?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784710895,
+    "format": "video",
+    "last_shown": 1785426970
+   },
+   {
+    "ad_creative_id": "CR01544298380820217857",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR01544298380820217857?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784858170,
+    "format": "text",
+    "height": 180,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/4111892523818434940",
+    "last_shown": 1785400402,
+    "width": 348
+   },
+   {
+    "ad_creative_id": "CR03346470506512515073",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR03346470506512515073?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784860198,
+    "format": "text",
+    "height": 180,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/997503328435086299",
+    "last_shown": 1785129219,
+    "width": 348
+   },
+   {
+    "ad_creative_id": "CR08279099571041206273",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR08279099571041206273?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784771044,
+    "format": "text",
+    "last_shown": 1785129195
+   },
+   {
+    "ad_creative_id": "CR10712028532239761409",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR10712028532239761409?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784863266,
+    "format": "image",
+    "height": 600,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/3569575815709722033",
+    "last_shown": 1785129169,
+    "width": 300
+   },
+   {
+    "ad_creative_id": "CR05118848066115338241",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR05118848066115338241?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784880678,
+    "format": "text",
+    "height": 180,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/5233413144347024944",
+    "last_shown": 1785128984,
+    "width": 348
+   },
+   {
+    "ad_creative_id": "CR17001103101723148289",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR17001103101723148289?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784856256,
+    "format": "image",
+    "height": 423,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/5676913260555815360",
+    "last_shown": 1785127513,
+    "width": 724
+   },
+   {
+    "ad_creative_id": "CR12714010508001280001",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR12714010508001280001?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784843275,
+    "format": "video",
+    "height": 377,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/1677339320799688968",
+    "last_shown": 1785125785,
+    "width": 367
+   },
+   {
+    "ad_creative_id": "CR15885689237274624001",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR15885689237274624001?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784664357,
+    "format": "video",
+    "last_shown": 1785083673
+   },
+   {
+    "ad_creative_id": "CR04497483258933542913",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR04497483258933542913?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784855063,
+    "format": "image",
+    "height": 600,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/6058257190564690194",
+    "last_shown": 1785046403,
+    "width": 300
+   },
+   {
+    "ad_creative_id": "CR01975225575047954433",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR01975225575047954433?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784789320,
+    "format": "image",
+    "height": 600,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/3686758704800635220",
+    "last_shown": 1784835947,
+    "width": 300
+   },
+   {
+    "ad_creative_id": "CR09686361204896825345",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR09686361204896825345?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1784714083,
+    "format": "image",
+    "height": 600,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/9560584507632910044",
+    "last_shown": 1784719278,
+    "width": 300
+   },
+   {
+    "ad_creative_id": "CR02064286429214670849",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR02064286429214670849?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1780161230,
+    "format": "text",
+    "height": 105,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/6182218484418736753",
+    "last_shown": 1780856923,
+    "width": 360
+   },
+   {
+    "ad_creative_id": "CR00994891318276653057",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR00994891318276653057?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1775614715,
+    "format": "video",
+    "last_shown": 1779969547
+   },
+   {
+    "ad_creative_id": "CR03624269678412562433",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR03624269678412562433?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1777713052,
+    "format": "image",
+    "height": 423,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/6541246828014835187",
+    "last_shown": 1779969546,
+    "width": 724
+   },
+   {
+    "ad_creative_id": "CR05734011146680139777",
+    "advertiser": "SRIRAM'S EDUCATIONAL SERVICES PVT LTD",
+    "advertiser_id": "AR17022097254053314561",
+    "details_link": "https://adstransparency.google.com/advertiser/AR17022097254053314561/creative/CR05734011146680139777?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=sriramsias.com",
+    "first_shown": 1771846240,
+    "format": "text",
+    "height": 176,
+    "image": "https://tpc.googlesyndication.com/archive/simgad/12655349641632448538",
+    "last_shown": 1775735515,
+    "width": 348
+   }
+  ],
+  "search_information": {
+   "total_results": 36
+  },
+  "search_metadata": {
+   "created_at": "2026-10-05 16:38:07 UTC",
+   "id": "6ac3d26fbc3f0baf398c9d80",
+   "processed_at": "2026-10-05 16:38:07 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "end_date": "20261005",
+   "engine": "google_ads_transparency_center",
+   "num": "100",
+   "region": "2356",
+   "start_date": "20260306",
+   "text": "sriramsias.com"
+  }
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "engine": "youtube",
+ "institute_id": null,
+ "params": {
+  "engine": "youtube",
+  "gl": "in",
+  "hl": "en",
+  "search_query": "Ayush Bhalotia NEET 2026 topper"
+ },
+ "purpose": "youtube",
+ "rank": 4,
+ "response": {
+  "search_metadata": {
+   "created_at": "2026-10-05 17:18:49 UTC",
+   "id": "6ac3dbf90e285da6ff9db4d6",
+   "processed_at": "2026-10-05 17:18:49 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "engine": "youtube",
+   "gl": "in",
+   "hl": "en",
+   "search_query": "Ayush Bhalotia NEET 2026 topper"
+  },
+  "video_results": [
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@BiharTak",
+     "name": "Bihar Tak",
+     "thumbnail": "https://yt3.ggpht.com/R8ucfPA1MCMPjcH7ZjR-obzdH125OHjz1FcF1mhQHQcnicBGan0k_aXN44gO1hV1eN5OEYWD3w=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "Ayush Bhalotia, a resident of Nawada, Bihar, secured All India Rank (AIR) 4 in NEET UG 2026, scoring 710 out of 720. Ayush is ...",
+    "length": "3:03",
+    "link": "https://www.youtube.com/watch?v=Zo1hWqVsmN0",
+    "position_on_page": 3,
+    "published_date": "2mo ago",
+    "title": "NEET UG Result 2026: Nawada's Ayush Balotia Becomes Topper, Secures AIR 4, Makes History with 710...",
+    "views": 7154
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@News18BiharJharkhand",
+     "name": "News18 Bihar Jharkhand",
+     "thumbnail": "https://yt3.ggpht.com/jX8TjvcMC3z7GCapfJiJNrSEHH5gmaJsKO0pRzXPel00mbyzCrbFaB62NLsFJ5DL_iaBifKJ=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "Re-NEET UG Result 2026: छा गया बिहार का लाल, नवादा के आयुष ने NEET किया टॉप | Re-NEET ...",
+    "length": "3:17",
+    "link": "https://www.youtube.com/watch?v=jm9BEQqdlgA",
+    "position_on_page": 4,
+    "published_date": "2mo ago",
+    "title": "Re-NEET UG 2026 Bihar Topper : टॉपर आयुष भालोटिया ने बताया सक्सेस मंत्र |  NEET UG Result 2026",
+    "views": 9232
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@NEWS9LIVE",
+     "name": "NEWS9 Live",
+     "thumbnail": "https://yt3.ggpht.com/-5rVCL11fc0hl9QHmQB7TB2i53fRdgCFS1y9jqfh2vj8p6quXOA1r_zlzi9-VFURyKYEnQ7cgg=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "NEET UG 2026 Result: Topper Ayush Balotia (AIR 4) Shares His Success Mantra and Preparation Strategy NEET UG 2026 AIR 4 ...",
+    "length": "3:37",
+    "link": "https://www.youtube.com/watch?v=uSAL-cUvKr4",
+    "position_on_page": 5,
+    "published_date": "2mo ago",
+    "title": "NEET UG 2026 Result: Topper Ayush Balotia (AIR 4) Shares His Success Mantra and Preparation Strategy",
+    "views": 2925
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@ExclusivePost",
+     "name": "Exclusive Post",
+     "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nFVRn0WVg3lTmri2iVRMMpatN4fwRm_BfPCIYJSj1_Sbo=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "description": "ayushbhalotia #neetair4 #neet2026 YouTube- Exclusive Post http://www.youtube.com/c/ExclusivePost Facebook- ...",
+    "length": "19:37",
+    "link": "https://www.youtube.com/watch?v=2eMUBLLPQ5s",
+    "position_on_page": 7,
+    "published_date": "2mo ago",
+    "title": "NEET AIR - 4 Ayush bhalotiya full interview आयुष भालोटिया का पूरा इंटरव्यू #neet #air4  #neetresult",
+    "views": 160
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@ZeeBiharJharkhand",
+     "name": "Zee Bihar Jharkhand",
+     "thumbnail": "https://yt3.ggpht.com/Tc7Ad0aVG60qoHUKbCu8bK9t6gRBZvSPauIDEIYhadkUHnT9r9hp-Q38aRYkkjYRgWJaHP-EbA=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "NEET UG 2026 AIR 4 Ayush Bhalotia: कभी-कभी एक रिजल्ट सिर्फ नंबर नहीं बदलता... बल्कि ...",
+    "length": "4:56",
+    "link": "https://www.youtube.com/watch?v=83gNK_fFSuE",
+    "position_on_page": 8,
+    "published_date": "2mo ago",
+    "title": "NEET UG 2026 AIR 4 Ayush Bhalotia:  आयुष ने हासिल किया ऑल इंडिया रैंक-4 !",
+    "views": 1286
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@newsxlive",
+     "name": "NewsX Live",
+     "thumbnail": "https://yt3.ggpht.com/zwrmWphe47oXEHVndsokIHupuBpVWq2_a_LCxiV_JA0YmaosO7S3kMeFyTNhNLUO8ovmT3hDfX0=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "NEET UG 2026 AIR 4 Ayush Bhalotia shares how he handled the re-exam, improved his score, stayed focused under pressure, ...",
+    "length": "4:00",
+    "link": "https://www.youtube.com/watch?v=fHQoz8vaWmw",
+    "position_on_page": 9,
+    "published_date": "2mo ago",
+    "title": "'I Wasn't Frustrated, Just Focused' | NEET AIR 4 Ayush Bhalotia | Exclusive",
+    "views": 984
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@aajtak",
+     "name": "Aaj Tak",
+     "thumbnail": "https://yt3.ggpht.com/e8YzAY8Y5P2a068WGiccAx5gJVZjHtVDnJdKoEkp6vMNSy_LzV8kN7Bn8gRIdOf57y8puxwqOpM=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "बिहार के नवादा (वारिसलीगंज) के रहने वाले आयुष भालोटिया ने देश की ...",
+    "length": "15:49",
+    "link": "https://www.youtube.com/watch?v=hN1xiQUlMhM",
+    "position_on_page": 10,
+    "published_date": "2mo ago",
+    "title": "Ayush Bhalotia ने NEET परीक्षा में हासिल की चौथी रैंक, सेल्फ स्टडी कर पाया यह मुकाम | Success Story",
+    "views": 51145
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@BiharTak",
+     "name": "Bihar Tak",
+     "thumbnail": "https://yt3.ggpht.com/R8ucfPA1MCMPjcH7ZjR-obzdH125OHjz1FcF1mhQHQcnicBGan0k_aXN44gO1hV1eN5OEYWD3w=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "Ayush Bhalotia, a resident of Nawada, Bihar, secured All India Rank (AIR) 4 in NEET UG 2026, scoring 710 out of 720. Ayush is ...",
+    "length": "3:10",
+    "link": "https://www.youtube.com/watch?v=-v0vRm-3wdI",
+    "position_on_page": 11,
+    "published_date": "2mo ago",
+    "title": "NEET UG Result: Nawada Topper Ayush Bhalotia Reveals Success Mantra, How Many Hours Did He Study ...",
+    "views": 8351
+   },
+   {
+    "channel": {
+     "name": "ALLEN NEET and ALLEN Career Institute",
+     "thumbnail": "https://yt3.ggpht.com/LxSY6sv3A1Rx3MB4lkwErRD-Fi8VBFlOha_wVZ0OiHVF2PEbvqRZrpUL-Xr1OK1R7_2czkKzow=s68-c-k-c0x00ffffff-no-rj"
+    },
+    "description": "Meet Ayush Bhalotia, AIR 4 in NEET (UG) 2026 with the ALLEN Classroom Program. Here's wishing you continued success in the ...",
+    "length": "24:48",
+    "link": "https://www.youtube.com/watch?v=SuG_LwzVyYo",
+    "position_on_page": 12,
+    "published_date": "2mo ago",
+    "title": "How AIR 4 Cracked NEET 2026! 🔥 Ayush Bhalotia’s Complete Strategy | ALLEN NEET",
+    "views": 14181
+   },
+   {
+    "channel": {
+     "link": "https://www.youtube.com/@ZeeUttarPradeshUttarakhand",
+     "name": "Zee Uttar Pradesh UttaraKhand",
+     "thumbnail": "https://yt3.ggpht.com/RGYHJ4OhvOrua3CqiKx_JA83hwVIkC9y1sQeZM0GIyGvy45SBYwikTfWheVkMaFwftl6ZdHrcQ=s68-c-k-c0x00ffffff-no-rj",
+     "verified": true
+    },
+    "description": "NEET UG Topper Ayush Bhalotia: आयुष ने बताया कैसे बने AIR-4 | Success Story #NEETUG2026 #NEETTopper ...",
+    "length": "10:21",
+    "link": "https://www.youtube.com/watch?v=X0-Zn-OJ_pU",
+    "position_on_page": 13,
+    "published_date": "2mo ago",
+    "title": "NEET UG Topper Ayush Bhalotia: आयुष ने बताया कैसे बने AIR-4 | Success Story",
+    "views": 8222
+   }
+  ]
+ }
+}

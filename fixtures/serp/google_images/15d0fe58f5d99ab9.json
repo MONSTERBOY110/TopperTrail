@@ -1,0 +1,29 @@
+{
+ "engine": "google_images",
+ "institute_id": null,
+ "params": {
+  "engine": "google_images",
+  "gl": "in",
+  "hl": "en",
+  "q": "Chitwan Jain AIR 17 UPSC 2025"
+ },
+ "purpose": "images",
+ "rank": 17,
+ "response": {
+  "error": "Google Images hasn't returned any results for this query.",
+  "search_metadata": {
+   "created_at": "2026-10-05 16:13:40 UTC",
+   "id": "6ac3ccb4018c4861b26eda19",
+   "processed_at": "2026-10-05 16:13:40 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "device": "desktop",
+   "engine": "google_images",
+   "gl": "in",
+   "google_domain": "google.com",
+   "hl": "en",
+   "q": "Chitwan Jain AIR 17 UPSC 2025"
+  }
+ }
+}

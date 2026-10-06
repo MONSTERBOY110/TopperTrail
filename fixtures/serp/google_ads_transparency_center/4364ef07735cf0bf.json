@@ -1,0 +1,44 @@
+{
+ "engine": "google_ads_transparency_center",
+ "institute_id": "ksg",
+ "params": {
+  "end_date": "20261005",
+  "engine": "google_ads_transparency_center",
+  "num": "100",
+  "region": "2356",
+  "start_date": "20260306",
+  "text": "ksgindia.com"
+ },
+ "purpose": "ads",
+ "rank": null,
+ "response": {
+  "ad_creatives": [
+   {
+    "ad_creative_id": "CR03673752168428470273",
+    "advertiser": "Khan Study Group",
+    "advertiser_id": "AR14259306884602265601",
+    "details_link": "https://adstransparency.google.com/advertiser/AR14259306884602265601/creative/CR03673752168428470273?region=IN&start-date=2026-03-06&end-date=2026-10-05&domain=ksgindia.com",
+    "first_shown": 1773128938,
+    "format": "video",
+    "last_shown": 1775637749
+   }
+  ],
+  "search_information": {
+   "total_results": 1
+  },
+  "search_metadata": {
+   "created_at": "2026-10-05 16:27:58 UTC",
+   "id": "6ac3d00eea58e83d9b2f3320",
+   "processed_at": "2026-10-05 16:27:58 UTC",
+   "status": "Success"
+  },
+  "search_parameters": {
+   "end_date": "20261005",
+   "engine": "google_ads_transparency_center",
+   "num": "100",
+   "region": "2356",
+   "start_date": "20260306",
+   "text": "ksgindia.com"
+  }
+ }
+}
